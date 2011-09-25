@@ -1,0 +1,6173 @@
+# Copyright (C) 2010 BuddyPress
+# This file is distributed under the same license as the BuddyPress package.
+#
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Norsk\n"
+"Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
+"POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
+"PO-Revision-Date: 2011-09-27 18:22+0200\n"
+"Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
+"Language-Team: http://silft.com <oyvind@hoysater.no>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Norwegian Bokmal\n"
+"X-Poedit-Country: NORWAY\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2;__(\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: bp-blogs/bp-blogs-loader.php:24 bp-core/admin/bp-core-admin.php:370
+msgid "Site Tracking"
+msgstr "Nettstedsporing"
+
+#: bp-blogs/bp-blogs-loader.php:58
+msgid "Search sites..."
+msgstr "Søk nettsteder..."
+
+#: bp-blogs/bp-blogs-loader.php:108
+msgid "Sites <span>%d</span>"
+msgstr "Nettsted <span>%d</span>"
+
+#: bp-blogs/bp-blogs-loader.php:148 bp-core/admin/bp-core-update.php:487
+msgid "Sites"
+msgstr "Nettsted"
+
+#: bp-blogs/bp-blogs-loader.php:155 bp-blogs/bp-blogs-loader.php:176
+#: bp-blogs/bp-blogs-buddybar.php:25 bp-core/bp-core-adminbar.php:105
+msgid "My Sites"
+msgstr "Mine nettsted"
+
+#: bp-blogs/bp-blogs-activity.php:17
+msgid "New site created"
+msgstr "Nytt nettsted opprettet"
+
+#: bp-blogs/bp-blogs-activity.php:18
+msgid "New post published"
+msgstr "Nytt innlegg publisert"
+
+#: bp-blogs/bp-blogs-activity.php:19
+msgid "New post comment posted"
+msgstr "Ny innleggskommentar lagt inn"
+
+#: bp-blogs/bp-blogs-buddybar.php:37 bp-core/bp-core-adminbar.php:117
+#: bp-core/bp-core-buddybar.php:481
+msgid "Dashboard"
+msgstr "Dashbord"
+
+#: bp-blogs/bp-blogs-buddybar.php:38 bp-core/bp-core-adminbar.php:120
+#: bp-core/bp-core-buddybar.php:485
+msgid "New Post"
+msgstr "Nytt innlegg"
+
+#: bp-blogs/bp-blogs-buddybar.php:39 bp-core/bp-core-buddybar.php:486
+msgid "Manage Posts"
+msgstr "Rediger innlegg"
+
+#: bp-blogs/bp-blogs-buddybar.php:40 bp-core/bp-core-adminbar.php:121
+#: bp-core/bp-core-buddybar.php:487
+msgid "Manage Comments"
+msgstr "Behandle kommentarer"
+
+#: bp-blogs/bp-blogs-buddybar.php:53
+msgid "Create a Site!"
+msgstr "Opprett et nettsted!"
+
+#: bp-blogs/bp-blogs-template.php:135
+msgctxt "Blog pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: bp-blogs/bp-blogs-template.php:136
+msgctxt "Blog pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-blogs/bp-blogs-template.php:258
+msgid "Viewing site %1$s to %2$s (of %3$s sites)"
+msgstr "Viser nettsted %1$s til %2$s (av %3$s nettsted)"
+
+#: bp-blogs/bp-blogs-template.php:282
+#: bp-activity/bp-activity-template.php:1000
+msgid "Site authored by %s"
+msgstr "Nettsted forfattet av %s"
+
+#: bp-blogs/bp-blogs-template.php:345 bp-core/bp-core-classes.php:175
+#: bp-groups/bp-groups-widgets.php:70 bp-groups/bp-groups-widgets.php:170
+#: bp-members/bp-members-template.php:559
+#: bp-members/bp-members-template.php:833
+#: bp-themes/bp-default/forums/single/forum-header.php:13
+#: bp-themes/bp-default/groups/groups-loop.php:47
+#: bp-themes/bp-default/groups/single/group-header.php:42
+msgid "active %s"
+msgstr "aktiv %s"
+
+#: bp-blogs/bp-blogs-template.php:357
+msgid "Latest Post: %s"
+msgstr "Siste innlegg: %s"
+
+#: bp-blogs/bp-blogs-template.php:421
+msgid "There was a problem, please correct the form below and try again."
+msgstr ""
+"Det oppsto et problem, vennligst rett opp skjemaet under og prøv igjen."
+
+#: bp-blogs/bp-blogs-template.php:424
+#, fuzzy
+msgid ""
+"By filling out the form below, you can <strong>add a site to your account</"
+"strong>. There is no limit to the number of sites that you can have, so "
+"create to your heart's content, but blog responsibly!"
+msgstr ""
+"Ved å fylle ut skjemaet under kan du <strong>legge til en blogg på din "
+"konto</strong>. Det er ingen grense for hvor mange blogger du kan ha, så "
+"opprett det du trenger, men blogg ansvarlig."
+
+#: bp-blogs/bp-blogs-template.php:426
+#, fuzzy
+msgid ""
+"If you&#8217;re not going to use a great domain, leave it for a new user. "
+"Now have at it!"
+msgstr ""
+"Om du ikke kommer til å bruke et godt blogg-domene vær snill og la det være "
+"til en annen. Lykke til!"
+
+#: bp-blogs/bp-blogs-template.php:435
+#, fuzzy
+msgid "Create Site"
+msgstr "Opprett feltgruppe"
+
+#: bp-blogs/bp-blogs-template.php:449
+#, fuzzy
+msgid "Site Name:"
+msgstr "Bloggnavn:"
+
+#: bp-blogs/bp-blogs-template.php:451
+#, fuzzy
+msgid "Site Domain:"
+msgstr "Bloggdomene:"
+
+#: bp-blogs/bp-blogs-template.php:465
+msgid "Your address will be "
+msgstr "Din adresse vil bli"
+
+#: bp-blogs/bp-blogs-template.php:468
+msgid "blogname"
+msgstr "bloggnavn"
+
+#: bp-blogs/bp-blogs-template.php:470
+msgid "domain."
+msgstr "domene."
+
+#: bp-blogs/bp-blogs-template.php:473
+msgid ""
+"Must be at least 4 characters, letters and numbers only. It cannot be "
+"changed so choose carefully!)"
+msgstr ""
+"Må være minst 4 tegn, kun bokstaver og numre. Det kan ikke endres så velg "
+"omhyggelig!"
+
+#: bp-blogs/bp-blogs-template.php:479
+#, fuzzy
+msgid "Site Title:"
+msgstr "Felt tittel"
+
+#: bp-blogs/bp-blogs-template.php:490
+msgid "Privacy:"
+msgstr "Synlighet:"
+
+#: bp-blogs/bp-blogs-template.php:491
+#: bp-themes/bp-default/registration/register.php:202
+#, fuzzy
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Jeg ønsker at min blogg dukker opp i søkemotorer, og i offentlige lister "
+"rundtom kring på denne siten."
+
+#: bp-blogs/bp-blogs-template.php:495 bp-core/admin/bp-core-admin.php:111
+#: bp-core/admin/bp-core-admin.php:121 bp-core/admin/bp-core-admin.php:129
+#: bp-core/admin/bp-core-admin.php:137 bp-core/admin/bp-core-admin.php:147
+#: bp-core/admin/bp-core-admin.php:159 bp-friends/bp-friends-screens.php:69
+#: bp-groups/bp-groups-screens.php:827 bp-messages/bp-messages-screens.php:150
+#: bp-themes/bp-default/registration/register.php:205
+#: bp-themes/bp-default/groups/single/admin.php:26
+#: bp-activity/bp-activity-screens.php:281
+msgid "Yes"
+msgstr "Ja"
+
+#: bp-blogs/bp-blogs-template.php:499 bp-core/admin/bp-core-admin.php:112
+#: bp-core/admin/bp-core-admin.php:122 bp-core/admin/bp-core-admin.php:130
+#: bp-core/admin/bp-core-admin.php:138 bp-core/admin/bp-core-admin.php:148
+#: bp-core/admin/bp-core-admin.php:160 bp-friends/bp-friends-screens.php:70
+#: bp-groups/bp-groups-screens.php:828 bp-messages/bp-messages-screens.php:151
+#: bp-themes/bp-default/registration/register.php:206
+#: bp-themes/bp-default/groups/single/admin.php:27
+#: bp-activity/bp-activity-screens.php:282
+msgid "No"
+msgstr "Nei"
+
+#: bp-blogs/bp-blogs-template.php:553
+#, fuzzy
+msgid "Congratulations! You have successfully registered a new site."
+msgstr "Gratulerer! Du har registrert en ny blogg."
+
+#: bp-blogs/bp-blogs-template.php:555
+#, fuzzy
+msgid ""
+"<a href=\"%1$s\">%2$s</a> is your new site.  <a href=\"%3$s\">Login</a> as "
+"\"%4$s\" using your existing password."
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> er din nye blogg.  <a href=\"%3$s\">Logg inn</a> "
+"som \"%4$s\" ved å bruke ditt eksisterende passord."
+
+#: bp-blogs/bp-blogs-template.php:566 bp-core/bp-core-filters.php:318
+#: bp-themes/bp-default/blogs/index.php:23
+#: bp-themes/bp-default/blogs/create.php:21
+#, fuzzy
+msgid "Create a Site"
+msgstr "Opprett en blogg"
+
+#: bp-blogs/bp-blogs-template.php:579
+#, fuzzy
+msgid "%s's Sites"
+msgstr "%ss venner"
+
+#: bp-blogs/bp-blogs-template.php:580
+msgid "%s's Recent Posts"
+msgstr "%ss seneste poster"
+
+#: bp-blogs/bp-blogs-template.php:581
+msgid "%s's Recent Comments"
+msgstr "%ss seneste kommentarer"
+
+#: bp-blogs/bp-blogs-template.php:596 bp-core/deprecated/1.5.php:381
+#: bp-groups/bp-groups-template.php:2261 bp-forums/bp-forums-template.php:1313
+#: bp-members/bp-members-template.php:674 bp-themes/bp-default/header.php:35
+#: bp-themes/bp-default/searchform.php:5
+msgid "Search"
+msgstr "Søk"
+
+#: bp-blogs/bp-blogs-template.php:629 bp-blogs/bp-blogs-template.php:630
+#: bp-core/bp-core-adminbar.php:124
+#, fuzzy
+msgid "Visit Site"
+msgstr "Besøk"
+
+#: bp-blogs/bp-blogs-functions.php:115
+#, fuzzy
+msgid "%s created the site %s"
+msgstr "%s opprettet bloggen %s"
+
+#: bp-blogs/bp-blogs-functions.php:179
+#, fuzzy
+msgid "%1$s wrote a new post, %2$s, on the site %3$s"
+msgstr "%1$s skrev et nytt blogginnlegg: %s$s på bloggen %3$s"
+
+#: bp-blogs/bp-blogs-functions.php:181
+#, fuzzy
+msgid "%1$s wrote a new post, %2$s"
+msgstr "%1$s skrev et nytt blogginnlegg: %2$s"
+
+#: bp-blogs/bp-blogs-functions.php:264
+#, fuzzy
+msgid "%1$s commented on the post, %2$s, on the site %3$s"
+msgstr "%1$s kommenterte på blogginnlegget på bloggen %2$s"
+
+#: bp-blogs/bp-blogs-functions.php:266
+#, fuzzy
+msgid "%1$s commented on the post, %2$s"
+msgstr "%1$s kommenterte på blogginnlegget %2$s"
+
+#: bp-blogs/bp-blogs-widgets.php:25
+#, fuzzy
+msgid "Recent Networkwide Posts"
+msgstr "Seneste globale innlegg"
+
+#: bp-blogs/bp-blogs-widgets.php:68
+#, fuzzy
+msgid "Sorry, there were no posts found. Why not write one?"
+msgstr ""
+"Beklager, det ble ikke funnet noen blogg-innlegg. Hvorfor ikke skrive ett?"
+
+#: bp-blogs/bp-blogs-widgets.php:88
+msgid "Max posts to show:"
+msgstr "Maks antall innlegg å vise:"
+
+#: bp-core/bp-core-widgets.php:22
+msgid "A dynamic list of recently active, popular, and newest members"
+msgstr "En dynamisk liste av nylig aktive, populære og nyeste medlemmer"
+
+#: bp-core/bp-core-widgets.php:23 bp-core/bp-core-widgets.php:110
+#: bp-core/admin/bp-core-update.php:428 bp-core/bp-core-template.php:245
+#: bp-groups/bp-groups-template.php:1285 bp-members/bp-members-loader.php:24
+#: bp-themes/bp-default/groups/single/admin.php:229
+msgid "Members"
+msgstr "Medlemmer"
+
+#: bp-core/bp-core-widgets.php:48 bp-core/bp-core-widgets.php:128
+#: bp-friends/bp-friends-template.php:63 bp-friends/bp-friends-template.php:84
+#: bp-groups/bp-groups-widgets.php:50 bp-groups/bp-groups-widgets.php:125
+#: bp-themes/bp-default/members/single/blogs.php:22
+#: bp-themes/bp-default/blogs/index.php:58
+msgid "Newest"
+msgstr "Nyeste"
+
+#: bp-core/bp-core-widgets.php:49 bp-core/bp-core-widgets.php:129
+#: bp-groups/bp-groups-widgets.php:51 bp-groups/bp-groups-widgets.php:126
+msgid "Active"
+msgstr "Aktiv"
+
+#: bp-core/bp-core-widgets.php:53 bp-core/bp-core-widgets.php:130
+#: bp-groups/bp-groups-widgets.php:52 bp-groups/bp-groups-widgets.php:127
+msgid "Popular"
+msgstr "Populære"
+
+#: bp-core/bp-core-widgets.php:90
+msgid "No one has signed up yet!"
+msgstr "Ingen har registrert ennå!"
+
+#: bp-core/bp-core-widgets.php:121 bp-core/bp-core-widgets.php:201
+#: bp-core/bp-core-widgets.php:270 bp-groups/bp-groups-widgets.php:118
+#: bp-themes/bp-default/forums/index.php:104
+#: bp-themes/bp-default/forums/single/edit.php:49
+#: bp-themes/bp-default/groups/single/forum/edit.php:49
+#: bp-themes/bp-default/groups/single/forum.php:71
+msgid "Title:"
+msgstr "Tittel:"
+
+#: bp-core/bp-core-widgets.php:123
+msgid "Max members to show:"
+msgstr "Maks antall medlemmer å vise:"
+
+#: bp-core/bp-core-widgets.php:126
+msgid "Default members to show:"
+msgstr "Maks antall medlemmer å vise:"
+
+#: bp-core/bp-core-widgets.php:148
+msgid "Avatars of users who are currently online"
+msgstr "Avatarer av brukere som for øyeblikket er pålogget"
+
+#: bp-core/bp-core-widgets.php:149
+msgid "Who's Online Avatars"
+msgstr "Avatarer til hvem som er pålogget"
+
+#: bp-core/bp-core-widgets.php:173
+msgid "There are no users currently online"
+msgstr "Det er ingen påloggede brukere"
+
+#: bp-core/bp-core-widgets.php:192
+msgid "Who's Online"
+msgstr "Hvem er pålogget"
+
+#: bp-core/bp-core-widgets.php:203 bp-core/bp-core-widgets.php:272
+msgid "Max Members to show:"
+msgstr "Maks antall medlemmer å vise:"
+
+#: bp-core/bp-core-widgets.php:217
+msgid "Avatars of recently active members"
+msgstr "Avatarer til seneste aktive medlemmer"
+
+#: bp-core/bp-core-widgets.php:218
+msgid "Recently Active Member Avatars"
+msgstr "Seneste aktive medlemmer"
+
+#: bp-core/bp-core-widgets.php:242
+msgid "There are no recently active members"
+msgstr "Ingen aktive medlemmer i det siste"
+
+#: bp-core/bp-core-widgets.php:328
+msgid "There were no members found, please try another filter."
+msgstr "Det ble ikke funnet noen medlemmer, vennligst prøv et annet filter."
+
+#: bp-core/bp-core-adminbar.php:75
+#, fuzzy
+msgid "Admin Dashboard"
+msgstr "Dashbord"
+
+#: bp-core/bp-core-adminbar.php:86
+#, fuzzy
+msgid "Network Dashboard"
+msgstr "Dashbord"
+
+#: bp-core/bp-core-adminbar.php:112
+#, fuzzy
+msgid "Blavatar"
+msgstr "Avatar"
+
+#: bp-core/bp-core-adminbar.php:142
+#, fuzzy
+msgid "Comments %s"
+msgstr "Kommentarer: %s"
+
+#: bp-core/bp-core-adminbar.php:156
+msgid "Appearance"
+msgstr ""
+
+#: bp-core/bp-core-adminbar.php:162
+#, fuzzy
+msgid "Themes"
+msgstr "Temavalg"
+
+#: bp-core/bp-core-adminbar.php:165
+msgid "Widgets"
+msgstr ""
+
+#: bp-core/bp-core-adminbar.php:168
+msgid "Menus"
+msgstr ""
+
+#: bp-core/bp-core-adminbar.php:171
+msgid "Background"
+msgstr ""
+
+#: bp-core/bp-core-adminbar.php:174
+msgid "Header"
+msgstr ""
+
+#: bp-core/bp-core-adminbar.php:207
+#, fuzzy
+msgid "%d WordPress Update"
+msgstr "Post oppdatering"
+
+#: bp-core/bp-core-adminbar.php:209
+msgid "%d Plugin Update"
+msgid_plural "%d Plugin Updates"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bp-core/bp-core-adminbar.php:211
+msgid "%d Theme Update"
+msgid_plural "%d Theme Updates"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bp-core/bp-core-adminbar.php:216
+#, fuzzy
+msgid "Updates %s"
+msgstr "Oppdatering Postet!"
+
+#: bp-core/admin/bp-core-schema.php:208
+msgctxt "First XProfile group name"
+msgid "Base"
+msgstr "Base"
+
+#: bp-core/admin/bp-core-schema.php:209
+msgctxt "XProfile fullname field name"
+msgid "Name"
+msgstr "Navn"
+
+#: bp-core/admin/bp-core-admin.php:11
+#, fuzzy
+msgid ""
+"IMPORTANT: <a href=\"http://codex.buddypress.org/buddypress-site-"
+"administration/upgrading-buddypress/\">Read this before attempting to update "
+"BuddyPress</a>"
+msgstr ""
+"VIKTIG: <a href=\"http://codex.buddypress.org/getting-started/upgrading-"
+"from-10x/\">Les dette før du prøver å oppdatere BuddyPress</a>"
+
+#: bp-core/admin/bp-core-admin.php:32 bp-core/admin/bp-core-admin.php:251
+#: bp-core/admin/bp-core-update.php:72 bp-core/admin/bp-core-update.php:88
+#: bp-core/admin/bp-core-update.php:219 bp-core/bp-core-functions.php:251
+msgid "Components"
+msgstr "Komponenter"
+
+#: bp-core/admin/bp-core-admin.php:36 bp-core/admin/bp-core-admin.php:293
+#: bp-core/admin/bp-core-update.php:73 bp-core/admin/bp-core-update.php:89
+#: bp-core/admin/bp-core-update.php:223 bp-core/bp-core-functions.php:252
+msgid "Pages"
+msgstr "Sider"
+
+#: bp-core/admin/bp-core-admin.php:40 bp-core/admin/bp-core-admin.php:91
+#: bp-core/bp-core-functions.php:253 bp-settings/bp-settings-loader.php:15
+#: bp-settings/bp-settings-loader.php:72
+#: bp-settings/bp-settings-loader.php:150 bp-groups/bp-groups-loader.php:189
+#: bp-groups/bp-groups-template.php:1279
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: bp-core/admin/bp-core-admin.php:48 bp-core/admin/bp-core-update.php:471
+#: bp-core/bp-core-template.php:254 bp-forums/bp-forums-admin.php:12
+#: bp-forums/bp-forums-admin.php:25 bp-forums/bp-forums-admin.php:265
+#: bp-forums/bp-forums-loader.php:111 bp-forums/bp-forums-loader.php:194
+#: bp-forums/bp-forums-loader.php:234
+msgid "Forums"
+msgstr "Forumer"
+
+#: bp-core/admin/bp-core-admin.php:96 bp-core/admin/bp-core-admin.php:257
+#: bp-core/admin/bp-core-admin.php:299
+msgid "Settings Saved"
+msgstr "Innstillinger lagret"
+
+#: bp-core/admin/bp-core-admin.php:109
+msgid "Disable BuddyPress to WordPress profile syncing?"
+msgstr "Slå av BuddyPress til Wordpress profil-synkronisering?"
+
+#: bp-core/admin/bp-core-admin.php:119
+msgid "Hide admin bar for logged out users?"
+msgstr "Gjemme admin-bar for utloggede brukere?"
+
+#: bp-core/admin/bp-core-admin.php:127
+msgid "Disable avatar uploads? (Gravatars will still work)"
+msgstr "Slå av mulighet for avatar-opplasting? (Gravatar vil fremdeles virke)"
+
+#: bp-core/admin/bp-core-admin.php:135
+msgid "Disable user account deletion?"
+msgstr "Slå av brukerkonto-sletting?"
+
+#: bp-core/admin/bp-core-admin.php:145
+msgid "Disable activity stream commenting on blog and forum posts?"
+msgstr "Slå av aktivitetsstrøm-kommentering på blogg og forumposter?"
+
+#: bp-core/admin/bp-core-admin.php:157
+msgid "Restrict group creation to Site Admins?"
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:174 bp-core/admin/bp-core-admin.php:268
+msgid "Save Settings"
+msgstr "Lagre instillinger"
+
+#: bp-core/admin/bp-core-admin.php:310
+#, fuzzy
+msgid "Save All"
+msgstr "Se alle"
+
+#: bp-core/admin/bp-core-admin.php:342 bp-xprofile/bp-xprofile-loader.php:25
+msgid "Extended Profiles"
+msgstr "Utvidede profiler"
+
+#: bp-core/admin/bp-core-admin.php:343
+msgid ""
+"Customize your community with fully editable profile fields that allow your "
+"users to describe themselves."
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:346
+#, fuzzy
+msgid "Account Settings"
+msgstr "Kontodetaljer"
+
+#: bp-core/admin/bp-core-admin.php:347
+msgid ""
+"Allow your users to modify their account and notification settings directly "
+"from within their profiles."
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:350 bp-friends/bp-friends-loader.php:24
+msgid "Friend Connections"
+msgstr "Venneforbindelse"
+
+#: bp-core/admin/bp-core-admin.php:351
+#, fuzzy
+msgid ""
+"Let your users make connections so they can track the activity of others and "
+"focus on the people they care about the most."
+msgstr ""
+"La dine brukere lage forbindelser så de kan spore hverandres aktiviteter, "
+"eller filtrere på kun de brukere som er mest interessant for dem."
+
+#: bp-core/admin/bp-core-admin.php:354
+msgid "Private Messaging"
+msgstr "Private meldinger"
+
+#: bp-core/admin/bp-core-admin.php:355
+#, fuzzy
+msgid ""
+"Allow your users to talk to each other directly and in private. Not just "
+"limited to one-on-one discussions, messages can be sent between any number "
+"of members."
+msgstr ""
+"Private meldinger vil gi brukerne dine mulighet til å snakke til hverandre "
+"direkte og privat. Ikke bare begrenset til en til en men dine brukere kan "
+"sende meldinger til flere mottakere."
+
+#: bp-core/admin/bp-core-admin.php:358 bp-activity/bp-activity-loader.php:34
+msgid "Activity Streams"
+msgstr "Aktivitetstrømmer"
+
+#: bp-core/admin/bp-core-admin.php:359
+#, fuzzy
+msgid ""
+"Global, personal, and group activity streams with threaded commenting, "
+"direct posting, favoriting and @mentions, all with full RSS feed and email "
+"notification support."
+msgstr ""
+"Strømmer av global, personlig og gruppeaktivitet med trådet kommenteringer, "
+"direkte posting, favorittmerking og @nevnelser. Alle med støtte for full RSS "
+"strøm og support for epost-notis."
+
+#: bp-core/admin/bp-core-admin.php:362 bp-groups/bp-groups-loader.php:26
+#, fuzzy
+msgid "User Groups"
+msgstr "Filtrer grupper"
+
+#: bp-core/admin/bp-core-admin.php:363
+#, fuzzy
+msgid ""
+"Groups allow your users to organize themselves into specific public, private "
+"or hidden sections with separate activity streams and member listings."
+msgstr ""
+"Kraftig offentlig, provate eller usynlige grupper gjør det mulig for dine "
+"brukere å bryte ned diskusjonen til spesifike emner med en separat strøm av "
+"aktiviteter og medlemslisting."
+
+#: bp-core/admin/bp-core-admin.php:366 bp-forums/bp-forums-loader.php:24
+msgid "Discussion Forums"
+msgstr "Diskusjonsforumer"
+
+#: bp-core/admin/bp-core-admin.php:367
+#, fuzzy
+msgid ""
+"Full-powered discussion forums built directly into groups allow for more "
+"conventional in-depth conversations. NOTE: This will require an extra (but "
+"easy) setup step."
+msgstr ""
+"Fullt utstyrte diskusjonsforumer bygget direkte i grupper muliggjør mer "
+"praktiske diskusjoner. <strong>Notis: Dette krever et ekstra (men lett) steg "
+"i oppsettet.</strong>"
+
+#: bp-core/admin/bp-core-admin.php:371
+#, fuzzy
+msgid "Make BuddyPress aware of new posts and new comments from your site."
+msgstr ""
+"Spor nye blogger, nye poster og nye kommentarer på tvers av ditt blogg-"
+"nettverk."
+
+#: bp-core/admin/bp-core-admin.php:376
+#, fuzzy
+msgid ""
+"Make BuddyPress aware of new sites, new posts and new comments from across "
+"your entire network."
+msgstr ""
+"Spor nye blogger, nye poster og nye kommentarer på tvers av ditt blogg-"
+"nettverk."
+
+#: bp-core/admin/bp-core-admin.php:400 bp-core/bp-core-loader.php:38
+#, fuzzy
+msgid "BuddyPress Core"
+msgstr "BuddyPress"
+
+#: bp-core/admin/bp-core-admin.php:401
+msgid "It&#8216;s what makes <del>time travel</del> BuddyPress possible!"
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:404
+#, fuzzy
+msgid "Community Members"
+msgstr "Flest medlemmer"
+
+#: bp-core/admin/bp-core-admin.php:405
+msgid "Everything in a BuddyPress community revolves around its members."
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:418
+#, fuzzy
+msgid "Available Components"
+msgstr "Komponenter"
+
+#: bp-core/admin/bp-core-admin.php:420
+msgid ""
+"Each component has a unique purpose, and your community may not need each "
+"one."
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:450
+#, fuzzy
+msgid "Required Components"
+msgstr "Komponenter"
+
+#: bp-core/admin/bp-core-admin.php:452
+msgid ""
+"The following components are required by BuddyPress and cannot be turned off."
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:520
+#, fuzzy
+msgid "Directories"
+msgstr "%s Katalog"
+
+#: bp-core/admin/bp-core-admin.php:522
+msgid "Associate a WordPress Page with each BuddyPress component directory."
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:542 bp-core/admin/bp-core-admin.php:595
+msgid "- None -"
+msgstr ""
+
+#: bp-core/admin/bp-core-admin.php:546 bp-core/admin/bp-core-admin.php:599
+#, fuzzy
+msgid "New Page"
+msgstr "Nytt innlegg"
+
+#: bp-core/admin/bp-core-admin.php:547 bp-core/admin/bp-core-admin.php:600
+#: bp-xprofile/bp-xprofile-classes.php:758
+msgid "Save"
+msgstr "Lagre"
+
+#: bp-core/admin/bp-core-admin.php:551 bp-core/admin/bp-core-admin.php:604
+#: bp-xprofile/bp-xprofile-loader.php:184
+#: bp-members/bp-members-template.php:588
+#: bp-themes/bp-default/functions.php:156
+#: bp-themes/bp-default/activity/entry.php:37
+#: bp-activity/bp-activity-template.php:2053
+msgid "View"
+msgstr "Vis"
+
+#: bp-core/admin/bp-core-admin.php:573 bp-core/admin/bp-core-update.php:500
+#: bp-core/bp-core-functions.php:412 bp-members/bp-members-adminbar.php:63
+msgid "Register"
+msgstr "Registrer"
+
+#: bp-core/admin/bp-core-admin.php:574 bp-core/admin/bp-core-update.php:511
+#: bp-core/bp-core-functions.php:407 bp-messages/bp-messages-template.php:498
+#: bp-themes/bp-default/registration/activate.php:36
+msgid "Activate"
+msgstr "Aktiver"
+
+#: bp-core/admin/bp-core-admin.php:577
+#, fuzzy
+msgid "Registration"
+msgstr "Registrer"
+
+#: bp-core/admin/bp-core-admin.php:579
+msgid ""
+"Associate WordPress Pages with the following BuddyPress Registration pages."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:74 bp-core/admin/bp-core-update.php:227
+msgid "Permalinks"
+msgstr "Permalenker"
+
+#: bp-core/admin/bp-core-update.php:75 bp-core/admin/bp-core-update.php:231
+msgid "Theme"
+msgstr "Temavalg"
+
+#: bp-core/admin/bp-core-update.php:76 bp-core/admin/bp-core-update.php:92
+#: bp-core/admin/bp-core-update.php:188 bp-core/admin/bp-core-update.php:235
+#: bp-core/admin/bp-core-update.php:1186
+#: bp-themes/bp-default/groups/create.php:294
+msgid "Finish"
+msgstr "Fullfør"
+
+#: bp-core/admin/bp-core-update.php:82 bp-core/admin/bp-core-update.php:211
+#, fuzzy
+msgid "Multisite Update"
+msgstr "Multisite Oppgradering"
+
+#: bp-core/admin/bp-core-update.php:85 bp-core/admin/bp-core-update.php:207
+#, fuzzy
+msgid "Database Update"
+msgstr "Database Oppgradering"
+
+#: bp-core/admin/bp-core-update.php:145 bp-core/admin/bp-core-update.php:1215
+#, fuzzy
+msgid "Update"
+msgstr "Post oppdatering"
+
+#: bp-core/admin/bp-core-update.php:145 bp-core/admin/bp-core-update.php:1213
+msgid "Setup"
+msgstr "Oppsett"
+
+#: bp-core/admin/bp-core-update.php:153
+#, fuzzy
+msgid "BuddyPress %s"
+msgstr "BuddyPress"
+
+#: bp-core/admin/bp-core-update.php:191
+#, fuzzy
+msgid "Finish &amp; Activate"
+msgstr "Ferdig &amp; Aktiver &rarr;"
+
+#: bp-core/admin/bp-core-update.php:197
+#, fuzzy
+msgid "Save &amp; Next"
+msgstr "Lagre &amp; Neste &rarr;"
+
+#: bp-core/admin/bp-core-update.php:215
+#: bp-themes/bp-default/blogs/index.php:23
+#: bp-themes/bp-default/blogs/create.php:21
+#, fuzzy
+msgid "Site Directory"
+msgstr "%s Katalog"
+
+#: bp-core/admin/bp-core-update.php:254
+msgid ""
+"Before you can continue using BuddyPress, a few minor adjustments need to be "
+"made. These changes are not destructive and will not remove or change any "
+"existing settings."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:295
+#, fuzzy
+msgid ""
+"BuddyPress has detected a recent change to WordPress Multisite, which allows "
+"members of your community to have their own WordPress sites. You can enable "
+"or disable this feature at any time at <a href=\"%s\">Network Options</a>."
+msgstr ""
+"Det ser ut som du nettopp har aktivert Wordpress Multisite modus, noe som "
+"gjør det mulig for medlemmer i ditt BuddyPress-miljø å få dere deres egne "
+"WordPress blogger. Du kan aktivere eller deaktivere denne muligheten når som "
+"helst på <a href=\"%s\">Nettverksvalg</a>."
+
+#: bp-core/admin/bp-core-update.php:297
+#, fuzzy
+msgid ""
+"Please select the WordPress page you would like to use to display the site "
+"directory. You can either choose an existing page or let BuddyPress auto-"
+"create a page for you. If you'd like, you can go to manually create pages "
+"now, and return to this step when you are finished."
+msgstr ""
+"Vennligst velg Wordpress-siden du ønsker å vise i blogg-katalogen. Du kan "
+"enten velge en eksisterende side eller la BuddyPress automatisk opprette en "
+"side for deg. Om du ønsker å opprette sider manuelt, vennligst gå videre å "
+"gjør dette nå, du kan gå tilbake til dette steget når du er ferdig."
+
+#: bp-core/admin/bp-core-update.php:299 bp-core/admin/bp-core-update.php:422
+msgid "Please Note:"
+msgstr "Vennligst notér:"
+
+#: bp-core/admin/bp-core-update.php:299 bp-core/admin/bp-core-update.php:422
+msgid ""
+"If you have manually added BuddyPress navigation links in your theme you may "
+"need to remove these from your header.php to avoid duplicate links."
+msgstr ""
+"Om du manuelt har lagt til BuddyPress navigasjonslenker i temaet ditt må du "
+"kanskje fjerne disse fra header.php for å unngå duplikate lenker."
+
+#: bp-core/admin/bp-core-update.php:301
+#, fuzzy
+msgid ""
+"Would you like to enable site tracking, which tracks blog posts and comments "
+"from across your network?"
+msgstr ""
+"Ønsker du å aktivere blog-sporing, som sporer blogg-aktivitet på tvers av "
+"ditt nettverk?"
+
+#: bp-core/admin/bp-core-update.php:306
+msgid "Enable Site Tracking?"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:312
+#, fuzzy
+msgid "Track new sites, new posts and new comments across your entire network."
+msgstr ""
+"Spor nye blogger, nye poster og nye kommentarer på tvers av ditt blogg-"
+"nettverk."
+
+#: bp-core/admin/bp-core-update.php:320
+msgid "Select a WordPress page for the Sites directory."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:323 bp-core/admin/bp-core-update.php:432
+#: bp-core/admin/bp-core-update.php:445 bp-core/admin/bp-core-update.php:460
+#: bp-core/admin/bp-core-update.php:475 bp-core/admin/bp-core-update.php:491
+#: bp-core/admin/bp-core-update.php:504 bp-core/admin/bp-core-update.php:515
+msgid "Automatically create a page at:"
+msgstr "Lag en side automatisk på:"
+
+#: bp-core/admin/bp-core-update.php:324 bp-core/admin/bp-core-update.php:433
+#: bp-core/admin/bp-core-update.php:446 bp-core/admin/bp-core-update.php:461
+#: bp-core/admin/bp-core-update.php:476 bp-core/admin/bp-core-update.php:492
+#: bp-core/admin/bp-core-update.php:505 bp-core/admin/bp-core-update.php:516
+msgid "Use an existing page:"
+msgstr "Bruk en eksisterende side:"
+
+#: bp-core/admin/bp-core-update.php:324 bp-core/admin/bp-core-update.php:433
+#: bp-core/admin/bp-core-update.php:446 bp-core/admin/bp-core-update.php:461
+#: bp-core/admin/bp-core-update.php:476 bp-core/admin/bp-core-update.php:492
+#: bp-core/admin/bp-core-update.php:505 bp-core/admin/bp-core-update.php:516
+msgid "- Select -"
+msgstr "- Velg -"
+
+#: bp-core/admin/bp-core-update.php:349
+#, fuzzy
+msgid ""
+"BuddyPress bundles several individual social components together, each one "
+"adding a distinct feature. This first step decides which features are "
+"enabled on your site; all features are enabled by default. Don't worry, you "
+"can change your mind at any point in the future."
+msgstr ""
+"BuddyPress består av mange individuelle komponenter som legger til egne "
+"særegenskaper. Det første steget er å bestemme hvilke av disse komponentene "
+"du vil aktivere på din site. Alle egenskaper er aktivert som standard, og "
+"ikke fortvil, du kan ombestemme deg når som helst i fremtiden."
+
+#: bp-core/admin/bp-core-update.php:388
+msgid "members"
+msgstr "medlemmer"
+
+#: bp-core/admin/bp-core-update.php:391
+#: bp-activity/bp-activity-template.php:2142
+msgid "groups"
+msgstr "grupper"
+
+#: bp-core/admin/bp-core-update.php:394
+msgid "activity"
+msgstr "aktivitet"
+
+#: bp-core/admin/bp-core-update.php:397
+msgid "forums"
+msgstr "forumer"
+
+#: bp-core/admin/bp-core-update.php:400
+msgid "blogs"
+msgstr "blogger"
+
+#: bp-core/admin/bp-core-update.php:403
+msgid "register"
+msgstr "registrer"
+
+#: bp-core/admin/bp-core-update.php:406
+msgid "activate"
+msgstr "aktivér"
+
+#: bp-core/admin/bp-core-update.php:418
+#, fuzzy
+msgid ""
+"BuddyPress now uses WordPress pages to display content. This allows you to "
+"easily change the names of pages or move them to a sub page."
+msgstr ""
+"Nye versjoner av BuddyPress bruker Wordpress-sider for å vise innhold. Dette "
+"gir deg mulighet til å lett endre navn på sider eller flytte dem til en "
+"underside."
+
+#: bp-core/admin/bp-core-update.php:420
+#, fuzzy
+msgid ""
+"Either choose an existing page or let BuddyPress auto-create pages for you. "
+"To manually create custom pages, come back to this step once you are "
+"finished."
+msgstr ""
+"Vennligst velg WordPress-sidene du ønsker å bruke til å vise disse. Du kan "
+"enten velge en eksisterende side eller la BuddyPress automatisk generere dem "
+"for deg. Om du ønsker å manuelt opprette sidene, vennligst gjør det nå, du "
+"kan komme tilbake hit til dette steget så snart du er ferdig."
+
+#: bp-core/admin/bp-core-update.php:429
+msgid "Displays member profiles, and a directory of all site members."
+msgstr "Viser medlemsprofiler og en katalog av alle site medlemmer."
+
+#: bp-core/admin/bp-core-update.php:441
+#: bp-themes/bp-default/activity/index.php:23
+msgid "Site Activity"
+msgstr "Site aktivitet"
+
+#: bp-core/admin/bp-core-update.php:442
+msgid ""
+"Displays the activity for the entire site, a member's friends, groups and "
+"@mentions."
+msgstr ""
+"Viser aktiviteten for hele siten, et medlems venner, grupper og @nevnelser."
+
+#: bp-core/admin/bp-core-update.php:456 bp-core/bp-core-template.php:248
+#: bp-groups/bp-groups-activity.php:135 bp-groups/bp-groups-activity.php:171
+#: bp-groups/bp-groups-activity.php:207 bp-groups/bp-groups-activity.php:243
+#: bp-groups/bp-groups-loader.php:395 bp-groups/bp-groups-widgets.php:20
+#: bp-groups/bp-groups-widgets.php:41 bp-groups/bp-groups-widgets.php:107
+#: bp-groups/bp-groups-screens.php:826 bp-activity/bp-activity-loader.php:184
+#: bp-activity/bp-activity-loader.php:273
+msgid "Groups"
+msgstr "Grupper"
+
+#: bp-core/admin/bp-core-update.php:457
+msgid "Displays individual groups as well as a directory of groups."
+msgstr "Viser individuelle grupper i tillegg til en katalog av grupper."
+
+#: bp-core/admin/bp-core-update.php:472
+msgid "Displays a directory of public forum topics."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:488
+msgid "Displays a directory of the sites in your network."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:501
+msgid "Displays a site registration page where users can create new accounts."
+msgstr ""
+"Vis en registreringsside for site hvor brukere kan opprette nye kontoer."
+
+#: bp-core/admin/bp-core-update.php:512
+msgid ""
+"The page users will visit to activate their account once they have "
+"registered."
+msgstr ""
+"Siden som brukere vil besøke for å aktivere deres konto så snart de har "
+"registrert seg."
+
+#: bp-core/admin/bp-core-update.php:543
+msgid ""
+"Congratulations! You are already using pretty permalinks, which BuddyPress "
+"requires. If you'd like to change your settings, you may do so now. If "
+"you're happy with your current settings, click Save &amp; Next to continue."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:545
+#, fuzzy
+msgid ""
+"To make sure the pages created in the previous step work correctly, pretty "
+"permalinks must be active on your site."
+msgstr ""
+"For å være sikker på at sidene vi laget i forrige steg virker, må du "
+"aktivere støtte for permelenke på siten din."
+
+#: bp-core/admin/bp-core-update.php:551
+#, fuzzy
+msgid ""
+"Please select the permalink setting you would like to use. For more advanced "
+"options please visit the <a href=\"%s\">permalink settings page</a> first, "
+"and complete this setup wizard later."
+msgstr ""
+"Under er basis permalenkevalg, vennligst velg hvilket permalenke-oppsett du "
+"ønsker å bruke. Om du ønsker å se mer avanserte valg vennligst besøk <a href="
+"\"%s\">siden for permalenkeinstillinger</a> og returner her for å "
+"gjennomføre wizard."
+
+#: bp-core/admin/bp-core-update.php:555
+msgid "Day and name"
+msgstr "Dag og navn"
+
+#: bp-core/admin/bp-core-update.php:559
+msgid "Month and name"
+msgstr "Måned og navn"
+
+#: bp-core/admin/bp-core-update.php:563
+msgid "Numeric"
+msgstr "Numerisk"
+
+#: bp-core/admin/bp-core-update.php:628
+#, fuzzy
+msgid ""
+"BuddyPress introduces a whole range of new screens to display content. To "
+"display these screens, you need to decide how you want to handle them in "
+"your current theme."
+msgstr ""
+"BuddyPress introduserer en hel rekke nye skjermer for å vise innhold. For å "
+"vise disse skjermene trenger du å bestemme hvordan du vil håndtere dem i "
+"ditt aktive tema. Det er noen få forskjellige valg, vennligst velg "
+"innstilling som passer ditt behov best."
+
+#: bp-core/admin/bp-core-update.php:633
+#, fuzzy
+msgid "Use BuddyPress Default"
+msgstr "Buddypress instillinger"
+
+#: bp-core/admin/bp-core-update.php:634
+#, fuzzy
+msgid "BuddyPress Default"
+msgstr "BuddyPress"
+
+#: bp-core/admin/bp-core-update.php:637
+#, fuzzy
+msgid ""
+"BuddyPress Default contains everything you need to get up and running out of "
+"the box. It supports all features and is highly customizable."
+msgstr ""
+"Standard-temaet inneholder alt du trenger for å komme opp og gå. Det støtter "
+"alle muligheter og er veldig konfigurerbart."
+
+#: bp-core/admin/bp-core-update.php:638
+#, fuzzy
+msgid ""
+"This is the best choice if you do not have an existing WordPress theme, or "
+"want to start using BuddyPress immediately."
+msgstr ""
+"Dette er det beste valget om du ikke har et eksisterende WordPress tema "
+"eller ønsker å lage et undertema fra et solid startsted."
+
+#: bp-core/admin/bp-core-update.php:639
+msgid "Yes, please!"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:646
+msgid "Other themes"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:647
+#, fuzzy
+msgid "A BuddyPress theme"
+msgstr "Finn et BuddyPress tema"
+
+#: bp-core/admin/bp-core-update.php:650
+msgid ""
+"We've found that you already have some other BuddyPress-compatible themes "
+"available. To use one of those, pick it from this list."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:653
+#, fuzzy
+msgid "Use this theme"
+msgstr "Bruk standard tema"
+
+#: bp-core/admin/bp-core-update.php:669
+#, fuzzy
+msgid "Manually update current theme"
+msgstr "Oppgrader mitt WordPress-tema manuelt"
+
+#: bp-core/admin/bp-core-update.php:671
+msgid "Your existing theme"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:675
+#, fuzzy
+msgid ""
+"The BuddyPress Template Pack plugin will guide you through the process of "
+"manually upgrading your existing WordPress theme. This usually involves "
+"following the step-by-step instructions and copying the BuddyPress template "
+"files into your theme. This option requires a working knowledge of CSS and "
+"HTML, as you will need to tweak the new templates to match your existing "
+"theme."
+msgstr ""
+"BuddyPress temapakke-plugin vil geleide deg gjennom prosessen for å manuelt "
+"oppgradere ditt eksisterende Wordpress tema. Dette involverer vanligvis steg "
+"for steg instruksjoner og kopiering av BuddyPress tema-filer inn i ditt tema "
+"og deretter tilpassning for å få HTML til å passe."
+
+#: bp-core/admin/bp-core-update.php:679
+#, fuzzy
+msgid "Install BuddyPress Template Pack"
+msgstr "Finn et BuddyPress tema"
+
+#: bp-core/admin/bp-core-update.php:683
+msgid ""
+"Choose this option (go to Appearance &rarr; BP Compatibility after setup is "
+"complete)"
+msgstr ""
+"Velg denne instillingen (gå til Utseende &rarr; BP Kompabilitet etter at "
+"oppsett er ferdig)"
+
+#: bp-core/admin/bp-core-update.php:684
+msgid "Plugin Installed"
+msgstr "Plugin Installert"
+
+#: bp-core/admin/bp-core-update.php:693
+msgid "Do not change theme"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:696
+msgid "You are happy with your current theme and plan on changing it later."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:697
+#, fuzzy
+msgid ""
+"This is the best choice if you have a highly customized theme on your site "
+"already, and want to later manually integrate BuddyPress into your site."
+msgstr ""
+"Dette er det beste valget om du har et eksisterende WordPress tema og vil ha "
+"full kontroll over tema-utseende og design."
+
+#: bp-core/admin/bp-core-update.php:699
+msgid "Don't change my current theme"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:721
+msgid "setup"
+msgstr "oppsett"
+
+#: bp-core/admin/bp-core-update.php:721
+msgid "update"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:723
+msgid "The BuddyPress %1$s is complete, and your site is ready to go!"
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:903
+msgid "Oops, there was a problem creating a configuration file. "
+msgstr "Oisann, det oppsto et problem med konfigurasjonsfilen."
+
+#: bp-core/admin/bp-core-update.php:909
+msgid ""
+"If your <code>web.config</code> file were <a href=\"http://codex.wordpress."
+"org/Changing_File_Permissions\">writable</a>, we could do this "
+"automatically, but it isn&#8217;t so this is the url rewrite rule you should "
+"have in your <code>web.config</code> file. Click in the field and press "
+"<kbd>CTRL + a</kbd> to select all. Then insert this rule inside of the "
+"<code>/&lt;configuration&gt;/&lt;system.webServer&gt;/&lt;rewrite&gt;/&lt;"
+"rules&gt;</code> element in <code>web.config</code> file."
+msgstr ""
+"Om din <code>web.config</code> fil var <a href=\"http://codex.wordpress.org/"
+"Changing_File_Permissions\">skrivbar</a>, kunne vi ha gjort dette "
+"automatisk, men det er den ikke så dette er url rewrite regel du bør ha i "
+"din <code>web.config</code> fil. Klikk i feltet og trykk <kbd>CTRL + a</kbd> "
+"for å selektere alt. Deretter lim inn denne regelen under <code>/&lt;"
+"configuration&gt;/&lt;system.webServer&gt;/&lt;rewrite&gt;/&lt;rules&gt;</"
+"code> elementet i <code>web.config</code> filen."
+
+#: bp-core/admin/bp-core-update.php:918
+msgid ""
+"Permalink structure updated. Remove write access on web.config file now!"
+msgstr ""
+"Struktur for permalenker oppdatert. Fjern skriverettighetene på web.config "
+"nå!"
+
+#: bp-core/admin/bp-core-update.php:923
+msgid ""
+"If your <code>.htaccess</code> file were <a href=\"http://codex.wordpress."
+"org/Changing_File_Permissions\">writable</a>, we could do this "
+"automatically, but it isn&#8217;t so these are the mod_rewrite rules you "
+"should have in your <code>.htaccess</code> file. Click in the field and "
+"press <kbd>CTRL + a</kbd> to select all."
+msgstr ""
+"Om din  <code>.htaccess</code> fil var <a href=\"http://codex.wordpress.org/"
+"Changing_File_Permissions\">skrivbar</a>, kunne vi ha gjort dette "
+"automatisk, men det er den ikke så dette er mod_rewrite regler du bør ha in "
+"din <code>.htaccess</code> fil. Klikk i feltet og trykk <kbd>CTRL + a</kbd> "
+"for å velge alt."
+
+#: bp-core/admin/bp-core-update.php:935
+msgid ""
+"Paste all these rules into a new <code>.htaccess</code> file in the root of "
+"your WordPress installation and save the file. Once you're done, please hit "
+"the \"Save and Next\" button to continue."
+msgstr ""
+"Lim inn disse reglene i en ny <code>.htaccess</code> fil i roten på roten av "
+"din WordPress installasjon og lagre filen. Når du har gjort dette vennligst "
+"klikk knappen \"Lagre og Neste\" for å fortsette."
+
+#: bp-core/admin/bp-core-update.php:1159
+msgid ""
+"Installation was successful. The available options have now been updated, "
+"please continue with your selection."
+msgstr ""
+"Installasjonen var vellyket. De tilgjengelige valgene har nå blitt "
+"oppdatert, vennligst fortsett med dine valg."
+
+#: bp-core/admin/bp-core-update.php:1218 bp-core/bp-core-functions.php:250
+#: bp-members/bp-members-signup.php:570
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: bp-core/admin/bp-core-update.php:1314
+msgid ""
+"BuddyPress has been updated! Please run the <a href=\"%s\">update wizard</a>."
+msgstr ""
+
+#: bp-core/admin/bp-core-update.php:1319
+msgid ""
+"BuddyPress was successfully installed! Please run the <a href=\"%s"
+"\">installation wizard</a>."
+msgstr ""
+
+#: bp-core/bp-core-avatars.php:91
+msgid "Avatar Image"
+msgstr "Avatar-bilde"
+
+#: bp-core/bp-core-avatars.php:401
+msgid "There is no error, the file uploaded with success"
+msgstr "Det er ingen feil, filen ble lastet opp med suksess"
+
+#: bp-core/bp-core-avatars.php:402 bp-core/bp-core-avatars.php:403
+msgid "Your image was bigger than the maximum allowed file size of: "
+msgstr "Ditt bilde var større en maksimum tillatt størrelse som er: "
+
+#: bp-core/bp-core-avatars.php:404
+msgid "The uploaded file was only partially uploaded"
+msgstr "Filen ble bare delvis lastet opp"
+
+#: bp-core/bp-core-avatars.php:405
+msgid "No file was uploaded"
+msgstr "Ingen fil ble lastet opp."
+
+#: bp-core/bp-core-avatars.php:406
+msgid "Missing a temporary folder"
+msgstr "Mangler en midlertidig mappe."
+
+#: bp-core/bp-core-avatars.php:410
+msgid "Your upload failed, please try again. Error was: %s"
+msgstr "Opplasting feilet, vennligst prøv igjen. Feilmelding var: %s"
+
+#: bp-core/bp-core-avatars.php:415
+msgid "The file you uploaded is too big. Please upload a file under %s"
+msgstr "Filen du lastet opp er for stor. Vennligst last opp en fil under %s"
+
+#: bp-core/bp-core-avatars.php:420
+msgid "Please upload only JPG, GIF or PNG photos."
+msgstr "Vennligst kun last opp JPG, GIF eller PNG bilder."
+
+#: bp-core/bp-core-avatars.php:431 bp-core/bp-core-avatars.php:444
+msgid "Upload Failed! Error was: %s"
+msgstr "Opplasting feilet! Feilen var: %s"
+
+#: bp-core/bp-core-avatars.php:462
+msgid "Upload failed! Error was: %s"
+msgstr "Opplasting feilet! Feilen var: %s"
+
+#: bp-core/bp-core-avatars.php:595
+msgid "Avatar of %s"
+msgstr "Avatar av %s"
+
+#: bp-core/bp-core-template.php:64
+msgid "Options"
+msgstr "Valg"
+
+#: bp-core/bp-core-template.php:190
+msgid "%1$s at %2$s"
+msgstr "%1$s ved %2$s"
+
+#: bp-core/bp-core-template.php:251
+msgid "Blogs"
+msgstr "Blogger"
+
+#: bp-core/bp-core-template.php:256
+#: bp-themes/bp-default/members/single/activity.php:27
+#: bp-themes/bp-default/activity/index.php:101
+#: bp-themes/bp-default/forums/forums-loop.php:40
+msgid "Posts"
+msgstr "Innlegg"
+
+#: bp-core/bp-core-template.php:259
+#, fuzzy
+msgid "Search these:"
+msgstr "Søkeresultater"
+
+#: bp-core/bp-core-template.php:287
+msgid "Search anything..."
+msgstr "Søk i alt"
+
+#: bp-core/bp-core-template.php:381
+msgid " [&hellip;]"
+msgstr ""
+
+#: bp-core/bp-core-filters.php:161 bp-core/bp-core-filters.php:185
+msgid "[User Set]"
+msgstr "[Bruker Sett]"
+
+#: bp-core/bp-core-filters.php:204
+#, fuzzy
+msgid ""
+"Thanks for registering! To complete the activation of your account and blog, "
+"please click the following link:\n"
+"\n"
+"%1$s\n"
+"\n"
+"\n"
+"\n"
+"After you activate, you can visit your blog here:\n"
+"\n"
+"%2$s"
+msgstr ""
+"Takk for at du registrerte deg! For å ferdigstille aktivering av kontoen din "
+"vennligst klikk følgende link:\n"
+"\n"
+"%s\n"
+"\n"
+
+#: bp-core/bp-core-filters.php:205
+msgid "Activate %s"
+msgstr "Aktiver %s"
+
+#: bp-core/bp-core-filters.php:237 bp-members/bp-members-signup.php:572
+msgid ""
+"Thanks for registering! To complete the activation of your account please "
+"click the following link:\n"
+"\n"
+"%s\n"
+"\n"
+msgstr ""
+"Takk for at du registrerte deg! For å ferdigstille aktivering av kontoen din "
+"vennligst klikk følgende link:\n"
+"\n"
+"%s\n"
+"\n"
+
+#: bp-core/bp-core-filters.php:238 bp-members/bp-members-signup.php:573
+msgid "Activate Your Account"
+msgstr "Aktiver din konto"
+
+#. translators: "displayed user's name | canonicalised component name"
+#. translators: "group name | group nav section name"
+#: bp-core/bp-core-filters.php:284 bp-core/bp-core-filters.php:290
+#, fuzzy
+msgid "%1$s | %2$s"
+msgstr "%1$s ved %2$s"
+
+#. translators: "component item name | component nav section name | root
+#. component name"
+#: bp-core/bp-core-filters.php:295
+#, fuzzy
+msgid "%1$s | %2$s | %3$s"
+msgstr "%1$s ved %2$s"
+
+#: bp-core/bp-core-filters.php:300 bp-core/bp-core-filters.php:302
+msgid "%s Directory"
+msgstr "%s Katalog"
+
+#: bp-core/bp-core-filters.php:306
+#: bp-themes/bp-default/registration/register.php:23
+msgid "Create an Account"
+msgstr "Opprett en konto"
+
+#: bp-core/bp-core-filters.php:310
+#: bp-themes/bp-default/registration/activate.php:24
+msgid "Activate your Account"
+msgstr "Aktiver din konto"
+
+#: bp-core/bp-core-filters.php:314 bp-themes/bp-default/groups/index.php:23
+#: bp-themes/bp-default/groups/create.php:18
+msgid "Create a Group"
+msgstr "Opprett en gruppe"
+
+#: bp-core/bp-core-cssjs.php:49
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+#: bp-core/bp-core-classes.php:191
+#, fuzzy
+msgid "%d group"
+msgid_plural "%d groups"
+msgstr[0] "gruppe"
+msgstr[1] "gruppe"
+
+#: bp-core/deprecated/1.5.php:120 bp-xprofile/bp-xprofile-loader.php:217
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:8
+#: bp-themes/bp-default/activity/post-form.php:45
+msgid "My Profile"
+msgstr "Min profil"
+
+#: bp-core/deprecated/1.5.php:127 bp-themes/bp-default/functions.php:631
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:15
+msgid "Name"
+msgstr "Navn"
+
+#: bp-core/deprecated/1.5.php:136
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "Om meg"
+
+#: bp-core/deprecated/1.5.php:145 bp-themes/bp-default/functions.php:635
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr "Nettsted"
+
+#: bp-core/deprecated/1.5.php:154
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: bp-core/deprecated/1.5.php:163
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: bp-core/deprecated/1.5.php:172
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: bp-core/deprecated/1.5.php:272 bp-core/bp-core-buddybar.php:473
+#: bp-members/bp-members-adminbar.php:218
+#: bp-members/bp-members-template.php:734 bp-themes/bp-default/sidebar.php:18
+msgid "Log Out"
+msgstr "Logg ut"
+
+#: bp-core/deprecated/1.5.php:319
+msgid "%1$s mentioned you in the group \"%2$s\""
+msgstr "%1$s nevnte deg i gruppen \"%2$s\""
+
+#: bp-core/deprecated/1.5.php:321 bp-activity/bp-activity-notifications.php:69
+msgid ""
+"%1$s mentioned you in the group \"%2$s\":\n"
+"\n"
+"\"%3$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %4$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s nevnte deg i gruppen \"%2$s\":\n"
+"\n"
+"\"%3$s\"\n"
+"\n"
+"For å se og svare på meldingen, logg inn og besøk: %4$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-core/deprecated/1.5.php:331 bp-friends/bp-friends-notifications.php:36
+#: bp-friends/bp-friends-notifications.php:76
+#: bp-groups/bp-groups-notifications.php:32
+#: bp-groups/bp-groups-notifications.php:83
+#: bp-groups/bp-groups-notifications.php:139
+#: bp-groups/bp-groups-notifications.php:187
+#: bp-groups/bp-groups-notifications.php:241
+#: bp-messages/bp-messages-notifications.php:44
+#: bp-activity/bp-activity-notifications.php:90
+#: bp-activity/bp-activity-notifications.php:164
+#: bp-activity/bp-activity-notifications.php:209
+msgid "To disable these notifications please log in and go to: %s"
+msgstr "For å slå av disse notisene vennligst logg in og gå til: %s"
+
+#: bp-core/bp-core-functions.php:369
+msgid ""
+"<strong>BuddyPress is almost ready</strong>. You must <a href=\"%s\">update "
+"your permalink structure</a> to something other than the default for it to "
+"work."
+msgstr ""
+"<strong>BuddyPress er nesten klar</strong>. Du må <a href=\"%s\">oppdatere "
+"permalenke-strukturen</a> til noe annet enn default for at det skal virke."
+
+#: bp-core/bp-core-functions.php:382
+#, fuzzy
+msgid ""
+"You'll need to <a href='%s'>activate a <strong>BuddyPress-compatible theme</"
+"strong></a> to take advantage of all of BuddyPress's features. We've bundled "
+"a default theme, but you can always <a href='%s'>install some other "
+"compatible themes</a> or <a href='%s'>update your existing WordPress theme</"
+"a>."
+msgstr ""
+"<strong>BuddyPress er klar</strong>. Du må <a href='%s'>aktivere et "
+"BuddyPress kompatibelt tema</a> for å ta i bruk all funksjonalitet. Vi har "
+"lagt ved et standard tema, men du kan alltid <a href='%s'>installere andre "
+"kompatible temaer</a> eller <a href='%s'>oppgradere ditt eksisterende "
+"WordPress tema</a>."
+
+#: bp-core/bp-core-functions.php:424
+msgid ""
+"The following active BuddyPress Components do not have associated WordPress "
+"Pages: %2$s. <a href=\"%1$s\" class=\"button-secondary\">Repair</a>"
+msgstr ""
+
+#: bp-core/bp-core-functions.php:449
+msgid ""
+"Each BuddyPress Component needs its own WordPress page. The following "
+"WordPress Pages have more than one component associated with them: %2$s. <a "
+"href=\"%1$s\" class=\"button-secondary\">Repair</a>"
+msgstr ""
+
+#: bp-core/bp-core-functions.php:599
+msgid "sometime"
+msgstr "en gang"
+
+#: bp-core/bp-core-functions.php:600
+msgid "right now"
+msgstr ""
+
+#: bp-core/bp-core-functions.php:601
+msgid "%s ago"
+msgstr "%s siden"
+
+#: bp-core/bp-core-functions.php:605
+msgid "year"
+msgstr "år"
+
+#: bp-core/bp-core-functions.php:605
+msgid "years"
+msgstr "år"
+
+#: bp-core/bp-core-functions.php:606
+msgid "month"
+msgstr "måned"
+
+#: bp-core/bp-core-functions.php:606
+msgid "months"
+msgstr "måneder"
+
+#: bp-core/bp-core-functions.php:607
+msgid "week"
+msgstr "uke"
+
+#: bp-core/bp-core-functions.php:607
+msgid "weeks"
+msgstr "uker"
+
+#: bp-core/bp-core-functions.php:608
+msgid "day"
+msgstr "dag"
+
+#: bp-core/bp-core-functions.php:608
+msgid "days"
+msgstr "dager"
+
+#: bp-core/bp-core-functions.php:609
+msgid "hour"
+msgstr "time"
+
+#: bp-core/bp-core-functions.php:609
+msgid "hours"
+msgstr "timer"
+
+#: bp-core/bp-core-functions.php:610
+msgid "minute"
+msgstr "minutt"
+
+#: bp-core/bp-core-functions.php:610
+msgid "minutes"
+msgstr "minutter"
+
+#: bp-core/bp-core-functions.php:611
+msgid "second"
+msgstr "sekund"
+
+#: bp-core/bp-core-functions.php:611
+msgid "seconds"
+msgstr "sekunder"
+
+#: bp-core/bp-core-functions.php:668
+msgctxt "Separator in time since"
+msgid ","
+msgstr ","
+
+#: bp-core/bp-core-functions.php:731
+msgid "not recently active"
+msgstr "ikke aktiv i det siste"
+
+#: bp-core/bp-core-catchuri.php:378
+msgid ""
+"This user has been marked as a spammer. Only site admins can view this "
+"profile."
+msgstr ""
+
+#: bp-core/bp-core-catchuri.php:401 bp-core/bp-core-catchuri.php:458
+msgid "You must log in to access the page you requested."
+msgstr ""
+
+#: bp-core/bp-core-buddybar.php:244
+#, fuzzy
+msgid "You do not have access to this page."
+msgstr "Du har ikke nok rettigheter til denne aktiviteten."
+
+#: bp-core/bp-core-buddybar.php:415 bp-themes/bp-default/sidebar.php:53
+msgid "Log In"
+msgstr "Logg inn"
+
+#: bp-core/bp-core-buddybar.php:419
+msgid "Sign Up"
+msgstr "Registrer"
+
+#: bp-core/bp-core-buddybar.php:431
+msgid "My Account"
+msgstr "Min konto"
+
+#: bp-core/bp-core-buddybar.php:502
+msgid "Visit"
+msgstr "Besøk"
+
+#: bp-core/bp-core-buddybar.php:504
+msgid "Random Member"
+msgstr "Tilfeldig medlem"
+
+#: bp-core/bp-core-buddybar.php:508
+msgid "Random Group"
+msgstr "Tilfeldig gruppe"
+
+#: bp-core/bp-core-buddybar.php:514
+#, fuzzy
+msgid "Random Site"
+msgstr "Tilfeldig medlem"
+
+#: bp-core/bp-core-loader.php:210 bp-xprofile/bp-xprofile-loader.php:113
+#: bp-xprofile/bp-xprofile-loader.php:177 bp-members/bp-members-loader.php:141
+msgid "Profile"
+msgstr "Profil"
+
+#: bp-core/bp-core-loader.php:221 bp-groups/bp-groups-template.php:520
+#: bp-xprofile/bp-xprofile-loader.php:125 bp-members/bp-members-loader.php:156
+msgid "Public"
+msgstr "Offentlig"
+
+#: bp-friends/bp-friends-loader.php:78
+#, fuzzy
+msgid "Search Friends..."
+msgstr "Søk i grupper..."
+
+#: bp-friends/bp-friends-loader.php:96
+#, fuzzy
+msgid "Friends <span>%d</span>"
+msgstr "Venner <span>(%d)</span>"
+
+#: bp-friends/bp-friends-loader.php:108 bp-friends/bp-friends-loader.php:168
+#: bp-friends/bp-friends-loader.php:194
+#: bp-themes/bp-default/members/single/activity.php:35
+#: bp-themes/bp-default/activity/index.php:122
+#, fuzzy
+msgid "Friendships"
+msgstr "Venner"
+
+#: bp-friends/bp-friends-loader.php:118 bp-groups/bp-groups-template.php:1288
+msgid "Requests"
+msgstr "Forespørsler"
+
+#: bp-friends/bp-friends-loader.php:150
+#, fuzzy
+msgid "Friends <span class=\"count\">%s</span>"
+msgstr "Venner <span>(%d)</span>"
+
+#: bp-friends/bp-friends-loader.php:151
+msgid "Pending Requests <span class=\"count\">%s</span>"
+msgstr ""
+
+#: bp-friends/bp-friends-loader.php:153 bp-friends/bp-friends-screens.php:68
+#: bp-activity/bp-activity-loader.php:171
+#: bp-activity/bp-activity-loader.php:264
+msgid "Friends"
+msgstr "Venner"
+
+#: bp-friends/bp-friends-loader.php:154
+#, fuzzy
+msgid "No Pending Requests"
+msgstr "Send forespørsel"
+
+#: bp-friends/bp-friends-notifications.php:24
+msgid "New friendship request from %s"
+msgstr "Ny vennskap-forespørsel fra %s"
+
+#: bp-friends/bp-friends-notifications.php:26
+msgid ""
+"%1$s wants to add you as a friend.\n"
+"\n"
+"To view all of your pending friendship requests: %2$s\n"
+"\n"
+"To view %3$s's profile: %4$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s ønsker å legge deg til som venn.\n"
+"\n"
+"For å se alle ventende vennskapsforespørsler: %2$s\n"
+"\n"
+"For å se %3$ss profil: %4$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-friends/bp-friends-notifications.php:66
+#: bp-friends/bp-friends-activity.php:79
+msgid "%s accepted your friendship request"
+msgstr "%s aksepterte din venne-forespørsel"
+
+#: bp-friends/bp-friends-notifications.php:68
+msgid ""
+"%1$s accepted your friend request.\n"
+"\n"
+"To view %2$s's profile: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s aksepterte din vennskap-forespørsel.\n"
+"\n"
+"For å se på %2$ss profil: %3$s\n"
+"---------------------\n"
+
+#: bp-friends/bp-friends-template.php:62 bp-friends/bp-friends-template.php:81
+#: bp-groups/bp-groups-template.php:2276 bp-groups/bp-groups-template.php:2297
+msgid "Recently Active"
+msgstr "Nylig aktiv"
+
+#: bp-friends/bp-friends-template.php:64 bp-friends/bp-friends-template.php:87
+#: bp-groups/bp-groups-template.php:2281 bp-groups/bp-groups-template.php:2312
+msgid "Alphabetically"
+msgstr "Alfabetisk"
+
+#: bp-friends/bp-friends-template.php:101
+msgid "My Friends"
+msgstr "Mine venner"
+
+#: bp-friends/bp-friends-template.php:101
+msgid "%s's Friends"
+msgstr "%ss venner"
+
+#: bp-friends/bp-friends-template.php:101
+msgid "See All"
+msgstr "Se alle"
+
+#: bp-friends/bp-friends-template.php:121
+msgid "You haven't added any friend connections yet."
+msgstr "Du har ikke lagt til noen venner ennå."
+
+#: bp-friends/bp-friends-template.php:121
+msgid "%s hasn't created any friend connections yet."
+msgstr "%s har ikke opprettet noen venne-forbindelser ennå."
+
+#: bp-friends/bp-friends-template.php:190
+msgid "There aren't enough site members to show a random sample just yet."
+msgstr "Det er ikke nok site-medlemmer for å vise et tilfeldig eksempel."
+
+#: bp-friends/bp-friends-template.php:201
+msgid "Filter Friends"
+msgstr "Filtrer venner"
+
+#: bp-friends/bp-friends-template.php:238
+msgid "%d friend"
+msgstr "%d venn"
+
+#: bp-friends/bp-friends-template.php:240
+msgid "%d friends"
+msgstr "%d venner"
+
+#: bp-friends/bp-friends-template.php:323
+#: bp-friends/bp-friends-template.php:324
+#: bp-themes/bp-default/_inc/ajax.php:431
+msgid "Friendship Requested"
+msgstr "Vennskap forespurt"
+
+#: bp-friends/bp-friends-template.php:338
+#: bp-friends/bp-friends-template.php:339
+msgid "Cancel Friendship"
+msgstr "Avbryt vennskap"
+
+#: bp-friends/bp-friends-template.php:355
+#: bp-friends/bp-friends-template.php:356
+#: bp-themes/bp-default/_inc/ajax.php:421
+msgid "Add Friend"
+msgstr "Legg til venn"
+
+#: bp-friends/bp-friends-actions.php:29 bp-themes/bp-default/_inc/ajax.php:429
+msgid "Friendship could not be requested."
+msgstr "Vennskap kunne ikke bli forespurt."
+
+#: bp-friends/bp-friends-actions.php:31
+msgid "Friendship requested"
+msgstr "Vennskap forespurt"
+
+#: bp-friends/bp-friends-actions.php:35
+msgid "You are already friends with this user"
+msgstr "Du er allerede venner med denne brukeren"
+
+#: bp-friends/bp-friends-actions.php:37
+msgid "You already have a pending friendship request with this user"
+msgstr "Du har allerede en ventende vennskap-forespørsel til denne brukeren"
+
+#: bp-friends/bp-friends-actions.php:64 bp-themes/bp-default/_inc/ajax.php:419
+msgid "Friendship could not be canceled."
+msgstr "Vennskap kunne ikke bli kansellert."
+
+#: bp-friends/bp-friends-actions.php:66
+msgid "Friendship canceled"
+msgstr "Vennskap kansellert"
+
+#: bp-friends/bp-friends-actions.php:70
+msgid "You are not yet friends with this user"
+msgstr "Du er ikke venner med denne brukeren ennå"
+
+#: bp-friends/bp-friends-actions.php:72
+msgid "You have a pending friendship request with this user"
+msgstr "Du har en ventende vennskap-forespørsel med denne brukeren"
+
+#: bp-friends/bp-friends-functions.php:94
+#: bp-friends/bp-friends-functions.php:103
+msgid "%1$s and %2$s are now friends"
+msgstr "%1$s og %2$s er nå venner"
+
+#: bp-friends/bp-friends-screens.php:28
+msgid "Friendship accepted"
+msgstr "Vennskap akseptert"
+
+#: bp-friends/bp-friends-screens.php:30
+msgid "Friendship could not be accepted"
+msgstr "Vennskap kunne ikke bli akseptert"
+
+#: bp-friends/bp-friends-screens.php:39
+msgid "Friendship rejected"
+msgstr "Vennskap avslått"
+
+#: bp-friends/bp-friends-screens.php:41
+msgid "Friendship could not be rejected"
+msgstr "Vennskap kunne ikke bli avslått"
+
+#: bp-friends/bp-friends-screens.php:77
+msgid "A member sends you a friendship request"
+msgstr "Et medlem har sendt deg en vennskap-forespørsel"
+
+#: bp-friends/bp-friends-screens.php:83
+msgid "A member accepts your friendship request"
+msgstr "Et medlem aksepterte din vennskap-forespørsel"
+
+#: bp-friends/bp-friends-activity.php:50
+msgid "New friendship created"
+msgstr "Nytt vennskap opprettet"
+
+#: bp-friends/bp-friends-activity.php:76
+msgid "%d friends accepted your friendship requests"
+msgstr "%d venner aksepterte dine vennskap-forespørsler."
+
+#: bp-friends/bp-friends-activity.php:90
+msgid "You have %d pending friendship requests"
+msgstr "Du har %d ventende vennskap-forespørsler"
+
+#: bp-friends/bp-friends-activity.php:93
+msgid "You have a friendship request from %s"
+msgstr "Du har en vennskap-forespørsel fra %s"
+
+#: bp-settings/bp-settings-loader.php:92
+#: bp-settings/bp-settings-loader.php:157
+msgid "General"
+msgstr "Generelt"
+
+#: bp-settings/bp-settings-loader.php:103
+#: bp-settings/bp-settings-loader.php:164
+#: bp-members/bp-members-adminbar.php:167
+#: bp-members/bp-members-buddybar.php:13
+msgid "Notifications"
+msgstr "Notiser"
+
+#: bp-settings/bp-settings-loader.php:115
+#: bp-settings/bp-settings-loader.php:172
+#: bp-members/bp-members-adminbar.php:145
+#: bp-themes/bp-default/members/single/settings/delete-account.php:50
+msgid "Delete Account"
+msgstr "Slett konto"
+
+#: bp-settings/bp-settings-actions.php:96
+#: bp-settings/bp-settings-actions.php:135
+#: bp-xprofile/bp-xprofile-screens.php:113
+msgid "Changes saved."
+msgstr "Endringer ble lagret."
+
+#: bp-settings/bp-settings-actions.php:99
+#, fuzzy
+msgid "Your new passwords did not match."
+msgstr "Passordene dine stemte ikke overens"
+
+#: bp-settings/bp-settings-actions.php:102
+#, fuzzy
+msgid "Your existing password is incorrect."
+msgstr "Ditt passord er feil"
+
+#: bp-settings/bp-settings-actions.php:105
+#, fuzzy
+msgid "Sorry, that email address is already used or is invalid."
+msgstr "Beklager, den e-mailadressen er allerede brukt eller ugyldig"
+
+#: bp-groups/bp-groups-actions.php:24
+msgid "Sorry, you are not allowed to create groups."
+msgstr ""
+
+#: bp-groups/bp-groups-actions.php:46
+msgid "There was an error saving group details. Please try again."
+msgstr ""
+"Det oppsto en fel ved lagring av gruppe detaljer. Vennligst prøv igjen."
+
+#: bp-groups/bp-groups-actions.php:68
+msgid "Please fill in all of the required fields"
+msgstr "Vennlist fyll inn alle obligatoriske felter"
+
+#: bp-groups/bp-groups-actions.php:75 bp-groups/bp-groups-actions.php:102
+msgid "There was an error saving group details, please try again."
+msgstr "Det oppsto en fel ved lagring av gruppedetaljer, vennligst prøv igjen."
+
+#: bp-groups/bp-groups-actions.php:141
+msgid "%1$s created the group %2$s"
+msgstr "%1$s opprettet gruppen %2$s"
+
+#: bp-groups/bp-groups-actions.php:189
+msgid "There was an error saving the group avatar, please try uploading again."
+msgstr ""
+"Det oppsto en feil ved lagring av gruppeavatar, vennligst last opp igjen."
+
+#: bp-groups/bp-groups-actions.php:191
+msgid "The group avatar was uploaded successfully!"
+msgstr "Gruppeavatar ble lastet opp!"
+
+#: bp-groups/bp-groups-actions.php:215 bp-groups/bp-groups-actions.php:222
+msgid "There was an error joining the group."
+msgstr "Det oppsto en feil ved tilslutting av gruppe."
+
+#: bp-groups/bp-groups-actions.php:224
+msgid "You joined the group!"
+msgstr "Du meldte deg inn i gruppen!"
+
+#: bp-groups/bp-groups-actions.php:247
+msgid "There was an error leaving the group."
+msgstr "Det oppsto en feil ved avmelding av gruppe."
+
+#: bp-groups/bp-groups-actions.php:249 bp-groups/bp-groups-functions.php:280
+msgid "You successfully left the group."
+msgstr "Du forlot gruppen."
+
+#: bp-groups/bp-groups-activity.php:21
+msgid "Created a group"
+msgstr "Opprettet en gruppe"
+
+#: bp-groups/bp-groups-activity.php:22
+msgid "Joined a group"
+msgstr "Ble med i en gruppe"
+
+#: bp-groups/bp-groups-activity.php:23
+msgid "New group forum topic"
+msgstr "Nytt gruppe-forum emne"
+
+#: bp-groups/bp-groups-activity.php:24
+msgid "New group forum post"
+msgstr "Nytt gruppe-forum innlegg"
+
+#: bp-groups/bp-groups-activity.php:93
+msgid "%1$d new membership requests for the group \"%2$s\""
+msgstr "%1$d nye medlemsforespørsler i gruppen \"%2$s\""
+
+#: bp-groups/bp-groups-activity.php:98
+msgid "Group Membership Requests"
+msgstr "Gruppemedlemskap-forespørsler"
+
+#: bp-groups/bp-groups-activity.php:107 bp-groups/bp-groups-activity.php:112
+msgid "%s requests group membership"
+msgstr "%s forespør gruppemedlemskap"
+
+#: bp-groups/bp-groups-activity.php:130
+msgid "%d accepted group membership requests"
+msgstr "%d aksepterte gruppemedlemskap-forespørsler"
+
+#: bp-groups/bp-groups-activity.php:143
+msgid "Membership for group \"%s\" accepted"
+msgstr "Medlemskap i gruppen \"%s\" akseptert."
+
+#: bp-groups/bp-groups-activity.php:166
+msgid "%d rejected group membership requests"
+msgstr "%d avslo gruppemedlemskap-forespørsler"
+
+#: bp-groups/bp-groups-activity.php:179
+msgid "Membership for group \"%s\" rejected"
+msgstr "Medlemskap i gruppen \"%s\" avslått"
+
+#: bp-groups/bp-groups-activity.php:202
+msgid "You were promoted to an admin in %d groups"
+msgstr "Du ble oppgradert til admin i %d grupper"
+
+#: bp-groups/bp-groups-activity.php:215
+#, fuzzy
+msgid "You were promoted to an admin in the group \"%s\""
+msgstr "Du ble oppgradert til admin i gruppen %s"
+
+#: bp-groups/bp-groups-activity.php:238
+msgid "You were promoted to a mod in %d groups"
+msgstr "Du ble oppgradert til moderator i %d grupper"
+
+#: bp-groups/bp-groups-activity.php:251
+#, fuzzy
+msgid "You were promoted to a mod in the group \"%s\""
+msgstr "Du ble oppgradert til moderator i gruppen %s"
+
+#: bp-groups/bp-groups-activity.php:275
+msgid "You have %d new group invitations"
+msgstr "Du har %d nye gruppeinvitasjoner"
+
+#: bp-groups/bp-groups-activity.php:279
+msgid "Group Invites"
+msgstr "Gruppeinvitasjoner"
+
+#: bp-groups/bp-groups-activity.php:287
+msgid "You have an invitation to the group: %s"
+msgstr "Du har en invitasjon til gruppen: %s"
+
+#: bp-groups/bp-groups-loader.php:84
+msgid "Search Groups..."
+msgstr "Søk i grupper..."
+
+#: bp-groups/bp-groups-loader.php:172
+#, fuzzy
+msgid "You do not have access to this group."
+msgstr "Du har ikke nok rettigheter til denne aktiviteten."
+
+#: bp-groups/bp-groups-loader.php:185 bp-groups/bp-groups-template.php:1272
+msgid "Details"
+msgstr "Detaljer"
+
+#: bp-groups/bp-groups-loader.php:197 bp-groups/bp-groups-template.php:1282
+msgid "Avatar"
+msgstr "Avatar"
+
+#: bp-groups/bp-groups-loader.php:205
+msgid "Invites"
+msgstr "Invitasjoner"
+
+#: bp-groups/bp-groups-loader.php:231
+#, fuzzy
+msgid "Groups <span>%d</span>"
+msgstr "Grupper <span>(%d)</span>"
+
+#: bp-groups/bp-groups-loader.php:243 bp-groups/bp-groups-loader.php:271
+#: bp-groups/bp-groups-loader.php:410 bp-groups/bp-groups-loader.php:437
+#, fuzzy
+msgid "Memberships"
+msgstr "Medlemmer"
+
+#: bp-groups/bp-groups-loader.php:254
+#, fuzzy
+msgid "Invitations"
+msgstr "Invitasjoner"
+
+#: bp-groups/bp-groups-loader.php:283
+#, fuzzy
+msgctxt "Group home navigation title"
+msgid "Home"
+msgstr "Hjem"
+
+#: bp-groups/bp-groups-loader.php:295
+msgid "Admin"
+msgstr "Administrator"
+
+#: bp-groups/bp-groups-loader.php:314 bp-groups/bp-groups-template.php:1580
+#: bp-groups/bp-groups-template.php:1581
+#: bp-themes/bp-default/_inc/ajax.php:506
+msgid "Request Membership"
+msgstr "Forespør medlemskap"
+
+#: bp-groups/bp-groups-loader.php:326
+msgid "Forum"
+msgstr "Forum"
+
+#: bp-groups/bp-groups-loader.php:338
+#, fuzzy
+msgid "Members <span>%s</span>"
+msgstr "Grupper <span>(%d)</span>"
+
+#: bp-groups/bp-groups-loader.php:350
+#: bp-themes/bp-default/groups/single/send-invites.php:60
+msgid "Send Invites"
+msgstr "Send invitasjoner"
+
+#: bp-groups/bp-groups-loader.php:392
+#, fuzzy
+msgid "Groups <span class=\"count\">%s</span>"
+msgstr "Grupper <span>(%d)</span>"
+
+#: bp-groups/bp-groups-loader.php:393
+msgid "Pending Invites <span class=\"count\">%s</span>"
+msgstr ""
+
+#: bp-groups/bp-groups-loader.php:396
+#, fuzzy
+msgid "No Pending Invites"
+msgstr "Send invitasjoner"
+
+#: bp-groups/bp-groups-loader.php:456 bp-groups/bp-groups-buddybar.php:25
+#: bp-groups/bp-groups-template.php:2337
+msgid "Group Avatar"
+msgstr "Gruppe-Avatar"
+
+#: bp-groups/bp-groups-classes.php:752
+msgid "Group Mod"
+msgstr "Gruppe-mod"
+
+#: bp-groups/bp-groups-classes.php:758 bp-groups/bp-groups-functions.php:98
+msgid "Group Admin"
+msgstr "Gruppeadmin"
+
+#: bp-groups/bp-groups-notifications.php:10
+msgid "Group Details Updated"
+msgstr "Gruppedetaljer oppdatert"
+
+#: bp-groups/bp-groups-notifications.php:24
+msgid ""
+"Group details for the group \"%1$s\" were updated:\n"
+"\n"
+"To view the group: %2$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Gruppedetaljer for gruppen \"%1$s\" ble oppdatert:\n"
+"\n"
+"For å vise gruppen: %2$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:68
+msgid "Membership request for group: %s"
+msgstr "Medlemskap-forespørsel for gruppen: %s"
+
+#: bp-groups/bp-groups-notifications.php:70
+msgid ""
+"%1$s wants to join the group \"%2$s\".\n"
+"\n"
+"Because you are the administrator of this group, you must either accept or "
+"reject the membership request.\n"
+"\n"
+"To view all pending membership requests for this group, please visit:\n"
+"%3$s\n"
+"\n"
+"To view %4$s's profile: %5$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s vil bli medlem av gruppen \"%2$s\".\n"
+"\n"
+"Siden du er gruppens administrator, må du enten godta eller avvise "
+"forspørselen.\n"
+"\n"
+"For å vise alle ventende medlemskapforespørsler for denne gruppen vennligst "
+"besøk:\n"
+"%3$s\n"
+"\n"
+"For å se %4$ss profil: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:119
+msgid "Membership request for group \"%s\" accepted"
+msgstr "Medlemskap-forespørsel for gruppen \"%s\" akseptert"
+
+#: bp-groups/bp-groups-notifications.php:120
+msgid ""
+"Your membership request for the group \"%1$s\" has been accepted.\n"
+"\n"
+"To view the group please login and visit: %2$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Din medlemskap-forespørsel til gruppen \"%1$s\" har blitt akseptert.\n"
+"\n"
+"For å se gruppen vennligst logg inn og besøk: %2$s\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:129
+msgid "Membership request for group \"%s\" rejected"
+msgstr "Medlemskap-forespørsel i gruppen \"%s\" avslått"
+
+#: bp-groups/bp-groups-notifications.php:130
+msgid ""
+"Your membership request for the group \"%1$s\" has been rejected.\n"
+"\n"
+"To submit another request please log in and visit: %2$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Din medlemskap-forespørsel for gruppen \"%1$s\" ble avslått.\n"
+"\n"
+"For å legge inn en annen forespørsel vennligst logg inn og besøk: %2$s\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:155
+msgid "an administrator"
+msgstr "en administrator"
+
+#: bp-groups/bp-groups-notifications.php:158
+msgid "a moderator"
+msgstr "en moderator"
+
+#: bp-groups/bp-groups-notifications.php:177
+msgid "You have been promoted in the group: \"%s\""
+msgstr "Du har blitt oppgradert i gruppen: \"%s\""
+
+#: bp-groups/bp-groups-notifications.php:179
+msgid ""
+"You have been promoted to %1$s for the group: \"%2$s\".\n"
+"\n"
+"To view the group please visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Du har blitt oppgradert til %1$s i gruppen: \"%2$s\".\n"
+"\n"
+"For å se gruppen vennligst besøk: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:227
+msgid "You have an invitation to the group: \"%s\""
+msgstr "Du har en invitasjon til gruppen: \"%s\""
+
+#: bp-groups/bp-groups-notifications.php:229
+msgid ""
+"One of your friends %1$s has invited you to the group: \"%2$s\".\n"
+"\n"
+"To view your group invites visit: %3$s\n"
+"\n"
+"To view the group visit: %4$s\n"
+"\n"
+"To view %5$s's profile visit: %6$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"En av dinje venner %1$s har invitert deg til gruppen:  \"%2$s\".\n"
+"\n"
+"For å se på dine gruppe-invitasjoner besøk: %3$s\n"
+"\n"
+"For å se på gruppen besøk: %4$s\n"
+"\n"
+"For å se på %5$ss profil besøk: %6$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-adminbar.php:57 bp-groups/bp-groups-buddybar.php:19
+msgid "Edit Details"
+msgstr "Rediger detaljer"
+
+#: bp-groups/bp-groups-adminbar.php:65
+#, fuzzy
+msgid "Edit Settings"
+msgstr "Innstillinger"
+
+#: bp-groups/bp-groups-adminbar.php:74 bp-members/bp-members-adminbar.php:118
+#, fuzzy
+msgid "Edit Avatar"
+msgstr "Rediger %ss avatar"
+
+#: bp-groups/bp-groups-adminbar.php:84 bp-groups/bp-groups-buddybar.php:31
+#, fuzzy
+msgid "Manage Invitations"
+msgstr "Nevnelser"
+
+#: bp-groups/bp-groups-adminbar.php:93 bp-groups/bp-groups-buddybar.php:35
+msgid "Manage Members"
+msgstr "Behandle medlemmer"
+
+#: bp-groups/bp-groups-adminbar.php:102 bp-groups/bp-groups-buddybar.php:39
+msgid "Membership Requests"
+msgstr "Medlemskapforespørsler"
+
+#: bp-groups/bp-groups-adminbar.php:111 bp-groups/bp-groups-buddybar.php:43
+#: bp-xprofile/bp-xprofile-admin.php:125
+#: bp-themes/bp-default/groups/single/admin.php:358
+msgid "Delete Group"
+msgstr "Slett gruppe"
+
+#: bp-groups/bp-groups-widgets.php:19
+msgid "A dynamic list of recently active, popular, and newest groups"
+msgstr "En dynamisk liste av nylig aktive, populære og nyeste grupper"
+
+#: bp-groups/bp-groups-widgets.php:68 bp-groups/bp-groups-widgets.php:168
+#, fuzzy
+msgid "created %s"
+msgstr "Opprettet %s siden"
+
+#: bp-groups/bp-groups-widgets.php:87
+msgid "There are no groups to display."
+msgstr "Det finnes ingen grupper å vise."
+
+#: bp-groups/bp-groups-widgets.php:120
+msgid "Max groups to show:"
+msgstr "Maks antall grupper å vise:"
+
+#: bp-groups/bp-groups-widgets.php:123
+msgid "Default groups to show:"
+msgstr "Maks antall grupper å vise:"
+
+#: bp-groups/bp-groups-widgets.php:187
+msgid "No groups matched the current filter."
+msgstr "Ingen grupper matchet nåværende filter"
+
+#: bp-groups/bp-groups-forums.php:56 bp-groups/bp-groups-forums.php:160
+#, fuzzy
+msgid "%1$s replied to the forum topic %2$s in the group %3$s"
+msgstr "%1$s postet på forum emne %2$s i gruppen %3$s:"
+
+#: bp-groups/bp-groups-forums.php:95 bp-groups/bp-groups-forums.php:127
+#, fuzzy
+msgid "%1$s started the forum topic %2$s in the group %3$s"
+msgstr "%1$s startet forum emnet %2$s i gruppen %3$s:"
+
+#: bp-groups/bp-groups-screens.php:49
+msgid "Group invite could not be accepted"
+msgstr "Gruppeinvitasjon kunne ikke bli akseptert"
+
+#: bp-groups/bp-groups-screens.php:51
+msgid "Group invite accepted"
+msgstr "Gruppeinvitasjon akseptert"
+
+#: bp-groups/bp-groups-screens.php:57 bp-groups/bp-groups-functions.php:324
+#: bp-groups/bp-groups-functions.php:809
+msgid "%1$s joined the group %2$s"
+msgstr "%1$s ble medlem av gruppen %2$s"
+
+#: bp-groups/bp-groups-screens.php:71
+msgid "Group invite could not be rejected"
+msgstr "Gruppeinvitasjon kunne ikke bli avslått"
+
+#: bp-groups/bp-groups-screens.php:73
+msgid "Group invite rejected"
+msgstr "Gruppeinvitasjon avslått"
+
+#: bp-groups/bp-groups-screens.php:149
+msgid "There was an error when replying to that topic"
+msgstr "Det oppsto en feil ved svar på dette emne"
+
+#: bp-groups/bp-groups-screens.php:151
+msgid "Your reply was posted successfully"
+msgstr "Ditt svar ble lagt inn"
+
+#: bp-groups/bp-groups-screens.php:165
+msgid "There was an error when making that topic a sticky"
+msgstr "Det oppsto en feil ved forsøk på å gjøre emne klistrete"
+
+#: bp-groups/bp-groups-screens.php:167
+msgid "The topic was made sticky successfully"
+msgstr "Emnet ble gjort klistrete"
+
+#: bp-groups/bp-groups-screens.php:179
+msgid "There was an error when unsticking that topic"
+msgstr "Det oppsto en feil ved forsøk på å fjerne emne som klistrete"
+
+#: bp-groups/bp-groups-screens.php:181
+msgid "The topic was unstuck successfully"
+msgstr "Emnet ble gjort ikke-klistrete"
+
+#: bp-groups/bp-groups-screens.php:193
+msgid "There was an error when closing that topic"
+msgstr "Det oppsto en feil ved lukking av emne"
+
+#: bp-groups/bp-groups-screens.php:195
+msgid "The topic was closed successfully"
+msgstr "Emne ble lukket"
+
+#: bp-groups/bp-groups-screens.php:207
+msgid "There was an error when opening that topic"
+msgstr "Det oppsto en feil ved åpning av emne"
+
+#: bp-groups/bp-groups-screens.php:209
+msgid "The topic was opened successfully"
+msgstr "Emne ble åpnet"
+
+#: bp-groups/bp-groups-screens.php:230
+msgid "There was an error deleting the topic"
+msgstr "Det oppsto en feil ved sletting av emne"
+
+#: bp-groups/bp-groups-screens.php:232
+#, fuzzy
+msgid "The topic was deleted successfully"
+msgstr "Emne ble redigert"
+
+#: bp-groups/bp-groups-screens.php:254
+msgid "There was an error when editing that topic"
+msgstr "Det oppsto en feil ved redigering av emne"
+
+#: bp-groups/bp-groups-screens.php:256
+msgid "The topic was edited successfully"
+msgstr "Emne ble redigert"
+
+#: bp-groups/bp-groups-screens.php:280
+msgid "There was an error deleting that post"
+msgstr "Det oppsto en feil ved sletting av innlegget"
+
+#: bp-groups/bp-groups-screens.php:282
+msgid "The post was deleted successfully"
+msgstr "Innlegget ble slettet"
+
+#: bp-groups/bp-groups-screens.php:304
+msgid "There was an error when editing that post"
+msgstr "Det oppsto en feil ved redigering av innlegg"
+
+#: bp-groups/bp-groups-screens.php:306
+msgid "The post was edited successfully"
+msgstr "Innlegget ble redigert"
+
+#: bp-groups/bp-groups-screens.php:321 bp-groups/bp-groups-screens.php:338
+msgid "You have been banned from this group."
+msgstr "Lenken ble fjernet fra denne gruppen."
+
+#: bp-groups/bp-groups-screens.php:346 bp-forums/bp-forums-screens.php:36
+msgid "Please provide a title for your forum topic."
+msgstr "Vennligst legg inn en tittel på ditt forum-tema."
+
+#: bp-groups/bp-groups-screens.php:348 bp-forums/bp-forums-screens.php:38
+msgid "Forum posts cannot be empty. Please enter some text."
+msgstr "Forum-poster kan ikke være tomme. Vennligst legg inn tekst."
+
+#: bp-groups/bp-groups-screens.php:351
+#, fuzzy
+msgid "This group does not have a forum setup yet."
+msgstr "Emne finnes ikke."
+
+#: bp-groups/bp-groups-screens.php:358 bp-forums/bp-forums-screens.php:45
+msgid "There was an error when creating the topic"
+msgstr "Det oppsto en feil ved opprettelse av emne"
+
+#: bp-groups/bp-groups-screens.php:361 bp-forums/bp-forums-screens.php:48
+msgid "The topic was created successfully"
+msgstr "Emne ble opprettet"
+
+#: bp-groups/bp-groups-screens.php:405
+msgid "Group invites sent."
+msgstr "Gruppeinvitasjon sendt."
+
+#: bp-groups/bp-groups-screens.php:433
+msgid ""
+"There was an error sending your group membership request, please try again."
+msgstr ""
+"Det oppsto en feil ved sending av gruppemedlemskap-forespørsel, vennligst "
+"prøv igjen."
+
+#: bp-groups/bp-groups-screens.php:435
+msgid ""
+"Your membership request was sent to the group administrator successfully. "
+"You will be notified when the group administrator responds to your request."
+msgstr ""
+"Din medlemskap-forespørsel ble sendt til gruppeadministrator. Du vil få "
+"beskjed når gruppe-administrator svarer på forespørselen."
+
+#: bp-groups/bp-groups-screens.php:482
+msgid "There was an error updating group details, please try again."
+msgstr ""
+"Det oppsto en fel ved oppdatering av gruppedetaljer, vennligst prøv igjen."
+
+#: bp-groups/bp-groups-screens.php:484
+msgid "Group details were successfully updated."
+msgstr "Gruppedetaljene ble oppdatert."
+
+#: bp-groups/bp-groups-screens.php:525
+msgid "There was an error updating group settings, please try again."
+msgstr ""
+"Det oppsto en feil ved oppdatering av gruppe-instillinger, vennligst prøv "
+"igjen."
+
+#: bp-groups/bp-groups-screens.php:527
+msgid "Group settings were successfully updated."
+msgstr "Gruppe-instillingene ble oppdatert."
+
+#: bp-groups/bp-groups-screens.php:558 bp-xprofile/bp-xprofile-actions.php:36
+msgid "Your avatar was deleted successfully!"
+msgstr "Din avatar ble slettet."
+
+#: bp-groups/bp-groups-screens.php:560 bp-xprofile/bp-xprofile-actions.php:38
+msgid "There was a problem deleting that avatar, please try again."
+msgstr "Det oppsto en feil ved sletting av avatar, vennligst prøv igjen."
+
+#: bp-groups/bp-groups-screens.php:588
+msgid "There was a problem cropping the avatar, please try uploading it again"
+msgstr ""
+"Det oppstod en feil ved klipping av avatar, vennligst prøv å laste opp igjen"
+
+#: bp-groups/bp-groups-screens.php:590
+msgid "The new group avatar was uploaded successfully!"
+msgstr "Den nye gruppe-avataren ble lastet opp!"
+
+#: bp-groups/bp-groups-screens.php:625
+msgid "There was an error when promoting that user, please try again"
+msgstr "Det oppsto en feil ved oppgradering av brukeren, vennligst prøv igjen."
+
+#: bp-groups/bp-groups-screens.php:627
+msgid "User promoted successfully"
+msgstr "Bruker ble oppgradert."
+
+#: bp-groups/bp-groups-screens.php:645
+msgid "There was an error when demoting that user, please try again"
+msgstr "Det oppsto en feil ved nedgradering av brukeren, vennligst prøv igjen"
+
+#: bp-groups/bp-groups-screens.php:647
+msgid "User demoted successfully"
+msgstr "Bruker ble nedgradert"
+
+#: bp-groups/bp-groups-screens.php:663
+msgid "There was an error when banning that user, please try again"
+msgstr "Det oppsto en feil ved utestenging av brukeren, vennligst prøv igjen."
+
+#: bp-groups/bp-groups-screens.php:665
+msgid "User banned successfully"
+msgstr "Bruker ble utestengt"
+
+#: bp-groups/bp-groups-screens.php:681
+msgid "There was an error when unbanning that user, please try again"
+msgstr ""
+"Det oppsto en fel ved avbrytelse av utesteningen av brukeren, vennligst prøv "
+"igjen."
+
+#: bp-groups/bp-groups-screens.php:683
+msgid "User ban removed successfully"
+msgstr "Utestengelse av bruker ble opphevet."
+
+#: bp-groups/bp-groups-screens.php:699
+msgid "There was an error removing that user from the group, please try again"
+msgstr ""
+"Det oppsto en feil ved fjerning av bruker fra gruppen, vennligst prøv igjen"
+
+#: bp-groups/bp-groups-screens.php:701
+msgid "User removed successfully"
+msgstr "Utestengelse av bruker ble opphevet."
+
+#: bp-groups/bp-groups-screens.php:739
+msgid "There was an error accepting the membership request, please try again."
+msgstr ""
+"Det oppsto en feil ved akseptering av medlemskap-forespørsel, vennligst prøv "
+"igjen."
+
+#: bp-groups/bp-groups-screens.php:741
+msgid "Group membership request accepted"
+msgstr "Gruppemedlemskap-forespørsel akseptert"
+
+#: bp-groups/bp-groups-screens.php:750
+msgid "There was an error rejecting the membership request, please try again."
+msgstr ""
+"Det oppsto en fel ved avslåing av gruppemedlemskap-forespørsel, vennligst "
+"prøv igjen."
+
+#: bp-groups/bp-groups-screens.php:752
+msgid "Group membership request rejected"
+msgstr "Gruppemedlemskap-forespørsel avslått"
+
+#: bp-groups/bp-groups-screens.php:782
+msgid "There was an error deleting the group, please try again."
+msgstr "Det oppsto en feil ved sletting av gruppe, vennligst prøv igjen."
+
+#: bp-groups/bp-groups-screens.php:784
+msgid "The group was deleted successfully"
+msgstr "Gruppen ble slettet"
+
+#: bp-groups/bp-groups-screens.php:835
+msgid "A member invites you to join a group"
+msgstr "Et medlem inviterer deg til å bli medlem av en gruppe"
+
+#: bp-groups/bp-groups-screens.php:841
+msgid "Group information is updated"
+msgstr "Gruppeinformasjon oppdatert"
+
+#: bp-groups/bp-groups-screens.php:847
+msgid "You are promoted to a group administrator or moderator"
+msgstr "Du er oppgradert til gruppe-administrator eller moderator"
+
+#: bp-groups/bp-groups-screens.php:853
+msgid "A member requests to join a private group for which you are an admin"
+msgstr "Et medlem forespør medlemskap i en privat gruppe som du er admin for"
+
+#: bp-groups/bp-groups-buddybar.php:16 bp-members/bp-members-buddybar.php:103
+msgid "Admin Options"
+msgstr "Admin Valg"
+
+#: bp-groups/bp-groups-buddybar.php:21
+msgid "Group Settings"
+msgstr "Gruppeinnstillinger"
+
+#: bp-groups/bp-groups-template.php:171
+msgctxt "Group pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: bp-groups/bp-groups-template.php:172
+msgctxt "Group pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-groups/bp-groups-template.php:353
+msgid "Public Group"
+msgstr "Offentlig gruppe"
+
+#: bp-groups/bp-groups-template.php:355
+msgid "Hidden Group"
+msgstr "Skjult gruppe"
+
+#: bp-groups/bp-groups-template.php:357
+msgid "Private Group"
+msgstr "Privat gruppe"
+
+#: bp-groups/bp-groups-template.php:359
+msgid "Group"
+msgstr "Gruppe"
+
+#: bp-groups/bp-groups-template.php:389
+#: bp-activity/bp-activity-template.php:992
+msgid "Group logo of %s"
+msgstr "Gruppelogo for %s"
+
+#: bp-groups/bp-groups-template.php:431
+msgid "not yet active"
+msgstr "Ikke aktiv ennå"
+
+#: bp-groups/bp-groups-template.php:522
+msgid "Private"
+msgstr "Privat"
+
+#: bp-groups/bp-groups-template.php:572 bp-groups/bp-groups-template.php:595
+#: bp-groups/bp-groups-template.php:1034 bp-groups/bp-groups-template.php:1050
+#: bp-groups/bp-groups-template.php:1099 bp-groups/bp-groups-template.php:1115
+#: bp-groups/bp-groups-template.php:1795 bp-groups/bp-groups-template.php:1804
+#: bp-groups/bp-groups-template.php:1813 bp-groups/bp-groups-template.php:2519
+#: bp-forums/bp-forums-template.php:488 bp-forums/bp-forums-template.php:605
+#: bp-forums/bp-forums-template.php:1192
+#: bp-members/bp-members-template.php:484
+#: bp-members/bp-members-template.php:780
+#: bp-members/bp-members-template.php:800
+#: bp-themes/bp-default/groups/single/admin.php:185
+#: bp-themes/bp-default/groups/single/admin.php:210
+#: bp-activity/bp-activity-template.php:897
+#: bp-activity/bp-activity-template.php:1008
+#: bp-activity/bp-activity-template.php:1017
+msgid "Profile picture of %s"
+msgstr "Profilbilde av %s"
+
+#: bp-groups/bp-groups-template.php:577
+msgid "No Admins"
+msgstr "Ingen administratorer"
+
+#: bp-groups/bp-groups-template.php:604
+msgid "No Mods"
+msgstr "Ingen moderatorer"
+
+#: bp-groups/bp-groups-template.php:686
+msgid "Filter Groups"
+msgstr "Filtrer grupper"
+
+#: bp-groups/bp-groups-template.php:736
+msgid "Viewing group %1$s to %2$s (of %3$s groups)"
+msgstr "Viser grupper %1$s til %2$s (av %3$s grupper)"
+
+#: bp-groups/bp-groups-template.php:764
+msgid "%s member"
+msgstr "%s medlem"
+
+#: bp-groups/bp-groups-template.php:766
+#: bp-themes/bp-default/members/single/groups/invites.php:14
+msgid "%s members"
+msgstr "%s medlemmer"
+
+#: bp-groups/bp-groups-template.php:805
+msgid "%d topic"
+msgstr "%d emne"
+
+#: bp-groups/bp-groups-template.php:807
+msgid "%d topics"
+msgstr "%d emner"
+
+#: bp-groups/bp-groups-template.php:839 bp-forums/bp-forums-template.php:684
+msgid "%d post"
+msgstr "%d innlegg"
+
+#: bp-groups/bp-groups-template.php:841 bp-forums/bp-forums-template.php:686
+msgid "%d posts"
+msgstr "%d innlegg"
+
+#: bp-groups/bp-groups-template.php:1041 bp-groups/bp-groups-template.php:1106
+#: bp-themes/bp-default/groups/single/admin.php:189
+#: bp-themes/bp-default/groups/single/admin.php:215
+msgid "Demote to Member"
+msgstr "Nedgrader til medlem"
+
+#: bp-groups/bp-groups-template.php:1054 bp-groups/bp-groups-template.php:1119
+#: bp-groups/bp-groups-template.php:1888
+#, fuzzy
+msgid "joined %s"
+msgstr "ble medlem %s siden"
+
+#: bp-groups/bp-groups-template.php:1077
+msgid "This group has no administrators"
+msgstr "Denne gruppen har ingen administratorer"
+
+#: bp-groups/bp-groups-template.php:1105
+#: bp-themes/bp-default/groups/single/admin.php:214
+#: bp-themes/bp-default/groups/single/admin.php:270
+msgid "Promote to Admin"
+msgstr "Oppgrader til admin"
+
+#: bp-groups/bp-groups-template.php:1139
+msgid "This group has no moderators"
+msgstr "Denne gruppen har ingen moderatorer"
+
+#: bp-groups/bp-groups-template.php:1293 bp-xprofile/bp-xprofile-admin.php:464
+#: bp-forums/bp-forums-template.php:1263
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:50
+#: bp-themes/bp-default/members/single/messages/single.php:24
+#: bp-themes/bp-default/activity/comment.php:43
+#: bp-activity/bp-activity-template.php:2004
+msgid "Delete"
+msgstr "Slett"
+
+#: bp-groups/bp-groups-template.php:1499 bp-groups/bp-groups-template.php:1500
+#: bp-themes/bp-default/forums/index.php:23
+#: bp-themes/bp-default/forums/single/forum.php:19
+#: bp-themes/bp-default/groups/single/forum.php:17
+msgid "New Topic"
+msgstr "Nytt emne"
+
+#: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
+#: bp-themes/bp-default/_inc/ajax.php:482
+msgid "Leave Group"
+msgstr "Forlat gruppe"
+
+#: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
+#: bp-themes/bp-default/_inc/ajax.php:504
+msgid "Join Group"
+msgstr "Bli medlem av gruppe"
+
+#: bp-groups/bp-groups-template.php:1595 bp-groups/bp-groups-template.php:1596
+msgid "Request Sent"
+msgstr "Forespørsel sendt"
+
+#: bp-groups/bp-groups-template.php:1618
+msgid ""
+"This is a private group and you must request group membership in order to "
+"join."
+msgstr ""
+"Dette er en privat gruppe og du må forespørre gruppe-medlemskap for å bli "
+"medlem."
+
+#: bp-groups/bp-groups-template.php:1620
+msgid ""
+"This is a private group. To join you must be a registered site member and "
+"request group membership."
+msgstr ""
+"Dette er en privat gruppe. For å bli medlem må du være en registrert site-"
+"bruker og forepørre gruppemedlemskap."
+
+#: bp-groups/bp-groups-template.php:1622
+msgid ""
+"This is a private group. Your membership request is awaiting approval from "
+"the group administrator."
+msgstr ""
+"Dette er en privat gruppe. Din medlemskapforespørsel venter på svar fra "
+"gruppe-administrator."
+
+#: bp-groups/bp-groups-template.php:1624
+msgid "This is a hidden group and only invited members can join."
+msgstr "Dette er en skjult gruppe og bare inviterte kan bli medlem."
+
+#: bp-groups/bp-groups-template.php:1938
+msgid "Viewing members %1$s to %2$s (of %3$s members)"
+msgstr "Viser medlemmer %1$s til %2$s (av %3$s medlemmer)"
+
+#: bp-groups/bp-groups-template.php:2164
+msgid "Group avatar"
+msgstr "Gruppe-Avatar"
+
+#: bp-groups/bp-groups-template.php:2277 bp-groups/bp-groups-template.php:2300
+msgid "Recently Joined"
+msgstr "Innmeldt i det siste"
+
+#: bp-groups/bp-groups-template.php:2278 bp-groups/bp-groups-template.php:2303
+msgid "Most Popular"
+msgstr "Mest populære"
+
+#: bp-groups/bp-groups-template.php:2279 bp-groups/bp-groups-template.php:2306
+msgid "Administrator Of"
+msgstr "Administrator av"
+
+#: bp-groups/bp-groups-template.php:2280 bp-groups/bp-groups-template.php:2309
+msgid "Moderator Of"
+msgstr "Moderator av"
+
+#: bp-groups/bp-groups-template.php:2341
+msgid "No Group Avatar"
+msgstr "Ingen gruppe-Avatar"
+
+#: bp-groups/bp-groups-template.php:2552
+#, fuzzy
+msgid "requested %s"
+msgstr "Forespurt %s siden"
+
+#: bp-groups/bp-groups-template.php:2736
+msgid "Group Activity RSS Feed"
+msgstr "Gruppeaktivitet RSS Strøm"
+
+#: bp-groups/bp-groups-functions.php:255
+msgid "As the only Admin, you cannot leave the group."
+msgstr "Som den eneste administrator kan du ikke forlate gruppen."
+
+#: bp-groups/bp-groups-functions.php:513
+#, fuzzy
+msgid "%1$s posted an update in the group %2$s"
+msgstr "%1$s postet en oppdatering i gruppen %2$s:"
+
+#: bp-xprofile/bp-xprofile-loader.php:135
+#: bp-xprofile/bp-xprofile-loader.php:191
+#: bp-xprofile/bp-xprofile-admin.php:463 bp-forums/bp-forums-template.php:1262
+#: bp-themes/bp-default/functions.php:492
+msgid "Edit"
+msgstr "Rediger"
+
+#: bp-xprofile/bp-xprofile-loader.php:145
+#: bp-xprofile/bp-xprofile-loader.php:198
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:1
+msgid "Change Avatar"
+msgstr "Endre Avatar"
+
+#: bp-xprofile/bp-xprofile-screens.php:85
+msgid ""
+"Please make sure you fill in all required fields in this profile field group "
+"before saving."
+msgstr ""
+"Vennligst påse at du fyller ut alle obligatoriske felt i denne gruppen før "
+"du lagrer."
+
+#: bp-xprofile/bp-xprofile-screens.php:111
+msgid ""
+"There was a problem updating some of your profile information, please try "
+"again."
+msgstr ""
+"Det oppstod en feil ved oppdatering av profil-informasjonen din. Prøv igjen."
+
+#: bp-xprofile/bp-xprofile-screens.php:165
+msgid "There was a problem cropping your avatar, please try uploading it again"
+msgstr "Det oppstod en feil ved klipping av avatar, vennligst prøv igjen."
+
+#: bp-xprofile/bp-xprofile-screens.php:167
+msgid "Your new avatar was uploaded successfully!"
+msgstr "Dine nye avatar ble lastet opp!"
+
+#: bp-xprofile/bp-xprofile-classes.php:244
+msgid "Please make sure you give the group a name."
+msgstr "Vennligst påse at du gir gruppen et navn."
+
+#: bp-xprofile/bp-xprofile-classes.php:268
+msgid "Add New Field Group"
+msgstr "Legg til ny feltgruppe"
+
+#: bp-xprofile/bp-xprofile-classes.php:270
+msgid "Create Field Group"
+msgstr "Opprett feltgruppe"
+
+#: bp-xprofile/bp-xprofile-classes.php:272
+msgid "Edit Field Group"
+msgstr "Rediger felt gruppe"
+
+#: bp-xprofile/bp-xprofile-classes.php:274
+#: bp-themes/bp-default/members/single/settings/notifications.php:62
+#: bp-themes/bp-default/members/single/settings/general.php:69
+#: bp-themes/bp-default/members/single/profile/edit.php:126
+#: bp-themes/bp-default/forums/single/edit.php:57
+#: bp-themes/bp-default/forums/single/edit.php:73
+#: bp-themes/bp-default/groups/single/forum/edit.php:60
+#: bp-themes/bp-default/groups/single/forum/edit.php:76
+#: bp-themes/bp-default/groups/single/admin.php:32
+#: bp-themes/bp-default/groups/single/admin.php:117
+msgid "Save Changes"
+msgstr "Lagre endringene"
+
+#: bp-xprofile/bp-xprofile-classes.php:282
+#: bp-xprofile/bp-xprofile-classes.php:702
+msgid "Fields marked * are required"
+msgstr "Felter markert * er krevd utfylt"
+
+#: bp-xprofile/bp-xprofile-classes.php:293
+msgid "Field Group Title"
+msgstr "Feltgruppe tittel"
+
+#: bp-xprofile/bp-xprofile-classes.php:301
+msgid "Group Description"
+msgstr "Gruppebeskrivelse"
+
+#: bp-xprofile/bp-xprofile-classes.php:311
+#: bp-xprofile/bp-xprofile-classes.php:759
+msgid "or"
+msgstr "eller"
+
+#: bp-xprofile/bp-xprofile-classes.php:311
+#: bp-xprofile/bp-xprofile-classes.php:759
+#: bp-themes/bp-default/forums/index.php:134
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: bp-xprofile/bp-xprofile-classes.php:619
+msgid "Please enter options for this Field:"
+msgstr "Vennligst legg inn valg for dette felt:"
+
+#: bp-xprofile/bp-xprofile-classes.php:620
+#: bp-themes/bp-default/members/index.php:55
+#: bp-themes/bp-default/members/single/friends.php:20
+#: bp-themes/bp-default/members/single/groups.php:20
+#: bp-themes/bp-default/members/single/forums.php:18
+#: bp-themes/bp-default/members/single/blogs.php:19
+#: bp-themes/bp-default/blogs/index.php:55
+#: bp-themes/bp-default/forums/index.php:60
+#: bp-themes/bp-default/forums/single/forum.php:34
+#: bp-themes/bp-default/groups/index.php:57
+#: bp-themes/bp-default/groups/single/forum.php:32
+msgid "Order By:"
+msgstr "Sorter på:"
+
+#: bp-xprofile/bp-xprofile-classes.php:622
+msgid "Order Entered"
+msgstr "Sortert etter innlegging"
+
+#: bp-xprofile/bp-xprofile-classes.php:623
+msgid "Name - Ascending"
+msgstr "Navn - Stigende"
+
+#: bp-xprofile/bp-xprofile-classes.php:624
+msgid "Name - Descending"
+msgstr "Navn - Synkende"
+
+#: bp-xprofile/bp-xprofile-classes.php:651
+#: bp-xprofile/bp-xprofile-classes.php:668
+msgid "Option"
+msgstr "Valg"
+
+#: bp-xprofile/bp-xprofile-classes.php:653
+#: bp-xprofile/bp-xprofile-classes.php:669
+msgid "Default Value"
+msgstr "Standardverdi"
+
+#: bp-xprofile/bp-xprofile-classes.php:675
+msgid "Add Another Option"
+msgstr "Legg til et annet valg"
+
+#: bp-xprofile/bp-xprofile-classes.php:683
+msgid "Add Field"
+msgstr "Legg til felt"
+
+#: bp-xprofile/bp-xprofile-classes.php:695
+msgid "Edit Field"
+msgstr "Rediger felt"
+
+#: bp-xprofile/bp-xprofile-classes.php:715
+msgid "Field Title"
+msgstr "Felt tittel"
+
+#: bp-xprofile/bp-xprofile-classes.php:724
+msgid "Field Description"
+msgstr "Feltbeskrivelse"
+
+#: bp-xprofile/bp-xprofile-classes.php:731
+msgid "Is This Field Required?"
+msgstr "Er dette feltet obligatorisk?"
+
+#: bp-xprofile/bp-xprofile-classes.php:733
+msgid "Not Required"
+msgstr "Ikke obligatorisk"
+
+#: bp-xprofile/bp-xprofile-classes.php:734
+msgid "Required"
+msgstr "Obligatorisk"
+
+#: bp-xprofile/bp-xprofile-classes.php:739
+msgid "Field Type"
+msgstr "Felttype"
+
+#: bp-xprofile/bp-xprofile-classes.php:741
+msgid "Text Box"
+msgstr "Tekstboks"
+
+#: bp-xprofile/bp-xprofile-classes.php:742
+msgid "Multi-line Text Box"
+msgstr "Multilinje-boks"
+
+#: bp-xprofile/bp-xprofile-classes.php:743
+msgid "Date Selector"
+msgstr "Datovelger"
+
+#: bp-xprofile/bp-xprofile-classes.php:744
+msgid "Radio Buttons"
+msgstr "Radio-knapper"
+
+#: bp-xprofile/bp-xprofile-classes.php:745
+msgid "Drop Down Select Box"
+msgstr "Rullegardin boks"
+
+#: bp-xprofile/bp-xprofile-classes.php:746
+msgid "Multi Select Box"
+msgstr "Flervalgsboks"
+
+#: bp-xprofile/bp-xprofile-classes.php:747
+msgid "Checkboxes"
+msgstr "Kryss-bokser"
+
+#: bp-xprofile/bp-xprofile-classes.php:777
+msgid "Please make sure you fill out all required fields."
+msgstr "Vennligst påse at du fyller ut alle obligatoriske felt."
+
+#: bp-xprofile/bp-xprofile-classes.php:780
+msgid ""
+"Radio button field types require at least one option. Please add options "
+"below."
+msgstr ""
+"Radioknapp felt-typer krever minst ett valg. Vennligst legg til valg under."
+
+#: bp-xprofile/bp-xprofile-classes.php:783
+#: bp-xprofile/bp-xprofile-classes.php:786
+msgid ""
+"Select box field types require at least one option. Please add options below."
+msgstr "Valg-boks krever minst et valg. Vennligst legg til valg under."
+
+#: bp-xprofile/bp-xprofile-classes.php:789
+msgid ""
+"Checkbox field types require at least one option. Please add options below."
+msgstr "Avkrysningsfelt krever minst et valg. Vennligst legg til valg under."
+
+#: bp-xprofile/bp-xprofile-admin.php:25
+#, fuzzy
+msgid "Profile Fields"
+msgstr "Profil felt-oppsett"
+
+#: bp-xprofile/bp-xprofile-admin.php:74
+#, fuzzy
+msgid "Extended Profile Fields"
+msgstr "Utvidede profiler"
+
+#: bp-xprofile/bp-xprofile-admin.php:76 bp-xprofile/bp-xprofile-admin.php:178
+msgid "Add New Group"
+msgstr "Legg til ny gruppe"
+
+#: bp-xprofile/bp-xprofile-admin.php:79
+msgid ""
+"Your users will distinguish themselves through their profile page. You must "
+"give them profile fields that allow them to describe themselves in a way "
+"that is relevant to the theme of your social network."
+msgstr ""
+"Brukerene dine forteller om seg selv på profilsiden sin.  Du må gi dem "
+"felter som gjør det mulig for dem å beskrive seg selv på en måte som er "
+"relevant for nettstedet du driver."
+
+#: bp-xprofile/bp-xprofile-admin.php:80
+msgid "NOTE: Any fields in the \"%s\" group will appear on the signup page."
+msgstr ""
+"OBS: Hvilket som helst felt i gruppen \"%s\" vil fremkomme på siden for "
+"registrering."
+
+#: bp-xprofile/bp-xprofile-admin.php:103 bp-xprofile/bp-xprofile-admin.php:399
+msgid "(Primary)"
+msgstr ""
+
+#: bp-xprofile/bp-xprofile-admin.php:120
+msgid "Add New Field"
+msgstr "Legg til nytt felt"
+
+#: bp-xprofile/bp-xprofile-admin.php:121
+msgid "Edit Group"
+msgstr "Rediger gruppe"
+
+#: bp-xprofile/bp-xprofile-admin.php:160
+msgid "There are no fields in this group."
+msgstr "Det er ingen felter i denne gruppen."
+
+#: bp-xprofile/bp-xprofile-admin.php:177
+msgid "You have no groups."
+msgstr "Du har ingen grupper."
+
+#: bp-xprofile/bp-xprofile-admin.php:209
+msgid "There was an error saving the group. Please try again"
+msgstr "Det oppsto en fel ved lagring av gruppen. Vennligst prøv igjen"
+
+#: bp-xprofile/bp-xprofile-admin.php:212
+msgid "The group was saved successfully."
+msgstr "Gruppen ble lagret."
+
+#: bp-xprofile/bp-xprofile-admin.php:244
+msgid "There was an error deleting the group. Please try again"
+msgstr "Det oppsto en fel ved sletting av gruppen. Vennligst prøv igjen"
+
+#: bp-xprofile/bp-xprofile-admin.php:247
+msgid "The group was deleted successfully."
+msgstr "Gruppen ble slettet."
+
+#: bp-xprofile/bp-xprofile-admin.php:288
+msgid "There was an error saving the field. Please try again"
+msgstr "Det oppsto en feil ved lagring av felt. Vennligst prøv igjen"
+
+#: bp-xprofile/bp-xprofile-admin.php:294
+msgid "The field was saved successfully."
+msgstr "Feltet ble lagret."
+
+#: bp-xprofile/bp-xprofile-admin.php:324
+msgid "field"
+msgstr "felt"
+
+#: bp-xprofile/bp-xprofile-admin.php:326
+msgid "option"
+msgstr "valg"
+
+#: bp-xprofile/bp-xprofile-admin.php:331
+msgid "There was an error deleting the %s. Please try again"
+msgstr "Det oppsto en feil ved sletting av %s. Vennligst prøv igjen"
+
+#: bp-xprofile/bp-xprofile-admin.php:334
+msgid "The %s was deleted successfully!"
+msgstr "%s ble slettet med suksess!"
+
+#: bp-xprofile/bp-xprofile-admin.php:399
+#, fuzzy
+msgid "(Required)"
+msgstr "(obligatorisk)"
+
+#: bp-xprofile/bp-xprofile-admin.php:432
+#: bp-themes/bp-default/registration/register.php:119
+#: bp-themes/bp-default/members/single/profile/edit.php:58
+#: bp-themes/bp-default/members/single/profile/edit.php:73
+msgid "Clear"
+msgstr "Fjern"
+
+#. translators: no option picked in select box
+#: bp-xprofile/bp-xprofile-template.php:432
+#: bp-themes/bp-default/forums/index.php:116
+msgid "----"
+msgstr ""
+
+#: bp-xprofile/bp-xprofile-template.php:614
+msgid "January"
+msgstr "januar"
+
+#: bp-xprofile/bp-xprofile-template.php:614
+msgid "February"
+msgstr "februar"
+
+#: bp-xprofile/bp-xprofile-template.php:614
+msgid "March"
+msgstr "mars"
+
+#: bp-xprofile/bp-xprofile-template.php:615
+msgid "April"
+msgstr "april"
+
+#: bp-xprofile/bp-xprofile-template.php:615
+msgid "May"
+msgstr "mai"
+
+#: bp-xprofile/bp-xprofile-template.php:615
+msgid "June"
+msgstr "juni"
+
+#: bp-xprofile/bp-xprofile-template.php:616
+msgid "July"
+msgstr "juli"
+
+#: bp-xprofile/bp-xprofile-template.php:616
+msgid "August"
+msgstr "august"
+
+#: bp-xprofile/bp-xprofile-template.php:616
+msgid "September"
+msgstr "september"
+
+#: bp-xprofile/bp-xprofile-template.php:617
+msgid "October"
+msgstr "oktober"
+
+#: bp-xprofile/bp-xprofile-template.php:617
+msgid "November"
+msgstr "november"
+
+#: bp-xprofile/bp-xprofile-template.php:617
+msgid "December"
+msgstr "desember"
+
+#: bp-xprofile/bp-xprofile-template.php:750
+msgid ""
+"Avatar uploads are currently disabled. Why not use a <a href=\"http://"
+"gravatar.com\" target=\"_blank\">gravatar</a> instead?"
+msgstr ""
+"Mulighet for Avatar opplasting er avslått. Hvorfor ikke bruke en <a href="
+"\"http://gravatar.com\" target=\"_blank\">gravatar</a> istedet?"
+
+#: bp-xprofile/bp-xprofile-template.php:759
+msgid "Profile not recently updated"
+msgstr "Profil ikke oppdatert i det siste"
+
+#: bp-xprofile/bp-xprofile-template.php:770
+#, fuzzy
+msgid "Profile updated %s"
+msgstr "Profil oppdatert for %s siden."
+
+#: bp-xprofile/bp-xprofile-template.php:813
+#: bp-xprofile/bp-xprofile-template.php:814
+#: bp-members/bp-members-adminbar.php:110
+msgid "Edit Profile"
+msgstr "Rediger profil"
+
+#: bp-xprofile/bp-xprofile-activity.php:22
+msgid "New member registered"
+msgstr "Nytt medlem registrert"
+
+#: bp-xprofile/bp-xprofile-activity.php:23
+msgid "Updated Profile"
+msgstr "Oppdaterte profil"
+
+#: bp-xprofile/bp-xprofile-activity.php:128
+msgid "%s changed their profile picture"
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:30
+msgid "Settings Saved."
+msgstr "Innstillinger lagret."
+
+#: bp-forums/bp-forums-admin.php:46
+#, fuzzy
+msgid "(Installed)"
+msgstr "Plugin Installert"
+
+#: bp-forums/bp-forums-admin.php:46 bp-forums/bp-forums-admin.php:163
+#, fuzzy
+msgid "Forums for Groups"
+msgstr "Forum-oppsett"
+
+#: bp-forums/bp-forums-admin.php:48 bp-forums/bp-forums-admin.php:165
+msgid ""
+"Give each individual group its own discussion forum. Choose this if you'd "
+"like to keep your members' conversations separated into distinct areas."
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:49 bp-forums/bp-forums-admin.php:166
+#, fuzzy
+msgid "You may use an existing bbPress installation if you have one."
+msgstr "Bruk en eksisterende bbPress installasjon"
+
+#: bp-forums/bp-forums-admin.php:51 bp-forums/bp-forums-admin.php:69
+#: bp-forums/bp-forums-admin.php:168 bp-forums/bp-forums-admin.php:187
+msgid "Features"
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:53 bp-forums/bp-forums-admin.php:170
+#, fuzzy
+msgid "Group Integration"
+msgstr "Gruppebeskrivelse"
+
+#: bp-forums/bp-forums-admin.php:54 bp-forums/bp-forums-admin.php:171
+msgid "Member Profile Integration"
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:55 bp-forums/bp-forums-admin.php:73
+#: bp-forums/bp-forums-admin.php:172 bp-forums/bp-forums-admin.php:191
+#, fuzzy
+msgid "Activity Stream Integration"
+msgstr "Aktivitetstrømmer"
+
+#: bp-forums/bp-forums-admin.php:56 bp-forums/bp-forums-admin.php:74
+#: bp-forums/bp-forums-admin.php:173 bp-forums/bp-forums-admin.php:192
+msgid "@ Mention Integration"
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:60
+#, fuzzy
+msgid "Uninstall Group Forums"
+msgstr "Post i gruppeforum:"
+
+#: bp-forums/bp-forums-admin.php:65 bp-forums/bp-forums-admin.php:183
+#, fuzzy
+msgid "New! Site Wide Forums"
+msgstr "Seneste globale innlegg"
+
+#: bp-forums/bp-forums-admin.php:66 bp-forums/bp-forums-admin.php:184
+msgid ""
+"Your site will have central forums that are not isolated to any specific "
+"group. Choose this if you'd like to have a central forum area for your "
+"members."
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:67 bp-forums/bp-forums-admin.php:185
+msgid ""
+"You may activate both Group and Site Wide forums, but this may create a poor "
+"experience for your members."
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:71 bp-forums/bp-forums-admin.php:189
+#, fuzzy
+msgid "Central Discussion Area"
+msgstr "Aktiver diskusjonsforum"
+
+#: bp-forums/bp-forums-admin.php:72 bp-forums/bp-forums-admin.php:190
+msgid "Forum Plugins Available"
+msgstr ""
+
+#: bp-forums/bp-forums-admin.php:77 bp-forums/bp-forums-admin.php:195
+#, fuzzy
+msgid "Install Site Wide Forums"
+msgstr "Seneste globale innlegg"
+
+#: bp-forums/bp-forums-admin.php:96
+msgid ""
+"The bb-config.php file was not found at that location, please try again."
+msgstr ""
+"Filen bb-config.php ble ikke funnet på den lokasjonen, vennligst prøv igjen."
+
+#: bp-forums/bp-forums-admin.php:99
+msgid "Forums were set up correctly using your existing bbPress install!"
+msgstr ""
+"Forumene ble satt opp riktig ved å bruke eksisterende bbPress-installasjon!"
+
+#: bp-forums/bp-forums-admin.php:100
+msgid ""
+"BuddyPress will now use its internal copy of bbPress to run the forums on "
+"your site. If you wish, you can remove your old bbPress installation files, "
+"as long as you keep the bb-config.php file in the same location."
+msgstr ""
+"BuddyPress vil nå bruke en intern kopi av bbPress for å kjøre forumet på "
+"siten din. Om du ønsker, kan du fjerne dine gamle bbPress "
+"installasjonsfiler, så lenge du beholder bb-config.php filen i samme "
+"lokasjon."
+
+#: bp-forums/bp-forums-admin.php:105
+msgid "Existing bbPress Installation"
+msgstr "Eksisterende bbPress installasjon"
+
+#: bp-forums/bp-forums-admin.php:106
+msgid ""
+"BuddyPress can make use of your existing bbPress install. Just provide the "
+"location of your <code>bb-config.php</code> file, and BuddyPress will do the "
+"rest."
+msgstr ""
+"BuddyPress kan ta i bruk din eksisterende bbPress installasjon. Bare gi "
+"lokasjon til din <code>bb-config.php</code> og BuddyPress vil gjøre resten."
+
+#: bp-forums/bp-forums-admin.php:108 bp-forums/bp-forums-admin.php:140
+msgid "Complete Installation"
+msgstr "Ferdigstill installasjon"
+
+#: bp-forums/bp-forums-admin.php:124
+#, fuzzy
+msgid ""
+"<p>All done! Configuration settings have been saved to the file <code>bb-"
+"config.php</code> in the root of your WordPress install.</p>"
+msgstr ""
+"Alt ferdig! Konfigurasjonsinstillingene har blitt lagret til filen <code>bb-"
+"config.php</code> i roten av din Wordpressinstallasjon."
+
+#: bp-forums/bp-forums-admin.php:128
+#, fuzzy
+msgid ""
+"<p>A configuration file could not be created. No problem, but you will need "
+"to save the text shown below into a file named <code>bb-config.php</code> in "
+"the root directory of your WordPress installation before you can start using "
+"the forum functionality.</p>"
+msgstr ""
+"En konfigurasjonsfil kunne ikke bli opprettet. Ikke noe problem, men du må "
+"lagre teksten under til en fil kalt <code>bb-config.php</code> i "
+"rotkatalogen av din Wordpress installasjon før du kan ta i bruk forum-"
+"funksjonalitet."
+
+#: bp-forums/bp-forums-admin.php:137
+msgid "New bbPress Installation"
+msgstr "Ny bbPress installasjon"
+
+#: bp-forums/bp-forums-admin.php:138
+msgid ""
+"You've decided to set up a new installation of bbPress for forum management "
+"in BuddyPress. This is very simple and is usually just a one click\n"
+"\t\t\t\tprocess. When you're ready, hit the link below."
+msgstr ""
+"Du har valgt å sette opp en ny installasjon av bbPress for forum-styring i "
+"BuddyPress. Det er veldig enkelt og krever vanligvis bare ett klikk\n"
+"\t\t\t\tNår du er klar, klikk lenken under."
+
+#: bp-forums/bp-forums-admin.php:150
+msgid ""
+"bbPress files were not found. To install the forums component you must "
+"download a copy of bbPress and make sure it is in the folder: \"%s\""
+msgstr ""
+"Filene for bbPress ble ikke funnet. For å installere forumkomponentet må du "
+"laste ned en kopi av bbPress og være sikker på at den er i katalogen:  \"%s\""
+
+#: bp-forums/bp-forums-admin.php:177
+#, fuzzy
+msgid "Install Group Forums"
+msgstr "Gruppeforum"
+
+#: bp-forums/bp-forums-admin.php:178
+#, fuzzy
+msgid "Use Existing Installation"
+msgstr "Eksisterende bbPress installasjon"
+
+#: bp-forums/bp-forums-loader.php:61
+#, fuzzy
+msgid "Search Forums..."
+msgstr "Vis nye forum-emner"
+
+#: bp-forums/bp-forums-loader.php:135 bp-forums/bp-forums-loader.php:201
+#, fuzzy
+msgid "Topics Started"
+msgstr "Emnetittel"
+
+#: bp-forums/bp-forums-loader.php:146
+#, fuzzy
+msgid "Replied To"
+msgstr "Ubesvarte"
+
+#: bp-forums/bp-forums-loader.php:208
+#, fuzzy
+msgid "Replies"
+msgstr "Svar"
+
+#: bp-forums/bp-forums-loader.php:215
+#, fuzzy
+msgid "Favorite Topics"
+msgstr "Favoritter"
+
+#: bp-forums/bp-forums-template.php:189 bp-forums/bp-forums-template.php:405
+msgctxt "Forum topic pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: bp-forums/bp-forums-template.php:190 bp-forums/bp-forums-template.php:406
+msgctxt "Forum topic pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-forums/bp-forums-template.php:506 bp-forums/bp-forums-template.php:568
+#: bp-forums/bp-forums-template.php:1208
+msgid "Deleted User"
+msgstr "Slettet bruker"
+
+#: bp-forums/bp-forums-template.php:586
+msgid "Group logo for %s"
+msgstr "Gruppe logo for %s"
+
+#: bp-forums/bp-forums-template.php:792
+msgid "Edit Topic"
+msgstr "Rediger emne"
+
+#: bp-forums/bp-forums-template.php:796
+msgid "Sticky Topic"
+msgstr "Fast emne"
+
+#: bp-forums/bp-forums-template.php:798
+msgid "Un-stick Topic"
+msgstr "Løs opp emne"
+
+#: bp-forums/bp-forums-template.php:801
+msgid "Open Topic"
+msgstr "Åpne emne"
+
+#: bp-forums/bp-forums-template.php:803
+msgid "Close Topic"
+msgstr "Lukk emne"
+
+#: bp-forums/bp-forums-template.php:805
+msgid "Delete Topic"
+msgstr "Slett emne"
+
+#: bp-forums/bp-forums-template.php:960
+msgid " matching tag \"%s\""
+msgstr "passende merkelapp \"%s\""
+
+#: bp-forums/bp-forums-template.php:962
+msgid "Viewing topic %s to %s (of %s total topics%s)"
+msgstr "Viser emnet %s to %s (of %s totale emner%s)"
+
+#: bp-forums/bp-forums-template.php:1044
+msgctxt "Forum thread pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: bp-forums/bp-forums-template.php:1045
+msgctxt "Forum thread pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-forums/bp-forums-template.php:1293
+msgid "Viewing post %1$s to %2$s (%3$s total posts)"
+msgstr "Viser innlegg %1$s til %2$s (%3$s totale innlegg)"
+
+#: bp-forums/bp-forums-screens.php:13
+msgid "The forums component has not been set up yet."
+msgstr "Forum-komponentet har ikke blitt satt opp ennå."
+
+#: bp-forums/bp-forums-screens.php:56 bp-forums/bp-forums-screens.php:61
+msgid "Please pick the group forum where you would like to post this topic."
+msgstr "Vennligst velg forum-gruppe hvor du vil poste dette emne."
+
+#: bp-messages/bp-messages-loader.php:24
+#, fuzzy
+msgid "Private Messages"
+msgstr "Private meldinger"
+
+#: bp-messages/bp-messages-loader.php:79
+#, fuzzy
+msgid "Search Messages..."
+msgstr "Søk medlemmer..."
+
+#: bp-messages/bp-messages-loader.php:96
+#: bp-messages/bp-messages-actions.php:41
+#, fuzzy
+msgid "Messages <span>%s</span>"
+msgstr "Mine favoritter (<span>%s</span>)"
+
+#: bp-messages/bp-messages-loader.php:114
+#: bp-messages/bp-messages-loader.php:182
+#: bp-messages/bp-messages-functions.php:237
+msgid "Inbox"
+msgstr "Innboks"
+
+#: bp-messages/bp-messages-loader.php:124
+#: bp-messages/bp-messages-loader.php:203
+#, fuzzy
+msgid "Sent"
+msgstr "Sendt:"
+
+#: bp-messages/bp-messages-loader.php:134
+#: bp-messages/bp-messages-loader.php:210
+msgid "Compose"
+msgstr "Skriv"
+
+#: bp-messages/bp-messages-loader.php:145
+msgid "Notices"
+msgstr "Notiser"
+
+#: bp-messages/bp-messages-loader.php:178
+#, fuzzy
+msgid "Messages <span class=\"count\">%s</span>"
+msgstr "Meldinger<strong>(%s)</strong> "
+
+#: bp-messages/bp-messages-loader.php:179
+msgid "Inbox <span class=\"count\">%s</span>"
+msgstr ""
+
+#: bp-messages/bp-messages-loader.php:181
+#: bp-messages/bp-messages-screens.php:149
+msgid "Messages"
+msgstr "Meldinger"
+
+#: bp-messages/bp-messages-loader.php:218
+#, fuzzy
+msgid "All Member Notices"
+msgstr "Alle medlemmer (%s)"
+
+#: bp-messages/bp-messages-loader.php:237
+msgid "My Messages"
+msgstr "Mine meldinger"
+
+#: bp-messages/bp-messages-template.php:75
+msgctxt "Message pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: bp-messages/bp-messages-template.php:76
+msgctxt "Message pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-messages/bp-messages-template.php:343
+msgid "Viewing message %1$s to %2$s (of %3$s messages)"
+msgstr "Viser melding %1$s til %2$s (av %3$s meldinger)"
+
+#: bp-messages/bp-messages-template.php:401
+msgid "Select:"
+msgstr "Velg:"
+
+#: bp-messages/bp-messages-template.php:404
+msgid "Read"
+msgstr "Leste"
+
+#: bp-messages/bp-messages-template.php:405
+msgid "Unread"
+msgstr "Uleste"
+
+#: bp-messages/bp-messages-template.php:406
+msgid "All"
+msgstr "Alle"
+
+#: bp-messages/bp-messages-template.php:409
+msgid "Mark as Read"
+msgstr "Marker som lest"
+
+#: bp-messages/bp-messages-template.php:410
+msgid "Mark as Unread"
+msgstr "Marker som ulest"
+
+#: bp-messages/bp-messages-template.php:412
+msgid "Delete Selected"
+msgstr "Slett valgte"
+
+#: bp-messages/bp-messages-template.php:421
+msgid "Currently Active"
+msgstr "Aktive i øyeblikket"
+
+#: bp-messages/bp-messages-template.php:496
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: bp-messages/bp-messages-template.php:547
+#: bp-themes/bp-default/functions.php:155
+msgid "Close"
+msgstr "Lukk"
+
+#: bp-messages/bp-messages-template.php:591
+msgid "Send a private message to this user."
+msgstr "Send en privat melding til denne brukeren."
+
+#: bp-messages/bp-messages-template.php:592
+#, fuzzy
+msgid "Private Message"
+msgstr "Private meldinger"
+
+#: bp-messages/bp-messages-template.php:780
+msgid "%d Recipients"
+msgstr "%d Mottakere"
+
+#: bp-messages/bp-messages-template.php:855
+#: bp-themes/bp-default/_inc/ajax.php:543
+#, fuzzy
+msgid "Sent %s"
+msgstr "Sendt %s siden"
+
+#: bp-messages/bp-messages-actions.php:30
+msgid "Your reply was sent successfully"
+msgstr "Ditt svar ble sendt"
+
+#: bp-messages/bp-messages-actions.php:32
+msgid "There was a problem sending your reply, please try again"
+msgstr "Det oppsto en feil ved sending av svaret ditt, vennligst prøv igjen"
+
+#: bp-messages/bp-messages-actions.php:48
+msgid "From: %s"
+msgstr "Fra: %s"
+
+#: bp-messages/bp-messages-actions.php:78
+msgid "There was an error deleting that message."
+msgstr "Det oppsto en feil ved sletting av melding."
+
+#: bp-messages/bp-messages-actions.php:80
+msgid "Message deleted."
+msgstr "Melding slettet."
+
+#: bp-messages/bp-messages-actions.php:102
+msgid "There was an error deleting messages."
+msgstr "Det oppsto en feil ved sletting av melding."
+
+#: bp-messages/bp-messages-actions.php:104
+#: bp-themes/bp-default/_inc/ajax.php:609
+msgid "Messages deleted."
+msgstr "Meldinger slettet."
+
+#: bp-messages/bp-messages-classes.php:203
+msgid " Recipients"
+msgstr "Mottakere"
+
+#: bp-messages/bp-messages-screens.php:54
+#: bp-messages/bp-messages-screens.php:76
+msgid "There was an error sending that message, please try again"
+msgstr "Det oppsto en feil ved sending av melding, vennligst prøv igjen"
+
+#: bp-messages/bp-messages-screens.php:59
+msgid "Notice sent successfully!"
+msgstr "Notisen ble sendt!"
+
+#: bp-messages/bp-messages-screens.php:62
+msgid "There was an error sending that notice, please try again"
+msgstr "Det oppsto en melding ved sending av notis, vennligst prøv igjen"
+
+#: bp-messages/bp-messages-screens.php:73
+msgid "Message sent successfully!"
+msgstr "Melding sendt!"
+
+#: bp-messages/bp-messages-screens.php:100
+msgid "There was a problem deactivating that notice."
+msgstr "Det oppsto et problem ved deaktivering av notis."
+
+#: bp-messages/bp-messages-screens.php:102
+msgid "Notice deactivated."
+msgstr "Notis deaktivert."
+
+#: bp-messages/bp-messages-screens.php:106
+msgid "There was a problem activating that notice."
+msgstr "Det oppsto et problem ved aktivering av notis."
+
+#: bp-messages/bp-messages-screens.php:108
+msgid "Notice activated."
+msgstr "Notis aktivert."
+
+#: bp-messages/bp-messages-screens.php:112
+msgid "There was a problem deleting that notice."
+msgstr "Det oppsto et problem ved sletting av notis."
+
+#: bp-messages/bp-messages-screens.php:114
+msgid "Notice deleted."
+msgstr "Notis slettet."
+
+#: bp-messages/bp-messages-screens.php:158
+msgid "A member sends you a new message"
+msgstr "Et medlem har sendt deg en ny melding"
+
+#: bp-messages/bp-messages-screens.php:164
+msgid "A new site notice is posted"
+msgstr "En ny site-notis er postet"
+
+#: bp-messages/bp-messages-notifications.php:30
+msgid "New message from %s"
+msgstr "Ny melding fra %s"
+
+#: bp-messages/bp-messages-notifications.php:32
+msgid ""
+"%s sent you a new message:\n"
+"\n"
+"Subject: %s\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"To view and read your messages please log in and visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%s sendte deg en ny melding:\n"
+"\n"
+"Emne: %s\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"For å se meldingen, vennligst logg inn og besøk: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-messages/bp-messages-functions.php:48
+msgid "Re: %s"
+msgstr "Re: %s"
+
+#: bp-messages/bp-messages-functions.php:56
+msgid "No Subject"
+msgstr "Ingen emne"
+
+#: bp-messages/bp-messages-functions.php:240
+msgid "You have %d new messages"
+msgstr "Du har %d nye meldinger"
+
+#: bp-messages/bp-messages-functions.php:243
+msgid "You have %d new message"
+msgstr "Du har %d ny melding"
+
+#: bp-members/bp-members-adminbar.php:55
+#, fuzzy
+msgid "Log in"
+msgstr "Logg inn"
+
+#: bp-members/bp-members-adminbar.php:127
+#: bp-members/bp-members-buddybar.php:116
+msgid "Mark as Spammer"
+msgstr "Merk som spammer"
+
+#: bp-members/bp-members-adminbar.php:129
+msgid "Are you sure you want to mark this user as a spammer?"
+msgstr ""
+
+#: bp-members/bp-members-adminbar.php:135
+#: bp-members/bp-members-buddybar.php:120
+msgid "Not a Spammer"
+msgstr "Ikke en spammer"
+
+#: bp-members/bp-members-adminbar.php:137
+msgid "Are you sure you want to mark this user as not a spammer?"
+msgstr ""
+
+#: bp-members/bp-members-adminbar.php:147
+msgid "Are you sure you want to delete this user's account?"
+msgstr ""
+
+#: bp-members/bp-members-adminbar.php:165
+msgid ""
+"Notifications <span id=\"ab-pending-notifications\" class=\"pending-count\">"
+"%s</span>"
+msgstr ""
+
+#: bp-members/bp-members-adminbar.php:190
+#, fuzzy
+msgid "No new notifications"
+msgstr "Ingen nye notiser."
+
+#: bp-members/bp-members-actions.php:87
+msgid "User marked as spammer. Spam users are visible only to site admins."
+msgstr ""
+"Bruker markert som spammer. Spam-brukere er synlig kun for site "
+"administratorer."
+
+#: bp-members/bp-members-actions.php:89
+msgid "User removed as spammer."
+msgstr "Utestengelse av bruker ble opphevet."
+
+#: bp-members/bp-members-actions.php:136
+msgid "%s has been deleted from the system."
+msgstr "%s har blitt slettet fra systemet."
+
+#: bp-members/bp-members-actions.php:138
+msgid "There was an error deleting %s from the system. Please try again."
+msgstr "Det oppsto en feil ved sletting av %s. Vennligst prøv igjen"
+
+#: bp-members/bp-members-buddybar.php:34
+msgid "No new notifications."
+msgstr "Ingen nye notiser."
+
+#: bp-members/bp-members-buddybar.php:62
+msgid "Blog Authors"
+msgstr "Bloggforfattere"
+
+#: bp-members/bp-members-buddybar.php:108
+msgid "Edit %s's Profile"
+msgstr "Rediger %ss profil"
+
+#: bp-members/bp-members-buddybar.php:112
+msgid "Edit %s's Avatar"
+msgstr "Rediger %ss avatar"
+
+#: bp-members/bp-members-buddybar.php:124
+#, fuzzy
+msgid "Delete %s's Account"
+msgstr "Slett konto"
+
+#: bp-members/bp-members-loader.php:70
+msgid "Search Members..."
+msgstr "Søk medlemmer..."
+
+#: bp-members/bp-members-loader.php:177
+msgid "You"
+msgstr ""
+
+#: bp-members/bp-members-functions.php:671
+msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
+msgstr ""
+
+#: bp-members/bp-members-signup.php:57
+msgid "Please make sure you enter your password twice"
+msgstr "Vennligst påse at du taster inn passord to ganger."
+
+#: bp-members/bp-members-signup.php:61
+msgid "The passwords you entered do not match."
+msgstr "Passordenedu tastet inn stemte ikke overens."
+
+#: bp-members/bp-members-signup.php:84
+msgid "This is a required field"
+msgstr "Dette feltet er obligatorisk"
+
+#: bp-members/bp-members-signup.php:197
+msgid "Your account is now active!"
+msgstr "Din konto er nå aktiv!"
+
+#: bp-members/bp-members-signup.php:306
+msgid "Please enter a username"
+msgstr "Vennligst tast inn et brukernavn"
+
+#: bp-members/bp-members-signup.php:317
+msgid "Only lowercase letters and numbers allowed"
+msgstr "Kun små bokstaver og numre er tillatt."
+
+#: bp-members/bp-members-signup.php:320
+msgid "Username must be at least 4 characters"
+msgstr "Brukernavn må være minst 4 tegn"
+
+#: bp-members/bp-members-signup.php:323
+msgid "Sorry, usernames may not contain the character \"_\"!"
+msgstr "Beklager, brukernavn kan ikke inneholde tegnet \"_\"!"
+
+#: bp-members/bp-members-signup.php:330
+msgid "Sorry, usernames must have letters too!"
+msgstr "Beklager, brukernavn må ha bokstaver også!"
+
+#: bp-members/bp-members-signup.php:333
+msgid "Please check your email address."
+msgstr "Vennligst sjekk email adressen din."
+
+#: bp-members/bp-members-signup.php:336 bp-members/bp-members-signup.php:344
+msgid "Sorry, that email address is not allowed!"
+msgstr "Beklager, emailadressen er allerede i bruk!"
+
+#: bp-members/bp-members-signup.php:349
+msgid "Sorry, that username already exists!"
+msgstr "Beklager, brukernavnet finnes allerede!"
+
+#: bp-members/bp-members-signup.php:353
+msgid "Sorry, that email address is already used!"
+msgstr "Beklager, emailadressen er allerede i bruk!"
+
+#: bp-members/bp-members-signup.php:392
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>Feil</strong>: Kunne ikke registrere deg. Vennligst ta kontakt med "
+"<a href=\"mailto:%s\">webmaster</a>."
+
+#: bp-members/bp-members-signup.php:477 bp-members/bp-members-signup.php:481
+msgid "Invalid activation key"
+msgstr "Ugyldig aktiveringsnøkkel"
+
+#: bp-members/bp-members-signup.php:521
+msgid "%s became a registered member"
+msgstr "%s ble et registrert medlem"
+
+#: bp-members/bp-members-signup.php:595
+msgid ""
+"<strong>ERROR</strong>: Your account has not been activated. Check your "
+"email for the activation link."
+msgstr ""
+
+#: bp-members/bp-members-template.php:212
+msgctxt "Member pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: bp-members/bp-members-template.php:213
+msgctxt "Member pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-members/bp-members-template.php:354
+msgid "Viewing member %1$s to %2$s (of %3$s active members)"
+msgstr "Ser på medlem %1$s til %2$s (av %3$s aktive medlemmer)"
+
+#: bp-members/bp-members-template.php:356
+msgid "Viewing member %1$s to %2$s (of %3$s members with friends)"
+msgstr "Ser på medlem %1$s til %2$s (av %3$s medlemmer med venner)"
+
+#: bp-members/bp-members-template.php:358
+msgid "Viewing member %1$s to %2$s (of %3$s members online)"
+msgstr "Ser på medlem %1$s til %2$s (av %3$s påloggede medlemmer)"
+
+#: bp-members/bp-members-template.php:360
+msgid "Viewing member %1$s to %2$s (of %3$s members)"
+msgstr "Ser på medlem %1$s til %2$s (av %3$s medlemmer)"
+
+#: bp-members/bp-members-template.php:561
+#, fuzzy
+msgid "Never active"
+msgstr "Deaktiver"
+
+#: bp-members/bp-members-template.php:583
+msgctxt "member latest update in member directory"
+msgid "- &quot;%s &quot;"
+msgstr ""
+
+#: bp-members/bp-members-template.php:640
+#, fuzzy
+msgid "registered %s"
+msgstr "registrert %s siden"
+
+#: bp-members/bp-members-template.php:1091
+msgid "Your Avatar"
+msgstr "Din avatar"
+
+#: bp-members/bp-members-template.php:1159
+msgid "Activity RSS Feed"
+msgstr "Aktivitet RSS Strøm"
+
+#: bp-themes/bp-default/index.php:24 bp-themes/bp-default/attachment.php:18
+#: bp-themes/bp-default/search.php:26 bp-themes/bp-default/archive.php:24
+#: bp-themes/bp-default/single.php:16
+#, fuzzy
+msgctxt "Post written by..."
+msgid "by %s"
+msgstr "av %s"
+
+#: bp-themes/bp-default/index.php:27
+msgctxt "Sticky post"
+msgid "Featured"
+msgstr ""
+
+#: bp-themes/bp-default/index.php:32 bp-themes/bp-default/attachment.php:22
+#: bp-themes/bp-default/search.php:30 bp-themes/bp-default/archive.php:28
+msgid "Permanent Link to"
+msgstr "Permanent lenke til"
+
+#: bp-themes/bp-default/index.php:34 bp-themes/bp-default/search.php:32
+#: bp-themes/bp-default/archive.php:30 bp-themes/bp-default/single.php:23
+#, fuzzy
+msgid "%1$s <span>in %2$s</span>"
+msgstr "Blogger <span>(%d)</span>"
+
+#: bp-themes/bp-default/index.php:37 bp-themes/bp-default/search.php:35
+#: bp-themes/bp-default/archive.php:33 bp-themes/bp-default/single.php:28
+msgid "Read the rest of this entry &rarr;"
+msgstr "Les resten av dette innlegget &rarr;"
+
+#: bp-themes/bp-default/index.php:38 bp-themes/bp-default/page.php:20
+#: bp-themes/bp-default/onecolumn-page.php:31
+#: bp-themes/bp-default/archive.php:34 bp-themes/bp-default/single.php:30
+#, fuzzy
+msgid "Pages: "
+msgstr "Sider"
+
+#: bp-themes/bp-default/index.php:41 bp-themes/bp-default/search.php:38
+#: bp-themes/bp-default/archive.php:37 bp-themes/bp-default/single.php:33
+msgid "Tags: "
+msgstr "Merkelapper:"
+
+#: bp-themes/bp-default/index.php:41 bp-themes/bp-default/search.php:38
+#: bp-themes/bp-default/archive.php:37
+msgid "No Comments &#187;"
+msgstr "Ingen kommentarer &#187;"
+
+#: bp-themes/bp-default/index.php:41 bp-themes/bp-default/search.php:38
+#: bp-themes/bp-default/archive.php:37
+msgid "1 Comment &#187;"
+msgstr "1 kommentar &#187;"
+
+#: bp-themes/bp-default/index.php:41 bp-themes/bp-default/search.php:38
+#: bp-themes/bp-default/archive.php:37
+msgid "% Comments &#187;"
+msgstr "% kommentarer &#187;"
+
+#: bp-themes/bp-default/index.php:54 bp-themes/bp-default/archive.php:50
+msgid "Not Found"
+msgstr "Ikke funnet"
+
+#: bp-themes/bp-default/index.php:55
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Beklager, du lette etter noe som ikke er her."
+
+#: bp-themes/bp-default/registration/activate.php:12
+msgid "Account Activated"
+msgstr "Konto aktivert"
+
+#: bp-themes/bp-default/registration/activate.php:17
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Din konto ble med suksess opprettet! Dine konto-detaljer har blitt sent til "
+"deg i en separat email."
+
+#: bp-themes/bp-default/registration/activate.php:19
+msgid ""
+"Your account was activated successfully! You can now log in with the "
+"username and password you provided when you signed up."
+msgstr ""
+"Kontoen din ble aktivert! Du kan logge deg inn med konto opplysningene du la "
+"inn da du registrerte deg."
+
+#: bp-themes/bp-default/registration/activate.php:28
+msgid "Please provide a valid activation key."
+msgstr "Vennligst legg inn en gyldig aktiveringsnøkkel."
+
+#: bp-themes/bp-default/registration/activate.php:32
+msgid "Activation Key:"
+msgstr "Aktiveringsnøkkel:"
+
+#: bp-themes/bp-default/registration/register.php:16
+#, fuzzy
+msgid "User registration is currently not allowed."
+msgstr "Registrering av brukere er for tiden ikke tillatt."
+
+#: bp-themes/bp-default/registration/register.php:27
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+"Det er enkelt å lage en konto. Fullfør skjemaet under, og du er aktiv før du "
+"vet ordet av det."
+
+#: bp-themes/bp-default/registration/register.php:35
+msgid "Account Details"
+msgstr "Kontodetaljer"
+
+#: bp-themes/bp-default/registration/register.php:37
+#: bp-themes/bp-default/sidebar.php:44
+msgid "Username"
+msgstr "Brukernavn"
+
+#: bp-themes/bp-default/registration/register.php:37
+#: bp-themes/bp-default/registration/register.php:41
+#: bp-themes/bp-default/registration/register.php:45
+#: bp-themes/bp-default/registration/register.php:49
+#: bp-themes/bp-default/registration/register.php:76
+#: bp-themes/bp-default/registration/register.php:84
+#: bp-themes/bp-default/registration/register.php:92
+#: bp-themes/bp-default/registration/register.php:102
+#: bp-themes/bp-default/registration/register.php:113
+#: bp-themes/bp-default/registration/register.php:128
+#: bp-themes/bp-default/registration/register.php:139
+#: bp-themes/bp-default/registration/register.php:189
+#: bp-themes/bp-default/registration/register.php:198
+#: bp-themes/bp-default/members/single/profile/edit.php:26
+#: bp-themes/bp-default/members/single/profile/edit.php:33
+#: bp-themes/bp-default/members/single/profile/edit.php:40
+#: bp-themes/bp-default/members/single/profile/edit.php:49
+#: bp-themes/bp-default/members/single/profile/edit.php:67
+#: bp-themes/bp-default/members/single/profile/edit.php:83
+#: bp-themes/bp-default/members/single/profile/edit.php:93
+msgid "(required)"
+msgstr "(obligatorisk)"
+
+#: bp-themes/bp-default/registration/register.php:41
+msgid "Email Address"
+msgstr "Email adresse"
+
+#: bp-themes/bp-default/registration/register.php:45
+msgid "Choose a Password"
+msgstr "Velg et passord"
+
+#: bp-themes/bp-default/registration/register.php:49
+msgid "Confirm Password"
+msgstr "Bekreft passord"
+
+#: bp-themes/bp-default/registration/register.php:65
+msgid "Profile Details"
+msgstr "Profildetaljer"
+
+#: bp-themes/bp-default/registration/register.php:183
+msgid "Blog Details"
+msgstr "Bloggdetaljer"
+
+#: bp-themes/bp-default/registration/register.php:185
+#, fuzzy
+msgid "Yes, I'd like to create a new site"
+msgstr "Ja, jeg ønsker å opprette en ny blogg"
+
+#: bp-themes/bp-default/registration/register.php:189
+msgid "Blog URL"
+msgstr "Blogg URL"
+
+#: bp-themes/bp-default/registration/register.php:198
+#, fuzzy
+msgid "Site Title"
+msgstr "Felt tittel"
+
+#: bp-themes/bp-default/registration/register.php:219
+msgid "Complete Sign Up"
+msgstr "Ferdigstill registrering"
+
+#: bp-themes/bp-default/registration/register.php:230
+msgid "Sign Up Complete!"
+msgstr "Registrering ferdig!"
+
+#: bp-themes/bp-default/registration/register.php:236
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Du har med suksess opprettet din konto! For å ta i bruk denne siten vil du "
+"ha behov for å aktivere din konto via email sendt til din adresse."
+
+#: bp-themes/bp-default/registration/register.php:238
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Du har med suksess opprettet din konto! Vennligst logg inn ved å bruke "
+"brukernavn og passord du nettopp opprettet."
+
+#: bp-themes/bp-default/_inc/ajax.php:160
+#: bp-activity/bp-activity-actions.php:206
+msgid "Please enter some content to post."
+msgstr "Vennligst legg til innhold i innlegget."
+
+#: bp-themes/bp-default/_inc/ajax.php:177
+msgid "There was a problem posting your update, please try again."
+msgstr ""
+"Det oppsto en feil ved posting av din oppdatering, vennligst prøv igjen."
+
+#: bp-themes/bp-default/_inc/ajax.php:202
+#: bp-activity/bp-activity-actions.php:268
+msgid "Please do not leave the comment area blank."
+msgstr "Vennligst ikke la kommentarområdet være blankt."
+
+#: bp-themes/bp-default/_inc/ajax.php:207
+#: bp-themes/bp-default/_inc/ajax.php:218
+#: bp-activity/bp-activity-actions.php:281
+msgid "There was an error posting that reply, please try again."
+msgstr "Det oppsto en feil ved posting av svar, vennligst prøv igjen."
+
+#: bp-themes/bp-default/_inc/ajax.php:275
+#: bp-themes/bp-default/_inc/ajax.php:310
+msgid "There was a problem when deleting. Please try again."
+msgstr "Det oppsto en feil ved sletting, vennligst prøv igjen."
+
+#: bp-themes/bp-default/_inc/ajax.php:325
+#: bp-themes/bp-default/activity/entry.php:72
+msgid "Remove Favorite"
+msgstr "Fjern favoritt"
+
+#: bp-themes/bp-default/_inc/ajax.php:334
+#: bp-themes/bp-default/activity/entry.php:68
+msgid "Favorite"
+msgstr "Favoritt"
+
+#: bp-themes/bp-default/_inc/ajax.php:393
+#: bp-themes/bp-default/groups/single/send-invites.php:42
+#: bp-themes/bp-default/groups/create.php:234
+msgid "Remove Invite"
+msgstr "Fjern invitasjon"
+
+#: bp-themes/bp-default/_inc/ajax.php:434
+msgid "Request Pending"
+msgstr "Forespørsel venter"
+
+#: bp-themes/bp-default/_inc/ajax.php:446
+msgid "There was a problem accepting that request. Please try again."
+msgstr ""
+"Det oppsto en feil ved akseptering av forespørsel, vennligst prøv igjen."
+
+#: bp-themes/bp-default/_inc/ajax.php:457
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "Det oppsto en feil ved avslåing av forespørsel, vennligst prøv igjen."
+
+#: bp-themes/bp-default/_inc/ajax.php:480
+msgid "Error joining group"
+msgstr "Feil ved innmelding i gruppe"
+
+#: bp-themes/bp-default/_inc/ajax.php:490
+msgid "Error requesting membership"
+msgstr "Feil ved medlemskap-forespørsel"
+
+#: bp-themes/bp-default/_inc/ajax.php:492
+msgid "Membership Requested"
+msgstr "Medlemskap forespurt"
+
+#: bp-themes/bp-default/_inc/ajax.php:501
+msgid "Error leaving group"
+msgstr "Feil ved utmelding fra gruppe"
+
+#: bp-themes/bp-default/_inc/ajax.php:518
+msgid "There was a problem closing the notice."
+msgstr "Det oppsto en feil ved lukking av notis."
+
+#: bp-themes/bp-default/_inc/ajax.php:560
+msgid "There was a problem sending that reply. Please try again."
+msgstr "Det oppsto en feil ved sending av svar, vennligst prøv igjen."
+
+#: bp-themes/bp-default/_inc/ajax.php:570
+msgid "There was a problem marking messages as unread."
+msgstr "Det oppsto en fel ved markering av melding som ulest."
+
+#: bp-themes/bp-default/_inc/ajax.php:586
+msgid "There was a problem marking messages as read."
+msgstr "Det oppsto en feil ved markering av melding som lest."
+
+#: bp-themes/bp-default/_inc/ajax.php:602
+msgid "There was a problem deleting messages."
+msgstr "Det oppsto en feil ved sletting av melding."
+
+#: bp-themes/bp-default/footer.php:15
+msgid ""
+"Proudly powered by <a href=\"%1$s\">WordPress</a> and <a href=\"%2$s"
+"\">BuddyPress</a>."
+msgstr ""
+"Stolt drevet av  <a href=\"%1$s\">WordPress</a> og <a href=\"%2$s"
+"\">BuddyPress</a>."
+
+#: bp-themes/bp-default/sidebar.php:37
+#, fuzzy
+msgid ""
+"Please <a href=\"%s\" title=\"Create an account\">create an account</a> to "
+"get started."
+msgstr ""
+"Du kan også <a href=\"%s\" title=\"Opprette en konto\">opprette en konto</a>."
+
+#: bp-themes/bp-default/sidebar.php:47
+msgid "Password"
+msgstr "Passord"
+
+#: bp-themes/bp-default/sidebar.php:50
+msgid "Remember Me"
+msgstr "Husk meg"
+
+#: bp-themes/bp-default/sidebar.php:64
+msgid "Forum Topic Tags"
+msgstr "Forum Emne etiketter"
+
+#: bp-themes/bp-default/comments.php:3
+msgid "Password Protected"
+msgstr "Passordbeskyttet"
+
+#: bp-themes/bp-default/comments.php:4
+msgid "Enter the password to view comments."
+msgstr "Skriv inn passordet for å vise kommentarer."
+
+#: bp-themes/bp-default/comments.php:24
+#, fuzzy
+msgid "1 response to %2$s"
+msgid_plural "%1$s responses to %2$s"
+msgstr[0] "En Respons til %2$s"
+msgstr[1] "En Respons til %2$s"
+
+#: bp-themes/bp-default/comments.php:46
+msgid ""
+"Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post"
+"\">trackbacks</a> and pingbacks are open."
+msgstr ""
+"Kommentarer er stengt, men <a href=\"%1$s\" title=\"Tilbakesporing URL for "
+"dette innlegget\">tilbakesporinger</a> og pingbacks er åpen."
+
+#: bp-themes/bp-default/comments.php:50
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: bp-themes/bp-default/comments.php:62
+#, fuzzy
+msgid "1 trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] "%d Tilbakesporing"
+msgstr[1] "%d Tilbakesporinger"
+
+#: bp-themes/bp-default/404.php:7
+#, fuzzy
+msgid "Page not found"
+msgstr "Siden ikke funnet"
+
+#: bp-themes/bp-default/404.php:9
+msgid ""
+"We're sorry, but we can't find the page that you're looking for. Perhaps "
+"searching will help."
+msgstr ""
+
+#: bp-themes/bp-default/functions.php:81
+msgid "Primary Navigation"
+msgstr "Primær Navigasjon"
+
+#: bp-themes/bp-default/functions.php:149
+msgid "My Favorites"
+msgstr "Mine favoritter"
+
+#: bp-themes/bp-default/functions.php:150
+msgid "Accepted"
+msgstr "Akseptert"
+
+#: bp-themes/bp-default/functions.php:151
+msgid "Rejected"
+msgstr "Avslått"
+
+#: bp-themes/bp-default/functions.php:152
+msgid "Show all comments for this thread"
+msgstr "Vis alle kommentarer i denne tråden"
+
+#: bp-themes/bp-default/functions.php:153
+msgid "Show all"
+msgstr "Vis alle"
+
+#: bp-themes/bp-default/functions.php:154
+msgid "comments"
+msgstr "kommentarer"
+
+#: bp-themes/bp-default/functions.php:374
+msgid "The sidebar widget area"
+msgstr "Logg inn widget med Ajax-muligheter."
+
+#: bp-themes/bp-default/functions.php:383
+msgid "First Footer Widget Area"
+msgstr "Første område for bunn-widget"
+
+#: bp-themes/bp-default/functions.php:385
+msgid "The first footer widget area"
+msgstr "Det første område for bunn-widget"
+
+#: bp-themes/bp-default/functions.php:394
+msgid "Second Footer Widget Area"
+msgstr "Andre område for bunn-widget"
+
+#: bp-themes/bp-default/functions.php:396
+msgid "The second footer widget area"
+msgstr "Det andre område for bunn-widget"
+
+#: bp-themes/bp-default/functions.php:405
+msgid "Third Footer Widget Area"
+msgstr "Tredje område for bunn-widget"
+
+#: bp-themes/bp-default/functions.php:407
+msgid "The third footer widget area"
+msgstr "Det tredje område for bunn-widget"
+
+#: bp-themes/bp-default/functions.php:416
+msgid "Fourth Footer Widget Area"
+msgstr "Fjerde område for bunn-widget"
+
+#: bp-themes/bp-default/functions.php:418
+msgid "The fourth footer widget area"
+msgstr "Det fjerde område for bunn-widget"
+
+#. translators: 1: comment author url, 2: comment author name, 3: comment
+#. permalink, 4: comment date/timestamp
+#: bp-themes/bp-default/functions.php:473
+msgid ""
+"<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> said on <a href=\"%3$s\"><span "
+"class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: bp-themes/bp-default/functions.php:480
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentare venter på moderering."
+
+#: bp-themes/bp-default/functions.php:492
+#, fuzzy
+msgid "Edit comment"
+msgstr "kommentarer"
+
+#: bp-themes/bp-default/functions.php:562
+msgid ""
+"Theme activated! This theme contains <a href=\"%s\">custom header image</a> "
+"support and <a href=\"%s\">sidebar widgets</a>."
+msgstr ""
+"Tema aktivert! Dette tema inneholder <a href=\"%s\">støtte for</a> tilpasset "
+"header-bilde og <a href=\"%s\">sidebar widgets</a>."
+
+#: bp-themes/bp-default/functions.php:633
+msgid "Email"
+msgstr "Email"
+
+#: bp-themes/bp-default/functions.php:643
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr ""
+"Du må være <a href=\"%1$s\" title=\"Logg inn\">logget inn</a> for å poste en "
+"kommentar."
+
+#: bp-themes/bp-default/functions.php:644
+msgid "Leave a reply"
+msgstr "Legg igjen et svar"
+
+#: bp-themes/bp-default/functions.php:728
+msgid "&larr; Previous Entries"
+msgstr "&larr; Tidligere innlegg"
+
+#: bp-themes/bp-default/functions.php:729
+msgid "Next Entries &rarr;"
+msgstr "Neste innlegg &rarr;"
+
+#: bp-themes/bp-default/page.php:18 bp-themes/bp-default/onecolumn-page.php:29
+msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
+msgstr "<p class=\"serif\">Les resten av denne siden &rarr;</p>"
+
+#: bp-themes/bp-default/page.php:21 bp-themes/bp-default/onecolumn-page.php:32
+#, fuzzy
+msgid "Edit this page."
+msgstr "Rediger dette innlegget."
+
+#: bp-themes/bp-default/header.php:27
+#, fuzzy
+msgctxt "Home page banner link title"
+msgid "Home"
+msgstr "Hjem"
+
+#: bp-themes/bp-default/header.php:30
+#, fuzzy
+msgid "Search for:"
+msgstr "Søk"
+
+#: bp-themes/bp-default/members/index.php:23
+msgid "Members Directory"
+msgstr "Medlemskatalog"
+
+#: bp-themes/bp-default/members/index.php:35
+#: bp-themes/bp-default/activity/index.php:41
+#, fuzzy
+msgid "All Members <span>%s</span>"
+msgstr "Blogger <span>(%d)</span>"
+
+#: bp-themes/bp-default/members/index.php:39
+#: bp-themes/bp-default/activity/index.php:51
+#, fuzzy
+msgid "My Friends <span>%s</span>"
+msgstr "Venner <span>(%d)</span>"
+
+#: bp-themes/bp-default/members/index.php:57
+#: bp-themes/bp-default/members/single/friends.php:22
+#: bp-themes/bp-default/members/single/groups.php:22
+#: bp-themes/bp-default/members/single/forums.php:20
+#: bp-themes/bp-default/members/single/blogs.php:21
+#: bp-themes/bp-default/blogs/index.php:57
+#: bp-themes/bp-default/forums/index.php:62
+#: bp-themes/bp-default/forums/single/forum.php:36
+#: bp-themes/bp-default/groups/index.php:59
+#: bp-themes/bp-default/groups/single/forum.php:34
+msgid "Last Active"
+msgstr "Sist aktiv"
+
+#: bp-themes/bp-default/members/index.php:58
+#: bp-themes/bp-default/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "Siste registrerte"
+
+#: bp-themes/bp-default/members/index.php:62
+#: bp-themes/bp-default/members/single/friends.php:24
+#: bp-themes/bp-default/members/single/groups.php:25
+#: bp-themes/bp-default/members/single/blogs.php:23
+#: bp-themes/bp-default/blogs/index.php:59
+#: bp-themes/bp-default/groups/index.php:62
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+#: bp-themes/bp-default/members/members-loop.php:108
+msgid "Sorry, no members were found."
+msgstr "Beklager, fant ingen brukere som passet!"
+
+#: bp-themes/bp-default/members/single/settings/notifications.php:50
+#, fuzzy
+msgid "Email Notification"
+msgstr "Email notiser"
+
+#: bp-themes/bp-default/members/single/settings/notifications.php:55
+msgid "Send a notification by email when:"
+msgstr "Send en notis via email når: "
+
+#: bp-themes/bp-default/members/single/settings/delete-account.php:55
+msgid ""
+"WARNING: Deleting your account will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"ADVARSEL: Sletting av konto vil fjerne absolutt alt av innhold forbundet med "
+"den. Det er ingen vei tilbake, vennligst vær forsiktig med denne muligheten."
+
+#: bp-themes/bp-default/members/single/settings/delete-account.php:58
+msgid "I understand the consequences of deleting my account."
+msgstr "Jeg forstår konsekvensen ved å slette kontoen min."
+
+#: bp-themes/bp-default/members/single/settings/delete-account.php:63
+msgid "Delete My Account"
+msgstr "Slett min konto"
+
+#: bp-themes/bp-default/members/single/settings/general.php:50
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: bp-themes/bp-default/members/single/settings/general.php:56
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+"Nåværende Passord <span>(kreves for å oppdatere email eller endre det "
+"nåværende passord)</span>"
+
+#: bp-themes/bp-default/members/single/settings/general.php:57
+msgid "Password Lost and Found"
+msgstr "Passord mistet og funnet"
+
+#: bp-themes/bp-default/members/single/settings/general.php:57
+msgid "Lost your password?"
+msgstr "Mistet passordet ditt?"
+
+#: bp-themes/bp-default/members/single/settings/general.php:59
+msgid "Account Email"
+msgstr "Konto Email"
+
+#: bp-themes/bp-default/members/single/settings/general.php:62
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Endre passord <span>(la dette være blankt for å ikke endre)</span>"
+
+#: bp-themes/bp-default/members/single/settings/general.php:63
+msgid "New Password"
+msgstr "Nytt passord"
+
+#: bp-themes/bp-default/members/single/settings/general.php:64
+msgid "Repeat New Password"
+msgstr "Gjenta nytt passord"
+
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:8
+#, fuzzy
+msgid "%s's Profile"
+msgstr "Rediger %ss profil"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:7
+msgid ""
+"Your avatar will be used on your profile and throughout the site. If there "
+"is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+"Din avatar vil bli brukt på profilen din og gjennom hele siten. Om det er en "
+"<a href=\"http://gravatar.com\">Gravatar</a> assosiert med din konto-email "
+"vil vi bruke denne, eller du kan laste opp et bilde fra din datamaskin."
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"Klikk under for å velge et JPG, GIF eller PNG bilde på din datamaskin. Klikk "
+"deretter på 'Last opp bilde' for å fortsette."
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:18
+#: bp-themes/bp-default/groups/single/admin.php:131
+#: bp-themes/bp-default/groups/create.php:158
+msgid "Upload Image"
+msgstr "Last opp bilde"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+"Om du ønsker å slette din nåværende avatar men ikke laste opp ny, vennligst "
+"bruk slett avatar knappen."
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:24
+#: bp-themes/bp-default/groups/single/admin.php:139
+msgid "Delete Avatar"
+msgstr "Slett avatar"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:24
+msgid "Delete My Avatar"
+msgstr "Slett min avatar"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Avatar"
+msgstr "Klipp din nye avatar"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:33
+#: bp-themes/bp-default/groups/single/admin.php:151
+#: bp-themes/bp-default/groups/create.php:171
+msgid "Avatar to crop"
+msgstr "Avatar å klippe"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:36
+#: bp-themes/bp-default/groups/single/admin.php:154
+#: bp-themes/bp-default/groups/create.php:174
+msgid "Avatar preview"
+msgstr "Avatar forhåndsvisning"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:39
+#: bp-themes/bp-default/groups/single/admin.php:157
+#: bp-themes/bp-default/groups/create.php:177
+msgid "Crop Image"
+msgstr "Klipp bilde"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:55
+msgid ""
+"Your avatar will be used on your profile and throughout the site. To change "
+"your avatar, please create an account with <a href=\"http://gravatar.com"
+"\">Gravatar</a> using the same email address as you used to register with "
+"this site."
+msgstr ""
+"Din avatar vil bli brukt på din profil og gjennom hele siten. For å endre "
+"din avatar, vennligst lag en konto med <a href=\"http://gravatar.com"
+"\">Gravatar</a> ved å bruke samme email adresse som du brukte da du "
+"registrerte her."
+
+#: bp-themes/bp-default/members/single/profile/edit.php:10
+msgid "Editing '%s' Profile Group"
+msgstr "Redigerer '%' Profilgruppe"
+
+#: bp-themes/bp-default/members/single/groups.php:23
+#: bp-themes/bp-default/groups/index.php:60
+msgid "Most Members"
+msgstr "Flest medlemmer"
+
+#: bp-themes/bp-default/members/single/groups.php:24
+#: bp-themes/bp-default/groups/index.php:61
+msgid "Newly Created"
+msgstr "Nylig opprettet"
+
+#: bp-themes/bp-default/members/single/forums.php:21
+#: bp-themes/bp-default/forums/index.php:63
+#: bp-themes/bp-default/forums/single/forum.php:37
+#: bp-themes/bp-default/groups/single/forum.php:35
+msgid "Most Posts"
+msgstr "Flest innlegg"
+
+#: bp-themes/bp-default/members/single/forums.php:22
+#: bp-themes/bp-default/forums/index.php:64
+#: bp-themes/bp-default/forums/single/forum.php:38
+#: bp-themes/bp-default/groups/single/forum.php:36
+msgid "Unreplied"
+msgstr "Ubesvarte"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "Send til (Brukernavn eller venns navn)"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr "Dette er en notis til alle brukere."
+
+#: bp-themes/bp-default/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr "Emne"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:20
+msgid "Message"
+msgstr "Melding"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr "Send melding"
+
+#: bp-themes/bp-default/members/single/messages/notices-loop.php:31
+msgid "Sent:"
+msgstr "Sendt:"
+
+#: bp-themes/bp-default/members/single/messages/notices-loop.php:38
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:50
+#: bp-themes/bp-default/members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr "Slett melding"
+
+#: bp-themes/bp-default/members/single/messages/notices-loop.php:49
+msgid "Sorry, no notices were found."
+msgstr "Beklager, ingen notiser ble funnet."
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:31
+msgid "From:"
+msgstr "Fra:"
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:36
+msgid "To:"
+msgstr "Til:"
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:42
+msgid "View Message"
+msgstr "Les melding"
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:68
+msgid "Sorry, no messages were found."
+msgstr "Beklager, ingen meldinger ble funnet."
+
+#: bp-themes/bp-default/members/single/messages/single.php:14
+#, fuzzy
+msgid "You are alone in this conversation."
+msgstr "Din kommentare venter på moderering."
+
+#: bp-themes/bp-default/members/single/messages/single.php:18
+#, fuzzy
+msgid "Conversation between %s and you."
+msgstr "Sendt mellom %s og %s"
+
+#: bp-themes/bp-default/members/single/messages/single.php:75
+msgid "Send a Reply"
+msgstr "Send et svar"
+
+#: bp-themes/bp-default/members/single/messages/single.php:91
+msgid "Send Reply"
+msgstr "Send svar"
+
+#: bp-themes/bp-default/members/single/groups/invites.php:23
+#: bp-themes/bp-default/members/single/friends/requests.php:37
+#: bp-themes/bp-default/groups/single/admin.php:318
+msgid "Accept"
+msgstr "Akksepter"
+
+#: bp-themes/bp-default/members/single/groups/invites.php:24
+#: bp-themes/bp-default/members/single/friends/requests.php:38
+#: bp-themes/bp-default/groups/single/admin.php:320
+msgid "Reject"
+msgstr "Avslå"
+
+#: bp-themes/bp-default/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr "Du har ingen utestående gruppeinvitasjoner."
+
+#: bp-themes/bp-default/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr "Du har ingen ventende vennskapforespørsler."
+
+#: bp-themes/bp-default/members/single/activity.php:18
+#: bp-themes/bp-default/activity/index.php:94
+#: bp-themes/bp-default/groups/single/activity.php:8
+#, fuzzy
+msgid "Show:"
+msgstr "Vis alle"
+
+#: bp-themes/bp-default/members/single/activity.php:20
+#: bp-themes/bp-default/activity/index.php:96
+#: bp-themes/bp-default/groups/single/activity.php:10
+msgid "Everything"
+msgstr ""
+
+#: bp-themes/bp-default/members/single/activity.php:21
+#: bp-themes/bp-default/activity/index.php:97
+#: bp-themes/bp-default/groups/single/activity.php:11
+#, fuzzy
+msgid "Updates"
+msgstr "Vis oppdateringer"
+
+#: bp-themes/bp-default/members/single/activity.php:28
+#: bp-themes/bp-default/activity/index.php:102
+#, fuzzy
+msgid "Comments"
+msgstr "Kommentar"
+
+#: bp-themes/bp-default/members/single/activity.php:43
+#: bp-themes/bp-default/activity/index.php:108
+#: bp-themes/bp-default/groups/single/activity.php:14
+#, fuzzy
+msgid "Forum Topics"
+msgstr "Forum Emne etiketter"
+
+#: bp-themes/bp-default/members/single/activity.php:44
+#: bp-themes/bp-default/activity/index.php:109
+#: bp-themes/bp-default/groups/single/activity.php:15
+#, fuzzy
+msgid "Forum Replies"
+msgstr "Vis forum-svar"
+
+#: bp-themes/bp-default/members/single/activity.php:50
+#: bp-themes/bp-default/activity/index.php:115
+#, fuzzy
+msgid "New Groups"
+msgstr "Vis nye grupper"
+
+#: bp-themes/bp-default/members/single/activity.php:51
+#: bp-themes/bp-default/activity/index.php:116
+#: bp-themes/bp-default/groups/single/activity.php:18
+#, fuzzy
+msgid "Group Memberships"
+msgstr "Gruppemedlemskap-forespørsler"
+
+#: bp-themes/bp-default/activity/index.php:41
+msgid "The public activity for everyone on this site."
+msgstr "Offentlige aktiviteter fra alle på denne siten."
+
+#: bp-themes/bp-default/activity/index.php:51
+msgid "The activity of my friends only."
+msgstr "Kun aktiviteter fra mine venner."
+
+#: bp-themes/bp-default/activity/index.php:63
+msgid "The activity of groups I am a member of."
+msgstr "Aktivitet i grupper jeg er medlem av."
+
+#: bp-themes/bp-default/activity/index.php:63
+#: bp-themes/bp-default/groups/index.php:41
+#, fuzzy
+msgid "My Groups <span>%s</span>"
+msgstr "Grupper <span>(%d)</span>"
+
+#: bp-themes/bp-default/activity/index.php:73
+msgid "The activity I've marked as a favorite."
+msgstr "Aktivitet jeg har markert som favoritt."
+
+#: bp-themes/bp-default/activity/index.php:73
+#, fuzzy
+msgid "My Favorites <span>%s</span>"
+msgstr "Mine favoritter (<span>%s</span>)"
+
+#: bp-themes/bp-default/activity/index.php:79
+msgid "Activity that I have been mentioned in."
+msgstr "Aktivitet som jeg har blitt nevnt i."
+
+#: bp-themes/bp-default/activity/index.php:79
+#: bp-activity/bp-activity-loader.php:148
+#: bp-activity/bp-activity-loader.php:228
+#: bp-activity/feeds/bp-activity-mentions-feed.php:27
+#: bp-activity/feeds/bp-activity-mentions-feed.php:30
+msgid "Mentions"
+msgstr "Nevnelser"
+
+#: bp-themes/bp-default/activity/index.php:79
+#, fuzzy
+msgid "<span>%s new</span>"
+msgstr "Blogger <span>(%d)</span>"
+
+#: bp-themes/bp-default/activity/index.php:89
+#: bp-themes/bp-default/groups/single/activity.php:3
+msgid "RSS Feed"
+msgstr "Aktivitet RSS Strøm"
+
+#: bp-themes/bp-default/activity/index.php:89
+#: bp-themes/bp-default/groups/single/activity.php:3
+msgid "RSS"
+msgstr "RSS"
+
+#: bp-themes/bp-default/activity/index.php:126
+#, fuzzy
+msgid "New Members"
+msgstr "Vis nye medlemmer"
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 3:
+#. activity timestamp
+#: bp-themes/bp-default/activity/comment.php:27
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: bp-themes/bp-default/activity/comment.php:37
+#: bp-themes/bp-default/forums/single/edit.php:10
+#: bp-themes/bp-default/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr "Svar"
+
+#: bp-themes/bp-default/activity/post-form.php:23
+msgid "What's new in %s, %s?"
+msgstr "Hva er nytt i %s, %s?"
+
+#: bp-themes/bp-default/activity/post-form.php:25
+msgid "What's new, %s?"
+msgstr "Hva er nytt %s?"
+
+#: bp-themes/bp-default/activity/post-form.php:35
+msgid "Post Update"
+msgstr "Post oppdatering"
+
+#: bp-themes/bp-default/activity/post-form.php:42
+msgid "Post in"
+msgstr "Post i"
+
+#: bp-themes/bp-default/activity/entry.php:37
+#, fuzzy
+msgid "In reply to: "
+msgstr "Svar på"
+
+#: bp-themes/bp-default/activity/entry.php:37
+msgid "View Thread / Permalink"
+msgstr "Vis tråd / permalenke"
+
+#: bp-themes/bp-default/activity/entry.php:60
+#, fuzzy
+msgid "Comment <span>%s</span>"
+msgstr "Venner <span>(%d)</span>"
+
+#: bp-themes/bp-default/activity/entry.php:68
+msgid "Mark as Favorite"
+msgstr "Marker som favoritt"
+
+#: bp-themes/bp-default/activity/entry.php:104
+msgid "Post"
+msgstr "Innlegg"
+
+#: bp-themes/bp-default/activity/entry.php:104
+msgid "or press esc to cancel."
+msgstr "eller trykk esc for å avbryte"
+
+#: bp-themes/bp-default/activity/activity-loop.php:41
+msgid "Load More"
+msgstr "Last inn flere"
+
+#: bp-themes/bp-default/activity/activity-loop.php:55
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+"Beklager, det ble ikke funnet noen aktivitet. Vennligst prøv et annet filter."
+
+#: bp-themes/bp-default/blogs/index.php:35
+#, fuzzy
+msgid "All Sites <span>%s</span>"
+msgstr "Mine favoritter (<span>%s</span>)"
+
+#: bp-themes/bp-default/blogs/index.php:39
+#, fuzzy
+msgid "My Sites <span>%s</span>"
+msgstr "Mine favoritter (<span>%s</span>)"
+
+#: bp-themes/bp-default/blogs/blogs-loop.php:90
+#, fuzzy
+msgid "Sorry, there were no sites found."
+msgstr "Beklager, det ble ikke funnet noen blogger."
+
+#: bp-themes/bp-default/blogs/create.php:32
+#, fuzzy
+msgid "Site registration is currently disabled"
+msgstr "Registrering av brukere er for tiden ikke tillatt."
+
+#: bp-themes/bp-default/forums/index.php:23
+#, fuzzy
+msgid "Forums Directory"
+msgstr "Gruppeforum-katalog"
+
+#: bp-themes/bp-default/forums/index.php:40
+#, fuzzy
+msgid "All Topics <span>%s</span>"
+msgstr "Blogger <span>(%d)</span>"
+
+#: bp-themes/bp-default/forums/index.php:44
+#, fuzzy
+msgid "My Topics <span>%s</span>"
+msgstr "Mine favoritter (<span>%s</span>)"
+
+#: bp-themes/bp-default/forums/index.php:100
+#, fuzzy
+msgid "Create New Topic:"
+msgstr "Post et nytt emne:"
+
+#: bp-themes/bp-default/forums/index.php:107
+#: bp-themes/bp-default/forums/single/edit.php:52
+#: bp-themes/bp-default/groups/single/forum/edit.php:52
+#: bp-themes/bp-default/groups/single/forum.php:74
+msgid "Content:"
+msgstr "Innhold:"
+
+#: bp-themes/bp-default/forums/index.php:110
+#: bp-themes/bp-default/groups/single/forum/edit.php:55
+#: bp-themes/bp-default/groups/single/forum.php:77
+msgid "Tags (comma separated):"
+msgstr "Merkelapper (kommaseparert):"
+
+#: bp-themes/bp-default/forums/index.php:113
+msgid "Post In Group Forum:"
+msgstr "Post i gruppeforum:"
+
+#: bp-themes/bp-default/forums/index.php:133
+#: bp-themes/bp-default/groups/single/forum.php:83
+msgid "Post Topic"
+msgstr "Post emne"
+
+#: bp-themes/bp-default/forums/index.php:145
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Du er ikke medlem av noen grupper så du har ingen gruppe-forumer du kan "
+"poste i. For å starte posting, finn først en gruppe som passer temaet du "
+"ønsker å starte. Om denne gruppen ikke eksisterer, hvorfor ikke <a "
+"href='%s'>opprette en ny gruppe</a>? Når du har meldt deg inn i eller "
+"opprettet gruppen kan du poste ditt emne i gruppens forum."
+
+#: bp-themes/bp-default/forums/forums-loop.php:39
+#, fuzzy
+msgid "Topic"
+msgstr "Nytt emne"
+
+#: bp-themes/bp-default/forums/forums-loop.php:41
+msgid "Freshness"
+msgstr "Ferskhet"
+
+#: bp-themes/bp-default/forums/forums-loop.php:54
+msgid "Permalink"
+msgstr "Permalenke"
+
+#. translators: "started by [poster] in [forum]"
+#: bp-themes/bp-default/forums/forums-loop.php:61
+msgid "Started by %1$s"
+msgstr ""
+
+#. translators: "started by [poster] in [forum]"
+#: bp-themes/bp-default/forums/forums-loop.php:72
+msgid "in %1$s"
+msgstr ""
+
+#: bp-themes/bp-default/forums/forums-loop.php:122
+msgid "Sorry, there were no forum topics found."
+msgstr "Beklager, det ble ikke funnet noen forum-emner."
+
+#: bp-themes/bp-default/forums/single/forum.php:25
+#: bp-themes/bp-default/forums/single/edit.php:16
+#: bp-themes/bp-default/forums/single/topic.php:43
+#: bp-themes/bp-default/groups/single/forum/edit.php:16
+#: bp-themes/bp-default/groups/single/forum/topic.php:16
+#: bp-themes/bp-default/groups/single/forum.php:23
+#, fuzzy
+msgid "Forum Directory"
+msgstr "Gruppeforum-katalog"
+
+#: bp-themes/bp-default/forums/single/edit.php:25
+#: bp-themes/bp-default/groups/single/forum/edit.php:25
+#, fuzzy
+msgid "Edit:"
+msgstr "Rediger"
+
+#: bp-themes/bp-default/forums/single/edit.php:88
+#: bp-themes/bp-default/groups/single/forum/edit.php:91
+msgid "This topic does not exist."
+msgstr "Emne finnes ikke."
+
+#: bp-themes/bp-default/forums/single/topic.php:37
+#: bp-themes/bp-default/groups/single/forum/topic.php:10
+#, fuzzy
+msgid "New Reply"
+msgstr "Send svar"
+
+#: bp-themes/bp-default/forums/single/topic.php:97
+msgid "%s said %s ago:"
+msgstr "%s sa for %s siden:"
+
+#: bp-themes/bp-default/forums/single/topic.php:117
+#: bp-themes/bp-default/groups/single/forum/topic.php:91
+msgid "Permanent link to this post"
+msgstr "Permanent lenke til dette innlegget"
+
+#: bp-themes/bp-default/forums/single/topic.php:153
+#: bp-themes/bp-default/groups/single/forum/topic.php:127
+msgid "Add a reply:"
+msgstr "Legg til et svar:"
+
+#: bp-themes/bp-default/forums/single/topic.php:158
+#: bp-themes/bp-default/groups/single/forum/topic.php:132
+msgid "Post Reply"
+msgstr "Send svar"
+
+#: bp-themes/bp-default/forums/single/topic.php:169
+#: bp-themes/bp-default/groups/single/forum/topic.php:143
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Emnet er stengt, svar er ikke lenger akseptert."
+
+#: bp-themes/bp-default/forums/single/topic.php:184
+#: bp-themes/bp-default/groups/single/forum/topic.php:157
+msgid "There are no posts for this topic."
+msgstr "Det finnes ingen innlegg for dette emne."
+
+#: bp-themes/bp-default/groups/index.php:23
+#: bp-themes/bp-default/groups/create.php:18
+msgid "Groups Directory"
+msgstr "Gruppekatalog"
+
+#: bp-themes/bp-default/groups/index.php:37
+#, fuzzy
+msgid "All Groups <span>%s</span>"
+msgstr "Grupper <span>(%d)</span>"
+
+#: bp-themes/bp-default/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "Ingen grupper ble funnet."
+
+#: bp-themes/bp-default/groups/single/members.php:87
+#: bp-themes/bp-default/groups/single/admin.php:288
+msgid "This group has no members."
+msgstr "Denne gruppen har ingen medlemmer."
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:31
+#, fuzzy
+msgid "Topic tags:"
+msgstr "Forum Emne etiketter"
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:77
+#, fuzzy
+msgid "%1$s said %2$s:"
+msgstr "%1$s ved %2$s"
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:122
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Du blir automatisk innmeldt i gruppe når du svarer på dette emnet."
+
+#: bp-themes/bp-default/groups/single/request-membership.php:4
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "Du forespør medlemskap i gruppen '%s'."
+
+#: bp-themes/bp-default/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "Kommentarer (valgfritt)"
+
+#: bp-themes/bp-default/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr "Send forespørsel"
+
+#: bp-themes/bp-default/groups/single/send-invites.php:22
+#: bp-themes/bp-default/groups/create.php:216
+msgid "Select people to invite from your friends list."
+msgstr "Velg personer som skal inviteres fra din venne-liste."
+
+#: bp-themes/bp-default/groups/single/send-invites.php:73
+#: bp-themes/bp-default/groups/create.php:251
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group. You can send invites any time in the future by selecting the "
+"\"Send Invites\" option when viewing your new group."
+msgstr ""
+"Når du har bygget opp venne-forbindelser vil det bli mulig å invitere andre "
+"til gruppen din. Du kan sende invitasjoner når som helst i fremtiden ved å "
+"velge \"Send invitasjoner\"-valget når du ser på din nye gruppe."
+
+#: bp-themes/bp-default/groups/single/forum.php:65
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+"Du vil bli automatisk innmeldt i denne gruppen om du starter et nytt emne."
+
+#: bp-themes/bp-default/groups/single/forum.php:69
+msgid "Post a New Topic:"
+msgstr "Post et nytt emne:"
+
+#: bp-themes/bp-default/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "Gruppeadministratorer"
+
+#: bp-themes/bp-default/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "Gruppemoderatorer"
+
+#: bp-themes/bp-default/groups/single/admin.php:16
+#: bp-themes/bp-default/groups/create.php:39
+#, fuzzy
+msgid "Group Name (required)"
+msgstr "(obligatorisk)"
+
+#: bp-themes/bp-default/groups/single/admin.php:19
+#: bp-themes/bp-default/groups/create.php:42
+#, fuzzy
+msgid "Group Description (required)"
+msgstr "Gruppebeskrivelse"
+
+#: bp-themes/bp-default/groups/single/admin.php:25
+msgid "Notify group members of changes via email"
+msgstr "Send melding til medlemmer om endring via email"
+
+#: bp-themes/bp-default/groups/single/admin.php:47
+#: bp-themes/bp-default/groups/create.php:62
+msgid "Enable discussion forum"
+msgstr "Aktiver diskusjonsforum"
+
+#: bp-themes/bp-default/groups/single/admin.php:56
+#: bp-themes/bp-default/groups/create.php:78
+msgid "Privacy Options"
+msgstr "Synlighetsinstillinger"
+
+#: bp-themes/bp-default/groups/single/admin.php:61
+#: bp-themes/bp-default/groups/create.php:82
+msgid "This is a public group"
+msgstr "Dette er en offentlig gruppe"
+
+#: bp-themes/bp-default/groups/single/admin.php:63
+#: bp-themes/bp-default/groups/create.php:84
+msgid "Any site member can join this group."
+msgstr "Alle site-medlemmer kan bli medlem i denne gruppen."
+
+#: bp-themes/bp-default/groups/single/admin.php:64
+#: bp-themes/bp-default/groups/single/admin.php:74
+#: bp-themes/bp-default/groups/create.php:85
+#: bp-themes/bp-default/groups/create.php:94
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "Denne gruppen vil bli listet i gruppe-katalogen og i søke-resultater."
+
+#: bp-themes/bp-default/groups/single/admin.php:65
+#: bp-themes/bp-default/groups/create.php:86
+msgid "Group content and activity will be visible to any site member."
+msgstr "Gruppeinnhold og aktivitet vil være synlig for alle site-medlemmer."
+
+#: bp-themes/bp-default/groups/single/admin.php:71
+#: bp-themes/bp-default/groups/create.php:91
+msgid "This is a private group"
+msgstr "Dette er en privat gruppe"
+
+#: bp-themes/bp-default/groups/single/admin.php:73
+#: bp-themes/bp-default/groups/create.php:93
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Kun brukere som forespør medlemskap og er akseptert kan bli medlem i gruppen."
+
+#: bp-themes/bp-default/groups/single/admin.php:75
+#: bp-themes/bp-default/groups/single/admin.php:85
+#: bp-themes/bp-default/groups/create.php:95
+#: bp-themes/bp-default/groups/create.php:104
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Gruppeinnhold og aktivitet vil kun være synlig for medlemmer av gruppen."
+
+#: bp-themes/bp-default/groups/single/admin.php:81
+#: bp-themes/bp-default/groups/create.php:100
+msgid "This is a hidden group"
+msgstr "Dette er en skjult gruppe"
+
+#: bp-themes/bp-default/groups/single/admin.php:83
+#: bp-themes/bp-default/groups/create.php:102
+msgid "Only users who are invited can join the group."
+msgstr "Kun brukere som er invitert kan bli medlem av gruppen."
+
+#: bp-themes/bp-default/groups/single/admin.php:84
+#: bp-themes/bp-default/groups/create.php:103
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Denne gruppen vil ikke bli listet i gruppe-katalogen eller søke-resultater."
+
+#: bp-themes/bp-default/groups/single/admin.php:92
+#: bp-themes/bp-default/groups/create.php:111
+#, fuzzy
+msgid "Group Invitations"
+msgstr "Gruppeinvitasjoner"
+
+#: bp-themes/bp-default/groups/single/admin.php:94
+#: bp-themes/bp-default/groups/create.php:113
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: bp-themes/bp-default/groups/single/admin.php:99
+#: bp-themes/bp-default/groups/create.php:118
+#, fuzzy
+msgid "All group members"
+msgstr "Denne gruppen har ingen medlemmer."
+
+#: bp-themes/bp-default/groups/single/admin.php:104
+#: bp-themes/bp-default/groups/create.php:123
+msgid "Group admins and mods only"
+msgstr ""
+
+#: bp-themes/bp-default/groups/single/admin.php:109
+#: bp-themes/bp-default/groups/create.php:128
+#, fuzzy
+msgid "Group admins only"
+msgstr "Gruppeadministratorer"
+
+#: bp-themes/bp-default/groups/single/admin.php:127
+#: bp-themes/bp-default/groups/create.php:154
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Last opp et bilde som skal brukes som avatar i denne gruppen. Dette bilde "
+"vil bli vist på hovedsiden for gruppen og i søkeresultater."
+
+#: bp-themes/bp-default/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+"Om du ønsker å fjerne eksisterende avatar men ikke laste opp ny, vennligst "
+"bruk slett avatar knappen."
+
+#: bp-themes/bp-default/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr "Klipp avatar"
+
+#: bp-themes/bp-default/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Administratorer"
+
+#: bp-themes/bp-default/groups/single/admin.php:203
+msgid "Moderators"
+msgstr "Moderatorer"
+
+#: bp-themes/bp-default/groups/single/admin.php:258
+msgid "(banned)"
+msgstr "(utestengt)"
+
+#: bp-themes/bp-default/groups/single/admin.php:264
+msgid "Unban this member"
+msgstr "Fjern utestengelse av denne brukeren"
+
+#: bp-themes/bp-default/groups/single/admin.php:264
+msgid "Remove Ban"
+msgstr "Fjern utestengelse"
+
+#: bp-themes/bp-default/groups/single/admin.php:268
+msgid "Kick and ban this member"
+msgstr "Spark ut og utesteng dette medlemmet"
+
+#: bp-themes/bp-default/groups/single/admin.php:268
+msgid "Kick &amp; Ban"
+msgstr "Spark ut &amp; utesteng"
+
+#: bp-themes/bp-default/groups/single/admin.php:269
+msgid "Promote to Mod"
+msgstr "Oppgrader til moderator"
+
+#: bp-themes/bp-default/groups/single/admin.php:274
+msgid "Remove this member"
+msgstr "Fjern dette medlemmet"
+
+#: bp-themes/bp-default/groups/single/admin.php:274
+msgid "Remove from group"
+msgstr "Fjern fra gruppe"
+
+#: bp-themes/bp-default/groups/single/admin.php:333
+msgid "There are no pending membership requests."
+msgstr "Det er ingen ventende medlemskapforespørsler."
+
+#: bp-themes/bp-default/groups/single/admin.php:350
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"ADVARSEL: Ved sletting av denne gruppen blir alt innhold tilknyttet den bli "
+"borte. Det er ingen vei tilbake, vennligst vær forsiktig med denne "
+"muligheten."
+
+#: bp-themes/bp-default/groups/single/admin.php:353
+msgid "I understand the consequences of deleting this group."
+msgstr "Jeg forstår konsekvensen av å slette denne gruppen."
+
+#: bp-themes/bp-default/groups/create.php:69
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>OBS Site Admin:</strong> Gruppeforum krever <a href=\"%s\">korrekt "
+"setup og konfigurasjon </a> av en bbPress installasjon."
+
+#: bp-themes/bp-default/groups/create.php:162
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+"For å hoppe over prosessen for opplasting av avatar, klikk \"Neste steg\"-"
+"knappen."
+
+#: bp-themes/bp-default/groups/create.php:169
+msgid "Crop Group Avatar"
+msgstr "Klipp gruppe-avatar"
+
+#: bp-themes/bp-default/groups/create.php:273
+#, fuzzy
+msgid "Back to Previous Step"
+msgstr "Forrige steg"
+
+#: bp-themes/bp-default/groups/create.php:280
+msgid "Next Step"
+msgstr "Neste steg"
+
+#: bp-themes/bp-default/groups/create.php:287
+msgid "Create Group and Continue"
+msgstr "Opprett gruppe og fortsett"
+
+#: bp-themes/bp-default/attachment.php:26 bp-themes/bp-default/single.php:24
+msgid "Edit this entry"
+msgstr "Rediger dette innlegget."
+
+#: bp-themes/bp-default/attachment.php:40
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: bp-themes/bp-default/attachment.php:43
+msgid "Link to full size image"
+msgstr ""
+
+#: bp-themes/bp-default/attachment.php:62
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Beklager, ingen vedlegg passet dine kriterier."
+
+#: bp-themes/bp-default/search.php:10
+msgid "Site"
+msgstr ""
+
+#: bp-themes/bp-default/search.php:14
+msgid "Search Results"
+msgstr "Søkeresultater"
+
+#: bp-themes/bp-default/search.php:51
+msgid "No posts found. Try a different search?"
+msgstr "Ingen poster funnet. Prøv et annet søk?"
+
+#: bp-themes/bp-default/archive.php:10
+msgid "You are browsing the archive for %1$s."
+msgstr "Du blar gjennom arkivet for %1$s."
+
+#: bp-themes/bp-default/links.php:16
+msgid "Links"
+msgstr "Lenker"
+
+#: bp-themes/bp-default/single.php:35
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: bp-themes/bp-default/single.php:36
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-themes/bp-default/single.php:45
+msgid "Sorry, no posts matched your criteria."
+msgstr "Beklager, ingen innlegg passet til kriteriene dine."
+
+#: bp-activity/bp-activity-template.php:173
+msgctxt "Activity pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: bp-activity/bp-activity-template.php:174
+msgctxt "Activity pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: bp-activity/bp-activity-template.php:453
+msgid "Viewing item %1$s to %2$s (of %3$s items)"
+msgstr "Viser objekt %1$s til %2$s (av %3$s objekter)"
+
+#: bp-activity/bp-activity-template.php:1191
+#, fuzzy
+msgid "View Discussion"
+msgstr "Diskusjonsforumer"
+
+#: bp-activity/bp-activity-template.php:2142
+#, fuzzy
+msgid "xprofile"
+msgstr "profil"
+
+#: bp-activity/bp-activity-template.php:2142
+msgid "friends"
+msgstr "venner"
+
+#: bp-activity/bp-activity-template.php:2142
+msgid "status"
+msgstr "status"
+
+#: bp-activity/bp-activity-template.php:2142
+#, fuzzy
+msgid "sites"
+msgstr "Nettsted"
+
+#: bp-activity/bp-activity-template.php:2150
+msgid "Clear Filter"
+msgstr "Fjern filter"
+
+#: bp-activity/bp-activity-template.php:2340
+msgid "a user"
+msgstr "en bruker"
+
+#: bp-activity/bp-activity-template.php:2380
+#, fuzzy
+msgid "Send a public message on your activity stream."
+msgstr "Send en privat melding til denne brukeren."
+
+#: bp-activity/bp-activity-template.php:2381
+#, fuzzy
+msgid "Public Message"
+msgstr "Les melding"
+
+#: bp-activity/bp-activity-template.php:2690
+msgid "Site Wide Activity RSS Feed"
+msgstr "Global Aktivitet RSS Strøm"
+
+#: bp-activity/bp-activity-loader.php:89
+#, fuzzy
+msgid "Search Activity..."
+msgstr "Site aktivitet"
+
+#: bp-activity/bp-activity-loader.php:113
+#: bp-activity/bp-activity-loader.php:235
+#: bp-activity/feeds/bp-activity-personal-feed.php:27
+#: bp-activity/bp-activity-screens.php:280
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: bp-activity/bp-activity-loader.php:138
+#: bp-activity/bp-activity-loader.php:249
+msgid "Personal"
+msgstr "Personlige"
+
+#: bp-activity/bp-activity-loader.php:159
+#: bp-activity/bp-activity-loader.php:256
+msgid "Favorites"
+msgstr "Favoritter"
+
+#: bp-activity/bp-activity-loader.php:226
+msgid "Mentions <span class=\"count\">%s</span>"
+msgstr ""
+
+#: bp-activity/bp-activity-loader.php:298
+msgid "My Activity"
+msgstr "Min Aktivitet"
+
+#: bp-activity/bp-activity-notifications.php:66
+msgid "%s mentioned you in an update"
+msgstr "%s nevnte deg i en oppdatering"
+
+#: bp-activity/bp-activity-notifications.php:79
+msgid ""
+"%1$s mentioned you in an update:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s nevnte deg en ny oppdatering:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"For å se og svare på meldingen, logg inn og besøk: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity/bp-activity-notifications.php:152
+msgid "%s replied to one of your updates"
+msgstr "%s svarte på en av dine oppdateringer"
+
+#: bp-activity/bp-activity-notifications.php:154
+msgid ""
+"%1$s replied to one of your updates:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view your original update and all comments, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s svarte på en av dine oppdateringer:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"For å se din opprinnelige oppdatering og alle kommentarer, logg inn og "
+"besøk: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity/bp-activity-notifications.php:194
+msgid "%s replied to one of your comments"
+msgstr "%s svarte på en av dine kommentarer"
+
+#: bp-activity/bp-activity-notifications.php:199
+msgid ""
+"%1$s replied to one of your comments:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view the original activity, your comment and all replies, log in and "
+"visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s svarte på en av dine kommentarer:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"For å se den opprinnelige aktivitet, dine kommentarer og alle svar, logg inn "
+"og besøk: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity/bp-activity-filters.php:248
+msgid "[Read more]"
+msgstr ""
+
+#: bp-activity/bp-activity-filters.php:253
+msgid "&hellip;"
+msgstr ""
+
+#: bp-activity/bp-activity-functions.php:151
+msgid "@%s Mentions"
+msgstr "@%s Nevner"
+
+#: bp-activity/bp-activity-functions.php:154
+msgid "You have %1$d new activity mentions"
+msgstr "Du har blitt nevnt i %1$d nye aktiviteter"
+
+#: bp-activity/bp-activity-functions.php:158
+msgid "%1$s mentioned you in an activity update"
+msgstr "%1$s nevnte deg i en aktivitetsoppdatering"
+
+#: bp-activity/bp-activity-functions.php:664
+msgid "Posted an update"
+msgstr "Oppdatering Postet!"
+
+#: bp-activity/bp-activity-functions.php:872
+#, fuzzy
+msgid "%s posted an update"
+msgstr "%s postet en oppdatering:"
+
+#: bp-activity/bp-activity-functions.php:939
+#, fuzzy
+msgid "%s posted a new activity comment"
+msgstr "%s postet en ny aktivitetskommentar:"
+
+#: bp-activity/bp-activity-functions.php:1310
+msgid "Thumbnail"
+msgstr "Miniatyrbilde"
+
+#: bp-activity/feeds/bp-activity-friends-feed.php:27
+msgid "Friends Activity"
+msgstr "Venners aktivitet"
+
+#: bp-activity/feeds/bp-activity-friends-feed.php:30
+msgid "%s - Friends Activity Feed"
+msgstr "%s - Venners aktivitet-strøm"
+
+#: bp-activity/feeds/bp-activity-friends-feed.php:49
+#: bp-activity/feeds/bp-activity-mentions-feed.php:49
+#: bp-activity/feeds/bp-activity-personal-feed.php:49
+#: bp-activity/feeds/bp-activity-favorites-feed.php:56
+#: bp-activity/feeds/bp-activity-group-feed.php:49
+#: bp-activity/feeds/bp-activity-sitewide-feed.php:49
+#: bp-activity/feeds/bp-activity-mygroups-feed.php:54
+msgid "Comments: %s"
+msgstr "Kommentarer: %s"
+
+#: bp-activity/feeds/bp-activity-friends-feed.php:53
+#: bp-activity/feeds/bp-activity-mentions-feed.php:53
+#: bp-activity/feeds/bp-activity-personal-feed.php:53
+#: bp-activity/feeds/bp-activity-favorites-feed.php:60
+msgid "In reply to"
+msgstr "Svar på"
+
+#: bp-activity/feeds/bp-activity-personal-feed.php:30
+msgid "%s - Activity Feed"
+msgstr "%s - Aktivitetstrøm"
+
+#: bp-activity/feeds/bp-activity-favorites-feed.php:27
+#: bp-activity/feeds/bp-activity-favorites-feed.php:30
+msgid "Favorite Activity"
+msgstr "Favoritt aktivitet"
+
+#: bp-activity/feeds/bp-activity-group-feed.php:27
+msgid "Group Activity"
+msgstr "Gruppeaktivitet"
+
+#: bp-activity/feeds/bp-activity-group-feed.php:30
+msgid "%s - Group Activity Feed"
+msgstr "%s - Gruppeaktivitet Strøm"
+
+#: bp-activity/feeds/bp-activity-sitewide-feed.php:27
+msgid "Site Wide Activity"
+msgstr "Global aktivitet"
+
+#: bp-activity/feeds/bp-activity-sitewide-feed.php:30
+msgid "Site Wide Activity Feed"
+msgstr "Global Aktivitet strøm"
+
+#: bp-activity/feeds/bp-activity-mygroups-feed.php:27
+#: bp-activity/feeds/bp-activity-mygroups-feed.php:30
+msgid "My Groups - Public Activity"
+msgstr "Mine grupper - Offentlig aktivitet"
+
+#: bp-activity/bp-activity-screens.php:245
+msgid "You do not have access to this activity."
+msgstr "Du har ikke nok rettigheter til denne aktiviteten."
+
+#: bp-activity/bp-activity-screens.php:289
+msgid "A member mentions you in an update using \"@%s\""
+msgstr "Et medlemm nevner deg i en oppdatering vha \"@%s\""
+
+#: bp-activity/bp-activity-screens.php:295
+msgid "A member replies to an update or comment you've posted"
+msgstr "Et medlem svarer på en oppdatering eller en kommentar du har postet"
+
+#: bp-activity/bp-activity-actions.php:153
+#, fuzzy
+msgid "Activity deleted successfully"
+msgstr "Aktivitet slettet"
+
+#: bp-activity/bp-activity-actions.php:155
+msgid "There was an error when deleting that activity"
+msgstr "Det oppstod en feil ved sletting av denne aktiviteten."
+
+#: bp-activity/bp-activity-actions.php:227
+msgid "Update Posted!"
+msgstr "Oppdatering Postet!"
+
+#: bp-activity/bp-activity-actions.php:229
+msgid "There was an error when posting your update, please try again."
+msgstr "Det oppsto en feil ved posting av oppdatering, vennligst prøv igjen."
+
+#: bp-activity/bp-activity-actions.php:279
+msgid "Reply Posted!"
+msgstr "Svar Postet!"
+
+#: bp-activity/bp-activity-actions.php:315
+msgid "Activity marked as favorite."
+msgstr "Aktivitet markert som favoritt."
+
+#: bp-activity/bp-activity-actions.php:317
+msgid ""
+"There was an error marking that activity as a favorite, please try again."
+msgstr ""
+"Det oppstod en feil ved markering av aktivitet som favoritt, vennligst prøv "
+"igjen."
+
+#: bp-activity/bp-activity-actions.php:351
+msgid "Activity removed as favorite."
+msgstr "Aktivitet fjernet som favoritt."
+
+#: bp-activity/bp-activity-actions.php:353
+msgid ""
+"There was an error removing that activity as a favorite, please try again."
+msgstr ""
+"Det oppsto en feil ved fjerning av aktivitet som favoritt, vennligst prøv "
+"igjen"
+
+#~ msgid "Friendship requests"
+#~ msgstr "Vennskap-forespørsler"
+
+#~ msgid "Viewing blog %1$s to %2$s (of %3$s blogs)"
+#~ msgstr "Viser blogg %1$s til %2$s (av %s blogger)"
+
+#~ msgid "Create Blog &rarr;"
+#~ msgstr "Opprett blogg &rarr;"
+
+#~ msgid "Blog Title:"
+#~ msgstr "Bloggtittel:"
+
+#~ msgid ""
+#~ "I would like my blog to appear in search engines like Google and "
+#~ "Technorati, and in public listings around this site."
+#~ msgstr ""
+#~ "Jeg ønsker at min blogg dukker opp i søkemotorer som Google og "
+#~ "Technorati, og i offentlige lister rundtom kring på denne siten."
+
+#~ msgid "%s's Blogs"
+#~ msgstr "%s sine blogger"
+
+#~ msgid "Visit Blog"
+#~ msgstr "Besøk blogg"
+
+#~ msgid "My Blogs"
+#~ msgstr "Mine blogger"
+
+#~ msgid "Random Blog"
+#~ msgstr "Tilfeldig blogg"
+
+#~ msgid "Base profile group name"
+#~ msgstr "Basis profil gruppe-navn"
+
+#~ msgid "Full Name field name"
+#~ msgstr "Fullt navn feltnavn"
+
+#~ msgid "Disable global forum directory?"
+#~ msgstr "Slå av global forumkatalog?"
+
+#~ msgid "BuddyPress Component Setup"
+#~ msgstr "BuddyPress komponent-oppsett"
+
+#~ msgid ""
+#~ "By default, all BuddyPress components are enabled. You can selectively "
+#~ "disable any of the components by using the form below. Your BuddyPress "
+#~ "installation will continue to function, however the features of the "
+#~ "disabled components will no longer be accessible to anyone using the site."
+#~ msgstr ""
+#~ "Som standard er alle BuddyPress komponenter aktivert. Du kan selv velge "
+#~ "hvilke av komponentene ved hjelp av skjemaet under. BuddyPress vil "
+#~ "framdeles fungere, men mulighetene til de deaktiverte komponentene vil "
+#~ "ikke være tilgjengelig for de som bruker siden."
+
+#~ msgid ""
+#~ "Allow users to post activity updates and track all activity across the "
+#~ "entire site."
+#~ msgstr ""
+#~ "Tillat brukere å poste aktivitetsoppdateringer og spor all aktivitet på "
+#~ "tvers av hele siten."
+
+#~ msgid "Enabled"
+#~ msgstr "Aktivert"
+
+#~ msgid "Disabled"
+#~ msgstr "Deaktivert"
+
+#~ msgid ""
+#~ "Tracks blogs, blog posts and blogs comments for a user across a WPMU "
+#~ "installation."
+#~ msgstr ""
+#~ "Sporer blogger, blogg poster og blogg kommentarer for en bruker på tvers "
+#~ "av en WPMU installasjon."
+
+#~ msgid "bbPress Forums"
+#~ msgstr "bbPress Forumer"
+
+#~ msgid ""
+#~ "Activates bbPress forum support within BuddyPress groups or any other "
+#~ "custom component."
+#~ msgstr ""
+#~ "Aktiverer bbPress forum support innad i BuddyPress grupper eller andre "
+#~ "tilpassede komponenter."
+
+#~ msgid "Allows the creation of friend connections between users."
+#~ msgstr "Tillater opprettelse av venne-forbindelser mellom brukere."
+
+#~ msgid "Let users create, join and participate in groups."
+#~ msgstr "La brukere opprette, bli med i og delta i grupper."
+
+#~ msgid ""
+#~ "Let users send private messages to one another. Site admins can also send "
+#~ "site-wide notices."
+#~ msgstr ""
+#~ "La brukere sende private meldinger til andre. Site administratorer kan "
+#~ "også sende globale notiser."
+
+#~ msgid "Activates customizable profiles and avatars for site users."
+#~ msgstr "Aktiverer tilpassede profiler og avatarer for site brukere."
+
+#~ msgid "Upgrade"
+#~ msgstr "Oppgrader"
+
+#~ msgid "Blog Directory"
+#~ msgstr "Blogg Katalog"
+
+#~ msgid "Upgrade &amp; Next &rarr;"
+#~ msgstr "Oppgrader &amp; neste &rarr;"
+
+#~ msgid ""
+#~ "BuddyPress has been updated! Before you can continue using BuddyPress, we "
+#~ "have to upgrade your database to the newest version."
+#~ msgstr ""
+#~ "BuddyPress har blitt oppdatert! Før du kan fortsette med å bruke "
+#~ "BuddyPress må vi oppgradere din database til nyeste versjon."
+
+#~ msgid "Extensible Groups"
+#~ msgstr "Utvidbare Grupper"
+
+#~ msgid ""
+#~ "Fully editable profile fields allow you to define the fields users can "
+#~ "fill in to describe themselves. Tailor profile fields to suit your "
+#~ "audience."
+#~ msgstr ""
+#~ "Fulle editerbare felter gir deg mulighet til å definere felter som "
+#~ "brukere kan fylle inn for å beskrive seg selv. Skreddersy feltene for å "
+#~ "tilpasse til ditt publikum."
+
+#~ msgid "BuddyPress needs to use pages to display content and directories."
+#~ msgstr "BuddyPress trenger å bruke sider for å vise innhold og kataloger."
+
+#~ msgid "Choose this option"
+#~ msgstr "Velg denne muligheten"
+
+#~ msgid ""
+#~ "You must first install the BuddyPress template pack before choosing this "
+#~ "option"
+#~ msgstr ""
+#~ "Du må installere BuddyPress temapakke før du velger denne instillingen."
+
+#~ msgid "Install Now"
+#~ msgstr "Installer nå"
+
+#~ msgid ""
+#~ "There's growing number of BuddyPress themes available for you to download "
+#~ "and use. Browse through the list of available themes to see if there is "
+#~ "one that matches your needs."
+#~ msgstr ""
+#~ "Det er et voksende antall BuddyPress temaer tilgjengelig for deg å laste "
+#~ "ned og bruke. Bla gjennom listen av tilgjengelige temaer for å se om du "
+#~ "finner noe som passer dine behov."
+
+#~ msgid ""
+#~ "This is the best choice if want to use a theme other than the default and "
+#~ "get started straight out of the box."
+#~ msgstr ""
+#~ "Dette er det beste valget om du ønsker et tema utenom standard  og sette "
+#~ "i gang umiddelbart ut av boksen."
+
+#~ msgid ""
+#~ "You must first install at least one BuddyPress theme before choosing this "
+#~ "option"
+#~ msgstr "Du må først installere et BuddyPress tema før du kan velge dette"
+
+#~ msgid "Add Themes"
+#~ msgstr "Legg til temaer"
+
+#~ msgid "Choose this option and use the theme:"
+#~ msgstr "Velg dette og bruk temaet:"
+
+#~ msgid "upgrade"
+#~ msgstr "oppgrader"
+
+#~ msgid ""
+#~ "You've now completed all of the %s steps and BuddyPress is ready to be "
+#~ "activated. Please hit the 'Finish &amp; Activate' button to complete the "
+#~ "%s procedure."
+#~ msgstr ""
+#~ "Du har nå gjennomført alle de %d stegene og BuddyPress er klar til å bli "
+#~ "aktivert. Vennligst klikk 'Ferdig &amp; Aktiver' knappen for å avslutte "
+#~ "%s prosedyren."
+
+#~ msgid "noreply"
+#~ msgstr "ikkesvar"
+
+#~ msgid "Blog"
+#~ msgstr "Blogg"
+
+#~ msgid "Changes Saved."
+#~ msgstr "Endringer ble lagret."
+
+#~ msgid "BuddyPress Dashboard"
+#~ msgstr "Buddypress Dashbord"
+
+#~ msgid "(Core)"
+#~ msgstr "(Kjerne)"
+
+#~ msgid ""
+#~ "bbPress forum integration in BuddyPress has been set up correctly. If you "
+#~ "are having problems you can <a href=\"%s\" title=\"Reinstall bbPress\">re-"
+#~ "install</a>"
+#~ msgstr ""
+#~ "Integrasjon for bbPress forum i BuddyPress har blitt satt opp korrekt. Om "
+#~ "du oppdager problemer kan du <a href=\"%s\" title=\"Reinstall bbPress"
+#~ "\">re-installere</a>"
+
+#~ msgid ""
+#~ "NOTE: The forums directory will only work if your bbPress tables are in "
+#~ "the same database as your WordPress tables. If you are not using an "
+#~ "existing bbPress install you can ignore this message."
+#~ msgstr ""
+#~ "NOTIS: Forum-katalogen vil kun virke om dine bbPress tabeller er i samme "
+#~ "database som dine WordPress tabeller. Om du ikke benytter en eksisterende "
+#~ "bbPress installasjon kan du se bort i fra denne meldingen."
+
+#~ msgid ""
+#~ "Forums in BuddyPress make use of a bbPress installation to function. You "
+#~ "can choose to either let BuddyPress set up a new bbPress install, or use "
+#~ "an already existing bbPress install. Please choose one of the options "
+#~ "below."
+#~ msgstr ""
+#~ "Forumer i BuddyPress benytter en bbPress installasjon for å fungere. Du "
+#~ "kan velge å enten la BuddyPress sette opp en ny bbPress installasjon, "
+#~ "eller en allerede eksisterende bbPress installasjon. Vennligst velg en av "
+#~ "mulighetene under."
+
+#~ msgid "Set up a new bbPress installation"
+#~ msgstr "Sett opp en ny bbPress installasjon"
+
+#~ msgid "Delete %s"
+#~ msgstr "Slett %s"
+
+#~ msgid "Send Private Message"
+#~ msgstr "Send privat melding"
+
+#~ msgid "My Groups"
+#~ msgstr "Mine grupper"
+
+#~ msgid "Members (%s)"
+#~ msgstr "Medlemmer (%s)"
+
+#~ msgid "%1$s requests membership for the group \"%2$s\""
+#~ msgstr "%1$s forespør medlemskap i gruppen \"%2$s\""
+
+#~ msgid "Messages <strong></strong>"
+#~ msgstr "Meldinger<strong></strong> "
+
+#~ msgid "Sent Messages"
+#~ msgstr "Sendte meldinger"
+
+#~ msgid "Search Blogs..."
+#~ msgstr "Søk blogger..."
+
+#~ msgid "in"
+#~ msgstr "i"
+
+#~ msgid "Blog Title"
+#~ msgstr "Bloggtittel"
+
+#~ msgid "To start connecting please log in first."
+#~ msgstr "For å starte kommunikasjon vennligst logg inn først."
+
+#~ msgid "The page you were looking for was not found."
+#~ msgstr "Siden finnes ikke."
+
+#~ msgid ""
+#~ "%s is a unique identifier for %s that you can type into any message on "
+#~ "this site. %s will be sent a notification and a link to your message any "
+#~ "time you use it."
+#~ msgstr ""
+#~ "%s er en unik identifikasjon for %s som du kan taste inn i hvilken som "
+#~ "helst melding på denne siten. %s vil bli tilsendt en notis og en link til "
+#~ "meldingen din hver gang du bruker den."
+
+#~ msgid "%s said:"
+#~ msgstr "%s sa:"
+
+#~ msgid "On"
+#~ msgstr "På"
+
+#~ msgid "Cancel reply"
+#~ msgstr "Avbryt svar"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+#~ msgstr ""
+#~ "Logget inn som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Logge ut?</a>"
+
+#~ msgid "Leave a reply to %s"
+#~ msgstr "Legg igjen svar til %s"
+
+#~ msgid "<p><strong>Pages:</strong> "
+#~ msgstr "<p><strong>Sider:</strong> "
+
+#~ msgid "My Friends (%s)"
+#~ msgstr "Mine venner (%s)"
+
+#~ msgid "No Filter"
+#~ msgstr "Ingen filter"
+
+#~ msgid "Show Blog Posts"
+#~ msgstr "Vis blogginnlegg"
+
+#~ msgid "Show Blog Comments"
+#~ msgstr "Vis bloggkommentarer"
+
+#~ msgid "Show Friendship Connections"
+#~ msgstr "Vis vennskapsforbindelser"
+
+#~ msgid "Show New Forum Topics"
+#~ msgstr "Vis nye forum-emner"
+
+#~ msgid "Show New Group Memberships"
+#~ msgstr "Vis nye gruppemedlemskaper"
+
+#~ msgid "My Groups (%s)"
+#~ msgstr "Mine grupper (%s)"
+
+#~ msgid "(%s new)"
+#~ msgstr "(%s ny)"
+
+#~ msgid ""
+#~ "You are mentioning %s in a new update, this user will be sent a "
+#~ "notification of your message."
+#~ msgstr ""
+#~ "Du nevner %s i en ny oppdatering, denne brukeren vil få en notis om din "
+#~ "melding."
+
+#~ msgid "Blogs Directory"
+#~ msgstr "Bloggkatalog"
+
+#~ msgid "All Blogs (%s)"
+#~ msgstr "Alle blogger (%s)"
+
+#~ msgid "My Blogs (%s)"
+#~ msgstr "Mine blogger (%s)"
+
+#~ msgid "All Topics (%s)"
+#~ msgstr "Alle emner (%s)"
+
+#~ msgid "My Topics (%s)"
+#~ msgstr "Mine emner (%s)"
+
+#~ msgid "Latest Poster"
+#~ msgstr "Seneste innlegger"
+
+#~ msgid "Posted In Group"
+#~ msgstr "Postet i gruppe"
+
+#~ msgid "All Groups (%s)"
+#~ msgstr "Alle grupper (%s)"
+
+#~ msgid "Edit Topic:"
+#~ msgstr "Rediger emne:"
+
+#~ msgid "Edit Post:"
+#~ msgstr "Rediger innlegg:"
+
+#~ msgid "Group Name"
+#~ msgstr "Gruppenavn"
+
+#~ msgid "* Group Name"
+#~ msgstr "* Gruppenavn"
+
+#~ msgid "* Group Description"
+#~ msgstr "* Gruppebeskrivelse"
+
+#~ msgid "<p class=\"serif\">Read the rest of this entry &rarr;</p>"
+#~ msgstr "<p class=\"serif\">Les resten av dette innlegget &rarr;</p>"
+
+#~ msgid "&nbsp; %s ago"
+#~ msgstr "&nbsp; %s siden"
+
+#~ msgid ""
+#~ "Mention this user in a new public message, this will send the user a "
+#~ "notification to get their attention."
+#~ msgstr ""
+#~ "Nevn denne brukeren i en offentlig melding, dette vil sende brukeren en "
+#~ "notis for å få deres oppmerksomhet."
+
+#~ msgid "Mention this User"
+#~ msgstr "Nevn denne brukeren"
