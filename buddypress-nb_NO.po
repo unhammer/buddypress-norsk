@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-09-27 19:11+0200\n"
+"PO-Revision-Date: 2011-09-28 18:10+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -473,7 +473,7 @@ msgstr "Innstillinger lagret"
 
 #: bp-core/admin/bp-core-admin.php:109
 msgid "Disable BuddyPress to WordPress profile syncing?"
-msgstr "Slå av BuddyPress til Wordpress profil-synkronisering?"
+msgstr "Slå av BuddyPress til WordPress profil-synkronisering?"
 
 #: bp-core/admin/bp-core-admin.php:119
 msgid "Hide admin bar for logged out users?"
@@ -694,7 +694,7 @@ msgstr "Fullfør"
 
 #: bp-core/admin/bp-core-update.php:82 bp-core/admin/bp-core-update.php:211
 msgid "Multisite Update"
-msgstr "Oppgradering av flere nettsted"
+msgstr "Oppgradering av Multisite"
 
 #: bp-core/admin/bp-core-update.php:85 bp-core/admin/bp-core-update.php:207
 msgid "Database Update"
@@ -734,29 +734,19 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-update.php:295
-#, fuzzy
 msgid ""
 "BuddyPress has detected a recent change to WordPress Multisite, which allows "
 "members of your community to have their own WordPress sites. You can enable "
 "or disable this feature at any time at <a href=\"%s\">Network Options</a>."
-msgstr ""
-"Det ser ut som du nettopp har aktivert Wordpress Multisite modus, noe som "
-"gjør det mulig for medlemmer i ditt BuddyPress-miljø å få dere deres egne "
-"WordPress blogger. Du kan aktivere eller deaktivere denne muligheten når som "
-"helst på <a href=\"%s\">Nettverksvalg</a>."
+msgstr "BuddyPress har oppdaget en endring i WordPress Multisite, som gjør det mulig for medlemmer i ditt nettverk å få sine egne WordPress-nettsted. Du kan aktivere eller deaktivere denne muligheten når som helst fra <a href=\"%s\">Nettverksvalg</a>."
 
 #: bp-core/admin/bp-core-update.php:297
-#, fuzzy
 msgid ""
 "Please select the WordPress page you would like to use to display the site "
 "directory. You can either choose an existing page or let BuddyPress auto-"
 "create a page for you. If you'd like, you can go to manually create pages "
 "now, and return to this step when you are finished."
-msgstr ""
-"Vennligst velg Wordpress-siden du ønsker å vise i blogg-katalogen. Du kan "
-"enten velge en eksisterende side eller la BuddyPress automatisk opprette en "
-"side for deg. Om du ønsker å opprette sider manuelt, vennligst gå videre å "
-"gjør dette nå, du kan gå tilbake til dette steget når du er ferdig."
+msgstr "Vennligst velg WordPress-siden du ønsker å vise i nettstedkatalogen. Du kan enten velge en eksisterende side, eller la BuddyPress automatisk opprette en side for deg. Du må gjerne opprette noen sider manuelt nå, for så å fortsette fra dette steget når du er ferdig."
 
 #: bp-core/admin/bp-core-update.php:299 bp-core/admin/bp-core-update.php:422
 msgid "Please Note:"
@@ -771,24 +761,18 @@ msgstr ""
 "kanskje fjerne disse fra header.php for å unngå duplikate lenker."
 
 #: bp-core/admin/bp-core-update.php:301
-#, fuzzy
 msgid ""
 "Would you like to enable site tracking, which tracks blog posts and comments "
 "from across your network?"
-msgstr ""
-"Ønsker du å aktivere blog-sporing, som sporer blogg-aktivitet på tvers av "
-"ditt nettverk?"
+msgstr "Ønsker du å aktivere sporing av blogginnlegg og kommentarer fra hele nettverket ditt?"
 
 #: bp-core/admin/bp-core-update.php:306
 msgid "Enable Site Tracking?"
-msgstr ""
+msgstr "Aktiver nettstedssporing?"
 
 #: bp-core/admin/bp-core-update.php:312
-#, fuzzy
 msgid "Track new sites, new posts and new comments across your entire network."
-msgstr ""
-"Spor nye blogger, nye poster og nye kommentarer på tvers av ditt blogg-"
-"nettverk."
+msgstr "Spor nye nettsted, nye innlegg og nye kommentarer fra hele nettverket ditt."
 
 #: bp-core/admin/bp-core-update.php:320
 msgid "Select a WordPress page for the Sites directory."
@@ -816,17 +800,12 @@ msgid "- Select -"
 msgstr "- Velg -"
 
 #: bp-core/admin/bp-core-update.php:349
-#, fuzzy
 msgid ""
 "BuddyPress bundles several individual social components together, each one "
 "adding a distinct feature. This first step decides which features are "
 "enabled on your site; all features are enabled by default. Don't worry, you "
 "can change your mind at any point in the future."
-msgstr ""
-"BuddyPress består av mange individuelle komponenter som legger til egne "
-"særegenskaper. Det første steget er å bestemme hvilke av disse komponentene "
-"du vil aktivere på din site. Alle egenskaper er aktivert som standard, og "
-"ikke fortvil, du kan ombestemme deg når som helst i fremtiden."
+msgstr "Med BuddyPress følger det mange individuelle «sosiale» komponenter, som alle legger til sine egne funksjoner. Det første steget er å bestemme hvilke av disse komponentene du vil aktivere på ditt nettsted. Alle egenskaper er aktivert som standard, men husk at du kan ombestemme deg når som helst i fremtiden."
 
 #: bp-core/admin/bp-core-update.php:388
 msgid "members"
@@ -858,26 +837,20 @@ msgid "activate"
 msgstr "aktivér"
 
 #: bp-core/admin/bp-core-update.php:418
-#, fuzzy
 msgid ""
 "BuddyPress now uses WordPress pages to display content. This allows you to "
 "easily change the names of pages or move them to a sub page."
-msgstr ""
-"Nye versjoner av BuddyPress bruker Wordpress-sider for å vise innhold. Dette "
-"gir deg mulighet til å lett endre navn på sider eller flytte dem til en "
-"underside."
+msgstr "Nye versjoner av BuddyPress bruker WordPress-sider for å vise innhold. Dette gir deg mulighet til å lett endre navn på sider eller flytte dem til en underside."
 
 #: bp-core/admin/bp-core-update.php:420
-#, fuzzy
 msgid ""
 "Either choose an existing page or let BuddyPress auto-create pages for you. "
 "To manually create custom pages, come back to this step once you are "
 "finished."
 msgstr ""
-"Vennligst velg WordPress-sidene du ønsker å bruke til å vise disse. Du kan "
-"enten velge en eksisterende side eller la BuddyPress automatisk generere dem "
-"for deg. Om du ønsker å manuelt opprette sidene, vennligst gjør det nå, du "
-"kan komme tilbake hit til dette steget så snart du er ferdig."
+"Du kan enten velge en eksisterende side eller la BuddyPress automatisk\n"
+"generere sider for deg. Om du ønsker å manuelt opprette sider, kan du\n"
+"komme tilbake til dette steget når du er ferdig."
 
 #: bp-core/admin/bp-core-update.php:429
 msgid "Displays member profiles, and a directory of all site members."
@@ -938,25 +911,21 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-update.php:545
-#, fuzzy
 msgid ""
 "To make sure the pages created in the previous step work correctly, pretty "
 "permalinks must be active on your site."
-msgstr ""
-"For å være sikker på at sidene vi laget i forrige steg virker, må du "
-"aktivere støtte for permelenke på siten din."
+msgstr "For å passe på at sidene vi laget i forrige steg virker, må du aktivere støtte for pene permelenker på nettstedet ditt."
 
 #: bp-core/admin/bp-core-update.php:551
-#, fuzzy
 msgid ""
 "Please select the permalink setting you would like to use. For more advanced "
 "options please visit the <a href=\"%s\">permalink settings page</a> first, "
 "and complete this setup wizard later."
 msgstr ""
-"Under er basis permalenkevalg, vennligst velg hvilket permalenke-oppsett du "
-"ønsker å bruke. Om du ønsker å se mer avanserte valg vennligst besøk <a href="
-"\"%s\">siden for permalenkeinstillinger</a> og returner her for å "
-"gjennomføre wizard."
+"Vennligst velg hvilket permalenke-oppsett du ønsker å bruke. Om du\n"
+"ønsker å se mer avanserte valg, kan du gå til <a\n"
+"href=\"%s\">permalenkeinstillinger</a> og returnere her for å gjennomføre\n"
+"oppsettet."
 
 #: bp-core/admin/bp-core-update.php:555
 msgid "Day and name"
@@ -971,44 +940,31 @@ msgid "Numeric"
 msgstr "Numerisk"
 
 #: bp-core/admin/bp-core-update.php:628
-#, fuzzy
 msgid ""
 "BuddyPress introduces a whole range of new screens to display content. To "
 "display these screens, you need to decide how you want to handle them in "
 "your current theme."
-msgstr ""
-"BuddyPress introduserer en hel rekke nye skjermer for å vise innhold. For å "
-"vise disse skjermene trenger du å bestemme hvordan du vil håndtere dem i "
-"ditt aktive tema. Det er noen få forskjellige valg, vennligst velg "
-"innstilling som passer ditt behov best."
+msgstr "BuddyPress introduserer en hel rekke nye skjermer for å vise innhold. For å vise disse skjermene, må du bestemme hvordan du vil håndtere dem i ditt aktive tema."
 
 #: bp-core/admin/bp-core-update.php:633
-#, fuzzy
 msgid "Use BuddyPress Default"
-msgstr "Buddypress instillinger"
+msgstr "Bruk standardtemaet til Buddypress"
 
 #: bp-core/admin/bp-core-update.php:634
-#, fuzzy
 msgid "BuddyPress Default"
-msgstr "BuddyPress"
+msgstr "BuddyPress standardtema"
 
 #: bp-core/admin/bp-core-update.php:637
-#, fuzzy
 msgid ""
 "BuddyPress Default contains everything you need to get up and running out of "
 "the box. It supports all features and is highly customizable."
-msgstr ""
-"Standard-temaet inneholder alt du trenger for å komme opp og gå. Det støtter "
-"alle muligheter og er veldig konfigurerbart."
+msgstr "Standardtemaet til BuddyPress inneholder alt du trenger for å i gang. Det støtter alle muligheter og er veldig konfigurerbart."
 
 #: bp-core/admin/bp-core-update.php:638
-#, fuzzy
 msgid ""
 "This is the best choice if you do not have an existing WordPress theme, or "
 "want to start using BuddyPress immediately."
-msgstr ""
-"Dette er det beste valget om du ikke har et eksisterende WordPress tema "
-"eller ønsker å lage et undertema fra et solid startsted."
+msgstr "Dette er det beste valget om du ikke har et eksisterende WordPress-tema, eller ønsker å komme i gang med BuddyPress umiddelbart."
 
 #: bp-core/admin/bp-core-update.php:639
 msgid "Yes, please!"
@@ -1019,9 +975,8 @@ msgid "Other themes"
 msgstr ""
 
 #: bp-core/admin/bp-core-update.php:647
-#, fuzzy
 msgid "A BuddyPress theme"
-msgstr "Finn et BuddyPress tema"
+msgstr "Et BuddyPress-tema"
 
 #: bp-core/admin/bp-core-update.php:650
 msgid ""
@@ -1030,21 +985,18 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-update.php:653
-#, fuzzy
 msgid "Use this theme"
-msgstr "Bruk standard tema"
+msgstr "Bruk dette temaet"
 
 #: bp-core/admin/bp-core-update.php:669
-#, fuzzy
 msgid "Manually update current theme"
-msgstr "Oppgrader mitt WordPress-tema manuelt"
+msgstr "Oppgrader temaet mitt manuelt"
 
 #: bp-core/admin/bp-core-update.php:671
 msgid "Your existing theme"
 msgstr ""
 
 #: bp-core/admin/bp-core-update.php:675
-#, fuzzy
 msgid ""
 "The BuddyPress Template Pack plugin will guide you through the process of "
 "manually upgrading your existing WordPress theme. This usually involves "
@@ -1052,16 +1004,11 @@ msgid ""
 "files into your theme. This option requires a working knowledge of CSS and "
 "HTML, as you will need to tweak the new templates to match your existing "
 "theme."
-msgstr ""
-"BuddyPress temapakke-plugin vil geleide deg gjennom prosessen for å manuelt "
-"oppgradere ditt eksisterende Wordpress tema. Dette involverer vanligvis steg "
-"for steg instruksjoner og kopiering av BuddyPress tema-filer inn i ditt tema "
-"og deretter tilpassning for å få HTML til å passe."
+msgstr "BuddyPress temapakke-innstikket vil geleide deg gjennom prosessen med å manuelt oppgradere ditt eksisterende WordPress-tema. Dette involverer vanligvis steg-for-steg-instruksjoner og kopiering av BuddyPress-malfiler inn i ditt tema. Dette valget krever kunnskap om CSS og HTML, siden du må justere de nye malene for å passe inn i det eksisterende temaet ditt."
 
 #: bp-core/admin/bp-core-update.php:679
-#, fuzzy
 msgid "Install BuddyPress Template Pack"
-msgstr "Finn et BuddyPress tema"
+msgstr "Installer en BuddyPress-temapakke"
 
 #: bp-core/admin/bp-core-update.php:683
 msgid ""
@@ -1084,13 +1031,10 @@ msgid "You are happy with your current theme and plan on changing it later."
 msgstr ""
 
 #: bp-core/admin/bp-core-update.php:697
-#, fuzzy
 msgid ""
 "This is the best choice if you have a highly customized theme on your site "
 "already, and want to later manually integrate BuddyPress into your site."
-msgstr ""
-"Dette er det beste valget om du har et eksisterende WordPress tema og vil ha "
-"full kontroll over tema-utseende og design."
+msgstr "Dette er det beste valget om du allerede har et svært skreddersydd WordPress-tema, og så ønsker å manuelt integrere BuddyPress i nettstedet ditt."
 
 #: bp-core/admin/bp-core-update.php:699
 msgid "Don't change my current theme"
@@ -1253,9 +1197,8 @@ msgid "Posts"
 msgstr "Innlegg"
 
 #: bp-core/bp-core-template.php:259
-#, fuzzy
 msgid "Search these:"
-msgstr "Søkeresultater"
+msgstr "Søk gjennom disse:"
 
 #: bp-core/bp-core-template.php:287
 msgid "Search anything..."
@@ -1267,10 +1210,9 @@ msgstr ""
 
 #: bp-core/bp-core-filters.php:161 bp-core/bp-core-filters.php:185
 msgid "[User Set]"
-msgstr "[Bruker Sett]"
+msgstr "[Brukersatt]"
 
 #: bp-core/bp-core-filters.php:204
-#, fuzzy
 msgid ""
 "Thanks for registering! To complete the activation of your account and blog, "
 "please click the following link:\n"
@@ -1283,11 +1225,15 @@ msgid ""
 "\n"
 "%2$s"
 msgstr ""
-"Takk for at du registrerte deg! For å ferdigstille aktivering av kontoen din "
-"vennligst klikk følgende link:\n"
+"Takk for at du registrerte deg! Vennligst klikk følgende lenke for å fullføre aktivering av kontoen og bloggen din:\n"
 "\n"
-"%s\n"
+"%1$s\n"
 "\n"
+"\n"
+"\n"
+"Etter at du har aktivert den, kan du se på bloggen din her:\n"
+"\n"
+"%2$s"
 
 #: bp-core/bp-core-filters.php:205
 msgid "Activate %s"
@@ -1314,16 +1260,14 @@ msgstr "Aktiver din konto"
 #. translators: "displayed user's name | canonicalised component name"
 #. translators: "group name | group nav section name"
 #: bp-core/bp-core-filters.php:284 bp-core/bp-core-filters.php:290
-#, fuzzy
 msgid "%1$s | %2$s"
-msgstr "%1$s ved %2$s"
+msgstr "%1$s | %2$s"
 
 #. translators: "component item name | component nav section name | root
 #. component name"
 #: bp-core/bp-core-filters.php:295
-#, fuzzy
 msgid "%1$s | %2$s | %3$s"
-msgstr "%1$s ved %2$s"
+msgstr "%1$s | %2$s | %3$s"
 
 #: bp-core/bp-core-filters.php:300 bp-core/bp-core-filters.php:302
 msgid "%s Directory"
@@ -1349,11 +1293,10 @@ msgid "Are you sure?"
 msgstr "Er du sikker?"
 
 #: bp-core/bp-core-classes.php:191
-#, fuzzy
 msgid "%d group"
 msgid_plural "%d groups"
-msgstr[0] "gruppe"
-msgstr[1] "gruppe"
+msgstr[0] "%d gruppe"
+msgstr[1] "%d grupper"
 
 #: bp-core/deprecated/1.5.php:120 bp-xprofile/bp-xprofile-loader.php:217
 #: bp-themes/bp-default/members/single/profile/profile-wp.php:8
@@ -1443,7 +1386,6 @@ msgstr ""
 "permalenke-strukturen</a> til noe annet enn default for at det skal virke."
 
 #: bp-core/bp-core-functions.php:382
-#, fuzzy
 msgid ""
 "You'll need to <a href='%s'>activate a <strong>BuddyPress-compatible theme</"
 "strong></a> to take advantage of all of BuddyPress's features. We've bundled "
@@ -1451,11 +1393,11 @@ msgid ""
 "compatible themes</a> or <a href='%s'>update your existing WordPress theme</"
 "a>."
 msgstr ""
-"<strong>BuddyPress er klar</strong>. Du må <a href='%s'>aktivere et "
-"BuddyPress kompatibelt tema</a> for å ta i bruk all funksjonalitet. Vi har "
-"lagt ved et standard tema, men du kan alltid <a href='%s'>installere andre "
-"kompatible temaer</a> eller <a href='%s'>oppgradere ditt eksisterende "
-"WordPress tema</a>."
+"Du må <a href='%s'>aktivere et <strong>BuddyPress-kompatibelt\n"
+"tema</strong></a> for å ta i bruk all funksjonalitet. Vi har lagt ved\n"
+"et standard tema, men du kan alltid <a href='%s'>installere andre\n"
+"kompatible temaer</a> eller <a href='%s'>oppgradere ditt eksisterende\n"
+"WordPress-tema</a>."
 
 #: bp-core/bp-core-functions.php:424
 msgid ""
@@ -1558,9 +1500,8 @@ msgid "You must log in to access the page you requested."
 msgstr ""
 
 #: bp-core/bp-core-buddybar.php:244
-#, fuzzy
 msgid "You do not have access to this page."
-msgstr "Du har ikke nok rettigheter til denne aktiviteten."
+msgstr "Du har ikke tilgang til denne siden."
 
 #: bp-core/bp-core-buddybar.php:415 bp-themes/bp-default/sidebar.php:53
 msgid "Log In"
@@ -1587,9 +1528,8 @@ msgid "Random Group"
 msgstr "Tilfeldig gruppe"
 
 #: bp-core/bp-core-buddybar.php:514
-#, fuzzy
 msgid "Random Site"
-msgstr "Tilfeldig medlem"
+msgstr "Tilfeldig nettsted"
 
 #: bp-core/bp-core-loader.php:210 bp-xprofile/bp-xprofile-loader.php:113
 #: bp-xprofile/bp-xprofile-loader.php:177 bp-members/bp-members-loader.php:141
@@ -1602,31 +1542,27 @@ msgid "Public"
 msgstr "Offentlig"
 
 #: bp-friends/bp-friends-loader.php:78
-#, fuzzy
 msgid "Search Friends..."
-msgstr "Søk i grupper..."
+msgstr "Søk gjennom venner …"
 
 #: bp-friends/bp-friends-loader.php:96
-#, fuzzy
 msgid "Friends <span>%d</span>"
-msgstr "Venner <span>(%d)</span>"
+msgstr "Venner <span>%d</span>"
 
 #: bp-friends/bp-friends-loader.php:108 bp-friends/bp-friends-loader.php:168
 #: bp-friends/bp-friends-loader.php:194
 #: bp-themes/bp-default/members/single/activity.php:35
 #: bp-themes/bp-default/activity/index.php:122
-#, fuzzy
 msgid "Friendships"
-msgstr "Venner"
+msgstr "Vennskap"
 
 #: bp-friends/bp-friends-loader.php:118 bp-groups/bp-groups-template.php:1288
 msgid "Requests"
 msgstr "Forespørsler"
 
 #: bp-friends/bp-friends-loader.php:150
-#, fuzzy
 msgid "Friends <span class=\"count\">%s</span>"
-msgstr "Venner <span>(%d)</span>"
+msgstr "Venner <span class=\"count\">%s</span>"
 
 #: bp-friends/bp-friends-loader.php:151
 msgid "Pending Requests <span class=\"count\">%s</span>"
@@ -1639,13 +1575,12 @@ msgid "Friends"
 msgstr "Venner"
 
 #: bp-friends/bp-friends-loader.php:154
-#, fuzzy
 msgid "No Pending Requests"
-msgstr "Send forespørsel"
+msgstr ""
 
 #: bp-friends/bp-friends-notifications.php:24
 msgid "New friendship request from %s"
-msgstr "Ny vennskap-forespørsel fra %s"
+msgstr "Ny venneforespørsel fra %s"
 
 #: bp-friends/bp-friends-notifications.php:26
 msgid ""
@@ -1849,19 +1784,16 @@ msgid "Changes saved."
 msgstr "Endringer ble lagret."
 
 #: bp-settings/bp-settings-actions.php:99
-#, fuzzy
 msgid "Your new passwords did not match."
-msgstr "Passordene dine stemte ikke overens"
+msgstr "De nye passordene dine stemte ikke overens."
 
 #: bp-settings/bp-settings-actions.php:102
-#, fuzzy
 msgid "Your existing password is incorrect."
-msgstr "Ditt passord er feil"
+msgstr "Det eksisterende passordet ditt er feil."
 
 #: bp-settings/bp-settings-actions.php:105
-#, fuzzy
 msgid "Sorry, that email address is already used or is invalid."
-msgstr "Beklager, den e-mailadressen er allerede brukt eller ugyldig"
+msgstr "Beklager, den e-postadressen er allerede brukt eller ugyldig"
 
 #: bp-groups/bp-groups-actions.php:24
 msgid "Sorry, you are not allowed to create groups."
@@ -1955,21 +1887,19 @@ msgstr "Medlemskap i gruppen \"%s\" avslått"
 
 #: bp-groups/bp-groups-activity.php:202
 msgid "You were promoted to an admin in %d groups"
-msgstr "Du ble oppgradert til admin i %d grupper"
+msgstr "Du ble forfremmet til admin i %d grupper"
 
 #: bp-groups/bp-groups-activity.php:215
-#, fuzzy
 msgid "You were promoted to an admin in the group \"%s\""
-msgstr "Du ble oppgradert til admin i gruppen %s"
+msgstr "Du ble forfremmet til administrator i gruppen «%s»"
 
 #: bp-groups/bp-groups-activity.php:238
 msgid "You were promoted to a mod in %d groups"
-msgstr "Du ble oppgradert til moderator i %d grupper"
+msgstr "Du ble forfremmet til moderator i %d grupper"
 
 #: bp-groups/bp-groups-activity.php:251
-#, fuzzy
 msgid "You were promoted to a mod in the group \"%s\""
-msgstr "Du ble oppgradert til moderator i gruppen %s"
+msgstr "Du ble forfremmet til moderator i gruppen «%s»"
 
 #: bp-groups/bp-groups-activity.php:275
 msgid "You have %d new group invitations"
@@ -1988,9 +1918,8 @@ msgid "Search Groups..."
 msgstr "Søk i grupper..."
 
 #: bp-groups/bp-groups-loader.php:172
-#, fuzzy
 msgid "You do not have access to this group."
-msgstr "Du har ikke nok rettigheter til denne aktiviteten."
+msgstr "Du har ikke tilgang til denne gruppen."
 
 #: bp-groups/bp-groups-loader.php:185 bp-groups/bp-groups-template.php:1272
 msgid "Details"
@@ -2005,23 +1934,19 @@ msgid "Invites"
 msgstr "Invitasjoner"
 
 #: bp-groups/bp-groups-loader.php:231
-#, fuzzy
 msgid "Groups <span>%d</span>"
-msgstr "Grupper <span>(%d)</span>"
+msgstr "Grupper <span>%d</span>"
 
 #: bp-groups/bp-groups-loader.php:243 bp-groups/bp-groups-loader.php:271
 #: bp-groups/bp-groups-loader.php:410 bp-groups/bp-groups-loader.php:437
-#, fuzzy
 msgid "Memberships"
-msgstr "Medlemmer"
+msgstr "Medlemskap"
 
 #: bp-groups/bp-groups-loader.php:254
-#, fuzzy
 msgid "Invitations"
 msgstr "Invitasjoner"
 
 #: bp-groups/bp-groups-loader.php:283
-#, fuzzy
 msgctxt "Group home navigation title"
 msgid "Home"
 msgstr "Hjem"
@@ -2041,9 +1966,8 @@ msgid "Forum"
 msgstr "Forum"
 
 #: bp-groups/bp-groups-loader.php:338
-#, fuzzy
 msgid "Members <span>%s</span>"
-msgstr "Grupper <span>(%d)</span>"
+msgstr "Medlemmer <span>%s</span>"
 
 #: bp-groups/bp-groups-loader.php:350
 #: bp-themes/bp-default/groups/single/send-invites.php:60
@@ -2051,18 +1975,16 @@ msgid "Send Invites"
 msgstr "Send invitasjoner"
 
 #: bp-groups/bp-groups-loader.php:392
-#, fuzzy
 msgid "Groups <span class=\"count\">%s</span>"
-msgstr "Grupper <span>(%d)</span>"
+msgstr "Grupper <span class=\"count\">%s</span>"
 
 #: bp-groups/bp-groups-loader.php:393
 msgid "Pending Invites <span class=\"count\">%s</span>"
 msgstr ""
 
 #: bp-groups/bp-groups-loader.php:396
-#, fuzzy
 msgid "No Pending Invites"
-msgstr "Send invitasjoner"
+msgstr ""
 
 #: bp-groups/bp-groups-loader.php:456 bp-groups/bp-groups-buddybar.php:25
 #: bp-groups/bp-groups-template.php:2337
@@ -2170,7 +2092,7 @@ msgstr "en moderator"
 
 #: bp-groups/bp-groups-notifications.php:177
 msgid "You have been promoted in the group: \"%s\""
-msgstr "Du har blitt oppgradert i gruppen: \"%s\""
+msgstr "Du har blitt forfremmet i gruppen: «%s»"
 
 #: bp-groups/bp-groups-notifications.php:179
 msgid ""
@@ -2180,9 +2102,9 @@ msgid ""
 "\n"
 "---------------------\n"
 msgstr ""
-"Du har blitt oppgradert til %1$s i gruppen: \"%2$s\".\n"
+"Du har blitt forfremmet til %1$s i gruppen: «%2$s».\n"
 "\n"
-"For å se gruppen vennligst besøk: %3$s\n"
+"For å se gruppen, vennligst besøk: %3$s\n"
 "\n"
 "---------------------\n"
 
@@ -2217,19 +2139,16 @@ msgid "Edit Details"
 msgstr "Rediger detaljer"
 
 #: bp-groups/bp-groups-adminbar.php:65
-#, fuzzy
 msgid "Edit Settings"
-msgstr "Innstillinger"
+msgstr "Endre innstillinger"
 
 #: bp-groups/bp-groups-adminbar.php:74 bp-members/bp-members-adminbar.php:118
-#, fuzzy
 msgid "Edit Avatar"
-msgstr "Rediger %ss avatar"
+msgstr "Rediger avatar"
 
 #: bp-groups/bp-groups-adminbar.php:84 bp-groups/bp-groups-buddybar.php:31
-#, fuzzy
 msgid "Manage Invitations"
-msgstr "Nevnelser"
+msgstr "Håndter invitasjoner"
 
 #: bp-groups/bp-groups-adminbar.php:93 bp-groups/bp-groups-buddybar.php:35
 msgid "Manage Members"
@@ -2250,9 +2169,8 @@ msgid "A dynamic list of recently active, popular, and newest groups"
 msgstr "En dynamisk liste av nylig aktive, populære og nyeste grupper"
 
 #: bp-groups/bp-groups-widgets.php:68 bp-groups/bp-groups-widgets.php:168
-#, fuzzy
 msgid "created %s"
-msgstr "Opprettet %s siden"
+msgstr "opprettet %s"
 
 #: bp-groups/bp-groups-widgets.php:87
 msgid "There are no groups to display."
@@ -2271,14 +2189,12 @@ msgid "No groups matched the current filter."
 msgstr "Ingen grupper matchet nåværende filter"
 
 #: bp-groups/bp-groups-forums.php:56 bp-groups/bp-groups-forums.php:160
-#, fuzzy
 msgid "%1$s replied to the forum topic %2$s in the group %3$s"
-msgstr "%1$s postet på forum emne %2$s i gruppen %3$s:"
+msgstr "%1$s svarte på forumemnet %2$s i gruppen %3$s"
 
 #: bp-groups/bp-groups-forums.php:95 bp-groups/bp-groups-forums.php:127
-#, fuzzy
 msgid "%1$s started the forum topic %2$s in the group %3$s"
-msgstr "%1$s startet forum emnet %2$s i gruppen %3$s:"
+msgstr "%1$s startet forumemnet %2$s i gruppen %3$s"
 
 #: bp-groups/bp-groups-screens.php:49
 msgid "Group invite could not be accepted"
@@ -2346,9 +2262,8 @@ msgid "There was an error deleting the topic"
 msgstr "Det oppsto en feil ved sletting av emne"
 
 #: bp-groups/bp-groups-screens.php:232
-#, fuzzy
 msgid "The topic was deleted successfully"
-msgstr "Emne ble redigert"
+msgstr "Emnet er slettet"
 
 #: bp-groups/bp-groups-screens.php:254
 msgid "There was an error when editing that topic"
@@ -2387,9 +2302,8 @@ msgid "Forum posts cannot be empty. Please enter some text."
 msgstr "Forum-poster kan ikke være tomme. Vennligst legg inn tekst."
 
 #: bp-groups/bp-groups-screens.php:351
-#, fuzzy
 msgid "This group does not have a forum setup yet."
-msgstr "Emne finnes ikke."
+msgstr "Denne gruppen har ikke noe forumoppsett ennå."
 
 #: bp-groups/bp-groups-screens.php:358 bp-forums/bp-forums-screens.php:45
 msgid "There was an error when creating the topic"
@@ -2460,7 +2374,7 @@ msgstr "Det oppsto en feil ved oppgradering av brukeren, vennligst prøv igjen."
 
 #: bp-groups/bp-groups-screens.php:627
 msgid "User promoted successfully"
-msgstr "Bruker ble oppgradert."
+msgstr "Brukeren ble forfremmet."
 
 #: bp-groups/bp-groups-screens.php:645
 msgid "There was an error when demoting that user, please try again"
@@ -2468,7 +2382,7 @@ msgstr "Det oppsto en feil ved nedgradering av brukeren, vennligst prøv igjen"
 
 #: bp-groups/bp-groups-screens.php:647
 msgid "User demoted successfully"
-msgstr "Bruker ble nedgradert"
+msgstr "Brukeren ble nedgradert"
 
 #: bp-groups/bp-groups-screens.php:663
 msgid "There was an error when banning that user, please try again"
@@ -2535,7 +2449,7 @@ msgstr "Gruppeinformasjon oppdatert"
 
 #: bp-groups/bp-groups-screens.php:847
 msgid "You are promoted to a group administrator or moderator"
-msgstr "Du er oppgradert til gruppe-administrator eller moderator"
+msgstr "Du er forfremmet til gruppe-administrator eller -moderator"
 
 #: bp-groups/bp-groups-screens.php:853
 msgid "A member requests to join a private group for which you are an admin"
@@ -2655,9 +2569,8 @@ msgstr "Nedgrader til medlem"
 
 #: bp-groups/bp-groups-template.php:1054 bp-groups/bp-groups-template.php:1119
 #: bp-groups/bp-groups-template.php:1888
-#, fuzzy
 msgid "joined %s"
-msgstr "ble medlem %s siden"
+msgstr "ble medlem %s"
 
 #: bp-groups/bp-groups-template.php:1077
 msgid "This group has no administrators"
@@ -2667,7 +2580,7 @@ msgstr "Denne gruppen har ingen administratorer"
 #: bp-themes/bp-default/groups/single/admin.php:214
 #: bp-themes/bp-default/groups/single/admin.php:270
 msgid "Promote to Admin"
-msgstr "Oppgrader til admin"
+msgstr "Forfrem til administrator"
 
 #: bp-groups/bp-groups-template.php:1139
 msgid "This group has no moderators"
@@ -2760,9 +2673,8 @@ msgid "No Group Avatar"
 msgstr "Ingen gruppe-Avatar"
 
 #: bp-groups/bp-groups-template.php:2552
-#, fuzzy
 msgid "requested %s"
-msgstr "Forespurt %s siden"
+msgstr "forespurt %s"
 
 #: bp-groups/bp-groups-template.php:2736
 msgid "Group Activity RSS Feed"
@@ -2773,9 +2685,8 @@ msgid "As the only Admin, you cannot leave the group."
 msgstr "Som den eneste administrator kan du ikke forlate gruppen."
 
 #: bp-groups/bp-groups-functions.php:513
-#, fuzzy
 msgid "%1$s posted an update in the group %2$s"
-msgstr "%1$s postet en oppdatering i gruppen %2$s:"
+msgstr "%1$s la inn en melding i gruppen %2$s"
 
 #: bp-xprofile/bp-xprofile-loader.php:135
 #: bp-xprofile/bp-xprofile-loader.php:191
@@ -2993,14 +2904,12 @@ msgid ""
 msgstr "Avkrysningsfelt krever minst et valg. Vennligst legg til valg under."
 
 #: bp-xprofile/bp-xprofile-admin.php:25
-#, fuzzy
 msgid "Profile Fields"
-msgstr "Profil felt-oppsett"
+msgstr "Profilfelt"
 
 #: bp-xprofile/bp-xprofile-admin.php:74
-#, fuzzy
 msgid "Extended Profile Fields"
-msgstr "Utvidede profiler"
+msgstr "Utvidede profilfelt"
 
 #: bp-xprofile/bp-xprofile-admin.php:76 bp-xprofile/bp-xprofile-admin.php:178
 msgid "Add New Group"
@@ -3083,7 +2992,6 @@ msgid "The %s was deleted successfully!"
 msgstr "%s ble slettet med suksess!"
 
 #: bp-xprofile/bp-xprofile-admin.php:399
-#, fuzzy
 msgid "(Required)"
 msgstr "(obligatorisk)"
 
@@ -3161,9 +3069,8 @@ msgid "Profile not recently updated"
 msgstr "Profil ikke oppdatert i det siste"
 
 #: bp-xprofile/bp-xprofile-template.php:770
-#, fuzzy
 msgid "Profile updated %s"
-msgstr "Profil oppdatert for %s siden."
+msgstr "Profil oppdatert %s"
 
 #: bp-xprofile/bp-xprofile-template.php:813
 #: bp-xprofile/bp-xprofile-template.php:814
@@ -3188,14 +3095,12 @@ msgid "Settings Saved."
 msgstr "Innstillinger lagret."
 
 #: bp-forums/bp-forums-admin.php:46
-#, fuzzy
 msgid "(Installed)"
-msgstr "Plugin Installert"
+msgstr "(installert)"
 
 #: bp-forums/bp-forums-admin.php:46 bp-forums/bp-forums-admin.php:163
-#, fuzzy
 msgid "Forums for Groups"
-msgstr "Forum-oppsett"
+msgstr "Forum for grupper"
 
 #: bp-forums/bp-forums-admin.php:48 bp-forums/bp-forums-admin.php:165
 msgid ""
@@ -3314,9 +3219,7 @@ msgstr "Ferdigstill installasjon"
 msgid ""
 "<p>All done! Configuration settings have been saved to the file <code>bb-"
 "config.php</code> in the root of your WordPress install.</p>"
-msgstr ""
-"Alt ferdig! Konfigurasjonsinstillingene har blitt lagret til filen <code>bb-"
-"config.php</code> i roten av din Wordpressinstallasjon."
+msgstr "Alt ferdig! Konfigurasjonsinstillingene har blitt lagret til filen <code>bb-config.php</code> i roten av din WordPress-installasjon."
 
 #: bp-forums/bp-forums-admin.php:128
 #, fuzzy
@@ -3325,11 +3228,7 @@ msgid ""
 "to save the text shown below into a file named <code>bb-config.php</code> in "
 "the root directory of your WordPress installation before you can start using "
 "the forum functionality.</p>"
-msgstr ""
-"En konfigurasjonsfil kunne ikke bli opprettet. Ikke noe problem, men du må "
-"lagre teksten under til en fil kalt <code>bb-config.php</code> i "
-"rotkatalogen av din Wordpress installasjon før du kan ta i bruk forum-"
-"funksjonalitet."
+msgstr "En konfigurasjonsfil kunne ikke bli opprettet. Ikke noe problem, men du må lagre teksten under til en fil kalt <code>bb-config.php</code> i rotkatalogen av din WordPress-installasjon før du kan ta i bruk forum-funksjonalitet."
 
 #: bp-forums/bp-forums-admin.php:137
 msgid "New bbPress Installation"
@@ -5306,7 +5205,7 @@ msgstr "Spark ut &amp; utesteng"
 
 #: bp-themes/bp-default/groups/single/admin.php:269
 msgid "Promote to Mod"
-msgstr "Oppgrader til moderator"
+msgstr "Forfrem til moderator"
 
 #: bp-themes/bp-default/groups/single/admin.php:274
 msgid "Remove this member"
