@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-09-27 18:22+0200\n"
+"PO-Revision-Date: 2011-09-27 19:11+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -57,7 +57,7 @@ msgstr "Ny innleggskommentar lagt inn"
 #: bp-blogs/bp-blogs-buddybar.php:37 bp-core/bp-core-adminbar.php:117
 #: bp-core/bp-core-buddybar.php:481
 msgid "Dashboard"
-msgstr "Dashbord"
+msgstr "Kontrollpult"
 
 #: bp-blogs/bp-blogs-buddybar.php:38 bp-core/bp-core-adminbar.php:120
 #: bp-core/bp-core-buddybar.php:485
@@ -116,39 +116,34 @@ msgstr ""
 "Det oppsto et problem, vennligst rett opp skjemaet under og prøv igjen."
 
 #: bp-blogs/bp-blogs-template.php:424
-#, fuzzy
 msgid ""
 "By filling out the form below, you can <strong>add a site to your account</"
 "strong>. There is no limit to the number of sites that you can have, so "
 "create to your heart's content, but blog responsibly!"
 msgstr ""
-"Ved å fylle ut skjemaet under kan du <strong>legge til en blogg på din "
-"konto</strong>. Det er ingen grense for hvor mange blogger du kan ha, så "
-"opprett det du trenger, men blogg ansvarlig."
+"Ved å fylle ut skjemaet under kan du <strong>legge til et nettsted på din\n"
+"konto</strong>. Det er ingen grense for hvor mange nettsted du kan ha,\n"
+"så opprett det du trenger, men blogg ansvarlig."
 
 #: bp-blogs/bp-blogs-template.php:426
-#, fuzzy
 msgid ""
 "If you&#8217;re not going to use a great domain, leave it for a new user. "
 "Now have at it!"
 msgstr ""
-"Om du ikke kommer til å bruke et godt blogg-domene vær snill og la det være "
-"til en annen. Lykke til!"
+"Om du ikke kommer til å bruke et godt domene, vær snill og la det være til en annen. \n"
+"Lykke til!"
 
 #: bp-blogs/bp-blogs-template.php:435
-#, fuzzy
 msgid "Create Site"
-msgstr "Opprett feltgruppe"
+msgstr "Opprett nettsted"
 
 #: bp-blogs/bp-blogs-template.php:449
-#, fuzzy
 msgid "Site Name:"
-msgstr "Bloggnavn:"
+msgstr "Nettstednavn:"
 
 #: bp-blogs/bp-blogs-template.php:451
-#, fuzzy
 msgid "Site Domain:"
-msgstr "Bloggdomene:"
+msgstr "Nettsteddomene:"
 
 #: bp-blogs/bp-blogs-template.php:465
 msgid "Your address will be "
@@ -171,9 +166,8 @@ msgstr ""
 "omhyggelig!"
 
 #: bp-blogs/bp-blogs-template.php:479
-#, fuzzy
 msgid "Site Title:"
-msgstr "Felt tittel"
+msgstr "Tittel på nettsted"
 
 #: bp-blogs/bp-blogs-template.php:490
 msgid "Privacy:"
@@ -181,13 +175,10 @@ msgstr "Synlighet:"
 
 #: bp-blogs/bp-blogs-template.php:491
 #: bp-themes/bp-default/registration/register.php:202
-#, fuzzy
 msgid ""
 "I would like my site to appear in search engines, and in public listings "
 "around this network."
-msgstr ""
-"Jeg ønsker at min blogg dukker opp i søkemotorer, og i offentlige lister "
-"rundtom kring på denne siten."
+msgstr "Jeg ønsker at mitt nettsted dukker opp i søkemotorer og i offentlige lister på dette nettverket."
 
 #: bp-blogs/bp-blogs-template.php:495 bp-core/admin/bp-core-admin.php:111
 #: bp-core/admin/bp-core-admin.php:121 bp-core/admin/bp-core-admin.php:129
@@ -212,38 +203,32 @@ msgid "No"
 msgstr "Nei"
 
 #: bp-blogs/bp-blogs-template.php:553
-#, fuzzy
 msgid "Congratulations! You have successfully registered a new site."
-msgstr "Gratulerer! Du har registrert en ny blogg."
+msgstr "Gratulerer! Du har registrert et nytt nettsted."
 
 #: bp-blogs/bp-blogs-template.php:555
-#, fuzzy
 msgid ""
 "<a href=\"%1$s\">%2$s</a> is your new site.  <a href=\"%3$s\">Login</a> as "
 "\"%4$s\" using your existing password."
-msgstr ""
-"<a href=\"%1$s\">%2$s</a> er din nye blogg.  <a href=\"%3$s\">Logg inn</a> "
-"som \"%4$s\" ved å bruke ditt eksisterende passord."
+msgstr "<a href=\"%1$s\">%2$s</a> er ditt nye nettsted.  <a href=\"%3$s\">Logg inn</a> som \"%4$s\" ved å bruke ditt eksisterende passord."
 
 #: bp-blogs/bp-blogs-template.php:566 bp-core/bp-core-filters.php:318
 #: bp-themes/bp-default/blogs/index.php:23
 #: bp-themes/bp-default/blogs/create.php:21
-#, fuzzy
 msgid "Create a Site"
-msgstr "Opprett en blogg"
+msgstr "Opprett et nettsted"
 
 #: bp-blogs/bp-blogs-template.php:579
-#, fuzzy
 msgid "%s's Sites"
-msgstr "%ss venner"
+msgstr "%ss nettsted"
 
 #: bp-blogs/bp-blogs-template.php:580
 msgid "%s's Recent Posts"
-msgstr "%ss seneste poster"
+msgstr "%ss nyeste innlegg"
 
 #: bp-blogs/bp-blogs-template.php:581
 msgid "%s's Recent Comments"
-msgstr "%ss seneste kommentarer"
+msgstr "%ss nyeste kommentarer"
 
 #: bp-blogs/bp-blogs-template.php:596 bp-core/deprecated/1.5.php:381
 #: bp-groups/bp-groups-template.php:2261 bp-forums/bp-forums-template.php:1313
@@ -254,45 +239,36 @@ msgstr "Søk"
 
 #: bp-blogs/bp-blogs-template.php:629 bp-blogs/bp-blogs-template.php:630
 #: bp-core/bp-core-adminbar.php:124
-#, fuzzy
 msgid "Visit Site"
-msgstr "Besøk"
+msgstr "Besøk nettsted"
 
 #: bp-blogs/bp-blogs-functions.php:115
-#, fuzzy
 msgid "%s created the site %s"
-msgstr "%s opprettet bloggen %s"
+msgstr "%s opprettet nettstedet %s"
 
 #: bp-blogs/bp-blogs-functions.php:179
-#, fuzzy
 msgid "%1$s wrote a new post, %2$s, on the site %3$s"
-msgstr "%1$s skrev et nytt blogginnlegg: %s$s på bloggen %3$s"
+msgstr "%1$s skrev et nytt innlegg: %2$s på nettstedet %3$s"
 
 #: bp-blogs/bp-blogs-functions.php:181
-#, fuzzy
 msgid "%1$s wrote a new post, %2$s"
-msgstr "%1$s skrev et nytt blogginnlegg: %2$s"
+msgstr "%1$s skrev et nytt innlegg: %2$s"
 
 #: bp-blogs/bp-blogs-functions.php:264
-#, fuzzy
 msgid "%1$s commented on the post, %2$s, on the site %3$s"
-msgstr "%1$s kommenterte på blogginnlegget på bloggen %2$s"
+msgstr "%1$s kommenterte på innlegget %2$s på nettstedet %3$s"
 
 #: bp-blogs/bp-blogs-functions.php:266
-#, fuzzy
 msgid "%1$s commented on the post, %2$s"
-msgstr "%1$s kommenterte på blogginnlegget %2$s"
+msgstr "%1$s kommenterte på innlegget %2$s"
 
 #: bp-blogs/bp-blogs-widgets.php:25
-#, fuzzy
 msgid "Recent Networkwide Posts"
-msgstr "Seneste globale innlegg"
+msgstr "Nyeste globale innlegg"
 
 #: bp-blogs/bp-blogs-widgets.php:68
-#, fuzzy
 msgid "Sorry, there were no posts found. Why not write one?"
-msgstr ""
-"Beklager, det ble ikke funnet noen blogg-innlegg. Hvorfor ikke skrive ett?"
+msgstr "Beklager, det ble ikke funnet noen innlegg. Hvorfor ikke skrive et?"
 
 #: bp-blogs/bp-blogs-widgets.php:88
 msgid "Max posts to show:"
@@ -385,41 +361,37 @@ msgid "There were no members found, please try another filter."
 msgstr "Det ble ikke funnet noen medlemmer, vennligst prøv et annet filter."
 
 #: bp-core/bp-core-adminbar.php:75
-#, fuzzy
 msgid "Admin Dashboard"
-msgstr "Dashbord"
+msgstr "Hovedkontrollpult"
 
 #: bp-core/bp-core-adminbar.php:86
-#, fuzzy
 msgid "Network Dashboard"
-msgstr "Dashbord"
+msgstr "Nettverkskontrollpult"
 
 #: bp-core/bp-core-adminbar.php:112
-#, fuzzy
 msgid "Blavatar"
-msgstr "Avatar"
+msgstr "Blavatar"
 
+# TODO test denne
 #: bp-core/bp-core-adminbar.php:142
-#, fuzzy
 msgid "Comments %s"
-msgstr "Kommentarer: %s"
+msgstr "Kommentarer %s"
 
 #: bp-core/bp-core-adminbar.php:156
 msgid "Appearance"
 msgstr ""
 
 #: bp-core/bp-core-adminbar.php:162
-#, fuzzy
 msgid "Themes"
-msgstr "Temavalg"
+msgstr "Tema"
 
 #: bp-core/bp-core-adminbar.php:165
 msgid "Widgets"
-msgstr ""
+msgstr "Småprogram"
 
 #: bp-core/bp-core-adminbar.php:168
 msgid "Menus"
-msgstr ""
+msgstr "Menyer"
 
 #: bp-core/bp-core-adminbar.php:171
 msgid "Background"
@@ -430,26 +402,24 @@ msgid "Header"
 msgstr ""
 
 #: bp-core/bp-core-adminbar.php:207
-#, fuzzy
 msgid "%d WordPress Update"
-msgstr "Post oppdatering"
+msgstr "%d WordPress-oppdatering"
 
 #: bp-core/bp-core-adminbar.php:209
 msgid "%d Plugin Update"
 msgid_plural "%d Plugin Updates"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d innstikkoppdatering"
+msgstr[1] "%d innstikkoppdateringer<"
 
 #: bp-core/bp-core-adminbar.php:211
 msgid "%d Theme Update"
 msgid_plural "%d Theme Updates"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d temaoppdatering"
+msgstr[1] "%d temaoppdateringer"
 
 #: bp-core/bp-core-adminbar.php:216
-#, fuzzy
 msgid "Updates %s"
-msgstr "Oppdatering Postet!"
+msgstr "Oppdateringer %s"
 
 #: bp-core/admin/bp-core-schema.php:208
 msgctxt "First XProfile group name"
@@ -462,14 +432,11 @@ msgid "Name"
 msgstr "Navn"
 
 #: bp-core/admin/bp-core-admin.php:11
-#, fuzzy
 msgid ""
 "IMPORTANT: <a href=\"http://codex.buddypress.org/buddypress-site-"
 "administration/upgrading-buddypress/\">Read this before attempting to update "
 "BuddyPress</a>"
-msgstr ""
-"VIKTIG: <a href=\"http://codex.buddypress.org/getting-started/upgrading-"
-"from-10x/\">Les dette før du prøver å oppdatere BuddyPress</a>"
+msgstr "VIKTIG: <a href=\"http://codex.buddypress.org/buddypress-site-administration/upgrading-buddypress/\">Les dette før du prøver å oppdatere BuddyPress</a>"
 
 #: bp-core/admin/bp-core-admin.php:32 bp-core/admin/bp-core-admin.php:251
 #: bp-core/admin/bp-core-update.php:72 bp-core/admin/bp-core-update.php:88
@@ -533,9 +500,8 @@ msgid "Save Settings"
 msgstr "Lagre instillinger"
 
 #: bp-core/admin/bp-core-admin.php:310
-#, fuzzy
 msgid "Save All"
-msgstr "Se alle"
+msgstr "Lagre alle"
 
 #: bp-core/admin/bp-core-admin.php:342 bp-xprofile/bp-xprofile-loader.php:25
 msgid "Extended Profiles"
@@ -548,9 +514,8 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:346
-#, fuzzy
 msgid "Account Settings"
-msgstr "Kontodetaljer"
+msgstr "Kontoinnstillinger"
 
 #: bp-core/admin/bp-core-admin.php:347
 msgid ""
@@ -563,112 +528,89 @@ msgid "Friend Connections"
 msgstr "Venneforbindelse"
 
 #: bp-core/admin/bp-core-admin.php:351
-#, fuzzy
 msgid ""
 "Let your users make connections so they can track the activity of others and "
 "focus on the people they care about the most."
-msgstr ""
-"La dine brukere lage forbindelser så de kan spore hverandres aktiviteter, "
-"eller filtrere på kun de brukere som er mest interessant for dem."
+msgstr "La dine brukere lage forbindelser så de kan spore hverandres aktiviteter og fokusere på de menneskene de bryr seg mest om."
 
 #: bp-core/admin/bp-core-admin.php:354
 msgid "Private Messaging"
 msgstr "Private meldinger"
 
 #: bp-core/admin/bp-core-admin.php:355
-#, fuzzy
 msgid ""
 "Allow your users to talk to each other directly and in private. Not just "
 "limited to one-on-one discussions, messages can be sent between any number "
 "of members."
 msgstr ""
-"Private meldinger vil gi brukerne dine mulighet til å snakke til hverandre "
-"direkte og privat. Ikke bare begrenset til en til en men dine brukere kan "
-"sende meldinger til flere mottakere."
+"Gir brukerne dine mulighet til å snakke til hverandre direkte og\n"
+"privat. Ikke bare begrenset til en-til-en-samtaler, dine brukere kan\n"
+"også sende meldinger til flere mottakere."
 
 #: bp-core/admin/bp-core-admin.php:358 bp-activity/bp-activity-loader.php:34
 msgid "Activity Streams"
 msgstr "Aktivitetstrømmer"
 
 #: bp-core/admin/bp-core-admin.php:359
-#, fuzzy
 msgid ""
 "Global, personal, and group activity streams with threaded commenting, "
 "direct posting, favoriting and @mentions, all with full RSS feed and email "
 "notification support."
-msgstr ""
-"Strømmer av global, personlig og gruppeaktivitet med trådet kommenteringer, "
-"direkte posting, favorittmerking og @nevnelser. Alle med støtte for full RSS "
-"strøm og support for epost-notis."
+msgstr "Strømmer av global, personlig og gruppeaktivitet med trådet kommentering, direkteinnlegg, favorittmerking og @nevnelser. Alle med støtte for fullstendige RSS-strømmer og støtte for epost-abonnering."
 
 #: bp-core/admin/bp-core-admin.php:362 bp-groups/bp-groups-loader.php:26
-#, fuzzy
 msgid "User Groups"
-msgstr "Filtrer grupper"
+msgstr "Brukergrupper"
 
 #: bp-core/admin/bp-core-admin.php:363
-#, fuzzy
 msgid ""
 "Groups allow your users to organize themselves into specific public, private "
 "or hidden sections with separate activity streams and member listings."
 msgstr ""
-"Kraftig offentlig, provate eller usynlige grupper gjør det mulig for dine "
-"brukere å bryte ned diskusjonen til spesifike emner med en separat strøm av "
-"aktiviteter og medlemslisting."
+"Grupper lar brukerne dine organisere seg i spesifikke offentlige,\n"
+"private eller skjulte avdelinger, med adskilte aktivitetsstrømmer og\n"
+"medlemslister."
 
 #: bp-core/admin/bp-core-admin.php:366 bp-forums/bp-forums-loader.php:24
 msgid "Discussion Forums"
 msgstr "Diskusjonsforumer"
 
 #: bp-core/admin/bp-core-admin.php:367
-#, fuzzy
 msgid ""
 "Full-powered discussion forums built directly into groups allow for more "
 "conventional in-depth conversations. NOTE: This will require an extra (but "
 "easy) setup step."
-msgstr ""
-"Fullt utstyrte diskusjonsforumer bygget direkte i grupper muliggjør mer "
-"praktiske diskusjoner. <strong>Notis: Dette krever et ekstra (men lett) steg "
-"i oppsettet.</strong>"
+msgstr "Fullt utstyrte diskusjonsforumer bygget direkte i grupper muliggjør mer tradisjonelle, dyptgående diskusjoner. MERK: Dette krever et ekstra (men enkelt) steg i oppsettet."
 
 #: bp-core/admin/bp-core-admin.php:371
-#, fuzzy
 msgid "Make BuddyPress aware of new posts and new comments from your site."
-msgstr ""
-"Spor nye blogger, nye poster og nye kommentarer på tvers av ditt blogg-"
-"nettverk."
+msgstr "La BuddyPress spore nye innlegg og nye kommentarer fra nettstedet ditt."
 
 #: bp-core/admin/bp-core-admin.php:376
-#, fuzzy
 msgid ""
 "Make BuddyPress aware of new sites, new posts and new comments from across "
 "your entire network."
-msgstr ""
-"Spor nye blogger, nye poster og nye kommentarer på tvers av ditt blogg-"
-"nettverk."
+msgstr "La BuddyPress spore nye nettsted, nye innlegg og nye kommentarer på tvers av ditt nettverk."
 
 #: bp-core/admin/bp-core-admin.php:400 bp-core/bp-core-loader.php:38
-#, fuzzy
 msgid "BuddyPress Core"
-msgstr "BuddyPress"
+msgstr "BuddyPress-kjerne"
 
 #: bp-core/admin/bp-core-admin.php:401
 msgid "It&#8216;s what makes <del>time travel</del> BuddyPress possible!"
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:404
-#, fuzzy
 msgid "Community Members"
-msgstr "Flest medlemmer"
+msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:405
 msgid "Everything in a BuddyPress community revolves around its members."
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:418
-#, fuzzy
 msgid "Available Components"
-msgstr "Komponenter"
+msgstr "Tilgjengelige komponenter"
 
 #: bp-core/admin/bp-core-admin.php:420
 msgid ""
@@ -677,9 +619,8 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:450
-#, fuzzy
 msgid "Required Components"
-msgstr "Komponenter"
+msgstr "Nødvendige komponenter"
 
 #: bp-core/admin/bp-core-admin.php:452
 msgid ""
@@ -687,9 +628,8 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:520
-#, fuzzy
 msgid "Directories"
-msgstr "%s Katalog"
+msgstr "Kataloger"
 
 #: bp-core/admin/bp-core-admin.php:522
 msgid "Associate a WordPress Page with each BuddyPress component directory."
@@ -700,9 +640,8 @@ msgid "- None -"
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:546 bp-core/admin/bp-core-admin.php:599
-#, fuzzy
 msgid "New Page"
-msgstr "Nytt innlegg"
+msgstr "Nytt side"
 
 #: bp-core/admin/bp-core-admin.php:547 bp-core/admin/bp-core-admin.php:600
 #: bp-xprofile/bp-xprofile-classes.php:758
@@ -730,9 +669,8 @@ msgid "Activate"
 msgstr "Aktiver"
 
 #: bp-core/admin/bp-core-admin.php:577
-#, fuzzy
 msgid "Registration"
-msgstr "Registrer"
+msgstr "Registrering"
 
 #: bp-core/admin/bp-core-admin.php:579
 msgid ""
@@ -755,45 +693,38 @@ msgid "Finish"
 msgstr "Fullfør"
 
 #: bp-core/admin/bp-core-update.php:82 bp-core/admin/bp-core-update.php:211
-#, fuzzy
 msgid "Multisite Update"
-msgstr "Multisite Oppgradering"
+msgstr "Oppgradering av flere nettsted"
 
 #: bp-core/admin/bp-core-update.php:85 bp-core/admin/bp-core-update.php:207
-#, fuzzy
 msgid "Database Update"
-msgstr "Database Oppgradering"
+msgstr "Databaseoppgradering"
 
 #: bp-core/admin/bp-core-update.php:145 bp-core/admin/bp-core-update.php:1215
-#, fuzzy
 msgid "Update"
-msgstr "Post oppdatering"
+msgstr "Oppdater"
 
 #: bp-core/admin/bp-core-update.php:145 bp-core/admin/bp-core-update.php:1213
 msgid "Setup"
 msgstr "Oppsett"
 
 #: bp-core/admin/bp-core-update.php:153
-#, fuzzy
 msgid "BuddyPress %s"
-msgstr "BuddyPress"
+msgstr "BuddyPress %s"
 
 #: bp-core/admin/bp-core-update.php:191
-#, fuzzy
 msgid "Finish &amp; Activate"
-msgstr "Ferdig &amp; Aktiver &rarr;"
+msgstr "Ferdig &amp; Aktiver"
 
 #: bp-core/admin/bp-core-update.php:197
-#, fuzzy
 msgid "Save &amp; Next"
-msgstr "Lagre &amp; Neste &rarr;"
+msgstr "Lagre &amp; Neste"
 
 #: bp-core/admin/bp-core-update.php:215
 #: bp-themes/bp-default/blogs/index.php:23
 #: bp-themes/bp-default/blogs/create.php:21
-#, fuzzy
 msgid "Site Directory"
-msgstr "%s Katalog"
+msgstr "Nettstedkatalog"
 
 #: bp-core/admin/bp-core-update.php:254
 msgid ""
