@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-09-28 18:12+0200\n"
+"PO-Revision-Date: 2011-09-29 09:33+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -3133,17 +3133,15 @@ msgstr "Integrering av aktivitetstrømmer"
 #: bp-forums/bp-forums-admin.php:56 bp-forums/bp-forums-admin.php:74
 #: bp-forums/bp-forums-admin.php:173 bp-forums/bp-forums-admin.php:192
 msgid "@ Mention Integration"
-msgstr ""
+msgstr "Integrering av @nevnelser"
 
 #: bp-forums/bp-forums-admin.php:60
-#, fuzzy
 msgid "Uninstall Group Forums"
-msgstr "Post i gruppeforum:"
+msgstr "Avinstaller gruppeforum"
 
 #: bp-forums/bp-forums-admin.php:65 bp-forums/bp-forums-admin.php:183
-#, fuzzy
 msgid "New! Site Wide Forums"
-msgstr "Seneste globale innlegg"
+msgstr "Nyhet! Globale forum"
 
 #: bp-forums/bp-forums-admin.php:66 bp-forums/bp-forums-admin.php:184
 msgid ""
@@ -3159,18 +3157,16 @@ msgid ""
 msgstr ""
 
 #: bp-forums/bp-forums-admin.php:71 bp-forums/bp-forums-admin.php:189
-#, fuzzy
 msgid "Central Discussion Area"
-msgstr "Aktiver diskusjonsforum"
+msgstr "Hoveddiskusjonsområde"
 
 #: bp-forums/bp-forums-admin.php:72 bp-forums/bp-forums-admin.php:190
 msgid "Forum Plugins Available"
 msgstr ""
 
 #: bp-forums/bp-forums-admin.php:77 bp-forums/bp-forums-admin.php:195
-#, fuzzy
 msgid "Install Site Wide Forums"
-msgstr "Seneste globale innlegg"
+msgstr "Installer globale forum"
 
 #: bp-forums/bp-forums-admin.php:96
 msgid ""
@@ -3212,20 +3208,24 @@ msgid "Complete Installation"
 msgstr "Ferdigstill installasjon"
 
 #: bp-forums/bp-forums-admin.php:124
-#, fuzzy
 msgid ""
 "<p>All done! Configuration settings have been saved to the file <code>bb-"
 "config.php</code> in the root of your WordPress install.</p>"
-msgstr "Alt ferdig! Konfigurasjonsinstillingene har blitt lagret til filen <code>bb-config.php</code> i roten av din WordPress-installasjon."
+msgstr ""
+"<p>Helt ferdig! Konfigurasjonsinstillingene har blitt lagret til filen\n"
+"<code>bb-config.php</code> i roten av din WordPress-installasjon.</p>"
 
 #: bp-forums/bp-forums-admin.php:128
-#, fuzzy
 msgid ""
 "<p>A configuration file could not be created. No problem, but you will need "
 "to save the text shown below into a file named <code>bb-config.php</code> in "
 "the root directory of your WordPress installation before you can start using "
 "the forum functionality.</p>"
-msgstr "En konfigurasjonsfil kunne ikke bli opprettet. Ikke noe problem, men du må lagre teksten under til en fil kalt <code>bb-config.php</code> i rotkatalogen av din WordPress-installasjon før du kan ta i bruk forum-funksjonalitet."
+msgstr ""
+"Kunne ikke opprette konfigurasjonsfil. Det går bra, du må bare lagre\n"
+"teksten vist under til en fil kalt <code>bb-config.php</code> i\n"
+"rotkatalogen av din WordPress-installasjon før du kan ta i bruk\n"
+"forum-funksjonalitet."
 
 #: bp-forums/bp-forums-admin.php:137
 msgid "New bbPress Installation"
@@ -3250,39 +3250,32 @@ msgstr ""
 "laste ned en kopi av bbPress og være sikker på at den er i katalogen:  \"%s\""
 
 #: bp-forums/bp-forums-admin.php:177
-#, fuzzy
 msgid "Install Group Forums"
-msgstr "Gruppeforum"
+msgstr "Installer gruppeforum"
 
 #: bp-forums/bp-forums-admin.php:178
-#, fuzzy
 msgid "Use Existing Installation"
-msgstr "Eksisterende bbPress installasjon"
+msgstr "Bruk en eksisterende installasjon"
 
 #: bp-forums/bp-forums-loader.php:61
-#, fuzzy
 msgid "Search Forums..."
-msgstr "Vis nye forum-emner"
+msgstr "Søk gjennom forum …"
 
 #: bp-forums/bp-forums-loader.php:135 bp-forums/bp-forums-loader.php:201
-#, fuzzy
 msgid "Topics Started"
-msgstr "Emnetittel"
+msgstr ""
 
 #: bp-forums/bp-forums-loader.php:146
-#, fuzzy
 msgid "Replied To"
-msgstr "Ubesvarte"
+msgstr ""
 
 #: bp-forums/bp-forums-loader.php:208
-#, fuzzy
 msgid "Replies"
 msgstr "Svar"
 
 #: bp-forums/bp-forums-loader.php:215
-#, fuzzy
 msgid "Favorite Topics"
-msgstr "Favoritter"
+msgstr "Favorittemner"
 
 #: bp-forums/bp-forums-template.php:189 bp-forums/bp-forums-template.php:405
 msgctxt "Forum topic pagination previous text"
@@ -3358,20 +3351,17 @@ msgid "Please pick the group forum where you would like to post this topic."
 msgstr "Vennligst velg forum-gruppe hvor du vil poste dette emne."
 
 #: bp-messages/bp-messages-loader.php:24
-#, fuzzy
 msgid "Private Messages"
 msgstr "Private meldinger"
 
 #: bp-messages/bp-messages-loader.php:79
-#, fuzzy
 msgid "Search Messages..."
-msgstr "Søk medlemmer..."
+msgstr "Søk gjennom meldinger …"
 
 #: bp-messages/bp-messages-loader.php:96
 #: bp-messages/bp-messages-actions.php:41
-#, fuzzy
 msgid "Messages <span>%s</span>"
-msgstr "Mine favoritter (<span>%s</span>)"
+msgstr ""
 
 #: bp-messages/bp-messages-loader.php:114
 #: bp-messages/bp-messages-loader.php:182
@@ -3381,9 +3371,8 @@ msgstr "Innboks"
 
 #: bp-messages/bp-messages-loader.php:124
 #: bp-messages/bp-messages-loader.php:203
-#, fuzzy
 msgid "Sent"
-msgstr "Sendt:"
+msgstr "Sendt"
 
 #: bp-messages/bp-messages-loader.php:134
 #: bp-messages/bp-messages-loader.php:210
@@ -3395,9 +3384,8 @@ msgid "Notices"
 msgstr "Notiser"
 
 #: bp-messages/bp-messages-loader.php:178
-#, fuzzy
 msgid "Messages <span class=\"count\">%s</span>"
-msgstr "Meldinger<strong>(%s)</strong> "
+msgstr "Meldinger <strong class=\"count\">%s</strong> "
 
 #: bp-messages/bp-messages-loader.php:179
 msgid "Inbox <span class=\"count\">%s</span>"
@@ -3409,9 +3397,8 @@ msgid "Messages"
 msgstr "Meldinger"
 
 #: bp-messages/bp-messages-loader.php:218
-#, fuzzy
 msgid "All Member Notices"
-msgstr "Alle medlemmer (%s)"
+msgstr ""
 
 #: bp-messages/bp-messages-loader.php:237
 msgid "My Messages"
@@ -3477,9 +3464,8 @@ msgid "Send a private message to this user."
 msgstr "Send en privat melding til denne brukeren."
 
 #: bp-messages/bp-messages-template.php:592
-#, fuzzy
 msgid "Private Message"
-msgstr "Private meldinger"
+msgstr "Privat melding"
 
 #: bp-messages/bp-messages-template.php:780
 msgid "%d Recipients"
@@ -3487,9 +3473,8 @@ msgstr "%d Mottakere"
 
 #: bp-messages/bp-messages-template.php:855
 #: bp-themes/bp-default/_inc/ajax.php:543
-#, fuzzy
 msgid "Sent %s"
-msgstr "Sendt %s siden"
+msgstr "Sendt %s"
 
 #: bp-messages/bp-messages-actions.php:30
 msgid "Your reply was sent successfully"
@@ -3616,7 +3601,6 @@ msgid "You have %d new message"
 msgstr "Du har %d ny melding"
 
 #: bp-members/bp-members-adminbar.php:55
-#, fuzzy
 msgid "Log in"
 msgstr "Logg inn"
 
@@ -3649,9 +3633,8 @@ msgid ""
 msgstr ""
 
 #: bp-members/bp-members-adminbar.php:190
-#, fuzzy
 msgid "No new notifications"
-msgstr "Ingen nye notiser."
+msgstr "Ingen nye meldinger."
 
 #: bp-members/bp-members-actions.php:87
 msgid "User marked as spammer. Spam users are visible only to site admins."
@@ -3688,9 +3671,8 @@ msgid "Edit %s's Avatar"
 msgstr "Rediger %ss avatar"
 
 #: bp-members/bp-members-buddybar.php:124
-#, fuzzy
 msgid "Delete %s's Account"
-msgstr "Slett konto"
+msgstr "Slett kontoen til %s"
 
 #: bp-members/bp-members-loader.php:70
 msgid "Search Members..."
@@ -3805,9 +3787,8 @@ msgid "Viewing member %1$s to %2$s (of %3$s members)"
 msgstr "Ser på medlem %1$s til %2$s (av %3$s medlemmer)"
 
 #: bp-members/bp-members-template.php:561
-#, fuzzy
 msgid "Never active"
-msgstr "Deaktiver"
+msgstr "Aldri aktiv"
 
 #: bp-members/bp-members-template.php:583
 msgctxt "member latest update in member directory"
@@ -3815,9 +3796,8 @@ msgid "- &quot;%s &quot;"
 msgstr ""
 
 #: bp-members/bp-members-template.php:640
-#, fuzzy
 msgid "registered %s"
-msgstr "registrert %s siden"
+msgstr "registrert %s"
 
 #: bp-members/bp-members-template.php:1091
 msgid "Your Avatar"
@@ -3830,7 +3810,6 @@ msgstr "Aktivitet RSS Strøm"
 #: bp-themes/bp-default/index.php:24 bp-themes/bp-default/attachment.php:18
 #: bp-themes/bp-default/search.php:26 bp-themes/bp-default/archive.php:24
 #: bp-themes/bp-default/single.php:16
-#, fuzzy
 msgctxt "Post written by..."
 msgid "by %s"
 msgstr "av %s"
@@ -3847,9 +3826,8 @@ msgstr "Permanent lenke til"
 
 #: bp-themes/bp-default/index.php:34 bp-themes/bp-default/search.php:32
 #: bp-themes/bp-default/archive.php:30 bp-themes/bp-default/single.php:23
-#, fuzzy
 msgid "%1$s <span>in %2$s</span>"
-msgstr "Blogger <span>(%d)</span>"
+msgstr "%1$s <span>i %2$s</span>"
 
 #: bp-themes/bp-default/index.php:37 bp-themes/bp-default/search.php:35
 #: bp-themes/bp-default/archive.php:33 bp-themes/bp-default/single.php:28
@@ -3859,9 +3837,8 @@ msgstr "Les resten av dette innlegget &rarr;"
 #: bp-themes/bp-default/index.php:38 bp-themes/bp-default/page.php:20
 #: bp-themes/bp-default/onecolumn-page.php:31
 #: bp-themes/bp-default/archive.php:34 bp-themes/bp-default/single.php:30
-#, fuzzy
 msgid "Pages: "
-msgstr "Sider"
+msgstr "Sider:"
 
 #: bp-themes/bp-default/index.php:41 bp-themes/bp-default/search.php:38
 #: bp-themes/bp-default/archive.php:37 bp-themes/bp-default/single.php:33
@@ -3920,9 +3897,8 @@ msgid "Activation Key:"
 msgstr "Aktiveringsnøkkel:"
 
 #: bp-themes/bp-default/registration/register.php:16
-#, fuzzy
 msgid "User registration is currently not allowed."
-msgstr "Registrering av brukere er for tiden ikke tillatt."
+msgstr "Oppretting av nye brukere er for tiden ikke tillatt."
 
 #: bp-themes/bp-default/registration/register.php:27
 msgid ""
@@ -3985,18 +3961,16 @@ msgid "Blog Details"
 msgstr "Bloggdetaljer"
 
 #: bp-themes/bp-default/registration/register.php:185
-#, fuzzy
 msgid "Yes, I'd like to create a new site"
-msgstr "Ja, jeg ønsker å opprette en ny blogg"
+msgstr "Ja, jeg ønsker å opprette et nytt nettsted"
 
 #: bp-themes/bp-default/registration/register.php:189
 msgid "Blog URL"
 msgstr "Blogg URL"
 
 #: bp-themes/bp-default/registration/register.php:198
-#, fuzzy
 msgid "Site Title"
-msgstr "Felt tittel"
+msgstr "Tittel på nettsted"
 
 #: bp-themes/bp-default/registration/register.php:219
 msgid "Complete Sign Up"
