@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-09-28 18:10+0200\n"
+"PO-Revision-Date: 2011-09-28 18:12+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -3109,29 +3109,26 @@ msgid ""
 msgstr ""
 
 #: bp-forums/bp-forums-admin.php:49 bp-forums/bp-forums-admin.php:166
-#, fuzzy
 msgid "You may use an existing bbPress installation if you have one."
-msgstr "Bruk en eksisterende bbPress installasjon"
+msgstr "Du kan bruke en eksisterende bbPress-installasjon, hvis du har en."
 
 #: bp-forums/bp-forums-admin.php:51 bp-forums/bp-forums-admin.php:69
 #: bp-forums/bp-forums-admin.php:168 bp-forums/bp-forums-admin.php:187
 msgid "Features"
-msgstr ""
+msgstr "Funksjoner"
 
 #: bp-forums/bp-forums-admin.php:53 bp-forums/bp-forums-admin.php:170
-#, fuzzy
 msgid "Group Integration"
-msgstr "Gruppebeskrivelse"
+msgstr "Integrering av grupper"
 
 #: bp-forums/bp-forums-admin.php:54 bp-forums/bp-forums-admin.php:171
 msgid "Member Profile Integration"
-msgstr ""
+msgstr "Integrering av medlemsprofiler"
 
 #: bp-forums/bp-forums-admin.php:55 bp-forums/bp-forums-admin.php:73
 #: bp-forums/bp-forums-admin.php:172 bp-forums/bp-forums-admin.php:191
-#, fuzzy
 msgid "Activity Stream Integration"
-msgstr "Aktivitetstrømmer"
+msgstr "Integrering av aktivitetstrømmer"
 
 #: bp-forums/bp-forums-admin.php:56 bp-forums/bp-forums-admin.php:74
 #: bp-forums/bp-forums-admin.php:173 bp-forums/bp-forums-admin.php:192
