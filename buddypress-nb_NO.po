@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-09-29 09:33+0200\n"
+"PO-Revision-Date: 2011-09-29 22:17+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -4097,12 +4097,10 @@ msgstr ""
 "\">BuddyPress</a>."
 
 #: bp-themes/bp-default/sidebar.php:37
-#, fuzzy
 msgid ""
 "Please <a href=\"%s\" title=\"Create an account\">create an account</a> to "
 "get started."
-msgstr ""
-"Du kan også <a href=\"%s\" title=\"Opprette en konto\">opprette en konto</a>."
+msgstr "<a href=\"%s\" title=\"Opprett en konto\">Opprett en konto</a> for å komme i gang."
 
 #: bp-themes/bp-default/sidebar.php:47
 msgid "Password"
@@ -4114,7 +4112,7 @@ msgstr "Husk meg"
 
 #: bp-themes/bp-default/sidebar.php:64
 msgid "Forum Topic Tags"
-msgstr "Forum Emne etiketter"
+msgstr "Merkelapper på forumemne"
 
 #: bp-themes/bp-default/comments.php:3
 msgid "Password Protected"
@@ -4125,11 +4123,10 @@ msgid "Enter the password to view comments."
 msgstr "Skriv inn passordet for å vise kommentarer."
 
 #: bp-themes/bp-default/comments.php:24
-#, fuzzy
 msgid "1 response to %2$s"
 msgid_plural "%1$s responses to %2$s"
-msgstr[0] "En Respons til %2$s"
-msgstr[1] "En Respons til %2$s"
+msgstr[0] "Ett svar til %2$s"
+msgstr[1] "%1$s svar til %2$s"
 
 #: bp-themes/bp-default/comments.php:46
 msgid ""
@@ -4144,16 +4141,14 @@ msgid "Comments are closed."
 msgstr "Kommentarer er stengt."
 
 #: bp-themes/bp-default/comments.php:62
-#, fuzzy
 msgid "1 trackback"
 msgid_plural "%d trackbacks"
-msgstr[0] "%d Tilbakesporing"
-msgstr[1] "%d Tilbakesporinger"
+msgstr[0] "Én tilbakesporing"
+msgstr[1] "%d tilbakesporinger"
 
 #: bp-themes/bp-default/404.php:7
-#, fuzzy
 msgid "Page not found"
-msgstr "Siden ikke funnet"
+msgstr "Fant ikke siden"
 
 #: bp-themes/bp-default/404.php:9
 msgid ""
@@ -4238,9 +4233,8 @@ msgid "Your comment is awaiting moderation."
 msgstr "Din kommentare venter på moderering."
 
 #: bp-themes/bp-default/functions.php:492
-#, fuzzy
 msgid "Edit comment"
-msgstr "kommentarer"
+msgstr "Endre kommentar"
 
 #: bp-themes/bp-default/functions.php:562
 msgid ""
@@ -4277,20 +4271,17 @@ msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
 msgstr "<p class=\"serif\">Les resten av denne siden &rarr;</p>"
 
 #: bp-themes/bp-default/page.php:21 bp-themes/bp-default/onecolumn-page.php:32
-#, fuzzy
 msgid "Edit this page."
-msgstr "Rediger dette innlegget."
+msgstr "Endre denne siden."
 
 #: bp-themes/bp-default/header.php:27
-#, fuzzy
 msgctxt "Home page banner link title"
 msgid "Home"
 msgstr "Hjem"
 
 #: bp-themes/bp-default/header.php:30
-#, fuzzy
 msgid "Search for:"
-msgstr "Søk"
+msgstr "Søk etter:"
 
 #: bp-themes/bp-default/members/index.php:23
 msgid "Members Directory"
@@ -4298,15 +4289,13 @@ msgstr "Medlemskatalog"
 
 #: bp-themes/bp-default/members/index.php:35
 #: bp-themes/bp-default/activity/index.php:41
-#, fuzzy
 msgid "All Members <span>%s</span>"
-msgstr "Blogger <span>(%d)</span>"
+msgstr "Alle medlem <span>%s</span>"
 
 #: bp-themes/bp-default/members/index.php:39
 #: bp-themes/bp-default/activity/index.php:51
-#, fuzzy
 msgid "My Friends <span>%s</span>"
-msgstr "Venner <span>(%d)</span>"
+msgstr "Mine venner <span>%s</span>"
 
 #: bp-themes/bp-default/members/index.php:57
 #: bp-themes/bp-default/members/single/friends.php:22
@@ -4340,9 +4329,8 @@ msgid "Sorry, no members were found."
 msgstr "Beklager, fant ingen brukere som passet!"
 
 #: bp-themes/bp-default/members/single/settings/notifications.php:50
-#, fuzzy
 msgid "Email Notification"
-msgstr "Email notiser"
+msgstr ""
 
 #: bp-themes/bp-default/members/single/settings/notifications.php:55
 msgid "Send a notification by email when:"
@@ -4401,9 +4389,8 @@ msgid "Repeat New Password"
 msgstr "Gjenta nytt passord"
 
 #: bp-themes/bp-default/members/single/profile/profile-wp.php:8
-#, fuzzy
 msgid "%s's Profile"
-msgstr "Rediger %ss profil"
+msgstr "Profilen til %s"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:7
 msgid ""
@@ -4560,14 +4547,12 @@ msgid "Sorry, no messages were found."
 msgstr "Beklager, ingen meldinger ble funnet."
 
 #: bp-themes/bp-default/members/single/messages/single.php:14
-#, fuzzy
 msgid "You are alone in this conversation."
-msgstr "Din kommentare venter på moderering."
+msgstr "Du er helt alene i denne samtalen."
 
 #: bp-themes/bp-default/members/single/messages/single.php:18
-#, fuzzy
 msgid "Conversation between %s and you."
-msgstr "Sendt mellom %s og %s"
+msgstr "Samtale mellom %s og deg."
 
 #: bp-themes/bp-default/members/single/messages/single.php:75
 msgid "Send a Reply"
@@ -4600,55 +4585,48 @@ msgstr "Du har ingen ventende vennskapforespørsler."
 #: bp-themes/bp-default/members/single/activity.php:18
 #: bp-themes/bp-default/activity/index.php:94
 #: bp-themes/bp-default/groups/single/activity.php:8
-#, fuzzy
 msgid "Show:"
-msgstr "Vis alle"
+msgstr "Vis:"
 
 #: bp-themes/bp-default/members/single/activity.php:20
 #: bp-themes/bp-default/activity/index.php:96
 #: bp-themes/bp-default/groups/single/activity.php:10
 msgid "Everything"
-msgstr ""
+msgstr "Alt"
 
 #: bp-themes/bp-default/members/single/activity.php:21
 #: bp-themes/bp-default/activity/index.php:97
 #: bp-themes/bp-default/groups/single/activity.php:11
-#, fuzzy
 msgid "Updates"
-msgstr "Vis oppdateringer"
+msgstr "Oppdateringer"
 
 #: bp-themes/bp-default/members/single/activity.php:28
 #: bp-themes/bp-default/activity/index.php:102
-#, fuzzy
 msgid "Comments"
-msgstr "Kommentar"
+msgstr "Kommentarer"
 
 #: bp-themes/bp-default/members/single/activity.php:43
 #: bp-themes/bp-default/activity/index.php:108
 #: bp-themes/bp-default/groups/single/activity.php:14
-#, fuzzy
 msgid "Forum Topics"
-msgstr "Forum Emne etiketter"
+msgstr "Forumemner"
 
 #: bp-themes/bp-default/members/single/activity.php:44
 #: bp-themes/bp-default/activity/index.php:109
 #: bp-themes/bp-default/groups/single/activity.php:15
-#, fuzzy
 msgid "Forum Replies"
-msgstr "Vis forum-svar"
+msgstr "Forumsvar"
 
 #: bp-themes/bp-default/members/single/activity.php:50
 #: bp-themes/bp-default/activity/index.php:115
-#, fuzzy
 msgid "New Groups"
-msgstr "Vis nye grupper"
+msgstr "Nye grupper"
 
 #: bp-themes/bp-default/members/single/activity.php:51
 #: bp-themes/bp-default/activity/index.php:116
 #: bp-themes/bp-default/groups/single/activity.php:18
-#, fuzzy
 msgid "Group Memberships"
-msgstr "Gruppemedlemskap-forespørsler"
+msgstr "Gruppemedlemskap"
 
 #: bp-themes/bp-default/activity/index.php:41
 msgid "The public activity for everyone on this site."
@@ -4664,18 +4642,16 @@ msgstr "Aktivitet i grupper jeg er medlem av."
 
 #: bp-themes/bp-default/activity/index.php:63
 #: bp-themes/bp-default/groups/index.php:41
-#, fuzzy
 msgid "My Groups <span>%s</span>"
-msgstr "Grupper <span>(%d)</span>"
+msgstr "Mine grupper <span>%s</span>"
 
 #: bp-themes/bp-default/activity/index.php:73
 msgid "The activity I've marked as a favorite."
 msgstr "Aktivitet jeg har markert som favoritt."
 
 #: bp-themes/bp-default/activity/index.php:73
-#, fuzzy
 msgid "My Favorites <span>%s</span>"
-msgstr "Mine favoritter (<span>%s</span>)"
+msgstr "Mine favoritter <span>%s</span>"
 
 #: bp-themes/bp-default/activity/index.php:79
 msgid "Activity that I have been mentioned in."
@@ -4689,15 +4665,15 @@ msgstr "Aktivitet som jeg har blitt nevnt i."
 msgid "Mentions"
 msgstr "Nevnelser"
 
+# TODO: plural upstream
 #: bp-themes/bp-default/activity/index.php:79
-#, fuzzy
 msgid "<span>%s new</span>"
-msgstr "Blogger <span>(%d)</span>"
+msgstr "<span>%s ny(e)</span>"
 
 #: bp-themes/bp-default/activity/index.php:89
 #: bp-themes/bp-default/groups/single/activity.php:3
 msgid "RSS Feed"
-msgstr "Aktivitet RSS Strøm"
+msgstr "RSS-strøm"
 
 #: bp-themes/bp-default/activity/index.php:89
 #: bp-themes/bp-default/groups/single/activity.php:3
@@ -4705,9 +4681,8 @@ msgid "RSS"
 msgstr "RSS"
 
 #: bp-themes/bp-default/activity/index.php:126
-#, fuzzy
 msgid "New Members"
-msgstr "Vis nye medlemmer"
+msgstr "Nye medlemmer"
 
 #. translators: 1: user profile link, 2: user name, 3: activity permalink, 3:
 #. activity timestamp
@@ -4740,18 +4715,16 @@ msgid "Post in"
 msgstr "Post i"
 
 #: bp-themes/bp-default/activity/entry.php:37
-#, fuzzy
 msgid "In reply to: "
-msgstr "Svar på"
+msgstr "Som svar på: "
 
 #: bp-themes/bp-default/activity/entry.php:37
 msgid "View Thread / Permalink"
 msgstr "Vis tråd / permalenke"
 
 #: bp-themes/bp-default/activity/entry.php:60
-#, fuzzy
 msgid "Comment <span>%s</span>"
-msgstr "Venner <span>(%d)</span>"
+msgstr "Kommentar <span>%s</span>"
 
 #: bp-themes/bp-default/activity/entry.php:68
 msgid "Mark as Favorite"
@@ -4775,44 +4748,36 @@ msgstr ""
 "Beklager, det ble ikke funnet noen aktivitet. Vennligst prøv et annet filter."
 
 #: bp-themes/bp-default/blogs/index.php:35
-#, fuzzy
 msgid "All Sites <span>%s</span>"
-msgstr "Mine favoritter (<span>%s</span>)"
+msgstr "Alle nettsted <span>%s</span>"
 
 #: bp-themes/bp-default/blogs/index.php:39
-#, fuzzy
 msgid "My Sites <span>%s</span>"
-msgstr "Mine favoritter (<span>%s</span>)"
+msgstr "Mine nettsted <span>%s</span>"
 
 #: bp-themes/bp-default/blogs/blogs-loop.php:90
-#, fuzzy
 msgid "Sorry, there were no sites found."
-msgstr "Beklager, det ble ikke funnet noen blogger."
+msgstr "Beklager, fant ingen nettsted."
 
 #: bp-themes/bp-default/blogs/create.php:32
-#, fuzzy
 msgid "Site registration is currently disabled"
-msgstr "Registrering av brukere er for tiden ikke tillatt."
+msgstr "Registrering av nettsted er deaktivert"
 
 #: bp-themes/bp-default/forums/index.php:23
-#, fuzzy
 msgid "Forums Directory"
-msgstr "Gruppeforum-katalog"
+msgstr "Forumkatalog"
 
 #: bp-themes/bp-default/forums/index.php:40
-#, fuzzy
 msgid "All Topics <span>%s</span>"
-msgstr "Blogger <span>(%d)</span>"
+msgstr "Alle emner <span>%s</span>"
 
 #: bp-themes/bp-default/forums/index.php:44
-#, fuzzy
 msgid "My Topics <span>%s</span>"
-msgstr "Mine favoritter (<span>%s</span>)"
+msgstr "Mine emner <span>%s</span>"
 
 #: bp-themes/bp-default/forums/index.php:100
-#, fuzzy
 msgid "Create New Topic:"
-msgstr "Post et nytt emne:"
+msgstr "Lag et nytt emne:"
 
 #: bp-themes/bp-default/forums/index.php:107
 #: bp-themes/bp-default/forums/single/edit.php:52
@@ -4851,9 +4816,8 @@ msgstr ""
 "opprettet gruppen kan du poste ditt emne i gruppens forum."
 
 #: bp-themes/bp-default/forums/forums-loop.php:39
-#, fuzzy
 msgid "Topic"
-msgstr "Nytt emne"
+msgstr "Emne"
 
 #: bp-themes/bp-default/forums/forums-loop.php:41
 msgid "Freshness"
@@ -4883,15 +4847,13 @@ msgstr "Beklager, det ble ikke funnet noen forum-emner."
 #: bp-themes/bp-default/groups/single/forum/edit.php:16
 #: bp-themes/bp-default/groups/single/forum/topic.php:16
 #: bp-themes/bp-default/groups/single/forum.php:23
-#, fuzzy
 msgid "Forum Directory"
-msgstr "Gruppeforum-katalog"
+msgstr "Forumkatalog"
 
 #: bp-themes/bp-default/forums/single/edit.php:25
 #: bp-themes/bp-default/groups/single/forum/edit.php:25
-#, fuzzy
 msgid "Edit:"
-msgstr "Rediger"
+msgstr "Endre:"
 
 #: bp-themes/bp-default/forums/single/edit.php:88
 #: bp-themes/bp-default/groups/single/forum/edit.php:91
@@ -4900,9 +4862,8 @@ msgstr "Emne finnes ikke."
 
 #: bp-themes/bp-default/forums/single/topic.php:37
 #: bp-themes/bp-default/groups/single/forum/topic.php:10
-#, fuzzy
 msgid "New Reply"
-msgstr "Send svar"
+msgstr "Nytt svar"
 
 #: bp-themes/bp-default/forums/single/topic.php:97
 msgid "%s said %s ago:"
@@ -4939,9 +4900,8 @@ msgid "Groups Directory"
 msgstr "Gruppekatalog"
 
 #: bp-themes/bp-default/groups/index.php:37
-#, fuzzy
 msgid "All Groups <span>%s</span>"
-msgstr "Grupper <span>(%d)</span>"
+msgstr "Alle grupper <span>%s</span>"
 
 #: bp-themes/bp-default/groups/groups-loop.php:95
 msgid "There were no groups found."
@@ -4953,14 +4913,12 @@ msgid "This group has no members."
 msgstr "Denne gruppen har ingen medlemmer."
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:31
-#, fuzzy
 msgid "Topic tags:"
-msgstr "Forum Emne etiketter"
+msgstr "Merkelapper på emne:"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:77
-#, fuzzy
 msgid "%1$s said %2$s:"
-msgstr "%1$s ved %2$s"
+msgstr "%1$s sa %2$s:"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:122
 msgid "You will auto join this group when you reply to this topic."
@@ -5013,15 +4971,13 @@ msgstr "Gruppemoderatorer"
 
 #: bp-themes/bp-default/groups/single/admin.php:16
 #: bp-themes/bp-default/groups/create.php:39
-#, fuzzy
 msgid "Group Name (required)"
-msgstr "(obligatorisk)"
+msgstr "Gruppenavn (obligatorisk)"
 
 #: bp-themes/bp-default/groups/single/admin.php:19
 #: bp-themes/bp-default/groups/create.php:42
-#, fuzzy
 msgid "Group Description (required)"
-msgstr "Gruppebeskrivelse"
+msgstr "Gruppebeskrivelse (obligatorisk)"
 
 #: bp-themes/bp-default/groups/single/admin.php:25
 msgid "Notify group members of changes via email"
@@ -5099,7 +5055,6 @@ msgstr ""
 
 #: bp-themes/bp-default/groups/single/admin.php:92
 #: bp-themes/bp-default/groups/create.php:111
-#, fuzzy
 msgid "Group Invitations"
 msgstr "Gruppeinvitasjoner"
 
@@ -5110,9 +5065,8 @@ msgstr ""
 
 #: bp-themes/bp-default/groups/single/admin.php:99
 #: bp-themes/bp-default/groups/create.php:118
-#, fuzzy
 msgid "All group members"
-msgstr "Denne gruppen har ingen medlemmer."
+msgstr "Alle gruppemedlemmer"
 
 #: bp-themes/bp-default/groups/single/admin.php:104
 #: bp-themes/bp-default/groups/create.php:123
@@ -5121,9 +5075,8 @@ msgstr ""
 
 #: bp-themes/bp-default/groups/single/admin.php:109
 #: bp-themes/bp-default/groups/create.php:128
-#, fuzzy
 msgid "Group admins only"
-msgstr "Gruppeadministratorer"
+msgstr "Bare gruppeadministratorer"
 
 #: bp-themes/bp-default/groups/single/admin.php:127
 #: bp-themes/bp-default/groups/create.php:154
@@ -5222,9 +5175,8 @@ msgid "Crop Group Avatar"
 msgstr "Klipp gruppe-avatar"
 
 #: bp-themes/bp-default/groups/create.php:273
-#, fuzzy
 msgid "Back to Previous Step"
-msgstr "Forrige steg"
+msgstr "Tilbake til forrige steg"
 
 #: bp-themes/bp-default/groups/create.php:280
 msgid "Next Step"
@@ -5299,14 +5251,13 @@ msgid "Viewing item %1$s to %2$s (of %3$s items)"
 msgstr "Viser objekt %1$s til %2$s (av %3$s objekter)"
 
 #: bp-activity/bp-activity-template.php:1191
-#, fuzzy
 msgid "View Discussion"
-msgstr "Diskusjonsforumer"
+msgstr "Vis samtale"
 
+# x? TODO
 #: bp-activity/bp-activity-template.php:2142
-#, fuzzy
 msgid "xprofile"
-msgstr "profil"
+msgstr "xprofil"
 
 #: bp-activity/bp-activity-template.php:2142
 msgid "friends"
@@ -5317,9 +5268,8 @@ msgid "status"
 msgstr "status"
 
 #: bp-activity/bp-activity-template.php:2142
-#, fuzzy
 msgid "sites"
-msgstr "Nettsted"
+msgstr "nettsted"
 
 #: bp-activity/bp-activity-template.php:2150
 msgid "Clear Filter"
@@ -5330,23 +5280,20 @@ msgid "a user"
 msgstr "en bruker"
 
 #: bp-activity/bp-activity-template.php:2380
-#, fuzzy
 msgid "Send a public message on your activity stream."
-msgstr "Send en privat melding til denne brukeren."
+msgstr "Skriv en offentlig melding i aktivitetsstrømmen din."
 
 #: bp-activity/bp-activity-template.php:2381
-#, fuzzy
 msgid "Public Message"
-msgstr "Les melding"
+msgstr "Offentlig melding"
 
 #: bp-activity/bp-activity-template.php:2690
 msgid "Site Wide Activity RSS Feed"
 msgstr "Global Aktivitet RSS Strøm"
 
 #: bp-activity/bp-activity-loader.php:89
-#, fuzzy
 msgid "Search Activity..."
-msgstr "Site aktivitet"
+msgstr "Søk i aktivitet …"
 
 #: bp-activity/bp-activity-loader.php:113
 #: bp-activity/bp-activity-loader.php:235
@@ -5467,14 +5414,12 @@ msgid "Posted an update"
 msgstr "Oppdatering Postet!"
 
 #: bp-activity/bp-activity-functions.php:872
-#, fuzzy
 msgid "%s posted an update"
-msgstr "%s postet en oppdatering:"
+msgstr "%s la inn en oppdatering"
 
 #: bp-activity/bp-activity-functions.php:939
-#, fuzzy
 msgid "%s posted a new activity comment"
-msgstr "%s postet en ny aktivitetskommentar:"
+msgstr "%s la inn en ny aktivitetskommentar"
 
 #: bp-activity/bp-activity-functions.php:1310
 msgid "Thumbnail"
@@ -5548,7 +5493,6 @@ msgid "A member replies to an update or comment you've posted"
 msgstr "Et medlem svarer på en oppdatering eller en kommentar du har postet"
 
 #: bp-activity/bp-activity-actions.php:153
-#, fuzzy
 msgid "Activity deleted successfully"
 msgstr "Aktivitet slettet"
 
