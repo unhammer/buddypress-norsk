@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2011-09-25 18:36+0200\n"
+"PO-Revision-Date: 2011-10-02 22:10+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
@@ -18,37 +18,30 @@ msgstr ""
 
 #: bp-friends.php:75 bp-friends.php:80 bp-friends.php:320
 #: bp-friends/bp-friends-templatetags.php:40
-#, fuzzy
 msgid "My Friends"
-msgstr "Venene mine"
+msgstr "Vennene mine"
 
 #: bp-friends.php:76
-#, fuzzy
 msgid "Requests"
 msgstr "Førespurnader"
 
 #: bp-friends.php:118
-#, fuzzy
 msgid "Friendship accepted"
-msgstr "Vennskap akseptert"
+msgstr "Vennskap godkjend"
 
 #: bp-friends.php:120
-#, fuzzy
 msgid "Friendship could not be accepted"
-msgstr "Vennskap kunne ikkje aksepterast"
+msgstr "Vennskap kunne ikkje godkjennast"
 
 #: bp-friends.php:129
-#, fuzzy
 msgid "Friendship rejected"
 msgstr "Vennskap avslått"
 
 #: bp-friends.php:131
-#, fuzzy
 msgid "Friendship could not be rejected"
-msgstr "Vennskap kunne ikkje avslåast"
+msgstr "Kunne ikkje avslå vennskap"
 
 #: bp-friends.php:150 bp-core/bp-core-admin.php:201 bp-activity.php:123
-#, fuzzy
 msgid "Friends"
 msgstr "Venner"
 
@@ -59,7 +52,6 @@ msgstr "Venner"
 #: bp-activity.php:271 bp-xprofile/bp-xprofile-admin.php:93 bp-groups.php:987
 #: bp-messages.php:245 bp-themes/bp-default/registration/register.php:196
 #: bp-themes/bp-default/groups/single/admin.php:26
-#, fuzzy
 msgid "Yes"
 msgstr "Ja"
 
@@ -70,89 +62,72 @@ msgstr "Ja"
 #: bp-activity.php:272 bp-groups.php:988 bp-messages.php:246
 #: bp-themes/bp-default/registration/register.php:197
 #: bp-themes/bp-default/groups/single/admin.php:27
-#, fuzzy
 msgid "No"
 msgstr "Nei"
 
 #: bp-friends.php:159
-#, fuzzy
 msgid "A member sends you a friendship request"
-msgstr "Ein medlem har sendt deg ein vennskap-førespurnad"
+msgstr "Ein medlem har sendt deg ein venneførespurnad"
 
 #: bp-friends.php:165
-#, fuzzy
 msgid "A member accepts your friendship request"
-msgstr "Ein medlem aksepterte vennskapen din-førespurnad"
+msgstr "Ein medlem godkjende venneførespurnaden din"
 
 #: bp-friends.php:208 bp-themes/bp-default/_inc/ajax.php:351
-#, fuzzy
 msgid "Friendship could not be requested."
-msgstr "Vennskap kunne ikkje verta forespurt."
+msgstr "Kunne ikkje spør om vennskap"
 
 #: bp-friends.php:210
-#, fuzzy
 msgid "Friendship requested"
-msgstr "Vennskap forespurt"
+msgstr "Vennskap førespurt"
 
 #: bp-friends.php:213
-#, fuzzy
 msgid "You are already friends with this user"
 msgstr "Du er allereie venner med denne brukaren"
 
 #: bp-friends.php:215
-#, fuzzy
 msgid "You already have a pending friendship request with this user"
-msgstr "Du har allereie ein ventande vennskap-førespurnad til denne brukaren"
+msgstr "Du har allereie ein ventande venneførespurnad til denne brukaren"
 
 #: bp-friends.php:246 bp-themes/bp-default/_inc/ajax.php:341
-#, fuzzy
 msgid "Friendship could not be canceled."
-msgstr "Vennskap kunne ikkje kansellerast."
+msgstr "Kunne ikkje kansellera vennskap"
 
 #: bp-friends.php:248
-#, fuzzy
 msgid "Friendship canceled"
 msgstr "Vennskap kansellert"
 
 #: bp-friends.php:251
-#, fuzzy
 msgid "You are not yet friends with this user"
 msgstr "Du er ikkje venner med denne brukaren enno"
 
 #: bp-friends.php:253
-#, fuzzy
 msgid "You have a pending friendship request with this user"
-msgstr "Du har ein ventande vennskap-førespurnad med denne brukaren"
+msgstr "Du har ein ventande venneførespurnad med denne brukaren"
 
 #: bp-friends.php:308
-#, fuzzy
 msgid "New friendship created"
-msgstr "Ny venskap oppretta"
+msgstr "Ny vennskap oppretta"
 
 #: bp-friends.php:320
-#, fuzzy
 msgid "%d friends accepted your friendship requests"
-msgstr "%d venner aksepterte venskapane dine-førespurnader."
+msgstr "%d venner godkjende venneførespurnadene dine."
 
 #: bp-friends.php:324 bp-friends/bp-friends-notifications.php:62
-#, fuzzy
 msgid "%s accepted your friendship request"
-msgstr "%s aksepterte din venna-førespurnad"
+msgstr "%s godkjende venneførespurnaden din"
 
 #: bp-friends.php:330 bp-friends.php:334
-#, fuzzy
 msgid "Friendship requests"
-msgstr "Vennskap-førespurnader"
+msgstr "Venneførespurnader"
 
 #: bp-friends.php:330
-#, fuzzy
 msgid "You have %d pending friendship requests"
-msgstr "Du har %d ventande venskap-førespurnader"
+msgstr "Du har %d ventande venneførespurnader"
 
 #: bp-friends.php:334
-#, fuzzy
 msgid "You have a friendship request from %s"
-msgstr "Du har ein vennskap-førespurnad frå %s"
+msgstr "Du har ein venneførespurnad frå %s"
 
 #: bp-friends.php:433 bp-friends.php:442
 msgid "%s and %s are now friends"
@@ -167,12 +142,10 @@ msgid "Sorry, there were no blog posts found. Why not write one?"
 msgstr ""
 
 #: bp-blogs/bp-blogs-widgets.php:80
-#, fuzzy
 msgid "Max posts to show:"
 msgstr "Maks mengd innlegg å visa:"
 
 #: bp-blogs/bp-blogs-templatetags.php:173
-#, fuzzy
 msgid "Viewing blog %1$s to %2$s (of %3$s blogs)"
 msgstr "Viser blogg %1$s til %2$s (av %s bloggar)"
 
@@ -189,15 +162,12 @@ msgid "active %s ago"
 msgstr "aktiv for %s sidan"
 
 #: bp-blogs/bp-blogs-templatetags.php:268
-#, fuzzy
 msgid "Latest Post: %s"
 msgstr "Siste innlegg: %s"
 
 #: bp-blogs/bp-blogs-templatetags.php:340
-#, fuzzy
 msgid "There was a problem, please correct the form below and try again."
-msgstr ""
-"Det oppstod eit problem, vennligst rett opp skjemaet under og prøv igjen."
+msgstr "Det oppstod eit problem, ver vennleg og rett opp skjemaet under og prøv igjen."
 
 #: bp-blogs/bp-blogs-templatetags.php:343
 msgid ""
@@ -213,7 +183,6 @@ msgid ""
 msgstr ""
 
 #: bp-blogs/bp-blogs-templatetags.php:354
-#, fuzzy
 msgid "Create Blog &rarr;"
 msgstr "Opprett blogg &rarr;"
 
@@ -226,47 +195,36 @@ msgid "Blog Domain:"
 msgstr ""
 
 #: bp-blogs/bp-blogs-templatetags.php:382
-#, fuzzy
 msgid "Your address will be "
 msgstr "Adressa di vil verta"
 
 #: bp-blogs/bp-blogs-templatetags.php:385
-#, fuzzy
 msgid "blogname"
-msgstr "bloggnavn"
+msgstr "bloggnamn"
 
 #: bp-blogs/bp-blogs-templatetags.php:387
-#, fuzzy
 msgid "domain."
-msgstr "domane."
+msgstr "domene."
 
 #: bp-blogs/bp-blogs-templatetags.php:390
-#, fuzzy
 msgid ""
 "Must be at least 4 characters, letters and numbers only. It cannot be "
 "changed so choose carefully!)"
-msgstr ""
-"Må vera minst 4 teikn, berre bokstavar og nummer. Det kan ikkje verta så "
-"endra vel omhyggelig!"
+msgstr "Må vera minst 4 teikn, berre bokstavar og nummer. Det kan ikkje endrast, så vel omhyggelig!)"
 
 #: bp-blogs/bp-blogs-templatetags.php:395
-#, fuzzy
 msgid "Blog Title:"
 msgstr "Bloggtittel:"
 
 #: bp-blogs/bp-blogs-templatetags.php:403
-#, fuzzy
 msgid "Privacy:"
-msgstr "Synlighet:"
+msgstr "Personvern:"
 
 #: bp-blogs/bp-blogs-templatetags.php:404
-#, fuzzy
 msgid ""
 "I would like my blog to appear in search engines like Google and Technorati, "
 "and in public listings around this site."
-msgstr ""
-"Eg ynskjer at min blogg dukkar opp i søkemotorer som Google og Technorati, "
-"og i offentlege lister rundtom kring på denne siten."
+msgstr "Eg ynskjer at bloggen min dukkar opp i søkjemotorar som Google og Technorati, og i offentlege lister på denne nettstaden."
 
 #: bp-blogs/bp-blogs-templatetags.php:464
 msgid "Congratulations! You have successfully registered a new blog."
@@ -285,19 +243,16 @@ msgid "Create a Blog"
 msgstr ""
 
 #: bp-blogs/bp-blogs-templatetags.php:490
-#, fuzzy
 msgid "%s's Blogs"
-msgstr "%s sine bloggar"
+msgstr "Bloggane til %s"
 
 #: bp-blogs/bp-blogs-templatetags.php:491
-#, fuzzy
 msgid "%s's Recent Posts"
-msgstr "%ss nyaste innlegg"
+msgstr "%s sine nyaste innlegg"
 
 #: bp-blogs/bp-blogs-templatetags.php:492
-#, fuzzy
 msgid "%s's Recent Comments"
-msgstr "%ss nyaste kommentarar"
+msgstr "%s sine nyaste kommentarar"
 
 #: bp-blogs/bp-blogs-templatetags.php:501 bp-core/bp-core-templatetags.php:447
 #: bp-core/bp-core-templatetags.php:453
@@ -306,9 +261,8 @@ msgstr "%ss nyaste kommentarar"
 #: bp-forums/bp-forums-templatetags.php:1028
 #: bp-forums/bp-forums-templatetags.php:1034
 #: bp-themes/bp-default/_inc/ajax.php:56
-#, fuzzy
 msgid "Search anything..."
-msgstr "Søk i alt"
+msgstr "Søk gjennom alt …"
 
 #: bp-blogs/bp-blogs-templatetags.php:502 bp-core/bp-core-templatetags.php:454
 #: bp-core/bp-core-templatetags.php:1048
@@ -320,29 +274,24 @@ msgstr "Søk"
 
 #: bp-blogs/bp-blogs-templatetags.php:534
 #: bp-blogs/bp-blogs-templatetags.php:535
-#, fuzzy
 msgid "Visit Blog"
-msgstr "Besøk blogg"
+msgstr "Sjå blogg"
 
 #: bp-forums.php:56
-#, fuzzy
 msgid "The forums component has not been set up yet."
-msgstr "Forum-komponentet har ikkje vorte sett opp enno."
+msgstr "Forumkomponenten er ikkje sett opp enno."
 
 #: bp-forums.php:76 bp-groups.php:554
-#, fuzzy
 msgid "There was an error when creating the topic"
 msgstr "Det oppstod ein feil ved skiping av emne"
 
 #: bp-forums.php:78 bp-groups.php:556
-#, fuzzy
 msgid "The topic was created successfully"
-msgstr "Emne vart oppretta"
+msgstr "Emnet vart oppretta"
 
 #: bp-forums.php:82
-#, fuzzy
 msgid "Please pick the group forum where you would like to post this topic."
-msgstr "Vennligst vel forum-gruppe der du vil posta dette emnet."
+msgstr "Ver vennleg og vel forumgruppa kor du vil skriva dette emnet."
 
 #: bp-forums.php:103 bp-forums/bp-forums-admin.php:8
 msgid "Forums Setup"
@@ -371,40 +320,33 @@ msgid "Popular"
 msgstr "Populære"
 
 #: bp-core/bp-core-widgets.php:66
-#, fuzzy
 msgid "No one has signed up yet!"
-msgstr "Ingen har registrert enno!"
+msgstr "Ingen har registrert seg enno!"
 
 #: bp-core/bp-core-widgets.php:87 bp-core/bp-core-widgets.php:141
 #: bp-core/bp-core-widgets.php:195
-#, fuzzy
 msgid "Max Members to show:"
 msgstr "Maks mengd medlemmar å visa:"
 
 #: bp-core/bp-core-widgets.php:96
-#, fuzzy
 msgid "Who's Online Avatars"
-msgstr "Avatarer til kven som er pålogget"
+msgstr "Avatarar til dei som er pålogga"
 
 #: bp-core/bp-core-widgets.php:120
-#, fuzzy
 msgid "There are no users currently online"
-msgstr "Det er ingen påloggede brukarar"
+msgstr "Det er ingen pålogga brukarar"
 
 #: bp-core/bp-core-widgets.php:150
-#, fuzzy
 msgid "Recently Active Member Avatars"
-msgstr "Seinaste aktive medlemmar"
+msgstr "Sist aktive medlemmar"
 
 #: bp-core/bp-core-widgets.php:174
-#, fuzzy
 msgid "There are no recently active members"
 msgstr "Ingen aktive medlemmar i det siste"
 
 #: bp-core/bp-core-widgets.php:249
-#, fuzzy
 msgid "There were no members found, please try another filter."
-msgstr "Det vart ikkje funne nokon medlemmar, vennligst prøv eit anna filter."
+msgstr "Fann ingen medlemmar, ver vennleg og prøv eit anna filter."
 
 #: bp-core/bp-core-adminbar.php:44 bp-themes/bp-default/sidebar.php:50
 msgid "Log In"
@@ -425,7 +367,6 @@ msgid "Log Out"
 msgstr "Logg ut"
 
 #: bp-core/bp-core-adminbar.php:115 bp-blogs.php:117
-#, fuzzy
 msgid "My Blogs"
 msgstr "Mine bloggar"
 
@@ -519,17 +460,17 @@ msgstr "Manglar ein mellombels mappe."
 #: bp-core/bp-core-avatars.php:341
 #, fuzzy
 msgid "Your upload failed, please try again. Error was: %s"
-msgstr "Opplasting feilte, vennligst prøv igjen. Feilmelding var: %s"
+msgstr "Opplasting feilte, ver vennleg og prøv igjen. Feilmelding var: %s"
 
 #: bp-core/bp-core-avatars.php:346
 #, fuzzy
 msgid "The file you uploaded is too big. Please upload a file under %s"
-msgstr "Fila du lasta opp er for stor. Vennligst last opp ei fil under %s"
+msgstr "Fila du lasta opp er for stor. Ver Vennleg Og last opp ei fil under %s"
 
 #: bp-core/bp-core-avatars.php:351
 #, fuzzy
 msgid "Please upload only JPG, GIF or PNG photos."
-msgstr "Vennligst berre last opp Jpg, GIF eller Png bilete."
+msgstr "Ver Vennleg Og berre last opp Jpg, GIF eller Png bilete."
 
 #: bp-core/bp-core-avatars.php:362 bp-core/bp-core-avatars.php:375
 #, fuzzy
@@ -575,7 +516,7 @@ msgid ""
 "\n"
 msgstr ""
 "Takk for at du registrerte deg! For å ferdigstille aktivering av kontoen din "
-"vennligst klikk følgjande link:\n"
+"ver vennleg og klikk følgjande link:\n"
 "\n"
 "%s\n"
 "\n"
@@ -588,7 +529,7 @@ msgstr "Aktiver kontoen din"
 #: bp-core/bp-core-signup.php:47
 #, fuzzy
 msgid "Please make sure you enter your password twice"
-msgstr "Vennligst sjå til at du tastar inn passord to gonger."
+msgstr "Ver Vennleg Og sjå til at du tastar inn passord to gonger."
 
 #: bp-core/bp-core-signup.php:51
 #, fuzzy
@@ -608,7 +549,7 @@ msgstr ""
 #: bp-core/bp-core-signup.php:198 bp-xprofile.php:386
 #, fuzzy
 msgid "There was a problem cropping your avatar, please try uploading it again"
-msgstr "Det oppstod ein feil ved klipping av avatar, vennligst prøv igjen."
+msgstr "Det oppstod ein feil ved klipping av avatar, ver vennleg og prøv igjen."
 
 #: bp-core/bp-core-signup.php:200
 msgid "Your new avatar was uploaded successfully"
@@ -626,7 +567,7 @@ msgstr "Kontoen din er no aktiv!"
 #: bp-core/bp-core-signup.php:275
 #, fuzzy
 msgid "Please enter a username"
-msgstr "Vennligst tast inn eit brukarnamn"
+msgstr "Ver Vennleg Og tast inn eit brukarnamn"
 
 #: bp-core/bp-core-signup.php:284
 #, fuzzy
@@ -651,7 +592,7 @@ msgstr "Beklagar, brukarnamn må ha bokstavar òg!"
 #: bp-core/bp-core-signup.php:300
 #, fuzzy
 msgid "Please check your email address."
-msgstr "Vennligst sjekk email adressa di."
+msgstr "Ver Vennleg Og sjekk email adressa di."
 
 #: bp-core/bp-core-signup.php:308
 #, fuzzy
@@ -674,7 +615,7 @@ msgid ""
 "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
 "href=\"mailto:%s\">webmaster</a> !"
 msgstr ""
-"<strong>Feil</strong>: Kunne ikkje registrera deg. Vennligst ta kontakt med "
+"<strong>Feil</strong>: Kunne ikkje registrera deg. Ver Vennleg Og ta kontakt med "
 "<a href=\"mailto:%s\">webmaster</a>."
 
 #: bp-core/bp-core-signup.php:437 bp-core/bp-core-signup.php:441
@@ -698,9 +639,8 @@ msgid "Viewing member %1$s to %2$s (of %3$s members with friends)"
 msgstr "Ser på medlem %1$s til %2$s (av %3$s medlemmar med vener)"
 
 #: bp-core/bp-core-templatetags.php:188
-#, fuzzy
 msgid "Viewing member %1$s to %2$s (of %3$s members online)"
-msgstr "Ser på medlem %1$s til %2$s (av %3$s påloggede medlemmar)"
+msgstr "Ser på medlem %1$s til %2$s (av %3$s pålogga medlemmar)"
 
 #: bp-core/bp-core-templatetags.php:190
 #, fuzzy
@@ -1000,7 +940,7 @@ msgstr ""
 #: bp-core/bp-core-admin.php:201
 #, fuzzy
 msgid "Allows the creation of friend connections between users."
-msgstr "Tillèt skiping av venna-samband mellom brukarar."
+msgstr "Tillèt skiping av venesamband mellom brukarar."
 
 #: bp-core/bp-core-admin.php:210
 #, fuzzy
@@ -1109,8 +1049,8 @@ msgid ""
 "WARNING: Deleting your account will completely remove ALL content associated "
 "with it. There is no way back, please be careful with this option."
 msgstr ""
-"ADVARSEL: Sletting av konto vil fjerne absolutt alt av innhald forbunde med "
-"han. Det er ingen veg tilbake, vennligst vêr forsiktig med dette høvet."
+"ÅTVARING: Sletting av konto vil fjerne absolutt alt av innhald forbunde med "
+"han. Det er ingen veg tilbake, ver vennleg og vêr forsiktig med dette høvet."
 
 #: bp-core/bp-core-settings.php:188
 #, fuzzy
@@ -1161,7 +1101,7 @@ msgstr "%s har vorte sletta frå systemet."
 #: bp-core.php:517
 #, fuzzy
 msgid "There was an error deleting %s from the system. Please try again."
-msgstr "Det oppstod ein feil ved sletting av %s. Vennligst prøv igjen"
+msgstr "Det oppstod ein feil ved sletting av %s. Ver Vennleg Og prøv igjen"
 
 #: bp-core.php:1420
 msgid "year"
@@ -1279,7 +1219,7 @@ msgstr "Alfabetisk"
 #: bp-friends/bp-friends-templatetags.php:40
 #, fuzzy
 msgid "%s's Friends"
-msgstr "%ss venner"
+msgstr "%ss vener"
 
 #: bp-friends/bp-friends-templatetags.php:40
 #, fuzzy
@@ -1289,12 +1229,12 @@ msgstr "Sjå alle"
 #: bp-friends/bp-friends-templatetags.php:53
 #, fuzzy
 msgid "You haven't added any friend connections yet."
-msgstr "Du har ikkje lagt til nokon venner enno."
+msgstr "Du har ikkje lagt til nokon vener enno."
 
 #: bp-friends/bp-friends-templatetags.php:53
 #, fuzzy
 msgid "%s hasn't created any friend connections yet."
-msgstr "%s har ikkje oppretta nokon venna-samband enno."
+msgstr "%s har ikkje oppretta nokon venesamband enno."
 
 #: bp-friends/bp-friends-templatetags.php:93
 #, fuzzy
@@ -1314,14 +1254,14 @@ msgstr "%d ven"
 #: bp-friends/bp-friends-templatetags.php:140
 #, fuzzy
 msgid "%d friends"
-msgstr "%d venner"
+msgstr "%d vener"
 
 #: bp-friends/bp-friends-templatetags.php:224
 #: bp-friends/bp-friends-templatetags.php:225
 #: bp-themes/bp-default/_inc/ajax.php:353
 #, fuzzy
 msgid "Friendship Requested"
-msgstr "Vennskap forespurt"
+msgstr "Venskap førespurt"
 
 #: bp-friends/bp-friends-templatetags.php:239
 #: bp-friends/bp-friends-templatetags.php:240
@@ -1339,7 +1279,7 @@ msgstr "Legg til ven"
 #: bp-friends/bp-friends-notifications.php:22
 #, fuzzy
 msgid "New friendship request from %s"
-msgstr "Ny venneforespørsel frå %s"
+msgstr "Ny veneførespørsel frå %s"
 
 #: bp-friends/bp-friends-notifications.php:24
 msgid ""
@@ -1366,7 +1306,7 @@ msgstr ""
 #: bp-activity/bp-activity-notifications.php:131
 #, fuzzy
 msgid "To disable these notifications please log in and go to: %s"
-msgstr "For å slå av desse notisane vennligst logg in og gå til: %s"
+msgstr "For å slå av desse notisane ver vennleg og logg in og gå til: %s"
 
 #: bp-friends/bp-friends-notifications.php:64
 msgid ""
@@ -1410,7 +1350,7 @@ msgstr "Du har ikkje nok rettar til denne aktiviteten."
 #: bp-activity.php:279
 #, fuzzy
 msgid "A member mentions you in an update using \"@%s\""
-msgstr "Eit medlemm nemner deg i ei oppdatering vha \"@%s\""
+msgstr "Ein medlem nemner deg i ei oppdatering vha \"@%s\""
 
 #: bp-activity.php:285
 #, fuzzy
@@ -1429,7 +1369,7 @@ msgstr "Det oppstod ein feil ved sletting av denne aktiviteten."
 #: bp-activity.php:388 bp-themes/bp-default/_inc/ajax.php:124
 #, fuzzy
 msgid "Please enter some content to post."
-msgstr "Vennligst legg til innhald i innlegget."
+msgstr "Ver Vennleg Og legg til innhald i innlegget."
 
 #: bp-activity.php:403
 #, fuzzy
@@ -1439,12 +1379,12 @@ msgstr "Oppdatering Posta!"
 #: bp-activity.php:405
 #, fuzzy
 msgid "There was an error when posting your update, please try again."
-msgstr "Det oppstod ein feil ved posting av oppdatering, vennligst prøv igjen."
+msgstr "Det oppstod ein feil ved posting av oppdatering, ver vennleg og prøv igjen."
 
 #: bp-activity.php:424 bp-themes/bp-default/_inc/ajax.php:162
 #, fuzzy
 msgid "Please do not leave the comment area blank."
-msgstr "Vennligst ikkje la kommentarområdet vera blankt."
+msgstr "Ver Vennleg Og ikkje la kommentarområdet vera blankt."
 
 #: bp-activity.php:435
 #, fuzzy
@@ -1455,7 +1395,7 @@ msgstr "Svar Posta!"
 #: bp-themes/bp-default/_inc/ajax.php:178
 #, fuzzy
 msgid "There was an error posting that reply, please try again."
-msgstr "Det oppstod ein feil ved posting av svar, vennligst prøv igjen."
+msgstr "Det oppstod ein feil ved posting av svar, ver vennleg og prøv igjen."
 
 #: bp-activity.php:453
 #, fuzzy
@@ -1467,7 +1407,7 @@ msgstr "Aktivitet markert som favoritt."
 msgid ""
 "There was an error marking that activity as a favorite, please try again."
 msgstr ""
-"Det oppstod ein feil ved markering av aktivitet som favoritt, vennligst prøv "
+"Det oppstod ein feil ved markering av aktivitet som favoritt, ver vennleg og prøv "
 "igjen."
 
 #: bp-activity.php:471
@@ -1480,7 +1420,7 @@ msgstr "Aktivitet fjerna som favoritt."
 msgid ""
 "There was an error removing that activity as a favorite, please try again."
 msgstr ""
-"Det oppstod ein feil ved fjerning av aktivitet som favoritt, vennligst prøv "
+"Det oppstod ein feil ved fjerning av aktivitet som favoritt, ver vennleg og prøv "
 "igjen"
 
 #: bp-activity.php:699
@@ -1674,7 +1614,7 @@ msgstr "Vert medlem av gruppe"
 #: bp-themes/bp-default/_inc/ajax.php:431
 #, fuzzy
 msgid "Request Membership"
-msgstr "Forespør medlemskap"
+msgstr "Førespør medlemskap"
 
 #: bp-groups/bp-groups-templatetags.php:1203
 #: bp-groups/bp-groups-templatetags.php:1204
@@ -1688,7 +1628,7 @@ msgid ""
 "This is a private group and you must request group membership in order to "
 "join."
 msgstr ""
-"Dette er ei privat gruppe og du må forespørre gruppe-medlemskap for å verta "
+"Dette er ei privat gruppe og du må førespørre gruppe-medlemskap for å verta "
 "medlem."
 
 #: bp-groups/bp-groups-templatetags.php:1227
@@ -1698,7 +1638,7 @@ msgid ""
 "request group membership."
 msgstr ""
 "Dette er ei privat gruppe. For å verta medlem må du vera ein registrert site-"
-"brukar og forepørre gruppemedlemskap."
+"brukar og førepørre gruppemedlemskap."
 
 #: bp-groups/bp-groups-templatetags.php:1229
 #, fuzzy
@@ -1903,7 +1843,7 @@ msgstr "Ingen grupper matcha noverande filter"
 #: bp-xprofile/bp-xprofile-classes.php:158
 #, fuzzy
 msgid "Please make sure you give the group a name."
-msgstr "Vennligst sjå til at du gjev gruppa eit namn."
+msgstr "Ver Vennleg Og sjå til at du gjev gruppa eit namn."
 
 #: bp-xprofile/bp-xprofile-classes.php:171
 #: bp-xprofile/bp-xprofile-admin.php:124
@@ -1923,7 +1863,7 @@ msgstr ""
 #: bp-xprofile/bp-xprofile-classes.php:494
 #, fuzzy
 msgid "Please enter options for this Field:"
-msgstr "Vennligst legg inn val for dette felt:"
+msgstr "Ver Vennleg Og legg inn val for dette felt:"
 
 #: bp-xprofile/bp-xprofile-classes.php:495
 #: bp-themes/bp-default/members/index.php:28
@@ -2063,7 +2003,7 @@ msgstr "Avbryt"
 #: bp-xprofile/bp-xprofile-classes.php:655
 #, fuzzy
 msgid "Please make sure you fill out all required fields."
-msgstr "Vennligst sjå at til du fyllar ut alle obligatoriske felt."
+msgstr "Ver Vennleg Og sjå at til du fyllar ut alle obligatoriske felt."
 
 #: bp-xprofile/bp-xprofile-classes.php:658
 #, fuzzy
@@ -2071,20 +2011,20 @@ msgid ""
 "Radio button field types require at least one option. Please add options "
 "below."
 msgstr ""
-"Radioknapp felt-typar krev minst eitt val. Vennligst legg til val under."
+"Radioknapp felt-typar krev minst eitt val. Ver Vennleg Og legg til val under."
 
 #: bp-xprofile/bp-xprofile-classes.php:661
 #: bp-xprofile/bp-xprofile-classes.php:664
 #, fuzzy
 msgid ""
 "Select box field types require at least one option. Please add options below."
-msgstr "Val-boks krev minst eit val. Vennligst legg til val under."
+msgstr "Val-boks krev minst eit val. Ver Vennleg Og legg til val under."
 
 #: bp-xprofile/bp-xprofile-classes.php:667
 #, fuzzy
 msgid ""
 "Checkbox field types require at least one option. Please add options below."
-msgstr "Avkrysningsfelt krev minst eit val. Vennligst legg til val under."
+msgstr "Avkrysningsfelt krev minst eit val. Ver Vennleg Og legg til val under."
 
 #: bp-xprofile/bp-xprofile-admin.php:38 bp-xprofile.php:148
 msgid "Profile Field Setup"
@@ -2163,7 +2103,7 @@ msgstr "Legg til ny gruppe"
 #: bp-xprofile/bp-xprofile-admin.php:157
 #, fuzzy
 msgid "There was an error saving the group. Please try again"
-msgstr "Det oppstod ein fel ved lagring av gruppa. Vennligst prøv igjen"
+msgstr "Det oppstod ein fel ved lagring av gruppa. Ver Vennleg Og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:160
 #, fuzzy
@@ -2173,7 +2113,7 @@ msgstr "Gruppa vart lagra."
 #: bp-xprofile/bp-xprofile-admin.php:189
 #, fuzzy
 msgid "There was an error deleting the group. Please try again"
-msgstr "Det oppstod ein fel ved sletting av gruppa. Vennligst prøv igjen"
+msgstr "Det oppstod ein fel ved sletting av gruppa. Ver Vennleg Og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:192
 #, fuzzy
@@ -2183,7 +2123,7 @@ msgstr "Gruppa vart sletta."
 #: bp-xprofile/bp-xprofile-admin.php:231
 #, fuzzy
 msgid "There was an error saving the field. Please try again"
-msgstr "Det oppstod ein feil ved lagring av felt. Vennligst prøv igjen"
+msgstr "Det oppstod ein feil ved lagring av felt. Ver Vennleg Og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:237
 #, fuzzy
@@ -2203,7 +2143,7 @@ msgstr "val"
 #: bp-xprofile/bp-xprofile-admin.php:273
 #, fuzzy
 msgid "There was an error deleting the %s. Please try again"
-msgstr "Det oppstod ein feil ved sletting av %s. Vennligst prøv igjen"
+msgstr "Det oppstod ein feil ved sletting av %s. Ver Vennleg Og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:276
 #, fuzzy
@@ -2377,7 +2317,7 @@ msgstr ""
 msgid ""
 "The bb-config.php file was not found at that location, please try again."
 msgstr ""
-"Fila bb-config.php vart ikkje funnet på den lokasjonen, vennligst prøv igjen."
+"Fila bb-config.php vart ikkje funnet på den lokasjonen, ver vennleg og prøv igjen."
 
 #: bp-forums/bp-forums-admin.php:42
 #, fuzzy
@@ -2466,7 +2406,7 @@ msgid ""
 msgstr ""
 "Forum i BuddyPress nyttar ein bbPress installasjon for å fungera. Du kan "
 "velja å anten la BuddyPress setja opp ein ny bbPress installasjon, eller ein "
-"allereie eksisterande bbPress installasjon. Vennligst vel ein av høva under."
+"allereie eksisterande bbPress installasjon. Ver Vennleg Og vel ein av høva under."
 
 #: bp-forums/bp-forums-admin.php:93
 #, fuzzy
@@ -2518,7 +2458,7 @@ msgid ""
 "Please make sure you fill in all required fields in this profile field group "
 "before saving."
 msgstr ""
-"Vennligst sjå at til du fyllar ut alle obligatoriske felt i denne gruppa før "
+"Ver Vennleg Og sjå at til du fyllar ut alle obligatoriske felt i denne gruppa før "
 "du lagrar."
 
 #: bp-xprofile.php:335
@@ -2547,7 +2487,7 @@ msgstr "Din avatar vart sletta."
 #: bp-xprofile.php:435 bp-groups.php:741
 #, fuzzy
 msgid "There was a problem deleting that avatar, please try again."
-msgstr "Det oppstod ein feil ved sletting av avatar, vennligst prøv igjen."
+msgstr "Det oppstod ein feil ved sletting av avatar, ver vennleg og prøv igjen."
 
 #: bp-xprofile.php:455
 #, fuzzy
@@ -2670,7 +2610,7 @@ msgstr ""
 "\n"
 "\"%s\"\n"
 "\n"
-"For å sjå meldinga, vennligst logg inn og vitj: %s\n"
+"For å sjå meldinga, ver vennleg og logg inn og vitj: %s\n"
 "\n"
 "---------------------\n"
 
@@ -2840,7 +2780,7 @@ msgstr "Gruppeinvitasjon sendt."
 msgid ""
 "There was an error sending your group membership request, please try again."
 msgstr ""
-"Det oppstod ein feil ved sending av gruppemedlemskap-førespurnad, vennligst "
+"Det oppstod ein feil ved sending av gruppemedlemskap-førespurnad, ver vennleg og "
 "prøv igjen."
 
 #: bp-groups.php:620
@@ -2856,7 +2796,7 @@ msgstr ""
 #, fuzzy
 msgid "There was an error updating group details, please try again."
 msgstr ""
-"Det oppstod ein fel ved oppdatering av gruppedetaljar, vennligst prøv igjen."
+"Det oppstod ein fel ved oppdatering av gruppedetaljar, ver vennleg og prøv igjen."
 
 #: bp-groups.php:671
 #, fuzzy
@@ -2867,7 +2807,7 @@ msgstr "Gruppedetaljane vart oppdaterte."
 #, fuzzy
 msgid "There was an error updating group settings, please try again."
 msgstr ""
-"Det oppstod ein feil ved oppdatering av gruppe-instillinger, vennligst prøv "
+"Det oppstod ein feil ved oppdatering av gruppe-instillinger, ver vennleg og prøv "
 "igjen."
 
 #: bp-groups.php:709
@@ -2879,7 +2819,7 @@ msgstr "Gruppe-instillingene vart oppdatert."
 #, fuzzy
 msgid "There was a problem cropping the avatar, please try uploading it again"
 msgstr ""
-"Det oppstod ein feil ved klipping av avatar, vennligst prøv å lasta opp att"
+"Det oppstod ein feil ved klipping av avatar, ver vennleg og prøv å lasta opp att"
 
 #: bp-groups.php:771
 #, fuzzy
@@ -2890,7 +2830,7 @@ msgstr "Den nye gruppa-avataren vart lasta opp!"
 #, fuzzy
 msgid "There was an error when promoting that user, please try again"
 msgstr ""
-"Det oppstod ein feil ved oppgradering av brukaren, vennligst prøv igjen."
+"Det oppstod ein feil ved oppgradering av brukaren, ver vennleg og prøv igjen."
 
 #: bp-groups.php:802
 #, fuzzy
@@ -2901,7 +2841,7 @@ msgstr "Brukaren vart forfremma."
 #, fuzzy
 msgid "There was an error when demoting that user, please try again"
 msgstr ""
-"Det oppstod ein feil ved nedgradering av brukaren, vennligst prøv igjen"
+"Det oppstod ein feil ved nedgradering av brukaren, ver vennleg og prøv igjen"
 
 #: bp-groups.php:820
 #, fuzzy
@@ -2912,7 +2852,7 @@ msgstr "Brukaren vart nedgradert"
 #, fuzzy
 msgid "There was an error when banning that user, please try again"
 msgstr ""
-"Det oppstod ein feil ved utestenging av brukaren, vennligst prøv igjen."
+"Det oppstod ein feil ved utestenging av brukaren, ver vennleg og prøv igjen."
 
 #: bp-groups.php:838
 #, fuzzy
@@ -2923,7 +2863,7 @@ msgstr "Nytter vart utestengt"
 #, fuzzy
 msgid "There was an error when unbanning that user, please try again"
 msgstr ""
-"Det oppstod ein fel ved avbrytelse av utesteningen av brukaren, vennligst "
+"Det oppstod ein fel ved avbrytelse av utesteningen av brukaren, ver vennleg og "
 "prøv igjen."
 
 #: bp-groups.php:856
@@ -2935,7 +2875,7 @@ msgstr "Utestengelse av nytter vart oppheva."
 #, fuzzy
 msgid "There was an error removing that user from the group, please try again"
 msgstr ""
-"Det oppstod ein feil ved fjerning av nytter frå gruppa, vennligst prøv igjen"
+"Det oppstod ein feil ved fjerning av nytter frå gruppa, ver vennleg og prøv igjen"
 
 #: bp-groups.php:874
 #, fuzzy
@@ -2946,7 +2886,7 @@ msgstr "Utestengelse av nytter vart oppheva."
 #, fuzzy
 msgid "There was an error accepting the membership request, please try again."
 msgstr ""
-"Det oppstod ein feil ved akseptering av medlemskap-førespurnad, vennligst "
+"Det oppstod ein feil ved akseptering av medlemskap-førespurnad, ver vennleg og "
 "prøv igjen."
 
 #: bp-groups.php:917
@@ -2958,7 +2898,7 @@ msgstr "Gruppemedlemskap-førespurnad akseptert"
 #, fuzzy
 msgid "There was an error rejecting the membership request, please try again."
 msgstr ""
-"Det oppstod ein fel ved avslåing av gruppemedlemskap-førespurnad, vennligst "
+"Det oppstod ein fel ved avslåing av gruppemedlemskap-førespurnad, ver vennleg og "
 "prøv igjen."
 
 #: bp-groups.php:929
@@ -2969,7 +2909,7 @@ msgstr "Gruppemedlemskap-førespurnad avslått"
 #: bp-groups.php:961
 #, fuzzy
 msgid "There was an error deleting the group, please try again."
-msgstr "Det oppstod ein feil ved sletting av gruppe, vennligst prøv igjen."
+msgstr "Det oppstod ein feil ved sletting av gruppe, ver vennleg og prøv igjen."
 
 #: bp-groups.php:963
 #, fuzzy
@@ -2994,24 +2934,24 @@ msgstr "Du er forfremma til gruppe-administrator eller -moderator"
 #: bp-groups.php:1013
 #, fuzzy
 msgid "A member requests to join a private group for which you are an admin"
-msgstr "Ein medlem forespør medlemskap i ei privat gruppe som du er admin for"
+msgstr "Ein medlem førespør medlemskap i ei privat gruppe som du er admin for"
 
 #: bp-groups.php:1062
 #, fuzzy
 msgid "There was an error saving group details. Please try again."
 msgstr ""
-"Det oppstod ein fel ved lagring av gruppe detaljar. Vennligst prøv igjen."
+"Det oppstod ein fel ved lagring av gruppe detaljar. Ver Vennleg Og prøv igjen."
 
 #: bp-groups.php:1084
 #, fuzzy
 msgid "Please fill in all of the required fields"
-msgstr "Vennlist fyll inn alle obligatoriske felt"
+msgstr "Venlist fyll inn alle obligatoriske felt"
 
 #: bp-groups.php:1089 bp-groups.php:1116
 #, fuzzy
 msgid "There was an error saving group details, please try again."
 msgstr ""
-"Det oppstod ein fel ved lagring av gruppedetaljar, vennligst prøv igjen."
+"Det oppstod ein fel ved lagring av gruppedetaljar, ver vennleg og prøv igjen."
 
 #: bp-groups.php:1147
 msgid "%s created the group %s"
@@ -3021,7 +2961,7 @@ msgstr "%s oppretta gruppa %s"
 #, fuzzy
 msgid "There was an error saving the group avatar, please try uploading again."
 msgstr ""
-"Det oppstod ein feil ved lagring av gruppeavatar, vennligst last opp att."
+"Det oppstod ein feil ved lagring av gruppeavatar, ver vennleg og last opp att."
 
 #: bp-groups.php:1197
 #, fuzzy
@@ -3188,7 +3128,7 @@ msgstr "Meldingane mine"
 #: bp-messages.php:167 bp-messages.php:189
 #, fuzzy
 msgid "There was an error sending that message, please try again"
-msgstr "Det oppstod ein feil ved sending av melding, vennligst prøv igjen"
+msgstr "Det oppstod ein feil ved sending av melding, ver vennleg og prøv igjen"
 
 #: bp-messages.php:172
 #, fuzzy
@@ -3198,7 +3138,7 @@ msgstr "Notisen vart send!"
 #: bp-messages.php:175
 #, fuzzy
 msgid "There was an error sending that notice, please try again"
-msgstr "Det oppstod ei melding ved sending av notis, vennligst prøv igjen"
+msgstr "Det oppstod ei melding ved sending av notis, ver vennleg og prøv igjen"
 
 #: bp-messages.php:186
 #, fuzzy
@@ -3258,7 +3198,7 @@ msgstr "Svaret ditt vart sendt"
 #: bp-messages.php:301
 #, fuzzy
 msgid "There was a problem sending your reply, please try again"
-msgstr "Det oppstod ein feil ved sending av svaret ditt, vennligst prøv igjen"
+msgstr "Det oppstod ein feil ved sending av svaret ditt, ver vennleg og prøv igjen"
 
 #: bp-messages.php:311
 #, fuzzy
@@ -3432,7 +3372,7 @@ msgstr ""
 #: bp-themes/bp-default/registration/activate.php:32
 #, fuzzy
 msgid "Please provide a valid activation key."
-msgstr "Vennligst legg inn ein gyldig aktiveringsnøkkel."
+msgstr "Ver Vennleg Og legg inn ein gyldig aktiveringsnøkkel."
 
 #: bp-themes/bp-default/registration/activate.php:36
 #, fuzzy
@@ -3562,7 +3502,7 @@ msgid ""
 "You have successfully created your account! Please log in using the username "
 "and password you have just created."
 msgstr ""
-"Du har med suksess oppretta kontoen din! Vennligst logg inn ved å bruka "
+"Du har med suksess oppretta kontoen din! Ver Vennleg Og logg inn ved å bruka "
 "brukarnamn og passord du nettopp oppretta."
 
 #: bp-themes/bp-default/registration/register.php:235
@@ -3617,7 +3557,7 @@ msgstr "Klipp bilete"
 #, fuzzy
 msgid "There was a problem posting your update, please try again."
 msgstr ""
-"Det oppstod ein feil ved posting av oppdateringa di, vennligst prøv igjen."
+"Det oppstod ein feil ved posting av oppdateringa di, ver vennleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:190
 #: bp-activity/bp-activity-templatetags.php:660
@@ -3634,7 +3574,7 @@ msgstr "Svar"
 #: bp-themes/bp-default/_inc/ajax.php:262
 #, fuzzy
 msgid "There was a problem when deleting. Please try again."
-msgstr "Det oppstod ein feil ved sletting, vennligst prøv igjen."
+msgstr "Det oppstod ein feil ved sletting, ver vennleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:275
 #: bp-themes/bp-default/activity/entry.php:35
@@ -3662,13 +3602,13 @@ msgstr "Førespurnad ventar"
 #, fuzzy
 msgid "There was a problem accepting that request. Please try again."
 msgstr ""
-"Det oppstod ein feil ved akseptering av førespurnad, vennligst prøv igjen."
+"Det oppstod ein feil ved akseptering av førespurnad, ver vennleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:379
 #, fuzzy
 msgid "There was a problem rejecting that request. Please try again."
 msgstr ""
-"Det oppstod ein feil ved avslåing av førespurnad, vennligst prøv igjen."
+"Det oppstod ein feil ved avslåing av førespurnad, ver vennleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:405
 #, fuzzy
@@ -3683,7 +3623,7 @@ msgstr "Feil ved medlemskap-førespurnad"
 #: bp-themes/bp-default/_inc/ajax.php:417
 #, fuzzy
 msgid "Membership Requested"
-msgstr "Medlemskap forespurt"
+msgstr "Medlemskap førespurt"
 
 #: bp-themes/bp-default/_inc/ajax.php:426
 #, fuzzy
@@ -3698,7 +3638,7 @@ msgstr "Det oppstod ein feil ved lukking av notis."
 #: bp-themes/bp-default/_inc/ajax.php:485
 #, fuzzy
 msgid "There was a problem sending that reply. Please try again."
-msgstr "Det oppstod ein feil ved sending av svar, vennligst prøv igjen."
+msgstr "Det oppstod ein feil ved sending av svar, ver vennleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:495
 #, fuzzy
@@ -4043,7 +3983,7 @@ msgid ""
 "use the delete avatar button."
 msgstr ""
 "Om du ynskjer å sletta din noverande avatar men ikkje lasta opp ny, "
-"vennligst bruk slett avatar knappen."
+"ver vennleg og bruk slett avatar knappen."
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:23
 #: bp-themes/bp-default/groups/single/admin.php:122
@@ -4065,7 +4005,7 @@ msgid ""
 "this site."
 msgstr ""
 "Din avatar vil brukast på profilen din og gjennom heile siten. For å endra "
-"din avatar, vennligst lag ein konto med <a href=\"http://gravatar."
+"din avatar, ver vennleg og lag ein konto med <a href=\"http://gravatar."
 "com\">Gravatar</a> ved å bruka same email adresse som du brukte då du "
 "registrerte her."
 
@@ -4183,7 +4123,7 @@ msgstr "Du har ingen utestående gruppeinvitasjonar."
 #: bp-themes/bp-default/members/single/friends/requests.php:36
 #, fuzzy
 msgid "You have no pending friendship requests."
-msgstr "Du har ingen ventande vennskapførespurnader."
+msgstr "Du har ingen ventande venskapførespurnader."
 
 #: bp-themes/bp-default/members/single/activity.php:7
 #: bp-themes/bp-default/activity/index.php:66
@@ -4213,7 +4153,7 @@ msgstr "Vis bloggkommentarer"
 #: bp-themes/bp-default/activity/index.php:85
 #, fuzzy
 msgid "Show Friendship Connections"
-msgstr "Vis vennskapsamband"
+msgstr "Vis venskapsamband"
 
 #: bp-themes/bp-default/members/single/activity.php:22
 #: bp-themes/bp-default/activity/index.php:75
@@ -4364,7 +4304,7 @@ msgstr "Vis fleire"
 #, fuzzy
 msgid "Sorry, there was no activity found. Please try a different filter."
 msgstr ""
-"Beklagar, det vart ikkje funne nokon aktivitet. Vennligst prøv eit anna "
+"Beklagar, det vart ikkje funne nokon aktivitet. Ver Vennleg Og prøv eit anna "
 "filter."
 
 #: bp-themes/bp-default/blogs/index.php:8
@@ -4586,7 +4526,7 @@ msgstr "Det finst ingen innlegg for dette emnet."
 #: bp-themes/bp-default/groups/single/request-membership.php:4
 #, fuzzy
 msgid "You are requesting to become a member of the group '%s'."
-msgstr "Du forespør medlemskap i gruppa '%s'."
+msgstr "Du førespør medlemskap i gruppa '%s'."
 
 #: bp-themes/bp-default/groups/single/request-membership.php:7
 #, fuzzy
@@ -4602,7 +4542,7 @@ msgstr "Send førespurnad"
 #: bp-themes/bp-default/groups/create.php:175
 #, fuzzy
 msgid "Select people to invite from your friends list."
-msgstr "Vel personar som skal inviterast frå din venna-liste."
+msgstr "Vel personar som skal inviterast frå din veneliste."
 
 #: bp-themes/bp-default/groups/single/send-invites.php:73
 #: bp-themes/bp-default/groups/create.php:206
@@ -4612,7 +4552,7 @@ msgid ""
 "to your group. You can send invites any time in the future by selecting the "
 "\"Send Invites\" option when viewing your new group."
 msgstr ""
-"Når du har bygd opp venna-samband vil det verta mogleg å invitera andre til "
+"Når du har bygd opp venesamband vil det verta mogleg å invitera andre til "
 "gruppa di. Du kan senda invitasjonar når som helst i framtida ved å velja "
 "\"Send invitasjonar\"-valet når du ser på den nye gruppa di."
 
@@ -4701,7 +4641,7 @@ msgstr "Dette er ei privat gruppe"
 #, fuzzy
 msgid "Only users who request membership and are accepted can join the group."
 msgstr ""
-"Berre brukarar som forespør medlemskap og er akseptert kan verta medlem i "
+"Berre brukarar som førespør medlemskap og er akseptert kan verta medlem i "
 "gruppa."
 
 #: bp-themes/bp-default/groups/single/admin.php:83
@@ -4750,7 +4690,7 @@ msgid ""
 "If you'd like to remove the existing avatar but not upload a new one, please "
 "use the delete avatar button."
 msgstr ""
-"Om du ynskjer å fjerna eksisterande avatar men ikkje lasta opp ny, vennligst "
+"Om du ynskjer å fjerna eksisterande avatar men ikkje lasta opp ny, ver vennleg og "
 "bruk slett avatar knappen."
 
 #: bp-themes/bp-default/groups/single/admin.php:132
@@ -4819,8 +4759,8 @@ msgid ""
 "WARNING: Deleting this group will completely remove ALL content associated "
 "with it. There is no way back, please be careful with this option."
 msgstr ""
-"ADVARSEL: Ved sletting av denne gruppa vert alt innhald tilknyttet han verta "
-"borte. Det er ingen veg tilbake, vennligst vêr forsiktig med dette høvet."
+"ÅTVARING: Ved sletting av denne gruppa vert alt innhald tilknyttet han verta "
+"borte. Det er ingen veg tilbake, ver vennleg og vêr forsiktig med dette høvet."
 
 #: bp-themes/bp-default/groups/single/admin.php:298
 #, fuzzy
@@ -4982,7 +4922,7 @@ msgstr ""
 #: bp-activity/bp-activity-templatetags.php:877
 #, fuzzy
 msgid "friends"
-msgstr "venner"
+msgstr "vener"
 
 #: bp-activity/bp-activity-templatetags.php:877
 #, fuzzy
