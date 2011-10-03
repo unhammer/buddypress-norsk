@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-09-29 22:17+0200\n"
+"PO-Revision-Date: 2011-10-03 08:09+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -3692,7 +3692,7 @@ msgstr "Vennligst påse at du taster inn passord to ganger."
 
 #: bp-members/bp-members-signup.php:61
 msgid "The passwords you entered do not match."
-msgstr "Passordenedu tastet inn stemte ikke overens."
+msgstr "Passordene du tastet inn stemte ikke overens."
 
 #: bp-members/bp-members-signup.php:84
 msgid "This is a required field"
@@ -3724,11 +3724,11 @@ msgstr "Beklager, brukernavn må ha bokstaver også!"
 
 #: bp-members/bp-members-signup.php:333
 msgid "Please check your email address."
-msgstr "Vennligst sjekk email adressen din."
+msgstr "Vennligst sjekk epostadressen din."
 
 #: bp-members/bp-members-signup.php:336 bp-members/bp-members-signup.php:344
 msgid "Sorry, that email address is not allowed!"
-msgstr "Beklager, emailadressen er allerede i bruk!"
+msgstr "Beklager, epostadressen er allerede i bruk!"
 
 #: bp-members/bp-members-signup.php:349
 msgid "Sorry, that username already exists!"
@@ -3736,7 +3736,7 @@ msgstr "Beklager, brukernavnet finnes allerede!"
 
 #: bp-members/bp-members-signup.php:353
 msgid "Sorry, that email address is already used!"
-msgstr "Beklager, emailadressen er allerede i bruk!"
+msgstr "Beklager, epostadressen er allerede i bruk!"
 
 #: bp-members/bp-members-signup.php:392
 msgid ""
@@ -3876,9 +3876,7 @@ msgstr "Konto aktivert"
 msgid ""
 "Your account was activated successfully! Your account details have been sent "
 "to you in a separate email."
-msgstr ""
-"Din konto ble med suksess opprettet! Dine konto-detaljer har blitt sent til "
-"deg i en separat email."
+msgstr "Din konto ble opprettet! Dine kontodetaljer har blitt sent til deg i en separat epost."
 
 #: bp-themes/bp-default/registration/activate.php:19
 msgid ""
@@ -3942,7 +3940,7 @@ msgstr "(obligatorisk)"
 
 #: bp-themes/bp-default/registration/register.php:41
 msgid "Email Address"
-msgstr "Email adresse"
+msgstr "Epostadresse"
 
 #: bp-themes/bp-default/registration/register.php:45
 msgid "Choose a Password"
@@ -3985,9 +3983,7 @@ msgid ""
 "You have successfully created your account! To begin using this site you "
 "will need to activate your account via the email we have just sent to your "
 "address."
-msgstr ""
-"Du har med suksess opprettet din konto! For å ta i bruk denne siten vil du "
-"ha behov for å aktivere din konto via email sendt til din adresse."
+msgstr "Du har opprettet din konto! For å ta i bruk dette nettstedet må du aktivere din konto via eposten sendt til din adresse."
 
 #: bp-themes/bp-default/registration/register.php:238
 msgid ""
@@ -4334,7 +4330,7 @@ msgstr ""
 
 #: bp-themes/bp-default/members/single/settings/notifications.php:55
 msgid "Send a notification by email when:"
-msgstr "Send en notis via email når: "
+msgstr "Send en notis via epost når: "
 
 #: bp-themes/bp-default/members/single/settings/delete-account.php:55
 msgid ""
@@ -4360,9 +4356,7 @@ msgstr "Generelle innstillinger"
 msgid ""
 "Current Password <span>(required to update email or change current password)"
 "</span>"
-msgstr ""
-"Nåværende Passord <span>(kreves for å oppdatere email eller endre det "
-"nåværende passord)</span>"
+msgstr "Nåværende Passord <span>(kreves for å oppdatere epostadresse eller endre det nåværende passord)</span>"
 
 #: bp-themes/bp-default/members/single/settings/general.php:57
 msgid "Password Lost and Found"
@@ -4374,7 +4368,7 @@ msgstr "Mistet passordet ditt?"
 
 #: bp-themes/bp-default/members/single/settings/general.php:59
 msgid "Account Email"
-msgstr "Konto Email"
+msgstr "Kontoepost"
 
 #: bp-themes/bp-default/members/single/settings/general.php:62
 msgid "Change Password <span>(leave blank for no change)</span>"
@@ -4398,10 +4392,7 @@ msgid ""
 "is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
 "account email we will use that, or you can upload an image from your "
 "computer."
-msgstr ""
-"Din avatar vil bli brukt på profilen din og gjennom hele siten. Om det er en "
-"<a href=\"http://gravatar.com\">Gravatar</a> assosiert med din konto-email "
-"vil vi bruke denne, eller du kan laste opp et bilde fra din datamaskin."
+msgstr "Din avatar vil bli brukt på profilen din og gjennom hele siten. Om det er en <a href=\"http://gravatar.com\">Gravatar</a> assosiert med din kontoepost, vil vi bruke denne. Du kan også laste opp et bilde fra din datamaskin."
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:14
 msgid ""
@@ -4462,11 +4453,7 @@ msgid ""
 "your avatar, please create an account with <a href=\"http://gravatar.com"
 "\">Gravatar</a> using the same email address as you used to register with "
 "this site."
-msgstr ""
-"Din avatar vil bli brukt på din profil og gjennom hele siten. For å endre "
-"din avatar, vennligst lag en konto med <a href=\"http://gravatar.com"
-"\">Gravatar</a> ved å bruke samme email adresse som du brukte da du "
-"registrerte her."
+msgstr "Din avatar vil bli brukt på din profil og gjennom hele siten. For å endre din avatar, vennligst lag en konto med <a href=\"http://gravatar.com\">Gravatar</a> ved å bruke samme epostadresse som du brukte da du registrerte her."
 
 #: bp-themes/bp-default/members/single/profile/edit.php:10
 msgid "Editing '%s' Profile Group"
@@ -4981,7 +4968,7 @@ msgstr "Gruppebeskrivelse (obligatorisk)"
 
 #: bp-themes/bp-default/groups/single/admin.php:25
 msgid "Notify group members of changes via email"
-msgstr "Send melding til medlemmer om endring via email"
+msgstr "Send melding til medlemmer om endring via epost"
 
 #: bp-themes/bp-default/groups/single/admin.php:47
 #: bp-themes/bp-default/groups/create.php:62
