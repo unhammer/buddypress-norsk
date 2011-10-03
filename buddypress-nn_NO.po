@@ -8,13 +8,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2011-10-03 07:47+0200\n"
+"PO-Revision-Date: 2011-10-03 08:04+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
 #: bp-friends.php:70
 msgid "Friends <span>(%d)</span>"
-msgstr ""
+msgstr "Vener <span>(%d)</span>"
 
 #: bp-friends.php:75 bp-friends.php:80 bp-friends.php:320
 #: bp-friends/bp-friends-templatetags.php:40
@@ -399,89 +399,72 @@ msgid "No new notifications."
 msgstr "Ingen nye varsel."
 
 #: bp-core/bp-core-adminbar.php:227
-#, fuzzy
 msgid "Blog Authors"
-msgstr "Bloggforfattere"
+msgstr "Bloggforfattarar"
 
 #: bp-core/bp-core-adminbar.php:252
-#, fuzzy
 msgid "Visit"
 msgstr "Vitj"
 
 #: bp-core/bp-core-adminbar.php:254
-#, fuzzy
 msgid "Random Member"
 msgstr "Tilfeldig medlem"
 
 #: bp-core/bp-core-adminbar.php:258
-#, fuzzy
 msgid "Random Group"
 msgstr "Tilfeldig gruppe"
 
 #: bp-core/bp-core-adminbar.php:264
-#, fuzzy
 msgid "Random Blog"
 msgstr "Tilfeldig blogg"
 
 #: bp-core/bp-core-avatars.php:67
-#, fuzzy
 msgid "Avatar Image"
-msgstr "Avatar-bilete"
+msgstr "Avatarbilete"
 
 #: bp-core/bp-core-avatars.php:332
-#, fuzzy
 msgid "There is no error, the file uploaded with success"
-msgstr "Det er ingen feil, fila vart lasta opp med suksess"
+msgstr "Fila vart lasta opp utan feil"
 
 #: bp-core/bp-core-avatars.php:333 bp-core/bp-core-avatars.php:334
-#, fuzzy
 msgid "Your image was bigger than the maximum allowed file size of: "
-msgstr "Biletet ditt var større eit maksimum tillate storleik som er: "
+msgstr "Biletet ditt var større enn maksimum tillate storleik, som er: "
 
 #: bp-core/bp-core-avatars.php:335
-#, fuzzy
 msgid "The uploaded file was only partially uploaded"
 msgstr "Fila vart berre delvis lasta opp"
 
 #: bp-core/bp-core-avatars.php:336
-#, fuzzy
 msgid "No file was uploaded"
 msgstr "Inga fil vart lasta opp."
 
 #: bp-core/bp-core-avatars.php:337
-#, fuzzy
 msgid "Missing a temporary folder"
-msgstr "Manglar ein mellombels mappe."
+msgstr "Manglar ei mellombels mappe"
 
 #: bp-core/bp-core-avatars.php:341
-#, fuzzy
 msgid "Your upload failed, please try again. Error was: %s"
-msgstr "Opplasting feilte, ver venleg og prøv igjen. Feilmelding var: %s"
+msgstr "Feil ved opplasting, ver venleg og prøv igjen. Feilmeldinga var: %s"
 
 #: bp-core/bp-core-avatars.php:346
-#, fuzzy
 msgid "The file you uploaded is too big. Please upload a file under %s"
 msgstr "Fila du lasta opp er for stor. Ver venleg og last opp ei fil under %s"
 
 #: bp-core/bp-core-avatars.php:351
-#, fuzzy
 msgid "Please upload only JPG, GIF or PNG photos."
-msgstr "Ver venleg og berre last opp Jpg, GIF eller Png bilete."
+msgstr "Ver venleg og berre last opp JPG-, GIF- eller PNG-bilete."
 
 #: bp-core/bp-core-avatars.php:362 bp-core/bp-core-avatars.php:375
-#, fuzzy
 msgid "Upload Failed! Error was: %s"
-msgstr "Opplasting feilte! Feilen var: %s"
+msgstr "Feil ved opplasting! Feilen var: %s"
 
 #: bp-core/bp-core-filters.php:29
-#, fuzzy
 msgid "noreply"
-msgstr "ikkesvar"
+msgstr "ikkjesvar"
 
 #: bp-core/bp-core-filters.php:133 bp-core/bp-core-filters.php:157
-#, fuzzy
 msgid "[User Set]"
-msgstr "[Brukersatt]"
+msgstr "[Brukarsett]"
 
 #: bp-core/bp-core-filters.php:177
 msgid ""
@@ -498,7 +481,6 @@ msgid ""
 msgstr ""
 
 #: bp-core/bp-core-filters.php:178
-#, fuzzy
 msgid "Activate %s"
 msgstr "Aktiver %s"
 
@@ -511,29 +493,24 @@ msgid ""
 "%s\n"
 "\n"
 msgstr ""
-"Takk for at du registrerte deg! For å ferdigstille aktivering av kontoen din "
-"ver venleg og klikk følgjande link:\n"
+"Takk for at du registrerte deg! Ver venleg og klikk følgjande link for å fullføra aktivering av kontoen din:\n"
 "\n"
 "%s\n"
 "\n"
 
 #: bp-core/bp-core-filters.php:210 bp-core/bp-core-signup.php:543
-#, fuzzy
 msgid "Activate Your Account"
 msgstr "Aktiver kontoen din"
 
 #: bp-core/bp-core-signup.php:47
-#, fuzzy
 msgid "Please make sure you enter your password twice"
-msgstr "Ver venleg og sjå til at du tastar inn passord to gonger."
+msgstr "Ver venleg og sjå til at du tastar inn passordet to gonger."
 
 #: bp-core/bp-core-signup.php:51
-#, fuzzy
 msgid "The passwords you entered do not match."
-msgstr "Passordenedu tasta inn røysta ikkje overeins."
+msgstr "Passorda du tasta inn var ikkje like."
 
 #: bp-core/bp-core-signup.php:74
-#, fuzzy
 msgid "This is a required field"
 msgstr "Dette feltet er obligatorisk"
 
@@ -543,9 +520,8 @@ msgid ""
 msgstr ""
 
 #: bp-core/bp-core-signup.php:198 bp-xprofile.php:386
-#, fuzzy
 msgid "There was a problem cropping your avatar, please try uploading it again"
-msgstr "Det oppstod ein feil ved klipping av avatar, ver venleg og prøv igjen."
+msgstr "Det oppstod ein feil ved beskjering av avataren, ver venleg og prøv igjen."
 
 #: bp-core/bp-core-signup.php:200
 msgid "Your new avatar was uploaded successfully"
@@ -556,54 +532,47 @@ msgid "There was an error activating your account, please try again."
 msgstr ""
 
 #: bp-core/bp-core-signup.php:236
-#, fuzzy
 msgid "Your account is now active!"
 msgstr "Kontoen din er no aktiv!"
 
 #: bp-core/bp-core-signup.php:275
-#, fuzzy
 msgid "Please enter a username"
 msgstr "Ver venleg og tast inn eit brukarnamn"
 
 #: bp-core/bp-core-signup.php:284
-#, fuzzy
 msgid "Only lowercase letters and numbers allowed"
 msgstr "Berre små bokstavar og nummer er tillate."
 
 #: bp-core/bp-core-signup.php:287
-#, fuzzy
 msgid "Username must be at least 4 characters"
-msgstr "Brukarnamn må vera minst 4 teikn"
+msgstr "Brukarnamnet må vera minst 4 teikn"
 
 #: bp-core/bp-core-signup.php:290
-#, fuzzy
 msgid "Sorry, usernames may not contain the character \"_\"!"
-msgstr "Beklagar, brukarnamn kan ikkje innehalda teiknet \"_\"!"
+msgstr "Orsak, brukarnamnet kan ikkje innehalda teiknet «_»!"
 
 #: bp-core/bp-core-signup.php:297
-#, fuzzy
 msgid "Sorry, usernames must have letters too!"
-msgstr "Beklagar, brukarnamn må ha bokstavar òg!"
+msgstr "Orsak, brukarnamn må ha bokstavar òg!"
 
 #: bp-core/bp-core-signup.php:300
-#, fuzzy
 msgid "Please check your email address."
-msgstr "Ver venleg og sjekk email adressa di."
+msgstr "Ver venleg og sjekk epostadressa di."
 
 #: bp-core/bp-core-signup.php:308
 #, fuzzy
 msgid "Sorry, that email address is not allowed!"
-msgstr "Beklagar, emailadressen er allereie i bruk!"
+msgstr "Orsak, emailadressen er allereie i bruk!"
 
 #: bp-core/bp-core-signup.php:313
 #, fuzzy
 msgid "Sorry, that username already exists!"
-msgstr "Beklagar, brukarnamnet finst allereie!"
+msgstr "Orsak, brukarnamnet finst allereie!"
 
 #: bp-core/bp-core-signup.php:317
 #, fuzzy
 msgid "Sorry, that email address is already used!"
-msgstr "Beklagar, emailadressen er allereie i bruk!"
+msgstr "Orsak, emailadressen er allereie i bruk!"
 
 #: bp-core/bp-core-signup.php:352
 #, fuzzy
@@ -3246,9 +3215,8 @@ msgstr ""
 
 #: bp-themes/bp-default/index.php:24 bp-themes/bp-default/search.php:33
 #: bp-themes/bp-default/archive.php:33 bp-themes/bp-default/single.php:27
-#, fuzzy
 msgid "Permanent Link to"
-msgstr "Permanent lenkje til"
+msgstr "Varig lenkje til"
 
 #: bp-themes/bp-default/index.php:26 bp-themes/bp-default/search.php:35
 #: bp-themes/bp-default/archive.php:35 bp-themes/bp-default/single.php:29
@@ -3308,7 +3276,7 @@ msgstr "Ikkje funnet"
 #: bp-themes/bp-default/index.php:51
 #, fuzzy
 msgid "Sorry, but you are looking for something that isn't here."
-msgstr "Beklagar, du leitte etter noko som ikkje er her."
+msgstr "Orsak, du leitte etter noko som ikkje er her."
 
 #: bp-themes/bp-default/registration/activate.php:16
 #, fuzzy
@@ -3595,9 +3563,8 @@ msgid "Error leaving group"
 msgstr "Feil ved utmelding frå gruppe"
 
 #: bp-themes/bp-default/_inc/ajax.php:443
-#, fuzzy
 msgid "There was a problem closing the notice."
-msgstr "Det oppstod ein feil ved lukking av notis."
+msgstr "Det oppstod ein feil ved lukking av varselet."
 
 #: bp-themes/bp-default/_inc/ajax.php:485
 #, fuzzy
@@ -3800,29 +3767,23 @@ msgid "comments"
 msgstr "kommentarar"
 
 #: bp-themes/bp-default/functions.php:33
-#, fuzzy
 msgid ""
 "%s is a unique identifier for %s that you can type into any message on this "
 "site. %s will be sent a notification and a link to your message any time you "
 "use it."
-msgstr ""
-"%s er ein unik identifikasjon for %s som du kan tasta inn i kva for ein som "
-"helst melding på denne siten. %s vil tilsendast ein notis og ein link til "
-"meldinga di kvar gong du brukar han."
+msgstr "%s er ein unik identifikator for %s, som du kan tasta inn i kva som helst melding på denne nettstaden. %s vil få eit varsel og ei lenkje til meldinga di kvar gong du brukar han."
 
 #: bp-themes/bp-default/functions.php:79
 msgid "said:"
-msgstr ""
+msgstr "sa:"
 
 #: bp-themes/bp-default/functions.php:80
-#, fuzzy
 msgid "On"
 msgstr "På"
 
 #: bp-themes/bp-default/functions.php:84
-#, fuzzy
 msgid "Your comment is awaiting moderation."
-msgstr "Din kommentare ventar på moderering."
+msgstr "Kommentaren din ventar på godkjenning."
 
 #: bp-themes/bp-default/functions.php:329
 #, fuzzy
@@ -3917,7 +3878,7 @@ msgstr "Alfabetisk"
 #: bp-themes/bp-default/members/members-loop.php:87
 #, fuzzy
 msgid "Sorry, no members were found."
-msgstr "Beklagar, fann ingen brukarar som passa!"
+msgstr "Orsak, fann ingen brukarar som passa!"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:7
 #, fuzzy
@@ -3996,60 +3957,49 @@ msgid "Send To (Username or Friend's Name)"
 msgstr "Send til (Brukarnamn eller namnet til ven)"
 
 #: bp-themes/bp-default/members/single/messages/compose.php:14
-#, fuzzy
 msgid "This is a notice to all users."
-msgstr "Dette er ein notis til alle brukarar."
+msgstr "Dette er eit varsel til alle brukarar."
 
 #: bp-themes/bp-default/members/single/messages/compose.php:17
-#, fuzzy
 msgid "Subject"
 msgstr "Emne"
 
 #: bp-themes/bp-default/members/single/messages/compose.php:20
-#, fuzzy
 msgid "Message"
 msgstr "Melding"
 
 #: bp-themes/bp-default/members/single/messages/compose.php:28
-#, fuzzy
 msgid "Send Message"
 msgstr "Send melding"
 
 #: bp-themes/bp-default/members/single/messages/notices-loop.php:31
-#, fuzzy
 msgid "Sent:"
 msgstr "Sendt:"
 
 #: bp-themes/bp-default/members/single/messages/notices-loop.php:38
 #: bp-themes/bp-default/members/single/messages/messages-loop.php:50
-#, fuzzy
 msgid "Delete Message"
 msgstr "Slett melding"
 
 #: bp-themes/bp-default/members/single/messages/notices-loop.php:49
-#, fuzzy
 msgid "Sorry, no notices were found."
-msgstr "Beklagar, ingen notisar vart funne."
+msgstr "Orsak, fann ingen varsel."
 
 #: bp-themes/bp-default/members/single/messages/messages-loop.php:31
-#, fuzzy
 msgid "From:"
 msgstr "Frå:"
 
 #: bp-themes/bp-default/members/single/messages/messages-loop.php:36
-#, fuzzy
 msgid "To:"
 msgstr "Til:"
 
 #: bp-themes/bp-default/members/single/messages/messages-loop.php:42
-#, fuzzy
 msgid "View Message"
-msgstr "Les melding"
+msgstr "Vis melding"
 
 #: bp-themes/bp-default/members/single/messages/messages-loop.php:68
-#, fuzzy
 msgid "Sorry, no messages were found."
-msgstr "Beklagar, ingen meldingar vart funne."
+msgstr "Orsak, fann ingen meldingar."
 
 #: bp-themes/bp-default/members/single/messages/single.php:11
 msgid "Sent between %s and %s"
@@ -4205,13 +4155,10 @@ msgid "Show New Members"
 msgstr ""
 
 #: bp-themes/bp-default/activity/post-form.php:7
-#, fuzzy
 msgid ""
 "You are mentioning %s in a new update, this user will be sent a notification "
 "of your message."
-msgstr ""
-"Du nemner %s i ei ny oppdatering, denne brukaren vil få ein notis om "
-"meldinga di."
+msgstr "Du nemner %s i ei ny oppdatering, denne brukaren vil få eit varsel om meldinga di."
 
 #: bp-themes/bp-default/activity/post-form.php:19
 msgid "What's new in %s, %s?"
@@ -4222,41 +4169,35 @@ msgid "What's new %s?"
 msgstr "Kva skjer, %s?"
 
 #: bp-themes/bp-default/activity/post-form.php:33
-#, fuzzy
 msgid "Post Update"
-msgstr "Post oppdatering"
+msgstr "Legg inn oppdatering"
 
 #: bp-themes/bp-default/activity/post-form.php:38
 msgid "Post in"
 msgstr "Skriv til"
 
 #: bp-themes/bp-default/activity/entry.php:33
-#, fuzzy
 msgid "Mark as Favorite"
-msgstr "Marker som favoritt"
+msgstr "Merk som favoritt"
 
 #: bp-themes/bp-default/activity/entry.php:45
 #: bp-activity/feeds/bp-activity-friends-feed.php:48
 #: bp-activity/feeds/bp-activity-mentions-feed.php:47
 #: bp-activity/feeds/bp-activity-personal-feed.php:47
 #: bp-activity/feeds/bp-activity-favorites-feed.php:52
-#, fuzzy
 msgid "In reply to"
 msgstr "Svar på"
 
 #: bp-themes/bp-default/activity/entry.php:46
 #: bp-activity/bp-activity-templatetags.php:580
-#, fuzzy
 msgid "View Thread / Permalink"
-msgstr "Vis tråd / permalenke"
+msgstr "Vis tråd / varig lenkje"
 
 #: bp-themes/bp-default/activity/entry.php:63
-#, fuzzy
 msgid "Post"
-msgstr "Innlegg"
+msgstr "Legg inn"
 
 #: bp-themes/bp-default/activity/entry.php:63
-#, fuzzy
 msgid "or press esc to cancel."
 msgstr "eller trykk esc for å avbryta"
 
@@ -4268,7 +4209,7 @@ msgstr "Vis fleire"
 #, fuzzy
 msgid "Sorry, there was no activity found. Please try a different filter."
 msgstr ""
-"Beklagar, det vart ikkje funne nokon aktivitet. Ver venleg og prøv eit anna "
+"Orsak, det vart ikkje funne nokon aktivitet. Ver venleg og prøv eit anna "
 "filter."
 
 #: bp-themes/bp-default/blogs/index.php:8
@@ -4403,7 +4344,7 @@ msgstr "Permalenke"
 #: bp-themes/bp-default/forums/forums-loop.php:95
 #, fuzzy
 msgid "Sorry, there were no forum topics found."
-msgstr "Beklagar, det vart ikkje funne nokon forum-emnar."
+msgstr "Orsak, det vart ikkje funne nokon forum-emnar."
 
 #: bp-themes/bp-default/groups/index.php:7
 #: bp-themes/bp-default/groups/create.php:7
@@ -4458,9 +4399,8 @@ msgid "%s said %s ago:"
 msgstr "%s sa for %s sidan:"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:56
-#, fuzzy
 msgid "Permanent link to this post"
-msgstr "Permanent lenkje til dette innlegget"
+msgstr "Varig lenkje til dette innlegget"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:87
 #, fuzzy
@@ -4787,7 +4727,7 @@ msgstr "<p class=\"serif\">Les resten av dette innlegget &rarr;</p>"
 #: bp-themes/bp-default/attachment.php:38
 #, fuzzy
 msgid "Sorry, no attachments matched your criteria."
-msgstr "Beklagar, ingen vedlegg passa kriteria dine."
+msgstr "Orsak, ingen vedlegg passa kriteria dine."
 
 #: bp-themes/bp-default/search.php:14
 #, fuzzy
@@ -4810,14 +4750,12 @@ msgid "Links"
 msgstr "Lenkjar"
 
 #: bp-themes/bp-default/single.php:29
-#, fuzzy
 msgid "Edit this entry"
 msgstr "Rediger dette innlegget."
 
 #: bp-themes/bp-default/single.php:46
-#, fuzzy
 msgid "Sorry, no posts matched your criteria."
-msgstr "Beklagar, ingen innlegg passet til kriteria dine."
+msgstr "Orsak, ingen innlegg passa til kriteria dine."
 
 #: bp-activity/bp-activity-notifications.php:32
 #, fuzzy
@@ -4902,13 +4840,10 @@ msgid "Clear Filter"
 msgstr "Fjern filter"
 
 #: bp-activity/bp-activity-templatetags.php:956
-#, fuzzy
 msgid ""
 "Mention this user in a new public message, this will send the user a "
 "notification to get their attention."
-msgstr ""
-"Nemn denne brukaren i ei offentleg melding, dette vil senda brukaren ein "
-"notis for å få merksemda deira."
+msgstr "Nemn denne brukaren i ei offentleg melding. Då vil brukaren motta eit varsel, for å få merksemda deira."
 
 #: bp-activity/bp-activity-templatetags.php:957
 #, fuzzy
