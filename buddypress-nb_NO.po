@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-10-04 20:55+0200\n"
+"PO-Revision-Date: 2011-10-04 22:06+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -2225,19 +2225,19 @@ msgstr "Ditt svar ble lagt inn"
 
 #: bp-groups/bp-groups-screens.php:165
 msgid "There was an error when making that topic a sticky"
-msgstr "Det oppsto en feil ved forsøk på å gjøre emne klistrete"
+msgstr "Det oppsto en feil ved forsøk på å gjøre emne klebrig"
 
 #: bp-groups/bp-groups-screens.php:167
 msgid "The topic was made sticky successfully"
-msgstr "Emnet ble gjort klistrete"
+msgstr "Emnet ble gjort klebrig"
 
 #: bp-groups/bp-groups-screens.php:179
 msgid "There was an error when unsticking that topic"
-msgstr "Det oppsto en feil ved forsøk på å fjerne emne som klistrete"
+msgstr "Det oppsto en feil ved forsøk på å gjøre emne ikke-klebrig"
 
 #: bp-groups/bp-groups-screens.php:181
 msgid "The topic was unstuck successfully"
-msgstr "Emnet ble gjort ikke-klistrete"
+msgstr "Emnet ble gjort ikke-klebrig"
 
 #: bp-groups/bp-groups-screens.php:193
 msgid "There was an error when closing that topic"
@@ -2728,7 +2728,7 @@ msgstr "Opprett feltgruppe"
 
 #: bp-xprofile/bp-xprofile-classes.php:272
 msgid "Edit Field Group"
-msgstr "Rediger felt gruppe"
+msgstr "Rediger feltgruppe"
 
 #: bp-xprofile/bp-xprofile-classes.php:274
 #: bp-themes/bp-default/members/single/settings/notifications.php:62
@@ -2821,7 +2821,7 @@ msgstr "Rediger felt"
 
 #: bp-xprofile/bp-xprofile-classes.php:715
 msgid "Field Title"
-msgstr "Felt tittel"
+msgstr "Felttittel"
 
 #: bp-xprofile/bp-xprofile-classes.php:724
 msgid "Field Description"
@@ -3292,11 +3292,11 @@ msgstr "Rediger emne"
 
 #: bp-forums/bp-forums-template.php:796
 msgid "Sticky Topic"
-msgstr "Fast emne"
+msgstr "Klebrig emne"
 
 #: bp-forums/bp-forums-template.php:798
 msgid "Un-stick Topic"
-msgstr "Løs opp emne"
+msgstr "Gjør emne ikke-klebrig"
 
 #: bp-forums/bp-forums-template.php:801
 msgid "Open Topic"

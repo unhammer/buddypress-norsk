@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2011-10-04 21:33+0200\n"
+"PO-Revision-Date: 2011-10-04 22:25+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
@@ -746,9 +746,8 @@ msgid "Disable BuddyPress to WordPress profile syncing?"
 msgstr "Slå av profilsynkronisering frå BuddyPress til WordPress?"
 
 #: bp-core/bp-core-admin.php:66
-#, fuzzy
 msgid "Hide admin bar for logged out users?"
-msgstr "Gøym administratorraden for utlogga brukarar?"
+msgstr "Gøym administratorraden (på toppen av sida) for utlogga brukarar?"
 
 #: bp-core/bp-core-admin.php:73
 msgid "Disable avatar uploads? (Gravatars will still work)"
@@ -1607,43 +1606,37 @@ msgid "There are no groups to display."
 msgstr "Det finst ingen grupper å visa."
 
 #: bp-groups/bp-groups-widgets.php:79
-#, fuzzy
 msgid "Max groups to show:"
 msgstr "Maks mengd grupper å visa:"
 
 #: bp-groups/bp-groups-widgets.php:117
 msgid "created %s ago"
-msgstr ""
+msgstr "lagt for %s sidan"
 
 #: bp-groups/bp-groups-widgets.php:136
-#, fuzzy
 msgid "No groups matched the current filter."
-msgstr "Ingen grupper matcha noverande filter"
+msgstr "Ingen grupper svarte til dette filteret"
 
 #: bp-xprofile/bp-xprofile-classes.php:158
-#, fuzzy
 msgid "Please make sure you give the group a name."
 msgstr "Ver venleg og sjå til at du gjev gruppa eit namn."
 
 #: bp-xprofile/bp-xprofile-classes.php:171
 #: bp-xprofile/bp-xprofile-admin.php:124
-#, fuzzy
 msgid "Add New Field Group"
-msgstr "Legg til ny feltgruppe"
+msgstr "Legg til ei ny feltgruppe"
 
 #: bp-xprofile/bp-xprofile-classes.php:174
-#, fuzzy
 msgid "Edit Field Group"
-msgstr "Rediger felt gruppe"
+msgstr "Rediger feltgruppe"
 
 #: bp-xprofile/bp-xprofile-classes.php:195
 msgid "Field Group Name"
-msgstr ""
+msgstr "Namn på feltgruppe"
 
 #: bp-xprofile/bp-xprofile-classes.php:494
-#, fuzzy
 msgid "Please enter options for this Field:"
-msgstr "Ver venleg og legg inn val for dette felt:"
+msgstr "Ver venleg og legg inn val for dette feltet:"
 
 #: bp-xprofile/bp-xprofile-classes.php:495
 #: bp-themes/bp-default/members/index.php:28
@@ -1653,155 +1646,125 @@ msgstr "Ver venleg og legg inn val for dette felt:"
 #: bp-themes/bp-default/blogs/index.php:28
 #: bp-themes/bp-default/forums/index.php:91
 #: bp-themes/bp-default/groups/index.php:27
-#, fuzzy
 msgid "Order By:"
-msgstr "Sortar på:"
+msgstr "Sorter på:"
 
 #: bp-xprofile/bp-xprofile-classes.php:498
-#, fuzzy
 msgid "Order Entered"
 msgstr "Sortert etter innlegging"
 
 #: bp-xprofile/bp-xprofile-classes.php:499
-#, fuzzy
 msgid "Name - Ascending"
-msgstr "Namn - Stigande"
+msgstr "Namn - stigande"
 
 #: bp-xprofile/bp-xprofile-classes.php:500
-#, fuzzy
 msgid "Name - Descending"
-msgstr "Namn - Søkkande"
+msgstr "Namn - søkkande"
 
 #: bp-xprofile/bp-xprofile-classes.php:529
 #: bp-xprofile/bp-xprofile-classes.php:550
-#, fuzzy
 msgid "Option"
 msgstr "Val"
 
 #: bp-xprofile/bp-xprofile-classes.php:531
 #: bp-xprofile/bp-xprofile-classes.php:551
-#, fuzzy
 msgid "Default Value"
-msgstr "Standardverd"
+msgstr "Standardverdi"
 
 #: bp-xprofile/bp-xprofile-classes.php:557
-#, fuzzy
 msgid "Add Another Option"
 msgstr "Legg til eit anna val"
 
 #: bp-xprofile/bp-xprofile-classes.php:565
-#, fuzzy
 msgid "Add Field"
 msgstr "Legg til felt"
 
 #: bp-xprofile/bp-xprofile-classes.php:574
-#, fuzzy
 msgid "Edit Field"
 msgstr "Rediger felt"
 
 #: bp-xprofile/bp-xprofile-classes.php:595
-#, fuzzy
 msgid "Field Title"
-msgstr "Felt tittel"
+msgstr "Felttittel"
 
 #: bp-xprofile/bp-xprofile-classes.php:602
-#, fuzzy
 msgid "Field Description"
 msgstr "Feltskildring"
 
 #: bp-xprofile/bp-xprofile-classes.php:609
-#, fuzzy
 msgid "Is This Field Required?"
 msgstr "Er dette feltet obligatorisk?"
 
 #: bp-xprofile/bp-xprofile-classes.php:611
-#, fuzzy
 msgid "Not Required"
 msgstr "Ikkje obligatorisk"
 
 #: bp-xprofile/bp-xprofile-classes.php:612
-#, fuzzy
 msgid "Required"
 msgstr "Obligatorisk"
 
 #: bp-xprofile/bp-xprofile-classes.php:617 bp-xprofile/bp-xprofile-admin.php:74
-#, fuzzy
 msgid "Field Type"
 msgstr "Felttype"
 
 #: bp-xprofile/bp-xprofile-classes.php:619
-#, fuzzy
 msgid "Text Box"
 msgstr "Tekstboks"
 
 #: bp-xprofile/bp-xprofile-classes.php:620
-#, fuzzy
 msgid "Multi-line Text Box"
-msgstr "Multilinje-boks"
+msgstr "Multilinjeboks"
 
 #: bp-xprofile/bp-xprofile-classes.php:621
-#, fuzzy
 msgid "Date Selector"
 msgstr "Datoveljar"
 
 #: bp-xprofile/bp-xprofile-classes.php:622
-#, fuzzy
 msgid "Radio Buttons"
-msgstr "Radio-knappar"
+msgstr "Alternativknappar"
 
 #: bp-xprofile/bp-xprofile-classes.php:623
-#, fuzzy
 msgid "Drop Down Select Box"
-msgstr "Rullegardin boks"
+msgstr "Nedtrekksliste"
 
 #: bp-xprofile/bp-xprofile-classes.php:624
-#, fuzzy
 msgid "Multi Select Box"
-msgstr "Flervalgsboks"
+msgstr "Fleirvalsboks"
 
 #: bp-xprofile/bp-xprofile-classes.php:625
-#, fuzzy
 msgid "Checkboxes"
-msgstr "Kryss-boksar"
+msgstr "Avkryssingsboksar"
 
 #: bp-xprofile/bp-xprofile-classes.php:632
-#, fuzzy
 msgid "Save"
 msgstr "Lagre"
 
 #: bp-xprofile/bp-xprofile-classes.php:633
-#, fuzzy
 msgid "or"
 msgstr "eller"
 
 #: bp-xprofile/bp-xprofile-classes.php:633
 #: bp-themes/bp-default/forums/index.php:59
-#, fuzzy
 msgid "Cancel"
 msgstr "Avbryt"
 
 #: bp-xprofile/bp-xprofile-classes.php:655
-#, fuzzy
 msgid "Please make sure you fill out all required fields."
 msgstr "Ver venleg og sjå at til du fyllar ut alle obligatoriske felt."
 
 #: bp-xprofile/bp-xprofile-classes.php:658
-#, fuzzy
 msgid ""
 "Radio button field types require at least one option. Please add options "
 "below."
-msgstr ""
-"Radioknapp felt-typar krev minst eitt val. Ver venleg og legg til val under."
+msgstr "Alternativknappar krev minst eitt val. Ver venleg og legg til val under."
 
 #: bp-xprofile/bp-xprofile-classes.php:661
 #: bp-xprofile/bp-xprofile-classes.php:664
-#, fuzzy
 msgid ""
 "Select box field types require at least one option. Please add options below."
-msgstr "Val-boks krev minst eit val. Ver venleg og legg til val under."
+msgstr "Nedtrekkslister og fleirvalsboksar krev minst eit val. Ver venleg og legg til val under."
 
 #: bp-xprofile/bp-xprofile-classes.php:667
-#, fuzzy
 msgid ""
 "Checkbox field types require at least one option. Please add options below."
 msgstr "Avkrysningsfelt krev minst eit val. Ver venleg og legg til val under."
@@ -1828,7 +1791,6 @@ msgstr ""
 #: bp-xprofile/bp-xprofile-admin.php:67 bp-xprofile/bp-xprofile-admin.php:94
 #: bp-forums/bp-forums-templatetags.php:977
 #: bp-themes/bp-default/functions.php:91
-#, fuzzy
 msgid "Edit"
 msgstr "Rediger"
 
@@ -1861,132 +1823,106 @@ msgid "(Core Field)"
 msgstr ""
 
 #: bp-xprofile/bp-xprofile-admin.php:103
-#, fuzzy
 msgid "There are no fields in this group."
 msgstr "Det er ingen felt i denne gruppa."
 
 #: bp-xprofile/bp-xprofile-admin.php:113
-#, fuzzy
 msgid "Add New Field"
 msgstr "Legg til nytt felt"
 
 #: bp-xprofile/bp-xprofile-admin.php:128
-#, fuzzy
 msgid "You have no groups."
 msgstr "Du har ingen grupper."
 
 #: bp-xprofile/bp-xprofile-admin.php:129
-#, fuzzy
 msgid "Add New Group"
 msgstr "Legg til ny gruppe"
 
 #: bp-xprofile/bp-xprofile-admin.php:157
-#, fuzzy
 msgid "There was an error saving the group. Please try again"
-msgstr "Det oppstod ein fel ved lagring av gruppa. Ver venleg og prøv igjen"
+msgstr "Det oppstod ein feil ved lagring av gruppa. Ver venleg og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:160
-#, fuzzy
 msgid "The group was saved successfully."
 msgstr "Gruppa vart lagra."
 
 #: bp-xprofile/bp-xprofile-admin.php:189
-#, fuzzy
 msgid "There was an error deleting the group. Please try again"
-msgstr "Det oppstod ein fel ved sletting av gruppa. Ver venleg og prøv igjen"
+msgstr "Det oppstod ein feil ved sletting av gruppa. Ver venleg og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:192
-#, fuzzy
 msgid "The group was deleted successfully."
 msgstr "Gruppa vart sletta."
 
 #: bp-xprofile/bp-xprofile-admin.php:231
-#, fuzzy
 msgid "There was an error saving the field. Please try again"
 msgstr "Det oppstod ein feil ved lagring av felt. Ver venleg og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:237
-#, fuzzy
 msgid "The field was saved successfully."
 msgstr "Feltet vart lagra."
 
 #: bp-xprofile/bp-xprofile-admin.php:265
-#, fuzzy
 msgid "field"
 msgstr "felt"
 
 #: bp-xprofile/bp-xprofile-admin.php:267
-#, fuzzy
 msgid "option"
 msgstr "val"
 
 #: bp-xprofile/bp-xprofile-admin.php:273
-#, fuzzy
 msgid "There was an error deleting the %s. Please try again"
 msgstr "Det oppstod ein feil ved sletting av %s. Ver venleg og prøv igjen"
 
 #: bp-xprofile/bp-xprofile-admin.php:276
-#, fuzzy
 msgid "The %s was deleted successfully!"
-msgstr "%s vart sletta med suksess!"
+msgstr "%s vart sletta!"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:490
-#, fuzzy
 msgid "January"
 msgstr "januar"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:490
-#, fuzzy
 msgid "February"
 msgstr "februar"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:490
-#, fuzzy
 msgid "March"
 msgstr "mars"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:491
-#, fuzzy
 msgid "April"
 msgstr "april"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:491
-#, fuzzy
 msgid "May"
 msgstr "mai"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:491
-#, fuzzy
 msgid "June"
 msgstr "juni"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:492
-#, fuzzy
 msgid "July"
 msgstr "juli"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:492
-#, fuzzy
 msgid "August"
 msgstr "august"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:492
-#, fuzzy
 msgid "September"
 msgstr "september"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:493
-#, fuzzy
 msgid "October"
 msgstr "oktober"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:493
-#, fuzzy
 msgid "November"
 msgstr "november"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:493
-#, fuzzy
 msgid "December"
 msgstr "desember"
 
@@ -2000,7 +1936,6 @@ msgstr ""
 "href=\"http://gravatar.com\" target=\"_blank\">gravatar</a> i staden?"
 
 #: bp-xprofile/bp-xprofile-templatetags.php:643
-#, fuzzy
 msgid "Profile not recently updated"
 msgstr "Profil ikkje oppdatert i det siste"
 
@@ -2010,63 +1945,52 @@ msgstr ""
 
 #: bp-xprofile/bp-xprofile-templatetags.php:697
 #: bp-xprofile/bp-xprofile-templatetags.php:698 bp-xprofile.php:178
-#, fuzzy
 msgid "Edit Profile"
 msgstr "Rediger profil"
 
 #: bp-forums/bp-forums-templatetags.php:304
 #: bp-forums/bp-forums-templatetags.php:353
 #: bp-forums/bp-forums-templatetags.php:923
-#, fuzzy
 msgid "Deleted User"
 msgstr "Sletta brukar"
 
 #: bp-forums/bp-forums-templatetags.php:563
-#, fuzzy
 msgid "Edit Topic"
 msgstr "Rediger emne"
 
 #: bp-forums/bp-forums-templatetags.php:567
-#, fuzzy
 msgid "Sticky Topic"
 msgstr "Fast emne"
 
 #: bp-forums/bp-forums-templatetags.php:569
-#, fuzzy
 msgid "Un-stick Topic"
-msgstr "Lødast opp emne"
+msgstr "Gjer emnet ikkje-fast"
 
 #: bp-forums/bp-forums-templatetags.php:572
-#, fuzzy
 msgid "Open Topic"
-msgstr "Opne emne"
+msgstr "Opna emne"
 
 #: bp-forums/bp-forums-templatetags.php:574
-#, fuzzy
 msgid "Close Topic"
 msgstr "Lukk emne"
 
 #: bp-forums/bp-forums-templatetags.php:576
-#, fuzzy
 msgid "Delete Topic"
 msgstr "Slett emne"
 
 #: bp-forums/bp-forums-templatetags.php:682
-#, fuzzy
 msgid " matching tag \"%s\""
-msgstr "passande merkelapp \"%s\""
+msgstr " passar merkelapp «%s»"
 
 #: bp-forums/bp-forums-templatetags.php:684
 msgid "Viewing topic %1$s to %2$s (%3$s total topics%4$s)"
 msgstr ""
 
 #: bp-forums/bp-forums-templatetags.php:1010
-#, fuzzy
 msgid "Viewing post %1$s to %2$s (%3$s total posts)"
 msgstr "Viser innlegg %1$s til %2$s (%3$s totale innlegg)"
 
 #: bp-forums/bp-forums-admin.php:12
-#, fuzzy
 msgid "Settings Saved."
 msgstr "Innstillingar lagra."
 
@@ -2186,7 +2110,6 @@ msgstr ""
 "allereie eksisterande bbPress installasjon. Ver venleg og vel ein av høva under."
 
 #: bp-forums/bp-forums-admin.php:93
-#, fuzzy
 msgid "Set up a new bbPress installation"
 msgstr "Sett opp ein ny bbPress installasjon"
 
@@ -2196,41 +2119,34 @@ msgstr ""
 
 #: bp-xprofile.php:179
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:1
-#, fuzzy
 msgid "Change Avatar"
-msgstr "Endre Avatar"
+msgstr "Endre avatar"
 
 #: bp-xprofile.php:213 bp-groups.php:250
 msgid "Admin Options"
 msgstr "Administrer"
 
 #: bp-xprofile.php:216
-#, fuzzy
 msgid "Edit %s's Profile"
-msgstr "Rediger %ss profil"
+msgstr "Rediger profilen til %s"
 
 #: bp-xprofile.php:217
-#, fuzzy
 msgid "Edit %s's Avatar"
-msgstr "Rediger %ss avatar"
+msgstr "Rediger avataren til %s"
 
 #: bp-xprofile.php:220
-#, fuzzy
 msgid "Mark as Spammer"
-msgstr "Merk som spammer"
+msgstr "Merk som spammar"
 
 #: bp-xprofile.php:222
-#, fuzzy
 msgid "Not a Spammer"
-msgstr "Ikkje ein spammer"
+msgstr "Ikkje ein spammar"
 
 #: bp-xprofile.php:225
-#, fuzzy
 msgid "Delete %s"
-msgstr "Slett s"
+msgstr "Slett %s"
 
 #: bp-xprofile.php:318
-#, fuzzy
 msgid ""
 "Please make sure you fill in all required fields in this profile field group "
 "before saving."
@@ -2239,124 +2155,100 @@ msgstr ""
 "du lagrar."
 
 #: bp-xprofile.php:335
-#, fuzzy
 msgid ""
 "There was a problem updating some of your profile information, please try "
 "again."
-msgstr ""
-"Det oppstod ein feil ved oppdatering av profil-informasjonen din. Prøv igjen."
+msgstr "Det oppstod ein feil ved oppdatering av profilinformasjonen din. Prøv igjen."
 
 #: bp-xprofile.php:337
-#, fuzzy
 msgid "Changes saved."
-msgstr "Endringar vart lagra."
+msgstr "Endringane er lagra."
 
 #: bp-xprofile.php:388
-#, fuzzy
 msgid "Your new avatar was uploaded successfully!"
-msgstr "Dine nye avatar vart lasta opp!"
+msgstr "Den nye avataren din er lasta opp!"
 
 #: bp-xprofile.php:433 bp-groups.php:739
-#, fuzzy
 msgid "Your avatar was deleted successfully!"
-msgstr "Din avatar vart sletta."
+msgstr "Avataren din er sletta."
 
 #: bp-xprofile.php:435 bp-groups.php:741
-#, fuzzy
 msgid "There was a problem deleting that avatar, please try again."
 msgstr "Det oppstod ein feil ved sletting av avatar, ver venleg og prøv igjen."
 
 #: bp-xprofile.php:455
-#, fuzzy
 msgid "New member registered"
 msgstr "Ny medlem registrert"
 
 #: bp-xprofile.php:456
-#, fuzzy
 msgid "Updated Profile"
-msgstr "Oppdaterte profil"
+msgstr "Oppdatert profil"
 
 #: bp-messages/bp-messages-classes.php:193
-#, fuzzy
 msgid " Recipients"
-msgstr "Mottakere"
+msgstr "Mottakarar"
 
 #: bp-messages/bp-messages-templatetags.php:335
-#, fuzzy
 msgid "Viewing message %1$s to %2$s (of %3$s messages)"
 msgstr "Viser melding %1$s til %2$s (av %3$s meldingar)"
 
 #: bp-messages/bp-messages-templatetags.php:376
-#, fuzzy
 msgid "Select:"
 msgstr "Vel:"
 
 #: bp-messages/bp-messages-templatetags.php:379
-#, fuzzy
 msgid "Read"
-msgstr "Las"
+msgstr "Lesne"
 
 #: bp-messages/bp-messages-templatetags.php:380
-#, fuzzy
 msgid "Unread"
 msgstr "Ulesne"
 
 #: bp-messages/bp-messages-templatetags.php:381
-#, fuzzy
 msgid "All"
 msgstr "Alle"
 
 #: bp-messages/bp-messages-templatetags.php:384
-#, fuzzy
 msgid "Mark as Read"
-msgstr "Marker som lese"
+msgstr "Merk som lesne"
 
 #: bp-messages/bp-messages-templatetags.php:385
-#, fuzzy
 msgid "Mark as Unread"
-msgstr "Marker som ulese"
+msgstr "Merk som ulesne"
 
 #: bp-messages/bp-messages-templatetags.php:387
-#, fuzzy
 msgid "Delete Selected"
 msgstr "Slett valde"
 
 #: bp-messages/bp-messages-templatetags.php:396
-#, fuzzy
 msgid "Currently Active"
 msgstr "Aktive i augneblunken"
 
 #: bp-messages/bp-messages-templatetags.php:463
-#, fuzzy
 msgid "Deactivate"
 msgstr "Deaktiver"
 
 #: bp-messages/bp-messages-templatetags.php:465
 #: bp-themes/bp-default/registration/activate.php:40
-#, fuzzy
 msgid "Activate"
 msgstr "Aktiver"
 
 #: bp-messages/bp-messages-templatetags.php:490
 #: bp-themes/bp-default/functions.php:32
-#, fuzzy
 msgid "Close"
 msgstr "Lukk"
 
 #: bp-messages/bp-messages-templatetags.php:535
-#, fuzzy
 msgid "Send a private message to this user."
 msgstr "Send ei privat melding til denne brukaren."
 
 #: bp-messages/bp-messages-templatetags.php:536
-#, fuzzy
 msgid "Send Private Message"
 msgstr "Send privat melding"
 
 #: bp-messages/bp-messages-templatetags.php:708
-#, fuzzy
 msgid "%d Recipients"
-msgstr "%d Mottakere"
+msgstr "%d mottakarar"
 
 #: bp-messages/bp-messages-templatetags.php:774
 #: bp-themes/bp-default/_inc/ajax.php:468
@@ -2364,7 +2256,6 @@ msgid "Sent %s ago"
 msgstr ""
 
 #: bp-messages/bp-messages-notifications.php:23
-#, fuzzy
 msgid "New message from %s"
 msgstr "Ny melding frå %s"
 
@@ -2392,18 +2283,15 @@ msgstr ""
 "---------------------\n"
 
 #: bp-groups.php:91
-#, fuzzy
 msgid "Details"
-msgstr "Detaljer"
+msgstr "Detaljar"
 
 #: bp-groups.php:93 bp-activity/bp-activity-templatetags.php:430
 #: bp-activity/bp-activity-templatetags.php:476
-#, fuzzy
 msgid "Avatar"
 msgstr "Avatar"
 
 #: bp-groups.php:97 bp-groups.php:154
-#, fuzzy
 msgid "Invites"
 msgstr "Invitasjonar"
 
@@ -2412,7 +2300,6 @@ msgid "Groups <span>(%d)</span>"
 msgstr ""
 
 #: bp-groups.php:153 bp-groups.php:160
-#, fuzzy
 msgid "My Groups"
 msgstr "Gruppene mine"
 
@@ -2421,7 +2308,6 @@ msgid "Admin"
 msgstr "Administrer"
 
 #: bp-groups.php:212
-#, fuzzy
 msgid "Forum"
 msgstr "Forum"
 
@@ -2434,163 +2320,127 @@ msgid "Send Invites"
 msgstr "Send innbydingar"
 
 #: bp-groups.php:298
-#, fuzzy
 msgid "Group invite could not be accepted"
-msgstr "Gruppeinvitasjon kunne ikkje aksepterast"
+msgstr "Gruppeinvitasjon kunne ikkje godkjennast"
 
 #: bp-groups.php:300
-#, fuzzy
 msgid "Group invite accepted"
-msgstr "Gruppeinvitasjon akseptert"
+msgstr "Gruppeinvitasjon godkjend"
 
 #: bp-groups.php:306 bp-groups.php:1774 bp-groups.php:2479
 msgid "%s joined the group %s"
 msgstr ""
 
 #: bp-groups.php:320
-#, fuzzy
 msgid "Group invite could not be rejected"
 msgstr "Gruppeinvitasjon kunne ikkje avslåast"
 
 #: bp-groups.php:322
-#, fuzzy
 msgid "Group invite rejected"
 msgstr "Gruppeinvitasjon avslått"
 
 #: bp-groups.php:376
-#, fuzzy
 msgid "There was an error when replying to that topic"
 msgstr "Det oppstod ein feil ved svar på dette emnet"
 
 #: bp-groups.php:378
-#, fuzzy
 msgid "Your reply was posted successfully"
 msgstr "Svaret ditt vart lagt inn"
 
 #: bp-groups.php:392
-#, fuzzy
 msgid "There was an error when making that topic a sticky"
-msgstr "Det oppstod ein feil ved forsøk på å gjera emne klistra"
+msgstr "Det oppstod ein feil ved forsøk på å gjera emnet fast"
 
 #: bp-groups.php:394
-#, fuzzy
 msgid "The topic was made sticky successfully"
-msgstr "Emna vart gjord klistra"
+msgstr "Emna er festa til framsida"
 
 #: bp-groups.php:406
-#, fuzzy
 msgid "There was an error when unsticking that topic"
-msgstr "Det oppstod ein feil ved forsøk på å fjerna emne som klistra"
+msgstr "Det oppstod ein feil ved forsøk på å gjera emnet ikkje-fast"
 
 #: bp-groups.php:408
-#, fuzzy
 msgid "The topic was unstuck successfully"
-msgstr "Emna vart gjord ikkje-klistra"
+msgstr "Emnet er ikkje lenger fast"
 
 #: bp-groups.php:420
-#, fuzzy
 msgid "There was an error when closing that topic"
-msgstr "Det oppstod ein feil ved lukking av emne"
+msgstr "Det oppstod ein feil ved lukking av emnet"
 
 #: bp-groups.php:422
-#, fuzzy
 msgid "The topic was closed successfully"
-msgstr "Emne vart lukka"
+msgstr "Emnet vart lukka"
 
 #: bp-groups.php:434
-#, fuzzy
 msgid "There was an error when opening that topic"
-msgstr "Det oppstod ein feil ved opning av emne"
+msgstr "Det oppstod ein feil ved opning av emnet"
 
 #: bp-groups.php:436
-#, fuzzy
 msgid "The topic was opened successfully"
-msgstr "Emne vart opna"
+msgstr "Emnet vart opna"
 
 #: bp-groups.php:455
-#, fuzzy
 msgid "There was an error deleting the topic"
-msgstr "Det oppstod ein feil ved sletting av emne"
+msgstr "Det oppstod ein feil ved sletting av emnet"
 
 #: bp-groups.php:457
-#, fuzzy
 msgid "The topic was deleted successfully"
-msgstr "Emna er sletta"
+msgstr "Emnet er sletta"
 
 #: bp-groups.php:477
-#, fuzzy
 msgid "There was an error when editing that topic"
-msgstr "Det oppstod ein feil ved redigering av emne"
+msgstr "Det oppstod ein feil ved redigering av emnet"
 
 #: bp-groups.php:479
-#, fuzzy
 msgid "The topic was edited successfully"
-msgstr "Emne vart redigert"
+msgstr "Emnet vart redigert"
 
 #: bp-groups.php:501
-#, fuzzy
 msgid "There was an error deleting that post"
 msgstr "Det oppstod ein feil ved sletting av innlegget"
 
 #: bp-groups.php:503
-#, fuzzy
 msgid "The post was deleted successfully"
 msgstr "Innlegget vart sletta"
 
 #: bp-groups.php:523
-#, fuzzy
 msgid "There was an error when editing that post"
-msgstr "Det oppstod ein feil ved redigering av innlegg"
+msgstr "Det oppstod ein feil ved redigering av innlegget"
 
 #: bp-groups.php:525
-#, fuzzy
 msgid "The post was edited successfully"
 msgstr "Innlegget vart redigert"
 
 #: bp-groups.php:592
-#, fuzzy
 msgid "Group invites sent."
 msgstr "Gruppeinvitasjon sendt."
 
 #: bp-groups.php:618
-#, fuzzy
 msgid ""
 "There was an error sending your group membership request, please try again."
-msgstr ""
-"Det oppstod ein feil ved sending av gruppemedlemskap-førespurnad, ver venleg og "
-"prøv igjen."
+msgstr "Det oppstod ein feil ved sending av førespurnad om gruppemedlemskap, ver venleg og prøv igjen."
 
 #: bp-groups.php:620
-#, fuzzy
 msgid ""
 "Your membership request was sent to the group administrator successfully. "
 "You will be notified when the group administrator responds to your request."
-msgstr ""
-"Medlemskapen din-førespurnad vart send til gruppeadministrator. Du vil få "
-"melding når gruppe-administrator svarar på førespurnaden."
+msgstr "Førespurnaden din om medlemskap vart send til gruppeadministratoren. Du vil få melding når gruppeadministratoren svarar på førespurnaden."
 
 #: bp-groups.php:669
-#, fuzzy
 msgid "There was an error updating group details, please try again."
-msgstr ""
-"Det oppstod ein fel ved oppdatering av gruppedetaljar, ver venleg og prøv igjen."
+msgstr "Det oppstod ein feil ved oppdatering av gruppedetaljane, ver venleg og prøv igjen."
 
 #: bp-groups.php:671
-#, fuzzy
 msgid "Group details were successfully updated."
 msgstr "Gruppedetaljane vart oppdaterte."
 
 #: bp-groups.php:707
-#, fuzzy
 msgid "There was an error updating group settings, please try again."
-msgstr ""
-"Det oppstod ein feil ved oppdatering av gruppe-instillinger, ver venleg og prøv "
-"igjen."
+msgstr "Det oppstod ein feil ved oppdatering av gruppeinnstillingane, ver venleg og prøv igjen."
 
 #: bp-groups.php:709
-#, fuzzy
 msgid "Group settings were successfully updated."
-msgstr "Gruppe-instillingene vart oppdatert."
+msgstr "Gruppeinnstillingene vart oppdaterte."
 
 #: bp-groups.php:769
 #, fuzzy
@@ -2626,62 +2476,45 @@ msgid "User demoted successfully"
 msgstr "Brukaren vart nedgradert"
 
 #: bp-groups.php:836
-#, fuzzy
 msgid "There was an error when banning that user, please try again"
 msgstr ""
 "Det oppstod ein feil ved utestenging av brukaren, ver venleg og prøv igjen."
 
 #: bp-groups.php:838
-#, fuzzy
 msgid "User banned successfully"
-msgstr "Nytter vart utestengt"
+msgstr "Brukaren vart utestengd"
 
 #: bp-groups.php:854
-#, fuzzy
 msgid "There was an error when unbanning that user, please try again"
-msgstr ""
-"Det oppstod ein fel ved avbrytelse av utesteningen av brukaren, ver venleg og "
-"prøv igjen."
+msgstr "Det oppstod ein feil ved oppheving av utestenging av brukaren, ver venleg og prøv igjen."
 
 #: bp-groups.php:856
-#, fuzzy
 msgid "User ban removed successfully"
-msgstr "Utestengelse av nytter vart oppheva."
+msgstr "Utestenging av brukar vart oppheva."
 
 #: bp-groups.php:872
-#, fuzzy
 msgid "There was an error removing that user from the group, please try again"
-msgstr ""
-"Det oppstod ein feil ved fjerning av nytter frå gruppa, ver venleg og prøv igjen"
+msgstr "Det oppstod ein feil ved fjerning av brukaren frå gruppa, ver venleg og prøv igjen"
 
 #: bp-groups.php:874
-#, fuzzy
 msgid "User removed successfully"
-msgstr "Utestengelse av nytter vart oppheva."
+msgstr "Utestenging av brukaren vart oppheva."
 
 #: bp-groups.php:915
-#, fuzzy
 msgid "There was an error accepting the membership request, please try again."
-msgstr ""
-"Det oppstod ein feil ved akseptering av medlemskap-førespurnad, ver venleg og "
-"prøv igjen."
+msgstr "Det oppstod ein feil ved akseptering av medlemskap, ver venleg og prøv igjen."
 
 #: bp-groups.php:917
-#, fuzzy
 msgid "Group membership request accepted"
-msgstr "Gruppemedlemskap-førespurnad akseptert"
+msgstr "Førespurnad om gruppemedlemskap akseptert"
 
 #: bp-groups.php:927
-#, fuzzy
 msgid "There was an error rejecting the membership request, please try again."
-msgstr ""
-"Det oppstod ein fel ved avslåing av gruppemedlemskap-førespurnad, ver venleg og "
-"prøv igjen."
+msgstr "Det oppstod ein fel ved avslag av gruppemedlemskap, ver venleg og prøv igjen."
 
 #: bp-groups.php:929
-#, fuzzy
 msgid "Group membership request rejected"
-msgstr "Gruppemedlemskap-førespurnad avslått"
+msgstr "Gruppemedlemskap avslått"
 
 #: bp-groups.php:961
 #, fuzzy
@@ -2761,29 +2594,24 @@ msgid "There was an error leaving the group."
 msgstr "Det oppstod ein feil ved avmelding av gruppe."
 
 #: bp-groups.php:1255 bp-groups.php:1732
-#, fuzzy
 msgid "You successfully left the group."
 msgstr "Du forlét gruppa."
 
 #: bp-groups.php:1333
-#, fuzzy
 msgid "Created a group"
 msgstr "Oppretta ei gruppe"
 
 #: bp-groups.php:1334
-#, fuzzy
 msgid "Joined a group"
 msgstr "Vart med i ei gruppe"
 
 #: bp-groups.php:1335
-#, fuzzy
 msgid "New group forum topic"
-msgstr "Nytt gruppe-forum emne"
+msgstr "Nytt gruppeforumemne"
 
 #: bp-groups.php:1336
-#, fuzzy
 msgid "New group forum post"
-msgstr "Nytt gruppe-forum innlegg"
+msgstr "Nytt gruppeforuminnlegg"
 
 #: bp-groups.php:1396
 #, fuzzy
@@ -2837,7 +2665,6 @@ msgid "You were promoted to a mod in the group %s"
 msgstr ""
 
 #: bp-groups.php:1462 bp-groups.php:1464
-#, fuzzy
 msgid "Group Invites"
 msgstr "Gruppeinvitasjonar"
 
@@ -2847,14 +2674,12 @@ msgid "You have %d new group invitations"
 msgstr "Du har %d nye gruppeinvitasjonar"
 
 #: bp-groups.php:1464
-#, fuzzy
 msgid "You have an invitation to the group: %s"
 msgstr "Du har ein invitasjon til gruppa: %s"
 
 #: bp-groups.php:1709
-#, fuzzy
 msgid "As the only Admin, you cannot leave the group."
-msgstr "Som den einaste administrator kan du ikkje forlata gruppa."
+msgstr "Som den einaste administratoren kan du ikkje forlata gruppa."
 
 #: bp-groups.php:1962
 msgid "%s posted an update in the group %s:"
@@ -2873,22 +2698,18 @@ msgid "Messages <strong>(%s)</strong>"
 msgstr ""
 
 #: bp-messages.php:107
-#, fuzzy
 msgid "Messages <strong></strong>"
-msgstr "Meldingar<strong></strong> "
+msgstr "Meldingar <strong></strong> "
 
 #: bp-messages.php:115
-#, fuzzy
 msgid "Inbox"
 msgstr "Innboks"
 
 #: bp-messages.php:116
-#, fuzzy
 msgid "Sent Messages"
 msgstr "Sende meldingar"
 
 #: bp-messages.php:117
-#, fuzzy
 msgid "Compose"
 msgstr "Skriv"
 
@@ -3039,7 +2860,6 @@ msgstr "Varig lenkje til"
 
 #: bp-themes/bp-default/index.php:26 bp-themes/bp-default/search.php:35
 #: bp-themes/bp-default/archive.php:35 bp-themes/bp-default/single.php:29
-#, fuzzy
 msgid "in"
 msgstr "i"
 
@@ -3051,54 +2871,45 @@ msgstr "Les resten av dette innlegget &rarr;"
 
 #: bp-themes/bp-default/index.php:32 bp-themes/bp-default/search.php:41
 #: bp-themes/bp-default/archive.php:41 bp-themes/bp-default/single.php:37
-#, fuzzy
 msgid "Tags: "
 msgstr "Merkelappar:"
 
 #: bp-themes/bp-default/index.php:32 bp-themes/bp-default/search.php:41
 #: bp-themes/bp-default/archive.php:41 bp-themes/bp-default/single.php:37
-#, fuzzy
 msgid "No Comments &#187;"
-msgstr "Ingen kommentarar »"
+msgstr "Ingen kommentarar &#187;"
 
 #: bp-themes/bp-default/index.php:32 bp-themes/bp-default/search.php:41
 #: bp-themes/bp-default/archive.php:41 bp-themes/bp-default/single.php:37
-#, fuzzy
 msgid "1 Comment &#187;"
-msgstr "1 kommentar »"
+msgstr "Éin kommentar &#187;"
 
 #: bp-themes/bp-default/index.php:32 bp-themes/bp-default/search.php:41
 #: bp-themes/bp-default/archive.php:41 bp-themes/bp-default/single.php:37
-#, fuzzy
 msgid "% Comments &#187;"
-msgstr "% kommentarar »"
+msgstr "% kommentarar &#187;"
 
 #: bp-themes/bp-default/index.php:43 bp-themes/bp-default/search.php:17
 #: bp-themes/bp-default/search.php:51 bp-themes/bp-default/archive.php:16
 #: bp-themes/bp-default/archive.php:52 bp-themes/bp-default/single.php:14
-#, fuzzy
 msgid "&larr; Previous Entries"
 msgstr "&larr; Tidlegare innlegg"
 
 #: bp-themes/bp-default/index.php:44 bp-themes/bp-default/search.php:18
 #: bp-themes/bp-default/search.php:52 bp-themes/bp-default/archive.php:17
 #: bp-themes/bp-default/archive.php:53 bp-themes/bp-default/single.php:15
-#, fuzzy
 msgid "Next Entries &rarr;"
 msgstr "Neste innlegg &rarr;"
 
 #: bp-themes/bp-default/index.php:50 bp-themes/bp-default/archive.php:59
-#, fuzzy
 msgid "Not Found"
-msgstr "Ikkje funnet"
+msgstr "Ikkje funne"
 
 #: bp-themes/bp-default/index.php:51
-#, fuzzy
 msgid "Sorry, but you are looking for something that isn't here."
 msgstr "Orsak, du leitte etter noko som ikkje er her."
 
 #: bp-themes/bp-default/registration/activate.php:16
-#, fuzzy
 msgid "Account Activated"
 msgstr "Konto aktivert"
 
@@ -3121,12 +2932,10 @@ msgstr ""
 "la inn då du registrerte deg."
 
 #: bp-themes/bp-default/registration/activate.php:32
-#, fuzzy
 msgid "Please provide a valid activation key."
-msgstr "Ver venleg og legg inn ein gyldig aktiveringsnøkkel."
+msgstr "Ver venleg og oppgi ein gyldig aktiveringsnøkkel."
 
 #: bp-themes/bp-default/registration/activate.php:36
-#, fuzzy
 msgid "Activation Key:"
 msgstr "Aktiveringsnøkkel:"
 
@@ -3140,7 +2949,6 @@ msgstr ""
 "du veit ordet av det."
 
 #: bp-themes/bp-default/registration/register.php:26
-#, fuzzy
 msgid "Account Details"
 msgstr "Kontodetaljar"
 
@@ -3171,39 +2979,32 @@ msgstr "Brukarnamn"
 #: bp-themes/bp-default/members/single/profile/edit.php:84
 #: bp-themes/bp-default/groups/create.php:26
 #: bp-themes/bp-default/groups/create.php:29
-#, fuzzy
 msgid "(required)"
 msgstr "(obligatorisk)"
 
 #: bp-themes/bp-default/registration/register.php:32
-#, fuzzy
 msgid "Email Address"
-msgstr "Email adresse"
+msgstr "Epostadresse"
 
 #: bp-themes/bp-default/registration/register.php:36
-#, fuzzy
 msgid "Choose a Password"
 msgstr "Vel eit passord"
 
 #: bp-themes/bp-default/registration/register.php:40
-#, fuzzy
 msgid "Confirm Password"
 msgstr "Stadfest passord"
 
 #: bp-themes/bp-default/registration/register.php:56
-#, fuzzy
 msgid "Profile Details"
 msgstr "Profildetaljar"
 
 #: bp-themes/bp-default/registration/register.php:110
 #: bp-themes/bp-default/members/single/profile/edit.php:52
 #: bp-themes/bp-default/members/single/profile/edit.php:65
-#, fuzzy
 msgid "Clear"
 msgstr "Fjern"
 
 #: bp-themes/bp-default/registration/register.php:174
-#, fuzzy
 msgid "Blog Details"
 msgstr "Bloggdetaljer"
 
@@ -3212,12 +3013,10 @@ msgid "Yes, I'd like to create a new blog"
 msgstr ""
 
 #: bp-themes/bp-default/registration/register.php:180
-#, fuzzy
 msgid "Blog URL"
-msgstr "Blogg URL"
+msgstr "Blogg-URL"
 
 #: bp-themes/bp-default/registration/register.php:189
-#, fuzzy
 msgid "Blog Title"
 msgstr "Bloggtittel"
 
@@ -3228,12 +3027,10 @@ msgid ""
 msgstr ""
 
 #: bp-themes/bp-default/registration/register.php:210
-#, fuzzy
 msgid "Complete Sign Up"
-msgstr "Ferdigstill registrering"
+msgstr "Fullfør registrering"
 
 #: bp-themes/bp-default/registration/register.php:221
-#, fuzzy
 msgid "Sign Up Complete!"
 msgstr "Registrering ferdig!"
 
@@ -3270,45 +3067,38 @@ msgstr ""
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:17
 #: bp-themes/bp-default/groups/single/admin.php:114
 #: bp-themes/bp-default/groups/create.php:118
-#, fuzzy
 msgid "Upload Image"
 msgstr "Last opp bilete"
 
 #: bp-themes/bp-default/registration/register.php:256
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:32
-#, fuzzy
 msgid "Crop Your New Avatar"
-msgstr "Klipp din nye avatar"
+msgstr "Beskjer den nye avataren din"
 
 #: bp-themes/bp-default/registration/register.php:258
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:34
 #: bp-themes/bp-default/groups/single/admin.php:134
 #: bp-themes/bp-default/groups/create.php:131
-#, fuzzy
 msgid "Avatar to crop"
-msgstr "Avatar å klippa"
+msgstr "Avatar å beskjera"
 
 #: bp-themes/bp-default/registration/register.php:261
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:37
 #: bp-themes/bp-default/groups/single/admin.php:137
 #: bp-themes/bp-default/groups/create.php:134
-#, fuzzy
 msgid "Avatar preview"
-msgstr "Avatar forhåndsvisning"
+msgstr "Forhåndsvisning av avatar"
 
 #: bp-themes/bp-default/registration/register.php:264
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:40
 #: bp-themes/bp-default/groups/single/admin.php:140
 #: bp-themes/bp-default/groups/create.php:137
-#, fuzzy
 msgid "Crop Image"
-msgstr "Klipp bilete"
+msgstr "Beskjer bilete"
 
 #: bp-themes/bp-default/_inc/ajax.php:137
-#, fuzzy
 msgid "There was a problem posting your update, please try again."
-msgstr ""
-"Det oppstod ein feil ved posting av oppdateringa di, ver venleg og prøv igjen."
+msgstr "Det oppstod ein feil ved oppdateringa, ver venleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:190
 #: bp-activity/bp-activity-templatetags.php:660
@@ -3323,7 +3113,6 @@ msgstr "Svar"
 
 #: bp-themes/bp-default/_inc/ajax.php:229
 #: bp-themes/bp-default/_inc/ajax.php:262
-#, fuzzy
 msgid "There was a problem when deleting. Please try again."
 msgstr "Det oppstod ein feil ved sletting, ver venleg og prøv igjen."
 
@@ -3340,44 +3129,34 @@ msgstr "Favoritt"
 #: bp-themes/bp-default/_inc/ajax.php:315
 #: bp-themes/bp-default/groups/single/send-invites.php:42
 #: bp-themes/bp-default/groups/create.php:191
-#, fuzzy
 msgid "Remove Invite"
 msgstr "Fjern invitasjon"
 
 #: bp-themes/bp-default/_inc/ajax.php:356
-#, fuzzy
 msgid "Request Pending"
 msgstr "Førespurnad ventar"
 
 #: bp-themes/bp-default/_inc/ajax.php:368
-#, fuzzy
 msgid "There was a problem accepting that request. Please try again."
-msgstr ""
-"Det oppstod ein feil ved akseptering av førespurnad, ver venleg og prøv igjen."
+msgstr "Det oppstod ein feil ved akseptering av førespurnad, ver venleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:379
-#, fuzzy
 msgid "There was a problem rejecting that request. Please try again."
-msgstr ""
-"Det oppstod ein feil ved avslåing av førespurnad, ver venleg og prøv igjen."
+msgstr "Det oppstod ein feil ved avslag av førespurnad, ver venleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:405
-#, fuzzy
 msgid "Error joining group"
 msgstr "Feil ved innmelding i gruppe"
 
 #: bp-themes/bp-default/_inc/ajax.php:415
-#, fuzzy
 msgid "Error requesting membership"
-msgstr "Feil ved medlemskap-førespurnad"
+msgstr "Feil ved førespurnad om medlemskap"
 
 #: bp-themes/bp-default/_inc/ajax.php:417
-#, fuzzy
 msgid "Membership Requested"
 msgstr "Medlemskap førespurt"
 
 #: bp-themes/bp-default/_inc/ajax.php:426
-#, fuzzy
 msgid "Error leaving group"
 msgstr "Feil ved utmelding frå gruppe"
 
@@ -3386,22 +3165,18 @@ msgid "There was a problem closing the notice."
 msgstr "Det oppstod ein feil ved lukking av varselet."
 
 #: bp-themes/bp-default/_inc/ajax.php:485
-#, fuzzy
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Det oppstod ein feil ved sending av svar, ver venleg og prøv igjen."
 
 #: bp-themes/bp-default/_inc/ajax.php:495
-#, fuzzy
 msgid "There was a problem marking messages as unread."
-msgstr "Det oppstod ein fel ved markering av melding som ulese."
+msgstr "Det oppstod ein feil ved markering av melding som ulesen."
 
 #: bp-themes/bp-default/_inc/ajax.php:511
-#, fuzzy
 msgid "There was a problem marking messages as read."
-msgstr "Det oppstod ein feil ved markering av melding som lese."
+msgstr "Det oppstod ein feil ved markering av melding som lesen."
 
 #: bp-themes/bp-default/_inc/ajax.php:527
-#, fuzzy
 msgid "There was a problem deleting messages."
 msgstr "Det oppstod ein feil ved sletting av melding."
 
@@ -4564,7 +4339,6 @@ msgid "You are browsing the archive for %1$s."
 msgstr "Du blar gjennom arkivet for %1$s."
 
 #: bp-themes/bp-default/links.php:16
-#, fuzzy
 msgid "Links"
 msgstr "Lenkjar"
 
@@ -4593,7 +4367,6 @@ msgid ""
 msgstr ""
 
 #: bp-activity/bp-activity-notifications.php:76
-#, fuzzy
 msgid "%s replied to one of your updates"
 msgstr "%s svara på ein av oppdateringane dine"
 
@@ -4609,7 +4382,6 @@ msgid ""
 msgstr ""
 
 #: bp-activity/bp-activity-notifications.php:116
-#, fuzzy
 msgid "%s replied to one of your comments"
 msgstr "%s svara på ein av kommentarane dine"
 
@@ -4626,7 +4398,6 @@ msgid ""
 msgstr ""
 
 #: bp-activity/bp-activity-templatetags.php:278
-#, fuzzy
 msgid "Viewing item %1$s to %2$s (of %3$s items)"
 msgstr "Viser objekt %1$s til %2$s (av %3$s objekt)"
 
@@ -4636,25 +4407,21 @@ msgstr "&nbsp; for %s sidan"
 
 #: bp-activity/bp-activity-templatetags.php:877
 msgid "profile"
-msgstr ""
+msgstr "profil"
 
 #: bp-activity/bp-activity-templatetags.php:877
-#, fuzzy
 msgid "friends"
 msgstr "vener"
 
 #: bp-activity/bp-activity-templatetags.php:877
-#, fuzzy
 msgid "status"
 msgstr "status"
 
 #: bp-activity/bp-activity-templatetags.php:877
-#, fuzzy
 msgid "blogs"
 msgstr "bloggar"
 
 #: bp-activity/bp-activity-templatetags.php:885
-#, fuzzy
 msgid "Clear Filter"
 msgstr "Fjern filter"
 
@@ -4665,19 +4432,16 @@ msgid ""
 msgstr "Nemn denne brukaren i ei offentleg melding. Då vil brukaren motta eit varsel, for å få merksemda deira."
 
 #: bp-activity/bp-activity-templatetags.php:957
-#, fuzzy
 msgid "Mention this User"
 msgstr "Nemn denne brukaren"
 
 #: bp-activity/feeds/bp-activity-friends-feed.php:21
-#, fuzzy
 msgid "Friends Activity"
 msgstr "Aktiviteten til vener"
 
 #: bp-activity/feeds/bp-activity-friends-feed.php:24
-#, fuzzy
 msgid "%s - Friends Activity Feed"
-msgstr "%s - Aktiviteten til vener-straum"
+msgstr "%s – veneaktivitetsstraum"
 
 #: bp-activity/feeds/bp-activity-friends-feed.php:44
 #: bp-activity/feeds/bp-activity-mentions-feed.php:43
@@ -4686,49 +4450,40 @@ msgstr "%s - Aktiviteten til vener-straum"
 #: bp-activity/feeds/bp-activity-group-feed.php:43
 #: bp-activity/feeds/bp-activity-sitewide-feed.php:44
 #: bp-activity/feeds/bp-activity-mygroups-feed.php:48
-#, fuzzy
 msgid "Comments: %s"
 msgstr "Kommentarar: %s"
 
 #: bp-activity/feeds/bp-activity-mentions-feed.php:21
 #: bp-activity/feeds/bp-activity-mentions-feed.php:24
-#, fuzzy
 msgid "Mentions"
-msgstr "Nevnelser"
+msgstr "Nemnt"
 
 #: bp-activity/feeds/bp-activity-personal-feed.php:24
-#, fuzzy
 msgid "%s - Activity Feed"
-msgstr "%s - Aktivitetstraum"
+msgstr "%s – aktivitetstraum"
 
 #: bp-activity/feeds/bp-activity-favorites-feed.php:21
 #: bp-activity/feeds/bp-activity-favorites-feed.php:24
-#, fuzzy
 msgid "Favorite Activity"
-msgstr "Favoritt aktivitet"
+msgstr "Favorittaktivitet"
 
 #: bp-activity/feeds/bp-activity-group-feed.php:21
-#, fuzzy
 msgid "Group Activity"
 msgstr "Gruppeaktivitet"
 
 #: bp-activity/feeds/bp-activity-group-feed.php:24
-#, fuzzy
 msgid "%s - Group Activity Feed"
-msgstr "%s - Gruppeaktivitet Straum"
+msgstr "%s – gruppeaktivitetsstraum"
 
 #: bp-activity/feeds/bp-activity-sitewide-feed.php:22
-#, fuzzy
 msgid "Site Wide Activity"
 msgstr "Global aktivitet"
 
 #: bp-activity/feeds/bp-activity-sitewide-feed.php:25
-#, fuzzy
 msgid "Site Wide Activity Feed"
-msgstr "Global Aktivitet straum"
+msgstr "Global aktivitetsstraum"
 
 #: bp-activity/feeds/bp-activity-mygroups-feed.php:21
 #: bp-activity/feeds/bp-activity-mygroups-feed.php:24
-#, fuzzy
 msgid "My Groups - Public Activity"
-msgstr "Gruppene mine - Offentleg aktivitet"
+msgstr "Gruppene mine – offentleg aktivitet"
