@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress \n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-10-04 23:22+0200\n"
+"PO-Revision-Date: 2011-10-04 23:33+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -659,7 +659,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-update.php:74 bp-core/admin/bp-core-update.php:227
 msgid "Permalinks"
-msgstr "Permalenkjer"
+msgstr "Varige lenkjer"
 
 #: bp-core/admin/bp-core-update.php:75 bp-core/admin/bp-core-update.php:231
 msgid "Theme"
@@ -1342,9 +1342,7 @@ msgid ""
 "<strong>BuddyPress is almost ready</strong>. You must <a href=\"%s\">update "
 "your permalink structure</a> to something other than the default for it to "
 "work."
-msgstr ""
-"<strong>BuddyPress er nesten klår</strong>. Du må <a href=\"%s\">oppdatera "
-"permalenkjestrukturen</a> til noko anna enn standarden for at det skal verka."
+msgstr "<strong>BuddyPress er nesten klår</strong>. Du må <a href=\"%s\">oppdatera strukturen på varige lenkjer («permalenkjer»)</a> til noko anna enn standarden for at det skal verka."
 
 #: bp-core/bp-core-functions.php:382
 msgid ""
@@ -3831,9 +3829,8 @@ msgstr "Varig lenkje til"
 
 #: bp-themes/bp-default/index.php:34 bp-themes/bp-default/search.php:32
 #: bp-themes/bp-default/archive.php:30 bp-themes/bp-default/single.php:23
-#, fuzzy
 msgid "%1$s <span>in %2$s</span>"
-msgstr "Vener <span>(%d)</span>"
+msgstr ""
 
 #: bp-themes/bp-default/index.php:37 bp-themes/bp-default/search.php:35
 #: bp-themes/bp-default/archive.php:33 bp-themes/bp-default/single.php:28
@@ -4740,7 +4737,7 @@ msgstr "Skriv til"
 
 #: bp-themes/bp-default/activity/entry.php:37
 msgid "In reply to: "
-msgstr "Svar på"
+msgstr "Som svar på: "
 
 #: bp-themes/bp-default/activity/entry.php:37
 msgid "View Thread / Permalink"
@@ -4748,7 +4745,7 @@ msgstr "Vis tråd / varig lenkje"
 
 #: bp-themes/bp-default/activity/entry.php:60
 msgid "Comment <span>%s</span>"
-msgstr "Vener <span>%s</span>"
+msgstr "Svar <span>%s</span>"
 
 #: bp-themes/bp-default/activity/entry.php:68
 msgid "Mark as Favorite"
@@ -4852,7 +4849,7 @@ msgstr "Ferskheit"
 
 #: bp-themes/bp-default/forums/forums-loop.php:54
 msgid "Permalink"
-msgstr "Permalenkje"
+msgstr "Varig lenkje"
 
 #. translators: "started by [poster] in [forum]"
 #: bp-themes/bp-default/forums/forums-loop.php:61
@@ -5536,7 +5533,7 @@ msgstr "Kommentarar: %s"
 #: bp-activity/feeds/bp-activity-personal-feed.php:53
 #: bp-activity/feeds/bp-activity-favorites-feed.php:60
 msgid "In reply to"
-msgstr "Svar på"
+msgstr "Som svar på"
 
 #: bp-activity/feeds/bp-activity-personal-feed.php:30
 msgid "%s - Activity Feed"
