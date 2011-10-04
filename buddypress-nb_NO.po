@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-10-03 08:09+0200\n"
+"PO-Revision-Date: 2011-10-04 20:55+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -473,11 +473,11 @@ msgstr "Innstillinger lagret"
 
 #: bp-core/admin/bp-core-admin.php:109
 msgid "Disable BuddyPress to WordPress profile syncing?"
-msgstr "Slå av BuddyPress til WordPress profil-synkronisering?"
+msgstr "Slå av BuddyPress til WordPress profilsynkronisering?"
 
 #: bp-core/admin/bp-core-admin.php:119
 msgid "Hide admin bar for logged out users?"
-msgstr "Gjemme admin-bar for utloggede brukere?"
+msgstr "Gjemme adminbar for utloggede brukere?"
 
 #: bp-core/admin/bp-core-admin.php:127
 msgid "Disable avatar uploads? (Gravatars will still work)"
@@ -497,7 +497,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:174 bp-core/admin/bp-core-admin.php:268
 msgid "Save Settings"
-msgstr "Lagre instillinger"
+msgstr "Lagre innstillinger"
 
 #: bp-core/admin/bp-core-admin.php:310
 msgid "Save All"
@@ -924,7 +924,7 @@ msgid ""
 msgstr ""
 "Vennligst velg hvilket permalenke-oppsett du ønsker å bruke. Om du\n"
 "ønsker å se mer avanserte valg, kan du gå til <a\n"
-"href=\"%s\">permalenkeinstillinger</a> og returnere her for å gjennomføre\n"
+"href=\"%s\">permalenkeinnstillinger</a> og returnere her for å gjennomføre\n"
 "oppsettet."
 
 #: bp-core/admin/bp-core-update.php:555
@@ -1015,7 +1015,7 @@ msgid ""
 "Choose this option (go to Appearance &rarr; BP Compatibility after setup is "
 "complete)"
 msgstr ""
-"Velg denne instillingen (gå til Utseende &rarr; BP Kompabilitet etter at "
+"Velg denne innstillingen (gå til Utseende &rarr; BP Kompabilitet etter at "
 "oppsett er ferdig)"
 
 #: bp-core/admin/bp-core-update.php:684
@@ -1381,9 +1381,7 @@ msgid ""
 "<strong>BuddyPress is almost ready</strong>. You must <a href=\"%s\">update "
 "your permalink structure</a> to something other than the default for it to "
 "work."
-msgstr ""
-"<strong>BuddyPress er nesten klar</strong>. Du må <a href=\"%s\">oppdatere "
-"permalenke-strukturen</a> til noe annet enn default for at det skal virke."
+msgstr "<strong>BuddyPress er nesten klar</strong>. Du må <a href=\"%s\">oppdatere permalenkestrukturen</a> til noe annet enn standarden for at det skal virke."
 
 #: bp-core/bp-core-functions.php:382
 msgid ""
@@ -1603,7 +1601,7 @@ msgstr ""
 #: bp-friends/bp-friends-notifications.php:66
 #: bp-friends/bp-friends-activity.php:79
 msgid "%s accepted your friendship request"
-msgstr "%s aksepterte din venne-forespørsel"
+msgstr "%s aksepterte din venneforespørsel"
 
 #: bp-friends/bp-friends-notifications.php:68
 msgid ""
@@ -1613,7 +1611,7 @@ msgid ""
 "\n"
 "---------------------\n"
 msgstr ""
-"%1$s aksepterte din vennskap-forespørsel.\n"
+"%1$s aksepterte din venneforespørsel.\n"
 "\n"
 "For å se på %2$ss profil: %3$s\n"
 "---------------------\n"
@@ -1646,11 +1644,11 @@ msgstr "Du har ikke lagt til noen venner ennå."
 
 #: bp-friends/bp-friends-template.php:121
 msgid "%s hasn't created any friend connections yet."
-msgstr "%s har ikke opprettet noen venne-forbindelser ennå."
+msgstr "%s har ikke opprettet noen venneforbindelser ennå."
 
 #: bp-friends/bp-friends-template.php:190
 msgid "There aren't enough site members to show a random sample just yet."
-msgstr "Det er ikke nok site-medlemmer for å vise et tilfeldig eksempel."
+msgstr "Det er ikke nok medlemmer for å vise et tilfeldig utvalg ennå."
 
 #: bp-friends/bp-friends-template.php:201
 msgid "Filter Friends"
@@ -1695,7 +1693,7 @@ msgstr "Du er allerede venner med denne brukeren"
 
 #: bp-friends/bp-friends-actions.php:37
 msgid "You already have a pending friendship request with this user"
-msgstr "Du har allerede en ventende vennskap-forespørsel til denne brukeren"
+msgstr "Du har allerede en ventende venneforespørsel til denne brukeren"
 
 #: bp-friends/bp-friends-actions.php:64 bp-themes/bp-default/_inc/ajax.php:419
 msgid "Friendship could not be canceled."
@@ -1711,7 +1709,7 @@ msgstr "Du er ikke venner med denne brukeren ennå"
 
 #: bp-friends/bp-friends-actions.php:72
 msgid "You have a pending friendship request with this user"
-msgstr "Du har en ventende vennskap-forespørsel med denne brukeren"
+msgstr "Du har en ventende venneforespørsel med denne brukeren"
 
 #: bp-friends/bp-friends-functions.php:94
 #: bp-friends/bp-friends-functions.php:103
@@ -1736,11 +1734,11 @@ msgstr "Vennskap kunne ikke bli avslått"
 
 #: bp-friends/bp-friends-screens.php:77
 msgid "A member sends you a friendship request"
-msgstr "Et medlem har sendt deg en vennskap-forespørsel"
+msgstr "Et medlem har sendt deg en venneforespørsel"
 
 #: bp-friends/bp-friends-screens.php:83
 msgid "A member accepts your friendship request"
-msgstr "Et medlem aksepterte din vennskap-forespørsel"
+msgstr "Et medlem aksepterte din venneforespørsel"
 
 #: bp-friends/bp-friends-activity.php:50
 msgid "New friendship created"
@@ -1748,15 +1746,15 @@ msgstr "Nytt vennskap opprettet"
 
 #: bp-friends/bp-friends-activity.php:76
 msgid "%d friends accepted your friendship requests"
-msgstr "%d venner aksepterte dine vennskap-forespørsler."
+msgstr "%d venner aksepterte dine venneforespørsler."
 
 #: bp-friends/bp-friends-activity.php:90
 msgid "You have %d pending friendship requests"
-msgstr "Du har %d ventende vennskap-forespørsler"
+msgstr "Du har %d ventende venneforespørsler"
 
 #: bp-friends/bp-friends-activity.php:93
 msgid "You have a friendship request from %s"
-msgstr "Du har en vennskap-forespørsel fra %s"
+msgstr "Du har en venneforespørsel fra %s"
 
 #: bp-settings/bp-settings-loader.php:92
 #: bp-settings/bp-settings-loader.php:157
@@ -1851,11 +1849,11 @@ msgstr "Ble med i en gruppe"
 
 #: bp-groups/bp-groups-activity.php:23
 msgid "New group forum topic"
-msgstr "Nytt gruppe-forum emne"
+msgstr "Nytt gruppeforum emne"
 
 #: bp-groups/bp-groups-activity.php:24
 msgid "New group forum post"
-msgstr "Nytt gruppe-forum innlegg"
+msgstr "Nytt gruppeforum innlegg"
 
 #: bp-groups/bp-groups-activity.php:93
 msgid "%1$d new membership requests for the group \"%2$s\""
@@ -1863,7 +1861,7 @@ msgstr "%1$d nye medlemsforespørsler i gruppen \"%2$s\""
 
 #: bp-groups/bp-groups-activity.php:98
 msgid "Group Membership Requests"
-msgstr "Gruppemedlemskap-forespørsler"
+msgstr "Forespørsler om gruppemedlemskap"
 
 #: bp-groups/bp-groups-activity.php:107 bp-groups/bp-groups-activity.php:112
 msgid "%s requests group membership"
@@ -1871,7 +1869,7 @@ msgstr "%s forespør gruppemedlemskap"
 
 #: bp-groups/bp-groups-activity.php:130
 msgid "%d accepted group membership requests"
-msgstr "%d aksepterte gruppemedlemskap-forespørsler"
+msgstr "%d aksepterte forespørsler om gruppemedlemskap"
 
 #: bp-groups/bp-groups-activity.php:143
 msgid "Membership for group \"%s\" accepted"
@@ -1879,7 +1877,7 @@ msgstr "Medlemskap i gruppen \"%s\" akseptert."
 
 #: bp-groups/bp-groups-activity.php:166
 msgid "%d rejected group membership requests"
-msgstr "%d avslo gruppemedlemskap-forespørsler"
+msgstr "%d avslo forespørsler om gruppemedlemskap"
 
 #: bp-groups/bp-groups-activity.php:179
 msgid "Membership for group \"%s\" rejected"
@@ -1989,15 +1987,15 @@ msgstr ""
 #: bp-groups/bp-groups-loader.php:456 bp-groups/bp-groups-buddybar.php:25
 #: bp-groups/bp-groups-template.php:2337
 msgid "Group Avatar"
-msgstr "Gruppe-Avatar"
+msgstr "Gruppeavatar"
 
 #: bp-groups/bp-groups-classes.php:752
 msgid "Group Mod"
-msgstr "Gruppe-mod"
+msgstr "Gruppemoderator"
 
 #: bp-groups/bp-groups-classes.php:758 bp-groups/bp-groups-functions.php:98
 msgid "Group Admin"
-msgstr "Gruppeadmin"
+msgstr "Gruppeadministrator"
 
 #: bp-groups/bp-groups-notifications.php:10
 msgid "Group Details Updated"
@@ -2019,7 +2017,7 @@ msgstr ""
 
 #: bp-groups/bp-groups-notifications.php:68
 msgid "Membership request for group: %s"
-msgstr "Medlemskap-forespørsel for gruppen: %s"
+msgstr "Forespørsel om medlemskap av gruppen: %s"
 
 #: bp-groups/bp-groups-notifications.php:70
 msgid ""
@@ -2050,7 +2048,7 @@ msgstr ""
 
 #: bp-groups/bp-groups-notifications.php:119
 msgid "Membership request for group \"%s\" accepted"
-msgstr "Medlemskap-forespørsel for gruppen \"%s\" akseptert"
+msgstr "Forespørsel om medlemskap av gruppen «%s» akseptert"
 
 #: bp-groups/bp-groups-notifications.php:120
 msgid ""
@@ -2060,14 +2058,14 @@ msgid ""
 "\n"
 "---------------------\n"
 msgstr ""
-"Din medlemskap-forespørsel til gruppen \"%1$s\" har blitt akseptert.\n"
+"Din forespørsel om medlemskap av gruppen «%1$s» har blitt akseptert.\n"
 "\n"
-"For å se gruppen vennligst logg inn og besøk: %2$s\n"
+"For å se gruppen, vennligst logg inn og besøk: %2$s\n"
 "---------------------\n"
 
 #: bp-groups/bp-groups-notifications.php:129
 msgid "Membership request for group \"%s\" rejected"
-msgstr "Medlemskap-forespørsel i gruppen \"%s\" avslått"
+msgstr "Forespørsel om medlemskap av gruppen «%s» avslått"
 
 #: bp-groups/bp-groups-notifications.php:130
 msgid ""
@@ -2077,9 +2075,9 @@ msgid ""
 "\n"
 "---------------------\n"
 msgstr ""
-"Din medlemskap-forespørsel for gruppen \"%1$s\" ble avslått.\n"
+"Din forespørsel om medlemskap av gruppen «%1$s» ble avslått.\n"
 "\n"
-"For å legge inn en annen forespørsel vennligst logg inn og besøk: %2$s\n"
+"For å legge inn en annen forespørsel, vennligst logg inn og besøk: %2$s\n"
 "---------------------\n"
 
 #: bp-groups/bp-groups-notifications.php:155
@@ -2126,7 +2124,7 @@ msgid ""
 msgstr ""
 "En av dinje venner %1$s har invitert deg til gruppen:  \"%2$s\".\n"
 "\n"
-"For å se på dine gruppe-invitasjoner besøk: %3$s\n"
+"For å se på dine gruppeinvitasjoner besøk: %3$s\n"
 "\n"
 "For å se på gruppen besøk: %4$s\n"
 "\n"
@@ -2320,17 +2318,13 @@ msgstr "Gruppeinvitasjon sendt."
 #: bp-groups/bp-groups-screens.php:433
 msgid ""
 "There was an error sending your group membership request, please try again."
-msgstr ""
-"Det oppsto en feil ved sending av gruppemedlemskap-forespørsel, vennligst "
-"prøv igjen."
+msgstr "Det oppsto en feil ved sending av forespørsel om gruppemedlemskap, vennligst prøv igjen."
 
 #: bp-groups/bp-groups-screens.php:435
 msgid ""
 "Your membership request was sent to the group administrator successfully. "
 "You will be notified when the group administrator responds to your request."
-msgstr ""
-"Din medlemskap-forespørsel ble sendt til gruppeadministrator. Du vil få "
-"beskjed når gruppe-administrator svarer på forespørselen."
+msgstr "Din forespørsel om medlemskap ble sendt til gruppeadministrator. Du vil få beskjed når gruppeadministrator svarer på forespørselen."
 
 #: bp-groups/bp-groups-screens.php:482
 msgid "There was an error updating group details, please try again."
@@ -2344,12 +2338,12 @@ msgstr "Gruppedetaljene ble oppdatert."
 #: bp-groups/bp-groups-screens.php:525
 msgid "There was an error updating group settings, please try again."
 msgstr ""
-"Det oppsto en feil ved oppdatering av gruppe-instillinger, vennligst prøv "
+"Det oppsto en feil ved oppdatering av gruppeinnstillinger, vennligst prøv "
 "igjen."
 
 #: bp-groups/bp-groups-screens.php:527
 msgid "Group settings were successfully updated."
-msgstr "Gruppe-instillingene ble oppdatert."
+msgstr "Gruppeinnstillingene ble oppdatert."
 
 #: bp-groups/bp-groups-screens.php:558 bp-xprofile/bp-xprofile-actions.php:36
 msgid "Your avatar was deleted successfully!"
@@ -2366,7 +2360,7 @@ msgstr ""
 
 #: bp-groups/bp-groups-screens.php:590
 msgid "The new group avatar was uploaded successfully!"
-msgstr "Den nye gruppe-avataren ble lastet opp!"
+msgstr "Den nye gruppeavataren ble lastet opp!"
 
 #: bp-groups/bp-groups-screens.php:625
 msgid "There was an error when promoting that user, please try again"
@@ -2413,23 +2407,19 @@ msgstr "Utestengelse av bruker ble opphevet."
 
 #: bp-groups/bp-groups-screens.php:739
 msgid "There was an error accepting the membership request, please try again."
-msgstr ""
-"Det oppsto en feil ved akseptering av medlemskap-forespørsel, vennligst prøv "
-"igjen."
+msgstr "Det oppsto en feil ved akseptering av forespørsel om medlemskap, vennligst prøv igjen."
 
 #: bp-groups/bp-groups-screens.php:741
 msgid "Group membership request accepted"
-msgstr "Gruppemedlemskap-forespørsel akseptert"
+msgstr "Forespørsel om gruppemedlemskap akseptert"
 
 #: bp-groups/bp-groups-screens.php:750
 msgid "There was an error rejecting the membership request, please try again."
-msgstr ""
-"Det oppsto en fel ved avslåing av gruppemedlemskap-forespørsel, vennligst "
-"prøv igjen."
+msgstr "Det oppsto en feil ved avslag av gruppemedlemskap, vennligst prøv igjen."
 
 #: bp-groups/bp-groups-screens.php:752
 msgid "Group membership request rejected"
-msgstr "Gruppemedlemskap-forespørsel avslått"
+msgstr "Gruppemedlemskap avslått"
 
 #: bp-groups/bp-groups-screens.php:782
 msgid "There was an error deleting the group, please try again."
@@ -2449,7 +2439,7 @@ msgstr "Gruppeinformasjon oppdatert"
 
 #: bp-groups/bp-groups-screens.php:847
 msgid "You are promoted to a group administrator or moderator"
-msgstr "Du er forfremmet til gruppe-administrator eller -moderator"
+msgstr "Du er forfremmet til gruppeadministrator eller -moderator"
 
 #: bp-groups/bp-groups-screens.php:853
 msgid "A member requests to join a private group for which you are an admin"
@@ -2621,7 +2611,7 @@ msgid ""
 "This is a private group and you must request group membership in order to "
 "join."
 msgstr ""
-"Dette er en privat gruppe og du må forespørre gruppe-medlemskap for å bli "
+"Dette er en privat gruppe og du må forespørre gruppemedlemskap for å bli "
 "medlem."
 
 #: bp-groups/bp-groups-template.php:1620
@@ -2638,7 +2628,7 @@ msgid ""
 "the group administrator."
 msgstr ""
 "Dette er en privat gruppe. Din medlemskapforespørsel venter på svar fra "
-"gruppe-administrator."
+"gruppeadministrator."
 
 #: bp-groups/bp-groups-template.php:1624
 msgid "This is a hidden group and only invited members can join."
@@ -2650,7 +2640,7 @@ msgstr "Viser medlemmer %1$s til %2$s (av %3$s medlemmer)"
 
 #: bp-groups/bp-groups-template.php:2164
 msgid "Group avatar"
-msgstr "Gruppe-Avatar"
+msgstr "Gruppeavatar"
 
 #: bp-groups/bp-groups-template.php:2277 bp-groups/bp-groups-template.php:2300
 msgid "Recently Joined"
@@ -2670,7 +2660,7 @@ msgstr "Moderator av"
 
 #: bp-groups/bp-groups-template.php:2341
 msgid "No Group Avatar"
-msgstr "Ingen gruppe-Avatar"
+msgstr "Ingen gruppeavatar"
 
 #: bp-groups/bp-groups-template.php:2552
 msgid "requested %s"
@@ -3212,7 +3202,7 @@ msgid ""
 "<p>All done! Configuration settings have been saved to the file <code>bb-"
 "config.php</code> in the root of your WordPress install.</p>"
 msgstr ""
-"<p>Helt ferdig! Konfigurasjonsinstillingene har blitt lagret til filen\n"
+"<p>Helt ferdig! Konfigurasjonsinnstillingene har blitt lagret til filen\n"
 "<code>bb-config.php</code> i roten av din WordPress-installasjon.</p>"
 
 #: bp-forums/bp-forums-admin.php:128
@@ -4054,7 +4044,7 @@ msgstr "Feil ved innmelding i gruppe"
 
 #: bp-themes/bp-default/_inc/ajax.php:490
 msgid "Error requesting membership"
-msgstr "Feil ved medlemskap-forespørsel"
+msgstr "Feil ved forespørsel om medlemskap"
 
 #: bp-themes/bp-default/_inc/ajax.php:492
 msgid "Membership Requested"
@@ -4796,7 +4786,7 @@ msgid ""
 "href='%s'>create a new group</a>? Once you have joined or created the group "
 "you can post your topic in that group's forum."
 msgstr ""
-"Du er ikke medlem av noen grupper så du har ingen gruppe-forumer du kan "
+"Du er ikke medlem av noen grupper så du har ingen gruppeforumer du kan "
 "poste i. For å starte posting, finn først en gruppe som passer temaet du "
 "ønsker å starte. Om denne gruppen ikke eksisterer, hvorfor ikke <a "
 "href='%s'>opprette en ny gruppe</a>? Når du har meldt deg inn i eller "
@@ -4978,7 +4968,7 @@ msgstr "Aktiver diskusjonsforum"
 #: bp-themes/bp-default/groups/single/admin.php:56
 #: bp-themes/bp-default/groups/create.php:78
 msgid "Privacy Options"
-msgstr "Synlighetsinstillinger"
+msgstr "Synlighetsinnstillinger"
 
 #: bp-themes/bp-default/groups/single/admin.php:61
 #: bp-themes/bp-default/groups/create.php:82
@@ -4996,12 +4986,12 @@ msgstr "Alle site-medlemmer kan bli medlem i denne gruppen."
 #: bp-themes/bp-default/groups/create.php:94
 msgid ""
 "This group will be listed in the groups directory and in search results."
-msgstr "Denne gruppen vil bli listet i gruppe-katalogen og i søke-resultater."
+msgstr "Denne gruppen vil bli listet i gruppekatalogen og i søkeresultater."
 
 #: bp-themes/bp-default/groups/single/admin.php:65
 #: bp-themes/bp-default/groups/create.php:86
 msgid "Group content and activity will be visible to any site member."
-msgstr "Gruppeinnhold og aktivitet vil være synlig for alle site-medlemmer."
+msgstr "Gruppeinnhold og aktivitet vil være synlig for alle medlemmer."
 
 #: bp-themes/bp-default/groups/single/admin.php:71
 #: bp-themes/bp-default/groups/create.php:91
@@ -5038,7 +5028,7 @@ msgstr "Kun brukere som er invitert kan bli medlem av gruppen."
 msgid ""
 "This group will not be listed in the groups directory or search results."
 msgstr ""
-"Denne gruppen vil ikke bli listet i gruppe-katalogen eller søke-resultater."
+"Denne gruppen vil ikke bli listet i gruppekatalogen eller søkeresultater."
 
 #: bp-themes/bp-default/groups/single/admin.php:92
 #: bp-themes/bp-default/groups/create.php:111
@@ -5153,13 +5143,11 @@ msgstr ""
 
 #: bp-themes/bp-default/groups/create.php:162
 msgid "To skip the avatar upload process, hit the \"Next Step\" button."
-msgstr ""
-"For å hoppe over prosessen for opplasting av avatar, klikk \"Neste steg\"-"
-"knappen."
+msgstr "For å hoppe over prosessen for opplasting av avatar, klikk «Neste steg»-knappen."
 
 #: bp-themes/bp-default/groups/create.php:169
 msgid "Crop Group Avatar"
-msgstr "Klipp gruppe-avatar"
+msgstr "Klipp gruppeavatar"
 
 #: bp-themes/bp-default/groups/create.php:273
 msgid "Back to Previous Step"
@@ -5465,7 +5453,7 @@ msgstr "Global Aktivitet strøm"
 #: bp-activity/feeds/bp-activity-mygroups-feed.php:27
 #: bp-activity/feeds/bp-activity-mygroups-feed.php:30
 msgid "My Groups - Public Activity"
-msgstr "Mine grupper - Offentlig aktivitet"
+msgstr "Mine grupper – Offentlig aktivitet"
 
 #: bp-activity/bp-activity-screens.php:245
 msgid "You do not have access to this activity."
@@ -5522,7 +5510,7 @@ msgstr ""
 "igjen"
 
 #~ msgid "Friendship requests"
-#~ msgstr "Vennskap-forespørsler"
+#~ msgstr "Vennskapforespørsler"
 
 #~ msgid "Viewing blog %1$s to %2$s (of %3$s blogs)"
 #~ msgstr "Viser blogg %1$s til %2$s (av %s blogger)"
@@ -5553,7 +5541,7 @@ msgstr ""
 #~ msgstr "Tilfeldig blogg"
 
 #~ msgid "Base profile group name"
-#~ msgstr "Basis profil gruppe-navn"
+#~ msgstr "Basis profil gruppenavn"
 
 #~ msgid "Full Name field name"
 #~ msgstr "Fullt navn feltnavn"
@@ -5591,9 +5579,7 @@ msgstr ""
 #~ msgid ""
 #~ "Tracks blogs, blog posts and blogs comments for a user across a WPMU "
 #~ "installation."
-#~ msgstr ""
-#~ "Sporer blogger, blogg poster og blogg kommentarer for en bruker på tvers "
-#~ "av en WPMU installasjon."
+#~ msgstr "Sporer blogger, blogginnlegg og bloggkommentarer for en bruker over en WPMU-installasjon."
 
 #~ msgid "bbPress Forums"
 #~ msgstr "bbPress Forumer"
@@ -5601,12 +5587,10 @@ msgstr ""
 #~ msgid ""
 #~ "Activates bbPress forum support within BuddyPress groups or any other "
 #~ "custom component."
-#~ msgstr ""
-#~ "Aktiverer bbPress forum support innad i BuddyPress grupper eller andre "
-#~ "tilpassede komponenter."
+#~ msgstr "Aktiverer støtte for bbPress-forum i BuddyPress-grupper eller andre tilpassede komponenter."
 
 #~ msgid "Allows the creation of friend connections between users."
-#~ msgstr "Tillater opprettelse av venne-forbindelser mellom brukere."
+#~ msgstr "Tillater opprettelse av venneforbindelser mellom brukere."
 
 #~ msgid "Let users create, join and participate in groups."
 #~ msgstr "La brukere opprette, bli med i og delta i grupper."
@@ -5659,7 +5643,7 @@ msgstr ""
 #~ "You must first install the BuddyPress template pack before choosing this "
 #~ "option"
 #~ msgstr ""
-#~ "Du må installere BuddyPress temapakke før du velger denne instillingen."
+#~ "Du må installere BuddyPress temapakke før du velger denne innstillingen."
 
 #~ msgid "Install Now"
 #~ msgstr "Installer nå"
@@ -5722,17 +5706,14 @@ msgstr ""
 #~ "bbPress forum integration in BuddyPress has been set up correctly. If you "
 #~ "are having problems you can <a href=\"%s\" title=\"Reinstall bbPress\">re-"
 #~ "install</a>"
-#~ msgstr ""
-#~ "Integrasjon for bbPress forum i BuddyPress har blitt satt opp korrekt. Om "
-#~ "du oppdager problemer kan du <a href=\"%s\" title=\"Reinstall bbPress"
-#~ "\">re-installere</a>"
+#~ msgstr "Integrasjon for bbPress forum i BuddyPress har blitt satt opp korrekt. Om du oppdager problemer kan du <a href=\"%s\" title=\"Reinstall bbPress\">ominstallere</a>"
 
 #~ msgid ""
 #~ "NOTE: The forums directory will only work if your bbPress tables are in "
 #~ "the same database as your WordPress tables. If you are not using an "
 #~ "existing bbPress install you can ignore this message."
 #~ msgstr ""
-#~ "NOTIS: Forum-katalogen vil kun virke om dine bbPress tabeller er i samme "
+#~ "NOTIS: Forumkatalogen vil kun virke om dine bbPress tabeller er i samme "
 #~ "database som dine WordPress tabeller. Om du ikke benytter en eksisterende "
 #~ "bbPress installasjon kan du se bort i fra denne meldingen."
 
@@ -5831,7 +5812,7 @@ msgstr ""
 #~ msgstr "Vis vennskapsforbindelser"
 
 #~ msgid "Show New Forum Topics"
-#~ msgstr "Vis nye forum-emner"
+#~ msgstr "Vis nye forumemner"
 
 #~ msgid "Show New Group Memberships"
 #~ msgstr "Vis nye gruppemedlemskaper"

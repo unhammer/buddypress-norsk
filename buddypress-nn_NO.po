@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2011-10-03 08:04+0200\n"
+"PO-Revision-Date: 2011-10-04 20:48+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
@@ -485,7 +485,6 @@ msgid "Activate %s"
 msgstr "Aktiver %s"
 
 #: bp-core/bp-core-filters.php:209 bp-core/bp-core-signup.php:542
-#, fuzzy
 msgid ""
 "Thanks for registering! To complete the activation of your account please "
 "click the following link:\n"
@@ -493,7 +492,7 @@ msgid ""
 "%s\n"
 "\n"
 msgstr ""
-"Takk for at du registrerte deg! Ver venleg og klikk følgjande link for å fullføra aktivering av kontoen din:\n"
+"Takk for at du registrerte deg! Ver venleg og klikk følgjande lenkje for å fullføra aktivering av kontoen din:\n"
 "\n"
 "%s\n"
 "\n"
@@ -560,46 +559,36 @@ msgid "Please check your email address."
 msgstr "Ver venleg og sjekk epostadressa di."
 
 #: bp-core/bp-core-signup.php:308
-#, fuzzy
 msgid "Sorry, that email address is not allowed!"
-msgstr "Orsak, emailadressen er allereie i bruk!"
+msgstr "Orsak, den epostadressa er ugyldig!"
 
 #: bp-core/bp-core-signup.php:313
-#, fuzzy
 msgid "Sorry, that username already exists!"
 msgstr "Orsak, brukarnamnet finst allereie!"
 
 #: bp-core/bp-core-signup.php:317
-#, fuzzy
 msgid "Sorry, that email address is already used!"
-msgstr "Orsak, emailadressen er allereie i bruk!"
+msgstr "Orsak, den epostadressa er allereie i bruk!"
 
 #: bp-core/bp-core-signup.php:352
-#, fuzzy
 msgid ""
 "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
 "href=\"mailto:%s\">webmaster</a> !"
-msgstr ""
-"<strong>Feil</strong>: Kunne ikkje registrera deg. Ver venleg og ta kontakt med "
-"<a href=\"mailto:%s\">webmaster</a>."
+msgstr "<strong>FEIL</strong>: Kunne ikkje registrera deg. Ver venleg og ta kontakt med <a href=\"mailto:%s\">nettredaktøren</a>."
 
 #: bp-core/bp-core-signup.php:437 bp-core/bp-core-signup.php:441
-#, fuzzy
 msgid "Invalid activation key"
 msgstr "Ugyldig aktiveringsnøkkel"
 
 #: bp-core/bp-core-signup.php:484
-#, fuzzy
 msgid "%s became a registered member"
 msgstr "%s vart ein registrert medlem"
 
 #: bp-core/bp-core-templatetags.php:184
-#, fuzzy
 msgid "Viewing member %1$s to %2$s (of %3$s active members)"
 msgstr "Ser på medlem %1$s til %2$s (av %3$s aktive medlemmar)"
 
 #: bp-core/bp-core-templatetags.php:186
-#, fuzzy
 msgid "Viewing member %1$s to %2$s (of %3$s members with friends)"
 msgstr "Ser på medlem %1$s til %2$s (av %3$s medlemmar med vener)"
 
@@ -608,7 +597,6 @@ msgid "Viewing member %1$s to %2$s (of %3$s members online)"
 msgstr "Ser på medlem %1$s til %2$s (av %3$s pålogga medlemmar)"
 
 #: bp-core/bp-core-templatetags.php:190
-#, fuzzy
 msgid "Viewing member %1$s to %2$s (of %3$s members)"
 msgstr "Ser på medlem %1$s til %2$s (av %3$s medlemmar)"
 
@@ -628,7 +616,6 @@ msgid "registered %s ago"
 msgstr "registrerte for %s sidan"
 
 #: bp-core/bp-core-templatetags.php:599
-#, fuzzy
 msgid "Options"
 msgstr "Val"
 
@@ -654,17 +641,14 @@ msgid "Jabber"
 msgstr "Jabber"
 
 #: bp-core/bp-core-templatetags.php:782
-#, fuzzy
 msgid "AOL Messenger"
 msgstr "AOL Messenger"
 
 #: bp-core/bp-core-templatetags.php:792
-#, fuzzy
 msgid "Yahoo Messenger"
 msgstr "Yahoo Messenger"
 
 #: bp-core/bp-core-templatetags.php:834
-#, fuzzy
 msgid "%1$s at %2$s"
 msgstr "%1$s ved %2$s"
 
@@ -679,9 +663,8 @@ msgid "Blog"
 msgstr "Blogg"
 
 #: bp-core/bp-core-templatetags.php:914 bp-core/bp-core-templatetags.php:916
-#, fuzzy
 msgid "%s Directory"
-msgstr "%s Katalog"
+msgstr "%s-katalog"
 
 #: bp-core/bp-core-templatetags.php:919
 #: bp-themes/bp-default/registration/register.php:14
@@ -713,22 +696,18 @@ msgid "Forums"
 msgstr "Forum"
 
 #: bp-core/bp-core-templatetags.php:1035 bp-themes/bp-default/header.php:75
-#, fuzzy
 msgid "Blogs"
 msgstr "Bloggar"
 
 #: bp-core/bp-core-templatetags.php:1213
-#, fuzzy
 msgid "Your Avatar"
 msgstr "Din avatar"
 
 #: bp-core/bp-core-templatetags.php:1286
-#, fuzzy
 msgid "a user"
 msgstr "ein brukar"
 
 #: bp-core/bp-core-cssjs.php:56
-#, fuzzy
 msgid "Are you sure?"
 msgstr "Er du sikker?"
 
@@ -737,7 +716,6 @@ msgid "group"
 msgstr ""
 
 #: bp-core/bp-core-classes.php:98 bp-activity/bp-activity-templatetags.php:877
-#, fuzzy
 msgid "groups"
 msgstr "grupper"
 
@@ -752,49 +730,41 @@ msgid "BuddyPress Settings"
 msgstr ""
 
 #: bp-core/bp-core-admin.php:36 bp-core/bp-core-admin.php:160
-#, fuzzy
 msgid "Settings Saved"
-msgstr "Innstellingar lagra"
+msgstr "Innstillingar lagra"
 
 #: bp-core/bp-core-admin.php:46
-#, fuzzy
 msgid "Base profile group name"
-msgstr "Basis profil gruppe-namn"
+msgstr "Namn på hovudprofilgruppe"
 
 #: bp-core/bp-core-admin.php:52
-#, fuzzy
 msgid "Full Name field name"
-msgstr "Fullt namn feltnamn"
+msgstr "Feltnamn for fullt namn"
 
 #: bp-core/bp-core-admin.php:58
-#, fuzzy
 msgid "Disable BuddyPress to WordPress profile syncing?"
-msgstr "Slå av BuddyPress til WordPress profil-synkronisering?"
+msgstr "Slå av profilsynkronisering frå BuddyPress til WordPress?"
 
 #: bp-core/bp-core-admin.php:66
 #, fuzzy
 msgid "Hide admin bar for logged out users?"
-msgstr "Gøyma admin-bar for utloggede brukarar?"
+msgstr "Gøym administratorraden for utlogga brukarar?"
 
 #: bp-core/bp-core-admin.php:73
-#, fuzzy
 msgid "Disable avatar uploads? (Gravatars will still work)"
-msgstr "Slå av høve for avatar-opplasting? (Gravatar vil framleis verka)"
+msgstr "Ikkje la brukarar lasta opp avatarar? (Gravatar vil framleis verka)"
 
 #: bp-core/bp-core-admin.php:80
-#, fuzzy
 msgid "Disable user account deletion?"
-msgstr "Slå av brukarkonto-sletting?"
+msgstr "Ikkje la brukarar sletta kontoane sine?"
 
 #: bp-core/bp-core-admin.php:88
-#, fuzzy
 msgid "Disable global forum directory?"
 msgstr "Slå av global forumkatalog?"
 
 #: bp-core/bp-core-admin.php:97
-#, fuzzy
 msgid "Disable activity stream commenting on blog and forum posts?"
-msgstr "Slå av aktivitetstraum-kommentering på blogg og forumpostar?"
+msgstr "Slå av aktivitetstraum-kommentering på blogg- og foruminnlegg?"
 
 #: bp-core/bp-core-admin.php:106
 msgid "Default User Avatar"
@@ -823,47 +793,35 @@ msgid "MonsterID (Generated)"
 msgstr ""
 
 #: bp-core/bp-core-admin.php:124 bp-core/bp-core-admin.php:239
-#, fuzzy
 msgid "Save Settings"
-msgstr "Lagre instillinger"
+msgstr "Lagra innstillingar"
 
 #: bp-core/bp-core-admin.php:156
-#, fuzzy
 msgid "BuddyPress Component Setup"
-msgstr "BuddyPress komponent-oppsett"
+msgstr "BuddyPress komponentoppsett"
 
 #: bp-core/bp-core-admin.php:166
-#, fuzzy
 msgid ""
 "By default, all BuddyPress components are enabled. You can selectively "
 "disable any of the components by using the form below. Your BuddyPress "
 "installation will continue to function, however the features of the disabled "
 "components will no longer be accessible to anyone using the site."
-msgstr ""
-"Som standard er alle BuddyPress komponentar aktivert. Du kan sjølv velja kva "
-"for av komponentane ved hjelp av skjemaet under. BuddyPress vil framdeles "
-"fungera, men høva til dei deaktiverte komponentane vil ikkje vera "
-"tilgjengeleg for dei som brukar sidan."
+msgstr "Som standard er alle BuddyPress-komponentar aktiverte. Du kan sjølv velja kva for komponentar du vil skru på eller av i skjemaet under. BuddyPress vil framleis fungera, men funksjonane til dei deaktiverte komponentane vil ikkje vera tilgjengeleg for dei som brukar sida."
 
 #: bp-core/bp-core-admin.php:174
-#, fuzzy
 msgid "Activity Streams"
 msgstr "Aktivitetstraumar"
 
 #: bp-core/bp-core-admin.php:174
-#, fuzzy
 msgid ""
 "Allow users to post activity updates and track all activity across the "
 "entire site."
-msgstr ""
-"Tillat brukarar å posta aktivitetoppdateringar og spor all aktivitet på "
-"tvers av heile siten."
+msgstr "Tillat brukarar å skriva aktivitetsoppdateringar, og spor all aktivitet over heile nettstaden."
 
 #: bp-core/bp-core-admin.php:176 bp-core/bp-core-admin.php:185
 #: bp-core/bp-core-admin.php:194 bp-core/bp-core-admin.php:203
 #: bp-core/bp-core-admin.php:212 bp-core/bp-core-admin.php:221
 #: bp-core/bp-core-admin.php:230
-#, fuzzy
 msgid "Enabled"
 msgstr "Aktivert"
 
@@ -871,49 +829,38 @@ msgstr "Aktivert"
 #: bp-core/bp-core-admin.php:195 bp-core/bp-core-admin.php:204
 #: bp-core/bp-core-admin.php:213 bp-core/bp-core-admin.php:222
 #: bp-core/bp-core-admin.php:231
-#, fuzzy
 msgid "Disabled"
 msgstr "Deaktivert"
 
 #: bp-core/bp-core-admin.php:183
 msgid "Blog Tracking"
-msgstr ""
+msgstr "Bloggsporing"
 
 #: bp-core/bp-core-admin.php:183
-#, fuzzy
 msgid ""
 "Tracks blogs, blog posts and blogs comments for a user across a WPMU "
 "installation."
-msgstr ""
-"Sporar bloggar, blogg postar og blogg kommentarar for ein brukar på tvers av "
-"ein WPMU installasjon."
+msgstr "Sporar bloggar, blogginnlegg og bloggkommentarar for ein brukar over ein WPMU-installasjon."
 
 #: bp-core/bp-core-admin.php:192
-#, fuzzy
 msgid "bbPress Forums"
-msgstr "bbPress Forum"
+msgstr "bbPress-forum"
 
 #: bp-core/bp-core-admin.php:192
-#, fuzzy
 msgid ""
 "Activates bbPress forum support within BuddyPress groups or any other custom "
 "component."
-msgstr ""
-"Aktiverer bbPress forum support innover i BuddyPress grupper eller andre "
-"tilpassa komponentar."
+msgstr "Aktiverer støtte for bbPress-forum i BuddyPress-grupper eller andre tilpassa komponentar."
 
 #: bp-core/bp-core-admin.php:201
-#, fuzzy
 msgid "Allows the creation of friend connections between users."
-msgstr "Tillèt skiping av venesamband mellom brukarar."
+msgstr "Tillèt oppretting av venesamband mellom brukarar."
 
 #: bp-core/bp-core-admin.php:210
-#, fuzzy
 msgid "Let users create, join and participate in groups."
 msgstr "La brukarar oppretta, verta med i og delta i grupper."
 
 #: bp-core/bp-core-admin.php:219
-#, fuzzy
 msgid "Private Messaging"
 msgstr "Private meldingar"
 
@@ -922,64 +869,53 @@ msgstr "Private meldingar"
 msgid ""
 "Let users send private messages to one another. Site admins can also send "
 "site-wide notices."
-msgstr "La brukarar senda private meldingar til andre. Site administratorar kan òg senda globale varsel."
+msgstr "La brukarar senda private meldingar til kvarandre. Administratorar kan òg senda globale varsel."
 
 #: bp-core/bp-core-admin.php:228
-#, fuzzy
 msgid "Extended Profiles"
-msgstr "Utvida profil"
+msgstr "Utvida profilar"
 
 #: bp-core/bp-core-admin.php:228
-#, fuzzy
 msgid "Activates customizable profiles and avatars for site users."
-msgstr "Aktiverer tilpassa profil og avatarer for site brukarar."
+msgstr "Aktiverer tilpassa profilar og avatarar for brukarane."
 
 #: bp-core/bp-core-settings.php:17 bp-groups.php:92
-#, fuzzy
 msgid "Settings"
-msgstr "Innstellingar"
+msgstr "Innstillingar"
 
 #: bp-core/bp-core-settings.php:21
-#, fuzzy
 msgid "General"
 msgstr "Generelt"
 
 #: bp-core/bp-core-settings.php:25 bp-core/bp-core-settings.php:176
-#, fuzzy
 msgid "Delete Account"
 msgstr "Slett konto"
 
 #: bp-core/bp-core-settings.php:69 bp-core.php:316
-#, fuzzy
 msgid "General Settings"
-msgstr "Generelle innstellingar"
+msgstr "Generelle innstillingar"
 
 #: bp-core/bp-core-settings.php:77 bp-core/bp-core-settings.php:138
-#, fuzzy
 msgid "Changes Saved."
-msgstr "Endringar vart lagra."
+msgstr "Endringane vart lagra."
 
 #: bp-core/bp-core-settings.php:83
 msgid "Your passwords did not match"
 msgstr ""
 
 #: bp-core/bp-core-settings.php:88
-#, fuzzy
 msgid "Account Email"
-msgstr "Konto Email"
+msgstr "Kontoepost"
 
 #: bp-core/bp-core-settings.php:91
-#, fuzzy
 msgid "Change Password <span>(leave blank for no change)</span>"
-msgstr "Endre passord <span>(la dette vera blankt for å ikkje endra)</span>"
+msgstr "Endra passord <span>(la dette vera blankt for å ikkje endra)</span>"
 
 #: bp-core/bp-core-settings.php:92
-#, fuzzy
 msgid "New Password"
 msgstr "Nytt passord"
 
 #: bp-core/bp-core-settings.php:93
-#, fuzzy
 msgid "Repeat New Password"
 msgstr "Gjenta nytt passord"
 
@@ -989,9 +925,8 @@ msgstr "Gjenta nytt passord"
 #: bp-themes/bp-default/groups/single/forum/edit.php:52
 #: bp-themes/bp-default/groups/single/admin.php:32
 #: bp-themes/bp-default/groups/single/admin.php:100
-#, fuzzy
 msgid "Save Changes"
-msgstr "Lagre endringane"
+msgstr "Lagra endringane"
 
 #: bp-core/bp-core-settings.php:130
 msgid "Notification Settings"
@@ -1010,22 +945,17 @@ msgstr "Send eit epostvarsel når: "
 msgid ""
 "WARNING: Deleting your account will completely remove ALL content associated "
 "with it. There is no way back, please be careful with this option."
-msgstr ""
-"ÅTVARING: Sletting av konto vil fjerne absolutt alt av innhald forbunde med "
-"han. Det er ingen veg tilbake, ver venleg og vêr forsiktig med dette høvet."
+msgstr "ÅTVARING: Om du slettar kontoen, vil absolutt alt av innhald forbunde med han bli fjerna. Det er ingen veg tilbake, ver venleg og ver forsiktig med dette valet."
 
 #: bp-core/bp-core-settings.php:188
-#, fuzzy
 msgid "I understand the consequences of deleting my account."
 msgstr "Eg forstår konsekvensen ved å sletta kontoen min."
 
 #: bp-core/bp-core-settings.php:191
-#, fuzzy
 msgid "Delete My Account"
 msgstr "Slett kontoen min"
 
 #: bp-core.php:309 bp-core.php:310
-#, fuzzy
 msgid "BuddyPress"
 msgstr "BuddyPress"
 
@@ -1034,34 +964,26 @@ msgid "Component Setup"
 msgstr ""
 
 #: bp-core.php:362 bp-xprofile.php:172
-#, fuzzy
 msgid "Profile"
 msgstr "Profil"
 
 #: bp-core.php:373 bp-groups/bp-groups-templatetags.php:419 bp-xprofile.php:177
-#, fuzzy
 msgid "Public"
 msgstr "Offentleg"
 
 #: bp-core.php:479
-#, fuzzy
 msgid "User marked as spammer. Spam users are visible only to site admins."
-msgstr ""
-"Nytter markert som spammer. Spam-brukarar er synleg berre for site "
-"administratorar."
+msgstr "Brukar markert som spammar. Spam-brukarar er berre synlege for administratorar."
 
 #: bp-core.php:481
-#, fuzzy
 msgid "User removed as spammer."
-msgstr "Utestengelse av nytter vart oppheva."
+msgstr "Brukaren er ikkje lenger merka som spammar."
 
 #: bp-core.php:515
-#, fuzzy
 msgid "%s has been deleted from the system."
 msgstr "%s har vorte sletta frå systemet."
 
 #: bp-core.php:517
-#, fuzzy
 msgid "There was an error deleting %s from the system. Please try again."
 msgstr "Det oppstod ein feil ved sletting av %s. Ver venleg og prøv igjen"
 
@@ -1122,18 +1044,15 @@ msgid "seconds"
 msgstr "sekund"
 
 #: bp-core.php:1445
-#, fuzzy
 msgid "sometime"
 msgstr "ein gong"
 
 #: bp-core.php:1473
-#, fuzzy
 msgctxt "Separator in time since"
 msgid ","
 msgstr ","
 
 #: bp-core.php:1528
-#, fuzzy
 msgid "not recently active"
 msgstr "ikkje aktiv i det siste"
 
@@ -1144,14 +1063,11 @@ msgid ""
 msgstr ""
 
 #: bp-core.php:2067
-#, fuzzy
 msgid ""
 "<strong>BuddyPress is almost ready</strong>. You must <a href=\"%s\">update "
 "your permalink structure</a> to something other than the default for it to "
 "work."
-msgstr ""
-"<strong>BuddyPress er nesten klår</strong>. Du må <a href=\"%s\">oppdatera "
-"permalenke-strukturen</a> til noko anna enn default for at det skal verka."
+msgstr "<strong>BuddyPress er nesten klår</strong>. Du må <a href=\"%s\">oppdatera permalenkjestrukturen</a> til noko anna enn standarden for at det skal verka."
 
 #: bp-core.php:2076
 msgid ""
@@ -1166,7 +1082,6 @@ msgstr ""
 #: bp-friends/bp-friends-templatetags.php:20
 #: bp-groups/bp-groups-templatetags.php:1825
 #: bp-groups/bp-groups-templatetags.php:1842
-#, fuzzy
 msgid "Recently Active"
 msgstr "Nyleg aktiv"
 
@@ -1174,34 +1089,28 @@ msgstr "Nyleg aktiv"
 #: bp-friends/bp-friends-templatetags.php:26
 #: bp-groups/bp-groups-templatetags.php:1830
 #: bp-groups/bp-groups-templatetags.php:1857
-#, fuzzy
 msgid "Alphabetically"
 msgstr "Alfabetisk"
 
 #: bp-friends/bp-friends-templatetags.php:40
-#, fuzzy
 msgid "%s's Friends"
 msgstr "%ss vener"
 
 #: bp-friends/bp-friends-templatetags.php:40
-#, fuzzy
 msgid "See All"
 msgstr "Sjå alle"
 
 #: bp-friends/bp-friends-templatetags.php:53
-#, fuzzy
 msgid "You haven't added any friend connections yet."
 msgstr "Du har ikkje lagt til nokon vener enno."
 
 #: bp-friends/bp-friends-templatetags.php:53
-#, fuzzy
 msgid "%s hasn't created any friend connections yet."
 msgstr "%s har ikkje oppretta nokon venesamband enno."
 
 #: bp-friends/bp-friends-templatetags.php:93
-#, fuzzy
 msgid "There aren't enough site members to show a random sample just yet."
-msgstr "Det er ikkje nok site-medlemmar for å vise eit tilfeldig døme."
+msgstr "Det er ikkje nok medlemmar for å vise eit tilfeldig utval enno."
 
 #: bp-friends/bp-friends-templatetags.php:103
 #, fuzzy
@@ -1525,7 +1434,7 @@ msgstr "Rediger detaljar"
 #: bp-groups/bp-groups-templatetags.php:929
 #, fuzzy
 msgid "Group Settings"
-msgstr "Gruppeinnstellingar"
+msgstr "Gruppeinnstillingar"
 
 #: bp-groups/bp-groups-templatetags.php:930
 #: bp-groups/bp-groups-templatetags.php:1883 bp-groups.php:179
@@ -2249,7 +2158,7 @@ msgstr "Viser innlegg %1$s til %2$s (%3$s totale innlegg)"
 #: bp-forums/bp-forums-admin.php:12
 #, fuzzy
 msgid "Settings Saved."
-msgstr "Innstellingar lagra."
+msgstr "Innstillingar lagra."
 
 #: bp-forums/bp-forums-admin.php:22
 #, fuzzy
