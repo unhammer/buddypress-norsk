@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress \n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-10-04 22:45+0200\n"
+"PO-Revision-Date: 2011-10-04 22:52+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -43,9 +43,8 @@ msgid "New post published"
 msgstr ""
 
 #: bp-blogs/bp-blogs-activity.php:19
-#, fuzzy
 msgid "New post comment posted"
-msgstr "Nytt gruppeforuminnlegg"
+msgstr ""
 
 #: bp-blogs/bp-blogs-buddybar.php:37 bp-core/bp-core-adminbar.php:117
 #: bp-core/bp-core-buddybar.php:481
@@ -67,9 +66,8 @@ msgid "Manage Comments"
 msgstr "Handsam kommentarar"
 
 #: bp-blogs/bp-blogs-buddybar.php:53
-#, fuzzy
 msgid "Create a Site!"
-msgstr "Opprett ein konto"
+msgstr "Opprett ein nettstad!"
 
 #: bp-blogs/bp-blogs-template.php:135
 msgctxt "Blog pagination previous text"
@@ -77,15 +75,13 @@ msgid "&larr;"
 msgstr ""
 
 #: bp-blogs/bp-blogs-template.php:136
-#, fuzzy
 msgctxt "Blog pagination next text"
 msgid "&rarr;"
-msgstr "Logg ut &rarr;"
+msgstr "&rarr;"
 
 #: bp-blogs/bp-blogs-template.php:258
-#, fuzzy
 msgid "Viewing site %1$s to %2$s (of %3$s sites)"
-msgstr "Viser objekt %1$s til %2$s (av %3$s objekt)"
+msgstr "Viser nettstad %1$s til %2$s (av %3$s nettstader)"
 
 #: bp-blogs/bp-blogs-template.php:282
 #: bp-activity/bp-activity-template.php:1000
@@ -99,9 +95,8 @@ msgstr ""
 #: bp-themes/bp-default/forums/single/forum-header.php:13
 #: bp-themes/bp-default/groups/groups-loop.php:47
 #: bp-themes/bp-default/groups/single/group-header.php:42
-#, fuzzy
 msgid "active %s"
-msgstr "aktiv for %s sidan"
+msgstr "aktiv %s"
 
 #: bp-blogs/bp-blogs-template.php:357
 msgid "Latest Post: %s"
@@ -158,9 +153,8 @@ msgstr ""
 "vel omhyggelig!)"
 
 #: bp-blogs/bp-blogs-template.php:479
-#, fuzzy
 msgid "Site Title:"
-msgstr "Felttittel"
+msgstr "Nettstadtittel"
 
 #: bp-blogs/bp-blogs-template.php:490
 msgid "Privacy:"
@@ -168,13 +162,10 @@ msgstr "Personvern:"
 
 #: bp-blogs/bp-blogs-template.php:491
 #: bp-themes/bp-default/registration/register.php:202
-#, fuzzy
 msgid ""
 "I would like my site to appear in search engines, and in public listings "
 "around this network."
-msgstr ""
-"Eg ynskjer at bloggen min dukkar opp i søkjemotorar som Google og "
-"Technorati, og i offentlege lister på denne nettstaden."
+msgstr "Eg ynskjer at nettstaden min dukkar opp i søkjemotorar, og i offentlege lister på denne nettstaden."
 
 #: bp-blogs/bp-blogs-template.php:495 bp-core/admin/bp-core-admin.php:111
 #: bp-core/admin/bp-core-admin.php:121 bp-core/admin/bp-core-admin.php:129
@@ -211,14 +202,12 @@ msgstr ""
 #: bp-blogs/bp-blogs-template.php:566 bp-core/bp-core-filters.php:318
 #: bp-themes/bp-default/blogs/index.php:23
 #: bp-themes/bp-default/blogs/create.php:21
-#, fuzzy
 msgid "Create a Site"
-msgstr "Opprett ei gruppe"
+msgstr "Opprett ein nettstad"
 
 #: bp-blogs/bp-blogs-template.php:579
-#, fuzzy
 msgid "%s's Sites"
-msgstr "%ss vener"
+msgstr "Nettstadene til %s"
 
 #: bp-blogs/bp-blogs-template.php:580
 msgid "%s's Recent Posts"
@@ -237,42 +226,36 @@ msgstr "Søk"
 
 #: bp-blogs/bp-blogs-template.php:629 bp-blogs/bp-blogs-template.php:630
 #: bp-core/bp-core-adminbar.php:124
-#, fuzzy
 msgid "Visit Site"
-msgstr "Vitj"
+msgstr "Vitj nettstad"
 
 #: bp-blogs/bp-blogs-functions.php:115
-#, fuzzy
 msgid "%s created the site %s"
-msgstr "%s oppretta gruppa %s"
+msgstr "%s oppretta nettstaden %s"
 
 #: bp-blogs/bp-blogs-functions.php:179
-#, fuzzy
 msgid "%1$s wrote a new post, %2$s, on the site %3$s"
-msgstr "%s skreiv eit nytt blogginnlegg: %s"
+msgstr ""
 
 #: bp-blogs/bp-blogs-functions.php:181
-#, fuzzy
 msgid "%1$s wrote a new post, %2$s"
-msgstr "%s skreiv eit nytt blogginnlegg: %s"
+msgstr "%1$s skreiv eit nytt innlegg, %2$s"
 
 #: bp-blogs/bp-blogs-functions.php:264
 msgid "%1$s commented on the post, %2$s, on the site %3$s"
 msgstr ""
 
 #: bp-blogs/bp-blogs-functions.php:266
-#, fuzzy
 msgid "%1$s commented on the post, %2$s"
-msgstr "%s oppretta gruppa %s"
+msgstr ""
 
 #: bp-blogs/bp-blogs-widgets.php:25
 msgid "Recent Networkwide Posts"
 msgstr ""
 
 #: bp-blogs/bp-blogs-widgets.php:68
-#, fuzzy
 msgid "Sorry, there were no posts found. Why not write one?"
-msgstr "Orsak, fann ingen forumemne."
+msgstr "Orsak, fann ingen innlegg. Kva med å skriva eit?"
 
 #: bp-blogs/bp-blogs-widgets.php:88
 msgid "Max posts to show:"
@@ -321,41 +304,36 @@ msgid "Title:"
 msgstr "Tittel:"
 
 #: bp-core/bp-core-widgets.php:123
-#, fuzzy
 msgid "Max members to show:"
 msgstr "Maks mengd medlemmar å visa:"
 
 #: bp-core/bp-core-widgets.php:126
-#, fuzzy
 msgid "Default members to show:"
-msgstr "Maks mengd medlemmar å visa:"
+msgstr "Standardmengd medlemmar å visa:"
 
 #: bp-core/bp-core-widgets.php:148
-#, fuzzy
 msgid "Avatars of users who are currently online"
-msgstr "Det er ingen pålogga brukarar"
+msgstr "Avatarar til brukarar som er pålogga for augneblunken"
 
 #: bp-core/bp-core-widgets.php:149
 msgid "Who's Online Avatars"
-msgstr "Avatarar til dei som er pålogga"
+msgstr "Pålogga avatarar"
 
 #: bp-core/bp-core-widgets.php:173
 msgid "There are no users currently online"
 msgstr "Det er ingen pålogga brukarar"
 
 #: bp-core/bp-core-widgets.php:192
-#, fuzzy
 msgid "Who's Online"
-msgstr "Avatarar til dei som er pålogga"
+msgstr "Kven er pålogga"
 
 #: bp-core/bp-core-widgets.php:203 bp-core/bp-core-widgets.php:272
 msgid "Max Members to show:"
 msgstr "Maks mengd medlemmar å visa:"
 
 #: bp-core/bp-core-widgets.php:217
-#, fuzzy
 msgid "Avatars of recently active members"
-msgstr "Ingen aktive medlemmar i det siste"
+msgstr "Avatarar til nyleg aktive medlemmar"
 
 #: bp-core/bp-core-widgets.php:218
 msgid "Recently Active Member Avatars"
@@ -370,24 +348,20 @@ msgid "There were no members found, please try another filter."
 msgstr "Fann ingen medlemmar, ver venleg og prøv eit anna filter."
 
 #: bp-core/bp-core-adminbar.php:75
-#, fuzzy
 msgid "Admin Dashboard"
 msgstr "Kontrollpult"
 
 #: bp-core/bp-core-adminbar.php:86
-#, fuzzy
 msgid "Network Dashboard"
-msgstr "Kontrollpult"
+msgstr "Nettverkskontrollpult"
 
 #: bp-core/bp-core-adminbar.php:112
-#, fuzzy
 msgid "Blavatar"
-msgstr "Avatar"
+msgstr "Blavatar"
 
 #: bp-core/bp-core-adminbar.php:142
-#, fuzzy
 msgid "Comments %s"
-msgstr "Kommentarar: %s"
+msgstr "Kommentarar %s"
 
 #: bp-core/bp-core-adminbar.php:156
 msgid "Appearance"
@@ -414,9 +388,8 @@ msgid "Header"
 msgstr ""
 
 #: bp-core/bp-core-adminbar.php:207
-#, fuzzy
 msgid "%d WordPress Update"
-msgstr "Legg inn oppdatering"
+msgstr "%d WordPress-oppdatering"
 
 #: bp-core/bp-core-adminbar.php:209
 msgid "%d Plugin Update"
@@ -431,17 +404,15 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: bp-core/bp-core-adminbar.php:216
-#, fuzzy
 msgid "Updates %s"
-msgstr "Oppdatering lagt inn!"
+msgstr "Oppdateringar %s"
 
 #: bp-core/admin/bp-core-schema.php:208
 msgctxt "First XProfile group name"
 msgid "Base"
-msgstr ""
+msgstr "Hovud"
 
 #: bp-core/admin/bp-core-schema.php:209
-#, fuzzy
 msgctxt "XProfile fullname field name"
 msgid "Name"
 msgstr "Namn"
@@ -456,16 +427,14 @@ msgstr ""
 #: bp-core/admin/bp-core-admin.php:32 bp-core/admin/bp-core-admin.php:251
 #: bp-core/admin/bp-core-update.php:72 bp-core/admin/bp-core-update.php:88
 #: bp-core/admin/bp-core-update.php:219 bp-core/bp-core-functions.php:251
-#, fuzzy
 msgid "Components"
-msgstr "Skriv"
+msgstr "Komponentar"
 
 #: bp-core/admin/bp-core-admin.php:36 bp-core/admin/bp-core-admin.php:293
 #: bp-core/admin/bp-core-update.php:73 bp-core/admin/bp-core-update.php:89
 #: bp-core/admin/bp-core-update.php:223 bp-core/bp-core-functions.php:252
-#, fuzzy
 msgid "Pages"
-msgstr "Meldingar"
+msgstr "Sider"
 
 #: bp-core/admin/bp-core-admin.php:40 bp-core/admin/bp-core-admin.php:91
 #: bp-core/bp-core-functions.php:253 bp-settings/bp-settings-loader.php:15
@@ -517,9 +486,8 @@ msgid "Save Settings"
 msgstr "Lagra innstillingar"
 
 #: bp-core/admin/bp-core-admin.php:310
-#, fuzzy
 msgid "Save All"
-msgstr "Sjå alle"
+msgstr "Lagra alle"
 
 #: bp-core/admin/bp-core-admin.php:342 bp-xprofile/bp-xprofile-loader.php:25
 msgid "Extended Profiles"
@@ -532,7 +500,6 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:346
-#, fuzzy
 msgid "Account Settings"
 msgstr "Kontodetaljar"
 
@@ -543,9 +510,8 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:350 bp-friends/bp-friends-loader.php:24
-#, fuzzy
 msgid "Friend Connections"
-msgstr "Vis venskapsamband"
+msgstr "Venskapsamband"
 
 #: bp-core/admin/bp-core-admin.php:351
 msgid ""
@@ -576,9 +542,8 @@ msgid ""
 msgstr ""
 
 #: bp-core/admin/bp-core-admin.php:362 bp-groups/bp-groups-loader.php:26
-#, fuzzy
 msgid "User Groups"
-msgstr "Filtrer grupper"
+msgstr "Brukargrupper"
 
 #: bp-core/admin/bp-core-admin.php:363
 msgid ""
@@ -4918,18 +4883,16 @@ msgid "My Sites <span>%s</span>"
 msgstr ""
 
 #: bp-themes/bp-default/blogs/blogs-loop.php:90
-#, fuzzy
 msgid "Sorry, there were no sites found."
-msgstr "Orsak, fann ingen forumemne."
+msgstr "Orsak, fann ingen nettstader"
 
 #: bp-themes/bp-default/blogs/create.php:32
 msgid "Site registration is currently disabled"
 msgstr ""
 
 #: bp-themes/bp-default/forums/index.php:23
-#, fuzzy
 msgid "Forums Directory"
-msgstr "Gruppekatalog"
+msgstr ""
 
 #: bp-themes/bp-default/forums/index.php:40
 #, fuzzy
