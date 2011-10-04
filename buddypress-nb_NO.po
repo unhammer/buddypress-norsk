@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Norsk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-09-20 22:31:12+00:00\n"
-"PO-Revision-Date: 2011-10-04 22:06+0200\n"
+"PO-Revision-Date: 2011-10-04 23:22+0200\n"
 "Last-Translator: Øyvind Lasse Høysæter <oyvind@hoysater.no>\n"
 "Language-Team: http://silft.com <oyvind@hoysater.no>\n"
 "Language: \n"
@@ -4543,7 +4543,7 @@ msgstr "Send svar"
 #: bp-themes/bp-default/members/single/friends/requests.php:37
 #: bp-themes/bp-default/groups/single/admin.php:318
 msgid "Accept"
-msgstr "Akksepter"
+msgstr "Aksepter"
 
 #: bp-themes/bp-default/members/single/groups/invites.php:24
 #: bp-themes/bp-default/members/single/friends/requests.php:38
